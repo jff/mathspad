@@ -1,0 +1,19 @@
+
+TOPSRCDIR = @top_srcdir@
+TOPOBJ    = .
+SRCDIR    = @srcdir@
+VPATH     = @srcdir@
+
+
+DATAFILES = emacs.mpk define.mpk demo.mpk dutch.mpk dutch.msg \
+		find.mpk mathpad.trans.mpk menus.mpk \
+		pvs.mpk pvsmenu.mpk sol-im.mpk symbols.mpk \
+		unicode.mpk MAG.mpk
+datasubdir = /mpk
+
+
+@MAKE_RULES@
+
+
+all: 
+

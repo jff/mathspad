@@ -1,0 +1,340 @@
+Dependencies for library documents
+
+
+editor.o library
+	get_ascii_node, get_findrep, get_node
+
+templates library
+	get_stencil, get_version
+
+unicode library
+	FilenametoUstr, Ustrlen, UstrtoFilename, UstrtoLocale, umap_load_file
+
+util library
+	concat, concat_in, myfree, mymalloc, myrealloc, translate
+
+windows library
+	make_defaults
+
+Dependencies for library editor.o
+
+
+documents library
+	put_end_struct, put_struct
+
+c++ library
+	__builtin_new
+
+templates library
+	which_version
+
+treeedit library
+	too much to mention
+
+windows library
+	more_keys, saved_chars, switch_reverse, switch_thick, switch_thin
+
+Dependencies for library int
+
+
+language library
+	define_function, define_operator, make_prototype
+
+unicode library
+	UstrtoLocale
+
+Dependencies for library keyboard
+
+
+language library
+	calculate_lazy_expression, eval_sequence
+
+X11 library
+	XKeysymToString, XLookupString,
+	XQueryPointer, XRefreshKeyboardMapping, XStringToKeysym
+
+unicode library
+	LocaletoUstr, Ustrcmp, Ustrcpy, Ustrlen, Ustrncpy, umap_load_file
+
+util library
+	myfree, mymalloc
+
+Dependencies for library language
+
+
+keyboard library
+	clear_keymap, define_keyrange, define_keysequence,
+	get_map, handle_key, parse_key, push_keymap
+
+dl library
+	dlclose, dlerror, dlopen, dlsym
+
+unicode library
+	LocaletoUstr, Ustrcmp, Ustrcpy, Ustrdup, Ustrlen, UstrtoFilename
+
+util library
+	fx_add, fx_clear, fx_copy, int_cmp, myfree,
+	mymalloc, myrealloc, set_translation
+
+Dependencies for library markup
+
+
+unicode library
+	UTFtoUstr, font_change_attribute, font_get_name, uctype
+
+util library
+	mymalloc, set_string_size
+
+Dependencies for library output
+
+
+documents library
+	latex_line_unit, latex_side, latex_space_unit, latex_tab_unit
+
+unicode library
+	UstrtoLocale
+
+util library
+	myfree, mymalloc
+
+windows library
+	char_latex, close_tabbing, font_closetex, font_openmathtex,
+	font_opentexttex, get_default_thinspace, get_display_delta,
+	open_tabbing, out_char, out_char_bold, out_char_string,
+	output_mode, set_default_thinspace, set_display_delta
+
+Dependencies for library string
+
+
+language library
+	define_function, define_operator, define_program_variable,
+	make_prototype
+
+system library
+	printf
+
+unicode library
+	Ustrcmp, Ustrcpy, Ustrlen, Ustrncpy, UstrtoLocale
+
+util library
+	mymalloc
+
+Dependencies for library templates
+
+
+documents library
+	cleanup_filestack, get_String, get_string, notationdir,
+	pop_hidden, program_notationdir, push_hidden, put_Char,
+	put_String, put_char, put_end_struct, put_filecode,
+	put_integer, put_struct, read_file, set_file, unset_file
+
+unicode library
+	Ultostr, Ustrcat, Ustrcmp, Ustrcpy, Ustrlen, Ustrncat,
+	Ustrncpy, Ustrrchr, UstrtoFilename
+
+util library
+	begins_with, concat, concat_in, failure, fx_add, fx_clear,
+	fx_contains, fx_init, fx_remove, fx_switch, int_cmp,
+	myfree, mymalloc, myrealloc, open_dirfile,
+	pop_int, push_int, remove_file, remove_int,
+	search_through_dirs, skip_fontpart, strip_name,
+	translate, user_id
+
+windows library
+	message, message2
+
+Dependencies for library treeedit
+
+
+documents library
+	oldtonew, pop_hidden, push_hidden, put_Char,
+	put_char, put_end_struct, put_struct
+
+editor.o library
+	findwindow, killnode, lastkilled, miniwindow,
+	ops, ps, replacewindow, scratchwindow, ss, ts, use_xor
+
+output library
+	out_latex_char, tex_code, tex_to_mode
+
+c++ library
+	__builtin_delete, __builtin_new
+
+templates library
+	load_stencil, lock_stencil, match_format_or_make,
+	position, save_stencil, stencil_position_left,
+	stencil_position_right, unlock_stencil, which_notation,
+	which_version, which_version_nr
+
+unicode library
+	Ustrlen
+
+util library
+	charstrlen, myfree, mymalloc, myrealloc, translate
+
+windows library
+	buffer_set_number_of_lines, clear_to_end_of_page,
+	close_display, close_node, detect_margin,
+	edit_set_number_of_lines, find_set_number_of_lines,
+	line_height, message, move_content_down, move_content_up,
+	next_id_font, open_display, open_node, out_char, out_cursor,
+	out_index, out_text_delim, put_mark, set_default_thinspace,
+	set_display_delta, set_drawstyle, set_italic,
+	set_output_window, set_search_func, set_smart_height,
+	set_tab_stack, set_y, switch_reverse, switch_thick,
+	switch_thin, switch_visible, tab_equal, tab_lock,
+	tab_unlock, thinspace, unset_output_window, where_x, where_y
+
+Dependencies for library unicode
+
+
+X11 library
+	XLoadQueryFont
+
+util library
+	close_file, destroy_pathinfo, file_size, make_pathinfo,
+	myfree, mymalloc, myrealloc, open_file
+
+Dependencies for library util
+
+
+unicode library
+	FilenametoUstr, LocaletoUstr, Ustrcmp, Ustrcpy,
+	Ustrlen, Ustrrchr, UstrtoFilename, UstrtoLocale, uctype
+
+Dependencies for library windows
+
+
+documents library
+	arguments, buffer_iconized, buffer_is_open, cleanup_filestack,
+	default_iconized, default_is_open, edit_iconized, edit_is_open,
+	find_iconized, find_is_open, fontfile, help_dirs, helpname,
+	homedir, keypath, latex_line_unit, latex_side, latex_space_unit,
+	latex_tab_unit, latexdir, line_space, menu_iconized, menu_is_open,
+	notadef_iconized, notadef_is_open, notation_iconized,
+	notation_is_open, notation_precedence, notationdir,
+	nr_help_dirs, number_of_arguments, progname, program_dir,
+	program_keypath, program_notationdir, put_filecode, read_file,
+	remark_iconized, remark_is_open, screen_space, screen_tab,
+	set_file, symbol_iconized, symbol_is_open, system_init,
+	textdots, unset_file, userdir, wait_time
+
+editor.o library
+	append_editwindow, append_next_kill, append_structure, apply,
+	backward_char, backward_kill_line, backward_kill_word,
+	backward_line, backward_remove_char, backward_word,
+	begin_of_buffer, begin_of_line, check_find, check_find_replace,
+	cleanup_nodestack, clear_parens, clear_stack,
+	clear_stack_and_use, clear_tab_positions, clear_window,
+	close_editwindow, close_findwindow, close_replacewindow,
+	close_scratchwindow, closeparen_insert, commute, copy_region,
+	dbl_click, decrease_spacing, display_left, display_right,
+	distribute, down, editwindow_line, editwindow_topto,
+	end_of_buffer, end_of_line, factorise, find_backward_stencil,
+	find_backward_string, find_new_on_stack, find_next_on_stack,
+	find_prev_on_stack, find_replace, find_replace_stencil,
+	find_stencil, find_string, find_tree, findnext_replace,
+	findnext_replace_stencil, findnext_stencil, findnext_string,
+	findprev_stencil, findprev_string, findwrap_backward_stencil,
+	findwrap_backward_string, findwrap_stencil, findwrap_string,
+	forward_char, forward_line, forward_remove_char, forward_word,
+	goto_latex_line, include_editwindow, include_selection,
+	increase_spacing, insert_char, insert_disp, insert_expr,
+	insert_hard_newline, insert_id, insert_newline, insert_notation,
+	insert_op, insert_rtab, insert_string, insert_symbol,
+	insert_text, insert_var, join_selections, kill_line,
+	kill_region, kill_word, latex_all_parens, latex_editwindow,
+	latex_selection, latex_text_only, line_number, load_editwindow,
+	lower_region, make_list_insert, mouse_down, mouse_move, mouse_up,
+	move_to_center, new_version, next_node_insert, next_node_or_insert,
+	old_include_editwindow, old_load_editwindow, open_editwindow,
+	open_findwindow, open_miniwindow, open_replacewindow,
+	open_scratchwindow, openparen_insert, ps_id_font, put_findrep,
+	raise_node, recenter, redraw_window, remove_double_chars,
+	remove_find_stack, remove_region, rename_id, replace_all,
+	replace_all_notation, replace_all_tree, replace_notation,
+	replace_string, replace_tree, reset_spacing, resize_window,
+	save_editwindow, scroll_down, scroll_up, set_index_nr, set_parens,
+	ss_notation, stack_position, swap_region, swap_selections,
+	switch_parens, transpose_chars, transpose_words, unset_select,
+	up, update_selections, use_stack, window_changed, window_empty,
+	word_wrap_selection, word_wrap_window, yank
+
+keyboard library
+	convert_event, get_map, handle_key, keyboard_init, pop_keymap,
+	pressedkey, print_key, push_keymap, push_temporary_keymap
+
+language library
+	calculate_lazy_expression, define_function, define_program_variable,
+	eval_sequence, lex_open_file, make_prototype, parse_input,
+	popup_add_line, popup_define, popup_pinable, variable_init
+
+output library
+	out_latex_char, pop_math_pref, push_math_pref, tex_close_proof,
+	tex_mode, tex_open_proof, tex_placeholders, tex_set_file,
+	tex_set_string, tex_unset
+
+X11 library
+	XAllocColor, XAllocColorCells, XBell, XChangeProperty,
+	XChangeWindowAttributes, XCheckMaskEvent, XClearArea,
+	XClearWindow, XCloseDisplay, XConvertSelection, XCopyArea,
+	XCreateBitmapFromData, XCreateColormap, XCreateFontCursor,
+	XCreateGC, XCreateSimpleWindow, XCreateWindow, XDeleteProperty,
+	XDestroyWindow, XDisplayName, XDrawLine, XDrawLines,
+	XDrawRectangle, XDrawString, XDrawText16, XEventsQueued,
+	XFetchBytes, XFillPolygon, XFillRectangle, XFlush, XFree,
+	XFreeColors, XFreeFontPath, XFreeGC, XGetErrorText,
+	XGetFontPath, XGetGeometry, XGetSelectionOwner, XGetVisualInfo,
+	XGetWindowProperty, XInternAtom, XMapSubwindows, XMapWindow,
+	XMaxRequestSize, XMoveWindow, XNextEvent, XOpenDisplay,
+	XParseColor, XPeekEvent, XQueryPointer, XRaiseWindow,
+	XRefreshKeyboardMapping, XResizeWindow, XSendEvent,
+	XSetBackground, XSetCommand, XSetErrorHandler, XSetFont,
+	XSetFontPath, XSetForeground, XSetIOErrorHandler,
+	XSetSelectionOwner, XSetTransientForHint, XSetWMIconName,
+	XSetWMName, XSetWMNormalHints, XSetWMProperties, XSetWMProtocols,
+	XStoreColors, XStringListToTextProperty, XUnmapWindow,
+	XVisualIDFromVisual,
+
+pvs.o library
+	pvs_add_keyword, pvs_after_init, pvs_check_hint, pvs_context_dir,
+	pvs_hint_file, pvs_in_checker, pvs_lemma_name, pvs_start,
+
+templates library
+	add_file_ref, add_notation, add_version, auto_save_window,
+	changed_notation, cleanup_stencilstack, clear_file_ref,
+	clear_notation_window, destroy_version, edit_fnr,
+	free_notation_window, get_next_filename, get_notation_dirname,
+	get_notation_filename, get_notation_kind, get_notation_nr,
+	get_notation_number, kind_description, last_window,
+	load_notation_filenames, load_notation_window, make_size_version,
+	maximize_version, minimize_version, move_nota_left,
+	move_nota_right, new_notation_window, new_number, nnr_vnr2innr,
+	notation_not_saved, notation_with_name, notation_with_number,
+	notatype_init, nr_visible, remove_double_file,
+	remove_double_template, remove_multiple_files, remove_notation,
+	remove_version, rename_notation_window, save_notation_window,
+	saved_notation_file, set_change_function, use_file_nr,
+	view_notation_filenames, which_notation, which_version,
+	which_version_nr
+
+treeedit library
+	move_selection
+
+unicode library
+	LocaletoUstr, UConvLoadDatabase, Ultostr, Ustrcat, Ustrcmp,
+	Ustrcpy, Ustrdup, Ustrlen, Ustrncat, Ustrncmp, Ustrncpy,
+	Ustrrchr, UstrtoFilename, UstrtoLocale, Ustrtol,
+	character_info, font_change_attribute, font_get_attribute,
+	font_get_attributes, font_get_name, font_load_config,
+	font_set_attribute, font_set_attributes, font_set_system_data,
+	uctype, ucvalue, unitype_init
+
+util library
+	begins_with, charstrcpy, charstrlen, concat, concat_in,
+	failure, free_fstate, free_int, fstate_check, fx_add,
+	fx_clear, fx_contains, fx_init, get_currentwd, group_id,
+	int_cmp, is_directory, make_fstate, myfree, mymalloc,
+	open_dirfile, pop_int, push_int, read_dir_contents,
+	remove_file, search_through_dirs, standard_dir, strip_name,
+	translate, user_id

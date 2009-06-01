@@ -1,0 +1,5 @@
+#!/bin/sh
+cd `dirname $OUTPUTFILE`
+TEXINPUTS=`echo ".:$TEXINPUTS:${mathpad}latex:" | sed 's#::#:#g'`
+export TEXINPUTS
+latex '\nonstopmode{}\input '`basename $OUTPUTFILE` 2>&1 | xpipein -window $1&

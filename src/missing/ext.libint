@@ -1,0 +1,21 @@
+
+
+language/.libs/libint.so.0.0.0:
+
+[Index]   Value      Size    Type  Bind  Other Shndx   Name
+
+[92]	|         0|       0|NOTY |GLOB |0    |UNDEF  |.div
+[83]	|         0|       0|NOTY |GLOB |0    |UNDEF  |.rem
+[82]	|         0|       0|NOTY |GLOB |0    |UNDEF  |.umul
+[86]	|         0|       0|NOTY |GLOB |0    |UNDEF  |UstrtoLocale
+[84]	|     70600|       0|OBJT |GLOB |0    |9      |_DYNAMIC
+[81]	|     70360|       0|OBJT |GLOB |0    |8      |_GLOBAL_OFFSET_TABLE_
+[89]	|     70712|       0|OBJT |GLOB |0    |10     |_PROCEDURE_LINKAGE_TABLE_
+[88]	|     70940|       0|OBJT |GLOB |0    |11     |_edata
+[80]	|     70940|       0|OBJT |GLOB |0    |12     |_end
+[90]	|      4822|       0|OBJT |GLOB |0    |7      |_etext
+[93]	|         0|       0|NOTY |GLOB |0    |UNDEF  |define_function
+[87]	|         0|       0|NOTY |GLOB |0    |UNDEF  |define_operator
+[91]	|      2708|    1716|FUNC |GLOB |0    |6      |init_library
+[94]	|         0|       0|NOTY |GLOB |0    |UNDEF  |make_prototype
+[85]	|         0|       0|NOTY |GLOB |0    |UNDEF  |printf

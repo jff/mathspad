@@ -1,0 +1,346 @@
+%
+% INDEX MACROS (5th April 1995)
+%
+% This is rather messy. \index can not be used as part of a command, so
+% \mpindex has the same restriction.
+%
+\newif\ifmpempty
+%
+% Define \mpTplain as the macro  \mpT
+%
+\def\mpTplain{\mpT }
+%
+%
+% \mptest
+%         Test if #1 is equal to \mpT (the macro)
+%         \ifmpempty can be used to check the result .
+%
+\def\mptest#1{\def\mpTtest{#1}\ifx\mpTtest\mpTplain\mpemptytrue\else%
+\mpemptyfalse\fi}
+%
+%
+% INDEX MACROS (release 0.51 onwards)
+%
+% \mpindexnew has seven arguments. The arguments are parsed to make a correct
+% index entry.
+%
+% Arguments: sortkey, subsortkey, subsubsortkey,
+%            visualkey,pagerangestart (, pagenumberfont, pagerangeend )
+%
+\def\mpindexnew#1#2#3#4#5#6#7{%
+\def\myarg{}%
+\mptest{#7}\ifmpempty%
+  \mptest{#5}\ifmpempty%
+    \mptest{#6}\ifmpempty%
+      \def\myarg{}%
+    \else%
+      \def\myarg{|#6}%
+    \fi%
+  \else%
+    \mptest{#6}\ifmpempty%
+      \def\myarg{|#5}%
+    \else%
+      \def\myarg{|#5#6}%
+    \fi%
+  \fi%
+\else%
+  \def\myarg{|#7}%
+\fi%
+\mpmakeentrynew{#1}{#2}{#3}{#4}%
+}%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%****************************SEE OTHER ENTRY******************************
+%
+% \mpindexS has five arguments. The last argument should be the entry to
+% point to. The first four arguments have the same meaning as in \mpindexnew
+%
+%  Arguments: sortkey, subsortkey, subsubsortkey,
+%             visualkey,see other item.
+%
+\def\mpindexnewS#1#2#3#4#5{%
+\mptest{#5}\ifmpempty%
+  \def\myarg{}%
+\else%
+  \def\myarg{|see{#5}}%
+\fi%
+\mpmakeentrynew{#1}{#2}{#3}{#4}%
+}%
+%
+% Make an index entry with the four key arguments of \mpindex and \mpindexS
+% and add the \myarg value at the end.
+%
+%%%%%%%%%%%%% version from release 0.51 onwards
+\def\mpmakeentrynew#1#2#3#4{%
+\mptest{#4}\ifmpempty%
+  %no visualcode-----------------------------------------
+  \mptest{#2}\ifmpempty%%
+    %no sublevel to entry and hence no subsublevel--encap?
+    \def\mpentry{#1}%
+  \else%
+    %sublevel to entry-----------------------------
+    \mptest{#3}\ifmpempty%
+      %sub but no subsub level to entry--encap?
+      \def\mpentry{#1!#2}%
+    \else%
+      %sub and subsublevel to entry--encap?
+      \def\mpentry{#1!#2!#3}%
+    \fi%
+  \fi%
+\else%
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  %visualcode-----------------------------------------------
+  \mptest{#2}\ifmpempty%
+    %no sublevel to sortcode and hence no subsublevel--encap?
+    \def\mpentry{#1@#4}%
+  \else%
+    %sublevel to sortcode------------------------------
+    \mptest{#3}\ifmpempty%
+      %no subsublevel to sortcode--encap?
+      \def\mpentry{#1!#2@#4}%
+    \else%
+      %subsublevel to sortcode---encap?
+      \def\mpentry{#1!#2!#3@#4}%
+    \fi%
+  \fi%
+\fi%
+\edef\mpfentry{\expandafter\mpstrip\meaning\mpentry\expandafter\mpstrip\meaning\myarg}%
+\index{\mpfentry}%
+}%
+%
+%
+% INDEX MACROS (release 0.50)
+%
+% \mpindex has nine arguments. The arguments are parsed to make a correct
+% index entry.
+%
+% This command was written for the first version of the MathSpad manual
+% (release 0.50).
+%
+% The command used from release 0.51 onwards is mpindexnew.
+%
+% Arguments: sortkey, subsortkey, subsubsortkey,
+%            visualkey, visualsubkey, visualsubsubkey,
+%            pagerangestart (, pagenumberfont, pagerangeend )
+%
+\def\mpindex#1#2#3#4#5#6#7#8#9{%
+\def\myarg{}%
+\mptest{#9}\ifmpempty%
+  \mptest{#7}\ifmpempty%
+    \mptest{#8}\ifmpempty%
+      \def\myarg{}%
+    \else%
+      \def\myarg{|#8}%
+    \fi%
+  \else%
+    \mptest{#8}\ifmpempty%
+      \def\myarg{|#7}%
+    \else%
+      \def\myarg{|#7#8}%
+    \fi%
+  \fi%
+\else%
+  \def\myarg{|#9}%
+\fi%
+\mpmakeentry{#1}{#2}{#3}{#4}{#5}{#6}%
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%****************************SEE OTHER ENTRY******************************
+%
+% \mpindexS has seven arguments. The last argument should be the entry to
+% point to. The other arguments have the same meaning as in \mpindex
+%
+%  Arguments: sortkey, subsortkey, subsubsortkey,
+%             visualkey, visualsubkey, visualsubsubkey,
+%             see other item.
+%
+\def\mpindexS#1#2#3#4#5#6#7{%
+\mptest{#7}\ifmpempty%
+  \def\myarg{}%
+\else%
+  \def\myarg{|see{#7}}%
+\fi%
+\mpmakeentry{#1}{#2}{#3}{#4}{#5}{#6}%
+}
+%
+% Make an index entry with the six key arguments of \mpindex and \mpindexS
+% and add the \myarg valua at the end.
+%
+\def\mpmakeentry#1#2#3#4#5#6{%
+\mptest{#1}\ifmpempty%
+  %no sortcode-----------------------------------------
+  \mptest{#5}\ifmpempty%
+    %no sublevel to entry and hence no subsublevel--encap?
+    \def\mpentry{#4}%
+  \else%
+    %sublevel to entry-----------------------------
+    \mptest{#6}\ifmpempty%
+      %sub and no subsub level to entry--encap?
+      \def\mpentry{#4!#5}%
+    \else%
+      %sub and subsublevel to entry--encap?
+      \def\mpentry{#4!#5!#6}%
+    \fi%
+  \fi%
+\else%
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  %sortcode-----------------------------------------------
+  \mptest{#2}\ifmpempty%
+    %no sublevel to sortcode and hence no subsublevel--encap?
+    \def\mpentry{#1@#4}%
+  \else%
+    %sublevel to sortcode------------------------------
+    \mptest{#3}\ifmpempty%
+      %no subsublevel to sortcode--encap?
+      \def\mpentry{#1!#2@#4}%
+    \else%
+      %subsublevel to sortcode---encap?
+      \def\mpentry{#1!#2!#3@#4}%
+    \fi%
+  \fi%
+\fi%
+\edef\mpfentry{\expandafter\mpstrip\meaning\mpentry\expandafter\mpstrip\meaning\myarg}%
+\index{\mpfentry}%
+}
+\def\mpstrip#1>{}
+%
+%
+% MISCELLANEOUS MACROS FOR SPEC STENCIL
+%
+\newcommand{\dstar}{\star}
+\newcommand{\bt}{
+\begin{tabbing}
+\hspace*{\mathindent}\=\kill
+}
+\def\mpfillbreak{\hfil\break}
+\def\mpvskip[#1]{\ignorespaces}
+\def\mpvspace[#1]{\vspace{#1}\mpfillbreak\ignorespaces}
+\def\mpvs{%
+\ifx\mnllet[%
+   \ifvmode%
+      \let\mnllet=\mpvskip%
+   \else%
+      \let\mnllet=\mpvspace%
+   \fi%
+\else%
+   \ifvmode%
+      \let\mnllet=\empty%
+   \else%
+      \let\mnllet=\mpfillbreak%
+   \fi%
+\fi%
+\mnllet}
+\newcommand{\mnl}{\futurelet\mnllet\mpvs}
+\newcommand{\mraisebox}[2]{\mbox{\mathsurround=0pt\raisebox{#1}{#2}}}
+\newcommand{\bigsqcap}{\mraisebox{0pt}{\large $\sqcap$}}
+\newcommand{\idrelator}{I\!\!I}
+\newcommand{\simulates}{\stackrel{>}{\sim}}
+\newcommand{\ismodelof}{\stackrel{<}{\sim}}
+\newcommand{\et}{\end{tabbing}}
+\newcommand{\split}{\mraisebox{.3ex}{{$\scriptscriptstyle \bigtriangleup$}}}
+\newcommand{\cosplit}{\mraisebox{.3ex}{{$\scriptscriptstyle \blacktriangle$}}}
+\newcommand{\cojunc}{\mraisebox{.3ex}{{$\scriptscriptstyle \blacktriangledown$}}}
+\newcommand{\junc}{\mraisebox{.3ex}{{$\scriptscriptstyle \bigtriangledown$}}}
+\newcommand{\inl}{{\hookrightarrow}}
+\newcommand{\inr}{{\hookleftarrow}}
+\newcommand{\lsim}{{\mraisebox{-.25ex}{{\Large ${\sim}$}}}}
+\newcommand{\natsim}{\stackrel{.}{\sim}}
+\newcommand{\leftrel}{{\mraisebox{.3ex}{{$\scriptscriptstyle <$}}\hspace*{-6.5pt}\sim}}
+\newcommand{\rightrel}{{\sim\hspace*{-6.5pt}\mraisebox{.3ex}{{$\scriptscriptstyle >$}}}}
+\newcommand{\transform}{\mraisebox{.3ex}{$\scriptscriptstyle <$}\hspace*{-6.5pt}\sim\hspace*{-6.5pt}\mraisebox{.3ex}{$\scriptscriptstyle >$}}
+\newcommand{\natrightrel}{\stackrel{.}{\rightrel}}
+\newcommand{\natleftarrow}{\stackrel{.}{\leftarrow}}
+\newcommand{\natleftright}{\stackrel{.}{\transform}}
+\newcommand{\natleftrel}{\stackrel{.}{\leftrel}}
+\newcommand{\revbar}{\overline{\rev}}
+
+\newcommand{\revobar}{\revo\!\!\rule{1mm}{0.5mm}\,}
+\newcommand{\overbar}{/\!\!\!\rule{1mm}{0.5mm}\,}
+\newcommand{\revo}{\backslash}
+\newcommand{\scup}{\mraisebox{0.5mm}{$\scriptscriptstyle\cup$}}
+\newcommand{\blob}{\mraisebox{0.5mm}{$\scriptstyle\varpi$}}
+\newcommand{\eqhat}{\;\:\;\:{\widehat{=}}\;\:\;\:}
+\newcommand{\append}{\mathbin{+\!\!\!+}}
+\newcommand{\comp}{\mraisebox{.2ex}{$\scriptstyle\circ$}}
+\newcommand{\fncomp}{\mraisebox{0.5mm}{$\scriptstyle\bullet$}}
+\newcommand{\medfncompose}{\mraisebox{0.5mm}{$\:{\scriptstyle\bullet}\:$}}
+\newcommand{\dubarrow}{\mbox{\mathsurround=0pt$\rightarrow\!\!\!\!\!\rightarrow$}}
+\newcommand{\dublarrow}{\mbox{\mathsurround=0pt$\leftarrow\!\!\!\!\!\leftarrow$}}
+\newcommand{\Real}{{\rm I\!R}}
+\newcommand{\Nat}{{\rm I\! N}}
+\newcommand{\plus}{+}
+
+\newtheorem{Theorem}[equation]{Theorem}
+\newtheorem{Definition}[equation]{Definition}
+\newtheorem{Lemma}[equation]{Lemma}
+\newtheorem{Axiom}[equation]{Axiom}
+\newtheorem{Remark}[equation]{Remark}
+\newtheorem{Corollary}[equation]{Corollary}
+\newtheorem{Exercise}[equation]{Exercise}
+\newtheorem{Example}[equation]{Example}
+\newtheorem{defi}[equation]{}
+
+\newcommand{\platbottom}{\bot\hspace*{-4pt}\bot}
+\newcommand{\plattop}{\top\hspace*{-4pt}\top}
+\newcommand{\ldomsym}{\mraisebox{0.6mm}{$\scriptscriptstyle{<}$}}
+\newcommand{\rdomsym}{\mraisebox{0.6mm}{$\scriptscriptstyle{>}$}}
+\newcommand{\Ldom}[1]{#1\ldomsym}
+\newcommand{\Rdom}[1]{#1\rdomsym}
+\newcommand{\leqdomsym}{\mraisebox{0.6mm}{$\scriptscriptstyle{\ll}$}}
+\newcommand{\reqdomsym}{\mraisebox{0.6mm}{$\scriptscriptstyle{\gg}$}}
+\newcommand{\Leqdom}[1]{#1\leqdomsym}
+\newcommand{\Reqdom}[1]{#1\reqdomsym}
+\newcommand{\rev}{\scup}
+
+\newcommand{\defeq}{\mraisebox{.4ex}{$\scriptstyle\underline{\bigtriangleup}$}}
+\newcommand{\ctilde}{\mraisebox{-.6ex}{${\;\tilde{}\;}$}}
+\newcommand{\cross}{\mbox{\mathsurround=0pt\large $\times$}}
+\newcommand{\conc}{{+}\!\!\!{+}}
+\newcommand{\cbar}{\mbox{--}}
+\newcommand{\thinbox}{[\hspace{-1pt}]}
+\newcommand{\Bool}{{\rm I\!B}}
+\newcommand{\Int}{{\rm Z\hspace{-4pt}Z}}
+\newcommand{\1}{1\!\!1}
+\newcommand{\paropen}{(\!|}
+\newcommand{\parclose}{|\!)}
+\newcommand{\dopen}{[\![}
+\newcommand{\dclose}{]\!]}
+\newcommand{\homl}{\mbox{(\hspace*{-2.2pt}[}}
+\newcommand{\homr}{\mbox{]\hspace*{-2.2pt})}}
+\newcommand{\lparbrack}{\mathopen{( \mkern -4mu [}}
+\newcommand{\rparbrack}{\mathclose{] \mkern -4mu )}}
+\newcommand{\sqopen}{|\hspace{-1pt}[}
+\newcommand{\sqclose}{]\hspace{-1pt}|}
+\newcommand{\lang}{\mraisebox{.5ex}{\scriptsize${<}$}}
+\newcommand{\rang}{\mraisebox{.5ex}{\scriptsize${>}$}}
+\newcommand{\fst}{\mraisebox{.2ex}{\scriptsize${\ll}$}}
+\newcommand{\snd}{\mraisebox{.2ex}{\scriptsize${\gg}$}}
+
+\newlength{\jojo}
+\newcommand{\Overlay}[2]{\mathsurround=0pt\settowidth{\jojo}{\mbox{$#1$}}
+\makebox[\jojo]{\makebox[0cm]{$#1$}\makebox[0cm]{$#2$}}}
+\def\lbrackpar{\mathopen{{{\Overlay{\lfloor}{\lceil}}\mkern-5mu{(}}}}%   % [(
+\def\rbrackpar{\mathclose{{{)}\mkern-5mu{\Overlay{\rfloor}{\rceil}}}}}
+\newcommand{\Cata}[2]{{\lparbrack {#1} ;~ {#2} \rparbrack}}
+\newcommand{\cata}[1]{{\lparbrack {#1} \rparbrack}} 
+\newcommand{\Ana}[2]{{\lbrackpar {#1} ;~ {#2} \rbrackpar}} 
+\newcommand{\ana}[1]{{\lbrackpar {#1} \rbrackpar}}
+
+%
+%  Item separation macros.  (6th December 1995)
+%
+% The following macros have been written so that users of MathSpad do not 
+% themselves have to separate items in a list by ``\\''.  The macro \mpinsertsep
+% does it automatically.  Specifically, in a list of items, ``\\\empty'' 
+% (``\\'' --the TeX command for a new line-- followed by ``\empty'' --the TeX
+% command for an empty string, included in order to avoid problems if the next
+% line begins with ``[''-- )
+% is inserted *between* consecutive items.  See the
+% templates EqnArray, Tabbing, and Array for examples of their use.
+
+\def\mpnewitem{\empty}%
+\def\mpinsc{\ifx\mpinspar\mpnewitem\let \mpsep=\\\empty \else \let\mpsep=\empty\fi
+ \mpsep}%
+\def\mpinsertsep{\futurelet\mpinspar\mpinsc}%
+

@@ -1,0 +1,463 @@
+#
+# Define the font attributes.
+# It is possible to define 16 different attributes with 16 different values,
+# which allows 16^16 = 2^64 different virtual fonts, each with 65536 symbols.
+#
+# The memory requirements for the virtual fonts depend on the number of
+# real fonts that are used and which combinations of attributes are used.
+# For each combination of attributes, a reference to a virtual font is
+# uses, where empty virtual fonts are shared. 
+#
+# It is possible to add values to attributes, but for backward compatibility,
+# these new values should be added at the end of the list.
+# It is also possible to define new attributes, which should also be
+# added at the end.
+#
+# Syntax:  ATTRIBUTE <attribute-name> <value1> ... <valueN>
+
+ATTRIBUTE Family Roman SansSerif TypeWriter
+ATTRIBUTE Series Medium Bold
+ATTRIBUTE Size Tiny Script Footnote Small Normal Large Larger Largest Huge Huger
+ATTRIBUTE Shape Upright Italic Slanted SmallCaps
+
+# 
+# When a symbol is missing for some combination of attributes, one
+# attribute can be changed to an alternative value.  This is done
+# by defining which value should be used as first alternative.  The
+# result is a list of alternative attribute combinations.  This list
+# will be used when symbols are missing.
+#
+# Note:
+# When multiple attributes can be changed, the last specified change will
+# be applied first.  The order of the changing the attributes in this
+# definition file is:  Shape, Series, Family, Size.
+# Thus, a Bold Slanted Large SansSerif font, will go through the following
+# stages:
+# ->  Bold Slanted Large SansSerif
+# ->  Bold Italic Large SansSerif
+# ->  Bold Upright Large SansSerif
+# ->  Medium Upright Large SansSerif
+# ->  Medium Upright Large Roman
+# ->  Medium Upright Normal Roman
+# 
+# Syntax:  ATTRREMAP <attribute-name> <old-value> <new-value>
+#
+ATTRREMAP Size Tiny Script
+ATTRREMAP Size Script Footnote
+ATTRREMAP Size Footnote Small
+ATTRREMAP Size Small Normal
+ATTRREMAP Size Huger Huge
+ATTRREMAP Size Huge Largest
+ATTRREMAP Size Largest Larger
+ATTRREMAP Size Larger Large
+ATTRREMAP Size Large Normal
+
+ATTRREMAP Family SansSerif Roman
+ATTRREMAP Family TypeWriter Roman
+
+ATTRREMAP Series Bold Medium
+
+ATTRREMAP Shape Slanted Italic
+ATTRREMAP Shape SmallCaps Upright
+ATTRREMAP Shape Italic Upright
+
+#
+# To enable the autodection of font attributes, aliases can be defined
+# for attribute values.  If the value or the alias appears in the
+# name of the font, that value will be used for that attribute.
+# These aliases are based on font names as used in the X window system,
+# also known as XLDF.
+#
+# Syntax: ALIAS <value> <alias1> ... <aliasN>
+
+ALIAS Tiny 6 7
+ALIAS Script 8 9
+ALIAS Footnote 10 11
+ALIAS Small 12 13
+ALIAS Normal 14 15
+ALIAS Large 16 17 18
+ALIAS Larger 19 20 21
+ALIAS Largest 24 25 26
+ALIAS Huge  33 34
+ALIAS Huger 40
+ALIAS Series Weight
+
+ALIAS Upright r
+ALIAS Italic i
+ALIAS Slanted o
+ALIAS Medium medium regular
+ALIAS Bold bold demibold
+
+#
+# Sometimes the X11 font family name determines some attributes of the
+# font which do not appear in the name of the font itself. Therefore,
+# the name of the font is used as an alias for such attributes
+#
+
+ALIAS Roman charter lucidabright "new century schoolbook" times utopia web
+ALIAS SansSerif helvetica lucida
+ALIAS TypeWriter c m
+
+#
+# Certain fonts only contain interesting glyphs on certain positions.
+# For those fonts, a range can be defined, such that the other symbols
+# are ignored.  These ranges are specified in the encoding of the fonts,
+# not in the Unicode encoding.
+# In X11 release 6, it is possible to specify ranges when fonts are loaded.
+# Therefore, specifying a range of character might increase the performance.
+# However, the range specification might not work with font servers or
+# older versions of X11.
+#
+# Syntax:  RANGE <name> <char1>-<charN> <charX> <charY>
+#
+# where <char?> can be one of the following formats:
+# ->  'A'	as character
+# ->  65	as decimal integer
+# ->  0101	as octal integer
+# ->  0x41	as hexadecimal integer
+# ->  U+0041	as Unicode syntax  (using the encoding value)
+
+RANGE Upcase 'A'-'Z' 'À'-'Ö' 'Ø'-'Þ'
+RANGE lowcase 'a'-'z' 'à'-'ö' 'ø'-'ÿ'
+RANGE cronyx '¡' '©' 'À'-'ÿ'
+RANGE Chinese 0x4E00-0x9FFF
+RANGE Georgian 0x10D0-0x10FB
+RANGE UniHebrew 0x0590-0x05FF
+
+#
+# Since the virtual fonts are suppost to be virtual Unicode fonts and
+# most fonts do not use the Unicode encoding internally, the encoding
+# of the fonts has to be specified.  This is done by specifing the
+# map files that contain the mapping from the encoding the Unicode.
+#
+# Syntax:  ENCODING <map-name>
+
+ENCODING Baghdad
+ENCODING CMSYEncoding
+ENCODING ZapfDingbats
+ENCODING GB_2312-80
+ENCODING ISO_646.IRV-1983
+ENCODING ISO_8859-1-1987
+ENCODING ISO_8859-2-1987
+ENCODING ISO_8859-3-1988
+ENCODING ISO_8859-4-1988
+ENCODING ISO_8859-5-1988
+ENCODING ISO_8859-6-1987
+ENCODING ISO_8859-7-1987
+ENCODING ISO_8859-8-1988
+ENCODING ISO_8859-9-1989
+ENCODING JIS0208
+ENCODING JIS_X0201
+ENCODING KOI-8R
+ENCODING KS_C_5601-1987
+ENCODING MSAMEncoding
+ENCODING MSBMEncoding
+ENCODING MathSymbolEncoding
+ENCODING SymbolEncoding
+ENCODING Unicode-2.0
+
+#
+#  The aliases are also used for encoding, to increase the
+#  performance of the attribute detection routines.
+#
+#  Syntax: ALIAS <name> <alias1> ... <aliasN>
+
+ALIAS    Baghdad baghdad
+ALIAS    CMSYEncoding cmsy10
+ALIAS    GB_2312-80 gb2312.1980
+ALIAS    ISO_646.IRV-1983 iso646.1991
+ALIAS    ISO_8859-1-1987 iso8859-1
+ALIAS    ISO_8859-2-1987 iso8859-2
+ALIAS    ISO_8859-3-1988 iso8859-3
+ALIAS    ISO_8859-4-1988 iso8859-4
+ALIAS    ISO_8859-5-1988 iso8859-5
+ALIAS    ISO_8859-6-1987 iso8859-6 baghdad88596
+ALIAS    ISO_8859-7-1987 iso8859-7
+ALIAS    ISO_8859-8-1988 iso8859-8
+ALIAS    ISO_8859-9-1989 iso8859-9
+ALIAS    JIS0208 jisx0208.1983
+ALIAS    JIS_X0201 jisx0201.1976
+ALIAS    KOI-8R koi8-r
+ALIAS    KS_C_5601-1987 ksc5601.1987
+ALIAS    MSAMEncoding msam10
+ALIAS    MSBMEncoding msbm10
+ALIAS    MathSymbolEncoding mathsymbol
+ALIAS    SymbolEncoding symbol
+ALIAS    koi8-r koi-1
+
+# RANGE .5byte 0-127
+# RANGE 1byte 0-255
+# RANGE 1.5byte 0-512
+# ALIAS .5byte metafont
+# ALIAS 1.5byte admas
+# ALIAS 1byte iso8859 koi8 sony mathpad metafont dec etl schumacher
+# ALIAS 2bytes deawoo  isas
+
+#
+#  If you have additional fonts, add them in the appropriate place.
+#  First fonts will be used first, if they are available on the system.
+#  If fonts have the same attributes, only the first font with those
+#  attributes will be used.
+#
+#  You can use a mask to specify a collection of fonts. Note that the
+#  ordering of the matching fonts is undefined.
+#
+#  It is possible to use the most general mask '*', althought it is
+#  not recommented.  The system might contain fonts that are not in the
+#  encoding that would get detected, which results in incorrect glyphs
+#  for certian characters.  For example, some iso8859-1 fonts might
+#  contain special glyphs, just to work around limitations of WWW
+#  browsers (as in a method to add mathematics to WWW pages)
+#
+#  The supplied aliases, encodings, attributes values and ranges are
+#  used to detect the attributes of each matching font.  The matching is
+#  done on each field of the font name.  To improve the detection of
+#  the encoding, the last two fields are also matched as a combination,
+#  for example, as "iso8859-1".
+#
+#  The X server is able to scale bitmap fonts and to render scalable fonts.
+#  When a font is scalable, the X server will indicate that with a "-0-0-"
+#  string in the font name, that is, pixelsize and pointsize are both zero.
+#  For bitmap fonts, the list of matching fonts will also contain all the
+#  bitmap fonts that are available without scaling.  For scalable fonts,
+#  the list of matching fonts will only contain the font name that indicates
+#  that the font is scalable, where the substring "-0-0-0-0-" shows that the
+#  x and y resolutions are also free to choose.
+#
+#  Therefore, when the name of a font contain "-0-0-", then that font is
+#  ignored, as it merely indicates that the font is scalable. For a
+#  bitmap font, this is not a problem, since the available bitmap versions
+#  usually suffice and are also listed.  For a scalable font, such as a Type1
+#  or TrueType font, these scaled versions are not available, which
+#  means that the fonts have to listed seperately.  (Support for specifing
+#  those with a more general mask could be added in the future).
+#
+#  Some 2-byte fonts, as used for the CJK languages, might indicate that
+#  these fonts are scalable, while they are in fact not. Somehow, the
+#  X server might list that those fonts are available at the default point
+#  size (10/12/14/18), which is different from the point sizes available
+#  on standard installation (16/24).  Therefore, for those fonts where
+#  the server indicates that they are scalable, but where reality shows
+#  they are not, a list of fonts should be use instead of a general mask.
+#
+#  Due to a bug in some X servers font handling/caching code, scaled bitmap
+#  fonts are only available for the directories that were added with the
+#  last call of "xset fp".  If you want to use scaled bitmap fonts for
+#  all directories, you can clear the font path with "xset fp ''" and then
+#  add all the directories at once with "xset fp+".
+#  Note that scaled bitmaps are usually very ugly.
+#
+#
+#  It is possible to specify the attributes of the matching font if the
+#  automatic detection fails to find the correct values.  The attributes
+#  can be changed by adding the following commands after the font mask
+#  is specified:
+#
+#  FONTENC  <encoding-name>
+#  FONTRANGE <range-name>
+#  <attribute-name>  <attribute-value>
+#
+#  To specifie a font mask, use:
+#
+#  FONT <font-mask>
+#  
+#  (use double quotes if the name contains spaces)
+
+FONT -adobe-courier-*-*-normal--*-*-75-75-m-*-iso8859-?
+FONT -adobe-courier-*-*-normal--*-*-100-100-m-*-iso8859-?
+FONT -adobe-helvetica-*-*-normal--*-*-75-75-p-*-iso8859-?
+FONT -adobe-helvetica-*-*-normal--*-*-100-100-p-*-iso8859-?
+FONT "-adobe-new century schoolbook-*-*-normal--*-*-75-75-p-*-iso8859-?"
+FONT "-adobe-new century schoolbook-*-*-normal--*-*-100-100-p-*-iso8859-?"
+FONT -adobe-symbol-medium-r-normal--*-*-75-75-p-*-adobe-fontspecific
+FONT -adobe-symbol-medium-r-normal--*-*-75-75-p-*-adobe-fontspecific
+FONT -adobe-times-*-*-normal--*-*-75-75-p-*-iso8859-?
+FONT -adobe-times-*-*-normal--*-*-100-100-p-*-iso8859-?
+FONT -adobe-utopia-*-*-normal--*-*-75-75-p-*-iso8859-?
+FONT -adobe-utopia-*-*-normal--*-*-100-100-p-*-iso8859-?
+FONT -b&h-lucida-*-*-normal-sans-*-*-75-75-p-*-iso8859-?
+FONT -b&h-lucida-*-*-normal-sans-*-*-100-100-p-*-iso8859-?
+FONT -b&h-lucidabright-*-*-normal--*-*-75-75-p-*-iso8859-?
+FONT -b&h-lucidabright-*-*-normal--*-*-100-100-p-*-iso8859-?
+FONT -b&h-lucidatypewriter-*-*-normal-sans-*-*-75-75-m-*-iso8859-?
+FONT -b&h-lucidatypewriter-*-*-normal-sans-*-*-100-100-m-*-iso8859-?
+FONT -bitstream-charter-*-*-normal--*-*-75-75-p-*-iso8859-?
+FONT -bitstream-charter-*-*-normal--*-*-100-100-p-*-iso8859-?
+
+FONT -bitstream-terminal-*-*-normal--*-*-100-100-c-*-iso8859-?
+#FONT -bitstream-terminal-medium-r-normal--18-140-100-100-c-110-dec-dectech
+
+
+#
+#  For scalable fonts, the mask expansion will not contain the font
+#  as all available sizes.  Therefore, those fonts are specified at
+#  several size.
+#
+#FONT -bitstream-web-medium-r-normal--0-0-0-0-0-0-iso8859-8
+#
+#  The Web en WebMono fonts are Hebrew fonts.  It is possible
+#  to show these, but the bidirectional handling is not working yet.
+#  These fonts are available at
+#  URL ftp://ftp.ibm.net.il/pub/fonts/unix/unixwebfonts.tar.gz
+#
+FONT -bitstream-web-medium-r-normal--8-*-*-*-0-*-iso8859-8
+FONT -bitstream-web-medium-r-normal--10-*-*-*-0-*-iso8859-8
+FONT -bitstream-web-medium-r-normal--12-*-*-*-0-*-iso8859-8
+FONT -bitstream-web-medium-r-normal--14-*-*-*-0-*-iso8859-8
+FONT -bitstream-web-medium-r-normal--17-*-*-*-0-*-iso8859-8
+FONT -bitstream-web-medium-r-normal--20-*-*-*-0-*-iso8859-8
+FONT -bitstream-web-medium-r-normal--25-*-*-*-0-*-iso8859-8
+FONT -bitstream-web-medium-r-normal--34-*-*-*-0-*-iso8859-8
+FONT -bitstream-web-medium-r-normal--40-*-*-*-0-*-iso8859-8
+FONT -bitstream-webmono-medium-r-normal--8-*-*-*-m-*-iso8859-8
+FONT -bitstream-webmono-medium-r-normal--10-*-*-*-m-*-iso8859-8
+FONT -bitstream-webmono-medium-r-normal--12-*-*-*-m-*-iso8859-8
+FONT -bitstream-webmono-medium-r-normal--14-*-*-*-m-*-iso8859-8
+FONT -bitstream-webmono-medium-r-normal--17-*-*-*-m-*-iso8859-8
+FONT -bitstream-webmono-medium-r-normal--20-*-*-*-m-*-iso8859-8
+FONT -bitstream-webmono-medium-r-normal--25-*-*-*-m-*-iso8859-8
+FONT -bitstream-webmono-medium-r-normal--34-*-*-*-m-*-iso8859-8
+FONT -bitstream-webmono-medium-r-normal--40-*-*-*-m-*-iso8859-8
+
+#FONT -bitstream-web-medium-r-normal--8-*-*-*-0-*-iso8859-8
+#FONT -brecher-hebrew-medium-r-normal--16-150-75-75-p-160-unicode-1
+#FONTENC Unicode-2.0
+#FONTRANGE UniHebrew
+
+#
+#  A collection of Cyrillic fonts. Note that the koi8-r encoding
+#  is not correct, as some glyphs are missing or incorrect.
+#  If these fonts are not available, the CJK fonts will usually provide
+#  some Cyrillic characters, but with limited features.
+#
+#  These fonts are available at
+#  URL http://sunsite.unc.edu/pub/academic/russian-studies/
+#					Software/X/xrus-2.1.1-src.tgz
+#
+FONT -cronyx-courier-*-*-normal--*-*-75-75-m-*-koi8-r
+FONT -cronyx-courier-*-*-normal--*-*-100-100-m-*-koi8-r
+FONT -cronyx-helvetica-*-*-normal--*-*-75-75-p-*-koi8-r
+FONT -cronyx-helvetica-*-*-normal--*-*-100-100-p-*-koi8-r
+FONT -cronyx-times-*-*-normal--*-*-75-75-p-*-koi8-r
+FONT -cronyx-times-*-*-normal--*-*-100-100-p-*-koi8-r
+
+#
+#  These fonts are constructed by converting TeX pk fonts to BDF format.
+#  As these fonts are not designed for such small sizes, the quality might
+#  not be that good.
+#
+
+FONT -metafont-cmsy10-medium-r-normal--*-*-75-75-p-*-metafont-fontspecific
+FONT -metafont-msam10-medium-r-normal--*-*-75-75-p-*-metafont-fontspecific
+FONT -metafont-msbm10-medium-r-normal--*-*-75-75-p-*-metafont-fontspecific
+
+#
+#  This font is specific to mathpad. It is a modified symbol font
+#  with some specific additional characters.
+#
+FONT -mathpad-mathsymbol-medium-r-normal--*-*-75-75-p-*-mathpad-fontspecific
+
+#
+#  Sometimes, these CJK fonts are scalable. However, scaling these
+#  bitmaps fonts will either fail or take a long time (with a lousy
+#  result). Therefore, only the default CJK fonts are listed.
+#
+#  Since CJK fonts contain characters from other scripts,
+#  such as Greek, Cyrillic and Latin, these fonts are list
+#  near the end. Otherwise they would hide more suitable fonts
+#  for those scripts.
+#
+
+# Korean
+
+FONT -daewoo-gothic-medium-r-normal--16-120-100-100-c-*-ksc5601.1987-0
+FONT -daewoo-mincho-medium-r-normal--16-120-100-100-c-*-ksc5601.1987-0
+FONT -daewoo-mincho-medium-r-normal--24-170-100-100-c-*-ksc5601.1987-0
+
+# Japanese
+
+FONT -jis-fixed-medium-r-normal--16-150-75-75-c-160-jisx0208.1983-0
+FONT -jis-fixed-medium-r-normal--24-230-75-75-c-240-jisx0208.1983-0
+FONT -misc-fixed-medium-r-normal--14-130-75-75-c-140-jisx0208.1983-0
+FONT -misc-fixed-medium-r-normal--14-130-75-75-c-70-jisx0201.1976-0
+FONT -sony-fixed-medium-r-normal--16-120-100-100-c-80-jisx0201.1976-0
+FONT -sony-fixed-medium-r-normal--24-170-100-100-c-120-jisx0201.1976-0
+
+# Chinese
+
+FONT "-isas-song ti-medium-r-normal--16-160-72-72-c-160-gb2312.1980-0"
+FONT "-isas-song ti-medium-r-normal--24-240-72-72-c-240-gb2312.1980-0"
+FONT "-isas-fangsong ti-medium-r-normal--16-160-72-72-c-160-gb2312.1980-0"
+
+#  Fonts for emacs-mule
+#  * few fonts
+#  * lots of encodings
+#  * all monospaced at 14, 16 or 24 point
+#  * some encodings are not supplied
+#
+#FONT -etl-fixed-medium-r-normal--*-*-75-75-c-*-*-*
+#FONT -etl-fixed-medium-r-normal--*-*-72-72-c-*-*-*
+#FONT -etl-fixed-medium-r-normal--*-*-100-100-c-*-*-*
+
+#
+#  Useful for terminals
+
+FONT -misc-fixed-*-*-normal--*-*-75-75-c-*-iso8859-?
+FONT -misc-fixed-*-*-normal--*-*-100-100-c-*-iso8859-?
+#FONT -misc-fixed-*-*-semicondensed--*-*-75-75-c-60-iso8859-?
+#FONT -misc-fixed-*-*-semicondensed--*-*-100-100-c-60-iso8859-?
+#FONT -dec-terminal-*-*-normal--*-*-75-75-c-*-dec-dectech
+#FONT -dec-terminal-*-*-normal--*-*-75-75-c-*-iso8859-1
+
+
+#FONT -misc-fixed-*-*-*--*-*-75-75-c-*-iso646.1991-irv
+
+#  Ignore these. Not in iso8859-1 format.
+#FONT -schumacher-clean-*-*-normal--*-*-75-75-c-*-iso646.1991-irv
+#FONT -schumacher-clean-*-*-normal--*-*-75-75-c-*-iso8859-1
+
+#
+#  Ignore these. Not in iso8859-1 format. Encoding unknown.
+#
+#FONT -sibal-devi7-medium-r-normal--*-*-100-100-p-*-iso8859-1
+
+#  Supply all regular size.
+#  (-0-0-0-0- detection and handling is not available yet)
+#
+#  Some PostScript Type1 fonts are available in the default X11
+#  distribution.  Certain (La)TeX and GhostScript installations
+#  also contain some PostScript Type1 fonts.
+#
+#  The X/font server is able to render Type1 fonts, so you could
+#  add those fonts to your fontpath. Althought Type1 fonts are
+#  usually not designed for screen resolutions, certain Type1
+#  fonts might be useful, such as the ZapfDingbats fonts.
+#
+FONT -adobe-ZapfDingbats-medium-r-normal--18-*-*-*-p-*-adobe-fontspecific
+FONT -adobe-ZapfDingbats-medium-r-normal--20-*-*-*-p-*-adobe-fontspecific
+FONT -adobe-ZapfDingbats-medium-r-normal--25-*-*-*-p-*-adobe-fontspecific
+FONT -adobe-ZapfDingbats-medium-r-normal--14-*-*-*-p-*-adobe-fontspecific
+FONT -adobe-ZapfDingbats-medium-r-normal--12-*-*-*-p-*-adobe-fontspecific
+FONT -adobe-ZapfDingbats-medium-r-normal--10-*-*-*-p-*-adobe-fontspecific
+
+#
+# No regular symbols/unknown encoding (add to private area?)
+#FONT "-sun-open look cursor-----*-*-75-75-p-*-sunolcursor-1"
+#FONT "-sun-open look glyph-----*-*-75-75-p-*-sunolglyph-1"
+
+#
+# For those who have installed the Arabic PostScript font called baghdad
+# (-0-0-0-0- not handled yet)
+#
+FONT -adobe-baghdad-medium-r-normal--33-*-*-*-p-*-adobe-fontspecific
+FONT -adobe-baghdad-medium-r-normal--18-*-*-*-p-*-adobe-fontspecific
+FONT -adobe-baghdad-medium-r-normal--20-*-*-*-p-*-adobe-fontspecific
+FONT -adobe-baghdad-medium-r-normal--25-*-*-*-p-*-adobe-fontspecific
+FONT -adobe-baghdad-medium-r-normal--40-*-*-*-p-*-adobe-fontspecific
+FONT -adobe-baghdad-medium-r-normal--14-*-*-*-p-*-adobe-fontspecific
+FONT -adobe-baghdad-medium-r-normal--12-*-*-*-p-*-adobe-fontspecific
+FONT -adobe-baghdad-medium-r-normal--10-*-*-*-p-*-adobe-fontspecific
+FONT -adobe-baghdad-medium-r-normal--8-*-*-*-p-*-adobe-fontspecific
+
+
+

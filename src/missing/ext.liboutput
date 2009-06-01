@@ -1,0 +1,52 @@
+
+
+output/.libs/liboutput.so.0.0.0:
+
+[Index]   Value      Size    Type  Bind  Other Shndx   Name
+
+[107]	|         0|       0|NOTY |GLOB |0    |UNDEF  |UstrtoLocale
+[101]	|     80864|       0|OBJT |GLOB |0    |10     |_DYNAMIC
+[85]	|     80644|       0|OBJT |GLOB |0    |9      |_GLOBAL_OFFSET_TABLE_
+[113]	|     80976|       0|OBJT |GLOB |0    |11     |_PROCEDURE_LINKAGE_TABLE_
+[86]	|         0|       0|NOTY |GLOB |0    |UNDEF  |__ctype
+[112]	|     82536|       0|OBJT |GLOB |0    |12     |_edata
+[82]	|     82608|       0|OBJT |GLOB |0    |13     |_end
+[117]	|     15108|       0|OBJT |GLOB |0    |8      |_etext
+[118]	|         0|       0|NOTY |GLOB |0    |UNDEF  |char_latex
+[105]	|         0|       0|NOTY |GLOB |0    |UNDEF  |close_tabbing
+[80]	|         0|       0|NOTY |GLOB |0    |UNDEF  |font_closetex
+[88]	|         0|       0|NOTY |GLOB |0    |UNDEF  |font_openmathtex
+[109]	|         0|       0|NOTY |GLOB |0    |UNDEF  |font_opentexttex
+[122]	|         0|       0|NOTY |GLOB |0    |UNDEF  |fprintf
+[97]	|         0|       0|NOTY |GLOB |0    |UNDEF  |fputs
+[116]	|         0|       0|NOTY |GLOB |0    |UNDEF  |get_default_thinspace
+[100]	|         0|       0|NOTY |GLOB |0    |UNDEF  |get_display_delta
+[81]	|         0|       0|NOTY |GLOB |0    |UNDEF  |latex_line_unit
+[95]	|         0|       0|NOTY |GLOB |0    |UNDEF  |latex_side
+[120]	|         0|       0|NOTY |GLOB |0    |UNDEF  |latex_space_unit
+[84]	|         0|       0|NOTY |GLOB |0    |UNDEF  |latex_tab_unit
+[83]	|         0|       0|NOTY |GLOB |0    |UNDEF  |myfree
+[124]	|         0|       0|NOTY |GLOB |0    |UNDEF  |mymalloc
+[89]	|         0|       0|NOTY |GLOB |0    |UNDEF  |open_tabbing
+[119]	|         0|       0|NOTY |GLOB |0    |UNDEF  |out_char
+[87]	|         0|       0|NOTY |GLOB |0    |UNDEF  |out_char_bold
+[111]	|         0|       0|NOTY |GLOB |0    |UNDEF  |out_char_string
+[106]	|      8744|    3908|FUNC |GLOB |0    |7      |out_latex_char
+[108]	|         0|       0|NOTY |GLOB |0    |UNDEF  |output_mode
+[123]	|      6468|     344|FUNC |GLOB |0    |7      |pop_math_pref
+[93]	|      6204|     164|FUNC |GLOB |0    |7      |push_math_pref
+[110]	|         0|       0|NOTY |GLOB |0    |UNDEF  |set_default_thinspace
+[98]	|         0|       0|NOTY |GLOB |0    |UNDEF  |set_display_delta
+[91]	|         0|       0|NOTY |GLOB |0    |UNDEF  |sprintf
+[115]	|         0|       0|NOTY |GLOB |0    |UNDEF  |strcpy
+[121]	|         0|       0|NOTY |GLOB |0    |UNDEF  |strlen
+[94]	|      7920|     340|FUNC |GLOB |0    |7      |tex_close_proof
+[114]	|     12912|    1264|FUNC |GLOB |0    |7      |tex_code
+[103]	|      7356|      48|FUNC |GLOB |0    |7      |tex_current_pos
+[99]	|      7404|     100|FUNC |GLOB |0    |7      |tex_mode
+[125]	|      7504|     416|FUNC |GLOB |0    |7      |tex_open_proof
+[96]	|      8504|      48|FUNC |GLOB |0    |7      |tex_placeholders
+[102]	|      7124|      76|FUNC |GLOB |0    |7      |tex_set_file
+[90]	|      7200|     156|FUNC |GLOB |0    |7      |tex_set_string
+[92]	|     12652|     260|FUNC |GLOB |0    |7      |tex_to_mode
+[104]	|      8260|     244|FUNC |GLOB |0    |7      |tex_unset

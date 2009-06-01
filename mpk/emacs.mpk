@@ -1,0 +1,453 @@
+Include "libint.so"
+Include "libstring.so"
+
+Var Int defarg,argstep;
+defarg:=1;
+argstep:=4;
+
+Function CheckDefArg()
+{
+	if (defarg=0) 
+		defarg:=argstep;
+	fi
+}
+
+Function TimesStep(IntRef value, Int step)
+{
+	if (value=0)
+		value:=step*step;
+	else    value:=value*step;
+	fi
+}
+
+Keyboard Argument {
+	`C-u`		: TimesStep(defarg,argstep);
+	`0` ... `9`	: defarg := defarg * 10 + pressedkey - '0';
+}
+
+Function start_argument()
+{
+	defarg:=0;
+	use_map_temporary("Argument",@CheckDefArg(),@Assign(1,defarg));
+}
+
+Function end_search()
+{
+    reset_map();
+    search_stop();
+}
+
+Function cancel_search()
+{
+    reset_map();
+    search_cancel();
+}
+
+Function start_isearch()
+{
+    isearch_forward();
+    use_map_temporary("Search",@search_stop(),@0);
+}
+
+Function start_isearch_backward()
+{
+    isearch_backward();
+    use_map_temporary("Search",@search_stop(),@0);
+}
+
+Function start_query_find()
+{
+    query_replace();
+    use_map_temporary("QueryFind", @search_stop(), @0);
+}
+
+Function start_query_replace()
+{
+    search_newline();
+    reset_map();
+    use_map_temporary("QueryReplace", @search_stop(), @0);
+}
+
+Function start_query_answer()
+{
+    search_newline();
+    reset_map();
+    use_map_temporary("Answer", @answer_stop(), @0);
+}
+
+Function answer_end()
+{
+    reset_map();
+    answer_stop();
+}
+
+Function answer_interrupt()
+{
+    reset_map();
+    answer_cancel();
+}
+
+Var Int help_called;
+help_called:=0;
+Function context_message_help()
+{
+	if (help_called = 0)
+		help_called:=1;
+		set_message("Warning: the help documents are not up to date.");
+	fi;
+	context_help();
+}
+
+Keyboard Global {
+	`F1`		: context_message_help();
+	`Help`		: context_message_help();
+	`S-F2`		: new_editwindow();
+	`S-F3`		: new_stencilwindow();
+	`S-F4`		: new_symbolwindow();
+	`S-F5`		: open_findwindow();
+	`S-F6`		: open_bufferwindow();
+	`S-F7`		: open_propertieswindow();
+	`C-.`		: switch_textdots();
+	`CM-e`		: insert_expression(defarg);
+	`F5`		: insert_expression(defarg);
+	`CM-p`		: insert_display(defarg);
+	`F6`		: insert_display(defarg);
+	`CM-v`		: insert_variable(defarg);
+	`CM-i`		: insert_identifier(defarg);
+	`CM-o`		: insert_operator(defarg);
+	`CM-t`		: insert_text(defarg);
+	`CM-u`		: ungroup_region();
+	`CM-g`		: group_region();
+	`CM-r`		: commute_expression();
+	`F9`		: commute_expression();
+	`CM-f`		: factorise_function();
+	`CM-d`		: distribute_function();
+	`CM-a`		: apply_function();
+	`F4`		: remove_parens();
+	`C-(`		: remove_parens();
+	`C-9`		: remove_parens();
+	`M-(`		: add_parens();
+	`M-9`		: add_parens();
+	`F7`		: copy_region();
+	`CM-c`		: copy_region();
+	`F8`		: swap_region();
+	`CM-s`		: swap_region();
+	`CM-n`		: rename_identifier();
+	`F10`		: LaTeX_region(defarg);
+	`M-Up`		: expression_up(defarg);
+	`M-Down`	: expression_down(defarg);
+	`C-l`		: recenter();
+	`M-r`		: move_to_center();
+	`C-v`		: scroll_up(defarg);
+	`M-v`		: scroll_down(defarg);
+	`C-t`		: transpose_chars(defarg);
+	`M-t`		: transpose_words();
+	`M-l`		: open_prompt("Enter the target LaTeX line:", "",
+				     "Goto Line", @goto_latex_line(prompt_int),
+				     "", @0);
+	`C-a`		: beginning_of_line();
+	`Home`		: beginning_of_line();
+	`C-e`		: end_of_line();
+	`End`		: end_of_line();
+	`C-p`		: previous_line(defarg);
+	`Up`		: previous_line(defarg);
+	`C-n`		: next_line(defarg);
+	`Down`		: next_line(defarg);
+	`C-b`		: backward_char(defarg);
+	`Left`		: backward_char(defarg);
+	`C-f`		: forward_char(defarg);
+	`Right`		: forward_char(defarg);
+	`M~S-<`		: beginning_of_buffer();
+	`M~S->`		: end_of_buffer();
+	`C~S->`		: next_version();
+	`M-f`		: forward_word(defarg);
+	`M-b`		: backward_word(defarg);
+	`Delete`	: delete_char(defarg);
+	`S-Delete`	: delete_char(defarg);
+	`C-d`		: delete_char(defarg);
+	`C-h`		: backward_delete_char(defarg);
+	`BackSpace`	: backward_delete_char(defarg);
+	`S-BackSpace`	: backward_delete_char(defarg);
+	`M- `		: just_one_space();
+	`CM-Left`	: display_left(defarg);
+	`CM-Right`	: display_right(defarg);
+	`C-k`		: kill_line(defarg);
+	`M-p`		: make_project();
+	`M-k`		: backward_kill_line(defarg);
+	`M-d`		: kill_word(defarg);
+	`M-BackSpace`	: backward_kill_word(defarg);
+	`C-w`		: kill_region();
+	`C-y`		: yank();
+	`CM-w`		: append_next_kill();
+	`C-Return`	: soft_newline();
+	`Tab`		: insert_rtab(defarg);
+	`Return`	: newline(defarg);
+	`C-+`		: increase_spacing(defarg);
+	`C-=`		: increase_spacing(defarg);
+	`C--`		: decrease_spacing(defarg);
+	`C-0`		: reset_spacing();
+	`C-i`		: set_index_nr(defarg);
+	`F18`		: insert_selection();
+	`F3`		: insert_selection();
+	`M-%`		: start_query_find();
+        `~S- ` ... `~S-~` 	: self_insert(pressedkey,defarg);
+	`~S-nobreakspace` ... `~S-ydiaeresis` : self_insert(pressedkey,defarg);
+	`~CMS-Greek_ALPHAaccent` ... `~CMS-Greek_omega` : self_insert(pressedkey,defarg);
+	`~CMS-Hstroke` ... `~CMS-scircumflex` : self_insert(pressedkey,defarg);
+	` `		: next_node_insert(pressedkey,defarg);
+	`,`		: insert_list_element(pressedkey,defarg);
+	`(`		: open_parenthesis(pressedkey,defarg);
+	`)`		: close_parenthesis(pressedkey,defarg);
+	`C-s`		: start_isearch();
+	`C-r`		: start_isearch_backward();
+	`CM-\\`		: use_map_temporary("Print",@0,@0);
+	`C-u`		: start_argument();
+	`MASH-S`	: symbol_click();
+	`MASH-T`	: template_click();
+	`MASH-P`	: selection_callback();
+	`mouse_1`	: query_replace();
+	`mouse_movement`   : query_replace();
+	`C-q`		: use_map_temporary("SelfInsert",@0,@0);
+	`CM-[`		: use_map("StringEdit");
+	`CM~S-<`	: use_map("DefineEdit");
+	`C~S-*`		: insert_version_str("2452769476");
+	`C~S-*`		: insert_version(2452769476);
+	`M~S-*`		: insert_version(2452770025);
+	`CM-+`		: insert_version(0-887456569);
+}
+
+Keyboard Print {
+	` ` ... `~` : set_message("Print key");
+} 
+
+Keyboard Search {
+	`F1`		: open_helpfile("TextEditing#C-S");
+	`Help`		: open_helpfile("TextEditing#C-S");
+	`C-s`		: search_next();
+	`C-r`		: search_previous();
+	`~S- ` ... `~S-~`	: search_self_insert(pressedkey,1);
+	`Return`	: search_newline();
+	`Tab`		: search_tab();
+	`MASH-S`	: search_symbol();
+	`MASH-T`	: search_template();
+	`Delete`	: search_remove_char();
+	`BackSpace`	: search_remove_char();
+	`C-g`		: cancel_search();
+	`Escape`	: end_search();
+}
+
+Keyboard QueryFind {
+	`F1`		: open_helpfile("TextEditing#M-%");
+	`Help`		: open_helpfile("TextEditing#M-%");
+	`~S- ` ... `~S-~`	: search_self_insert(pressedkey,1);
+	`Return`	: start_query_replace();
+	`Tab`		: search_tab();
+	`MASH-S`	: search_symbol();
+	`MASH-T`	: search_template();
+	`Delete`	: search_remove_char();
+	`BackSpace`	: search_remove_char();
+	`C-g`		: cancel_search();
+	`Escape`	: end_search();
+}
+
+Keyboard QueryReplace {
+	`F1`		: open_helpfile("TextEditing#M-%");
+	`Help`		: open_helpfile("TextEditing#M-%");
+	`~S- ` ... `~S-~`	: search_self_insert(pressedkey,1);
+	`Return`	: start_query_answer();
+	`Tab`		: search_tab();
+	`MASH-S`	: search_symbol();
+	`MASH-T`	: search_template();
+	`Delete`	: search_remove_char();
+	`BackSpace`	: search_remove_char();
+	`C-g`		: cancel_search();
+	`Escape`	: end_search();
+}
+
+Keyboard Answer {
+	`F1`		: open_helpfile("TextEditing#y, Spacebar");
+	`Help`		: open_helpfile("TextEditing#y, Spacebar");
+
+	`~S-Y`		: answer_yes();
+	`~S-y`		: answer_yes();
+	`~S- `		: answer_yes();
+	`~S-N`		: answer_no();
+	`~S-n`		: answer_no();
+	`Delete`	: answer_no();
+	`Escape`	: answer_end();
+	`~S-Q`		: answer_end();
+	`~S-q`		: answer_end();
+	`C-g`		: answer_interrupt();
+	`~S-!`		: answer_all();
+}
+
+
+Keyboard DefineEdit {
+	`F1`		: context_message_help();
+	`Help`		: context_message_help();
+
+	`CM~S->`	: reset_map();
+	`C-u`		: start_argument();
+	`C-t`		: D_transpose_char();
+	`Left`		: D_backward_char(defarg);
+	`C-b`		: D_backward_char(defarg);
+	`Right`		: D_forward_char(defarg);
+	`C-f`		: D_forward_char(defarg);
+	`Return`	: D_newline(defarg);
+	`C-Return`	: D_soft_newline(defarg);
+	`BackSpace`	: D_backward_delete_char(defarg);
+	`S-BackSpace`	: D_backward_delete_char(defarg);
+	`C-Delete`	: D_backward_delete_char(defarg);
+	`C-h`		: D_backward_delete_char(defarg);
+	`C-BackSpace`	: D_delete_char(defarg);
+	`Delete`	: D_delete_char(defarg);
+	`S-Delete`	: D_delete_char(defarg);
+	`C-d`		: D_delete_char(defarg);
+	`M-Delete`	: D_delete_version();
+	`CM-Delete`	: D_clear_window();
+	`M-a`		: D_automatic_output();
+	`C-k`		: D_kill_line();
+	`Tab`		: D_insert_tab(defarg);
+	`S-Tab`		: D_insert_backtab();
+	`C-Tab`		: D_insert_settab(defarg);
+	`CM-e`		: D_insert_expression(defarg);
+	`CM-o`		: D_insert_operator(defarg);
+	`CM-i`		: D_insert_identifier(defarg);
+	`CM-t`		: D_insert_text(defarg);
+	`CM-v`		: D_insert_variable(defarg);
+	`Home`		: D_beginning_of_line();
+	`C-a`		: D_beginning_of_line();
+	`Down`		: D_next_line(1);
+	`C-n`		: D_next_line(1);
+	`Up`		: D_previous_line(1);
+	`C-p`		: D_previous_line(1);
+	`End`		: D_end_of_line();
+	`C-e`		: D_end_of_line();
+	`M-Down`	: D_move_version_down();
+	`M-Up`		: D_move_version_up();
+	`M-Home`	: D_move_version_first();
+	`M-End`		: D_move_version_last();
+	`M-Prior`	: D_move_template_begin();
+	`M-Next`	: D_move_template_end();
+	`M-Left`	: D_move_template_left();
+	`M-Right`	: D_move_template_right();
+	`M-t`		: D_switch_tabmode();
+	`F18`		: insert_selection();
+	`F3`		: insert_selection();
+	`MASH-S`	: D_symbol_click();
+	`MASH-T`	: D_template_click();
+	`MASH-P`	: D_insert_selection();
+	`~S- ` ...`~S-~`	: D_self_insert(pressedkey,defarg);
+	`M- `		: D_insert_glue_space(1);
+	`M--`		: D_insert_glue_line(1);
+	`M-.`		: D_insert_glue_stipple(1);
+	`M-f`		: D_insert_font(1);
+	`M-s`		: D_insert_size(1);
+	`M-r`		: D_insert_relative_size(1);
+	`F7`		: D_selected_template();
+}
+
+Keyboard StringEdit {
+	`F1`		: context_message_help();
+	`Help`		: context_message_help();
+	`CM-]`		: reset_map();
+	`Delete`	: S_delete_char(defarg);
+	`S-Delete`	: S_delete_char(defarg);
+	`C-d`		: S_delete_char(defarg);
+	`C-BackSpace`	: S_delete_char(defarg);
+	`M-Delete`	: S_kill_line();
+	`C-k`		: S_kill_line();
+	`CM-BackSpace`	: S_kill_line();
+	`BackSpace`	: S_backward_delete_char(defarg);
+	`S-BackSpace`	: S_backward_delete_char(defarg);
+	`C-Delete`	: S_backward_delete_char(defarg);
+	`M-BackSpace`	: S_backward_kill_line();
+	`CM-Delete`	: S_backward_kill_line();
+	`Left`		: S_backward_char(defarg);
+	`Right`		: S_forward_char(defarg);
+	`Up`		: S_previous_line();
+	`Down`		: S_next_line();
+	`Home`		: S_beginning_of_line();
+	`Begin`		: S_beginning_of_line();
+	`End`		: S_end_of_line();
+	`C-b`		: S_backward_char(defarg);
+	`C-f`		: S_forward_char(defarg);
+	`C-p`		: S_previous_line();
+	`C-n`		: S_next_line();
+	`C-a`		: S_beginning_of_line();
+	`C-e`		: S_end_of_line();
+	`Return`	: S_next_field();
+	`Tab`		: S_next_field();
+	`C-Tab`		: S_prev_field();
+	`C-Return`	: S_prev_field();
+	`MASH-S`	: S_symbol_click();
+	`F18`		: insert_selection();
+	`F3`		: insert_selection();
+	`~S- ` ... `~S-~`	: S_self_insert(pressedkey,defarg);
+}
+
+Keyboard RemarkDefault {
+	`Return`	: remark_default_action();
+}
+
+Var Int sval, slen;
+sval,slen:= 0,3;
+Function mult_or_insert(Int key)
+{
+	sval:=sval*8+key-'0';
+	slen:=slen-1;
+	if (!slen)
+		self_insert(sval, defarg);
+		slen:=3;
+		sval:=0;
+	fi;
+}
+
+Var Int skip;
+Keyboard SelfInsert {
+	`~SCMUH-Shift_L`	: skip:=1;
+	`~SCMUH-Shift_R`	: skip:=1;
+	`~SCMUH-Control_L`	: skip:=1;
+	`~SCMUH-Control_R`	: skip:=1;
+	`~SCMUH-Meta_L`		: skip:=1;
+	`~SCMUH-Meta_R`		: skip:=1;
+	`~SCMUH-Mode_switch`	: skip:=1;
+	`~SCMUH-Alt_L`		: skip:=1;
+	`~SCMUH-Alt_R`		: skip:=1;
+	`~SCMUH-Num_Lock`	: skip:=1;
+	`~CMS- ` ... `~CMS-~` : self_insert(pressedkey,defarg);
+	`0` ... `7`		: mult_or_insert(pressedkey);
+	`~CMS-Greek_ALPHAaccent` ... `~CMS-Greek_omega` : self_insert(pressedkey,defarg);
+}
+
+Keyboard FileSel {
+	`F1`		: open_helpfile("MoreOnWindows#File Selector");
+	`Help`		: open_helpfile("MoreOnWindows#File Selector");
+	`Return`	: fileselc_OK_action();
+	`Tab`		: fileselc_completion();
+}
+
+
+Include "menus.mpk"
+
+change_font(editfont, "Family", "Roman");
+change_font(editfont, "Series", "Medium");
+change_font(editfont, "Size", "Normal");
+change_font(editfont, "Shape", "Upright");
+
+symbolfont:=editfont;
+
+change_font(symbolfont, "Size", "Small");
+
+stencilfont:=symbolfont;
+popupfont:=symbolfont;
+
+use_map("Global");
+
+standard_keyboard("Edit", "Global");
+standard_keyboard("Find", "Global");
+standard_keyboard("Buffer", "Global");
+standard_keyboard("FileSelc", "StringEdit,FileSel");
+standard_keyboard("Remark", "StringEdit,RemarkDefault");
+standard_keyboard("Define", "DefineEdit");
+standard_keyboard("Default", "StringEdit");

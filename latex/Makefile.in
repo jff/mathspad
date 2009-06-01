@@ -1,0 +1,19 @@
+
+TOPSRCDIR = @top_srcdir@
+TOPOBJ    = .
+SRCDIR    = @srcdir@
+VPATH     = @srcdir@
+
+
+DATAFILES = MathSpad.sty MathSpadHeader.sty mathpad.sty mplogo.tex \
+		mpmacros.tex oz.sty specmacros.tex color.pro X11color.sty \
+		mathss.mf mathss.tfm mathss.300pk mathss.600pk Umathss.fd
+
+datasubdir = /latex
+
+
+@MAKE_RULES@
+
+
+all: 
+

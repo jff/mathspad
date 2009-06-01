@@ -1,0 +1,2 @@
+[4mMathpad Stencils
+[0mISafa0e26N   "1ECexpGVafa0e26L#"KCbfI80KexpdfI(8fO)JCbfIexpdfI(8fO)GVafa0e26M#"JCbfI80KlndfI(8fO)ICbfIlndfI(8fO)ISafa0e27A# )"1ECaddGVafa0e26O!"CC+GVafa0e26P!"CC-ISafa0e27D# *"1ECmulGVafa0e27B!"CC·GVafa0e27C!"CC÷ISafa0e27J#!%%1ICcompareGVafa0e27E!"CC=GVafa0e27F!"CC<GVafa0e27G!"CC>GVafa0e27H!"CC226EGVafa0e27I!"CC226FISafa0e27L#) !1ECandGVafa0e27K#!ECandIC80J~~~and

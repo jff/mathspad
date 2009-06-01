@@ -1,0 +1,185 @@
+[4mMathpad Document
+[0m7fLN0E08fPIN2A0ISe1cdfa3E   *2OCDocumentClass1KCLatex2e#DocumentClassHelpGVe1cdfa3F'!1NCbfMArticledfM [82HClassOptions82I8bO]
+4MC80J\documentclass[8bO]{article}%80I\usepackage{MathSpad,makeidx,ifthen,latexsym}
+LCArticle[8bO]GVe1cdfa3G'!LCbfMArticledfM
+4JC80J\documentclass{article}%80I\usepackage{MathSpad,makeidx,ifthen,latexsym}80IICArticleGVe1cdfa3H'!1MCbfMReportdfM [82HClassOptions82I8bO]
+4LC80J\documentclass[8bO]{report}%80I\usepackage{MathSpad,makeidx,ifthen,latexsym}80IKCReport[8bO]GVe1cdfa3I'!KCbfMReportdfM
+4IC80J\documentclass{report}%80I\usepackage{MathSpad,makeidx,ifthen,latexsym}80IHCReportGVe1cdfa3J'!1KCbfMBookdfM [82HClassOptions82I8bO]
+4CC80J\documentclass[8bO]{book}%80I\usepackage{MathSpad,makeidx,latexsym}80IICBook[8bO]GVe1cdfa3K'!ICbfMBookdfM
+3NC80J\documentclass{book}%80I\usepackage{MathSpad,makeidx,ifthen}80IFCBookGVe1cdfa3L'!1LCbfMSlidesdfM[82HClassOptions82I8bO]
+4LC80J\documentclass[8bO]{slides}%80I\usepackage{MathSpad,makeidx,ifthen,latexsym}80IKCSlides[8bO]GVe1cdfa3M'!KCbfMSlidesdfM
+4IC80J\documentclass{slides}%80I\usepackage{MathSpad,makeidx,ifthen,latexsym}80IHCSlidesGVe1cdfa3N'!1MCbfMLetterdfM [82HClassOptions82I8bO]
+4LC80J\documentclass[8bO]{letter}%80I\usepackage{MathSpad,makeidx,ifthen,latexsym}80IKCLetter[8bO]GVe1cdfa3O'!KCbfMLetterdfM
+4IC80J\documentclass{letter}%80I\usepackage{MathSpad,makeidx,ifthen,latexsym}80IHCLetter%8bOIN0E18fPHN2A0ISe1cdfa4C   82NCClassOptions1JCLatex2e#ClassOptionsHelpGVe1cdfa4D'!HCbfM10ptdfMGC80J10ptFC10ptGVe1cdfa4E'!HCbfM11ptdfMGC80J11ptFC11ptGVe1cdfa4F'!HCbfM12ptdfMGC80J12ptFC12ptGVe1cdfa4G'!MCbfMTwoColumndfMLC80JtwocolumnKCTwoColumnGVe1cdfa4H'!MCbfMOneColumndfMLC80JonecolumnKCOneColumnGVe1cdfa4I'!KCbfMTwoSidedfMJC80JtwosideICTwoSideGVe1cdfa4J'!KCbfMOneSidedfMJC80JonesideICOneSideGVe1cdfa4K'!ICbfMleqnodfMHC80JleqnoGCleqnoGVe1cdfa4L'!ICbfMfleqndfMHC80JfleqnGCfleqnGVe1cdfa4M'!MCbfMTitlePagedfMLC80JtitlepageKCTitlePageGVe1cdfa4N'!OCbfMNoTitlePagedfMNC80JnotitlepageMCNoTitlePageGVe1cdfa4O'!LCbfMA4 PaperdfMJC80Ja4paperPCA4-210 x 297mmGVe1cdfa4P'!LCbfMA5 PaperdfMJC80Ja5paperPCA5-148 x 210mmGVe1cdfa5A'!LCbfMB5 PaperdfMJC80Jb5paperPCB5-176 x 250mmGVe1cdfa5B'!PCbfMLetter PaperdfMNC80Jletterpaper1DCLetter- 8.5 x 11inGVe1cdfa5C'!OCbfMLegal PaperdfMMC80Jlegalpaper1BCLegal-8.5 x 14inGVe1cdfa5D'!1CCbfMExecutive PaperdfM1AC80Jexecutivepaper1ICExecutive-7.25 x 10.5inGVe1cdfa5E'!MCbfMLandscapedfMLC80JlandscapeKCLandscapeGVe1cdfa5F'!OCbfMDraftOutputdfMHC80JdraftMCDraftOutputGVe1cdfa5G'!OCbfMFinalOutputdfMHC80JfinalMCFinalOutputGVe1cdfa5H'!MCbfMOpenRightdfMLC80JopenrightKCOpenRightGVe1cdfa5I'!KCbfMOpenAnydfMJC80JopenanyJCOpenAny GVe1cdfa5J'!PCbfMOpenBibStyledfMJC80JopenbibNCOpenBibStyleGVe1cdfa5K#!GCClockGCclock?8fPJN2A0ISe1cdfcfG   "2JCPackages1FCLatex2e#PackagesHelpGVe1cdfcfH#!1NCbfMPackagedfM {82HPackageNames82I8bO}
+1BC80J\usepackage{8bO}80IGVe1cdfcfI#!2LCbfMPackagedfM ccA[82HOptions82I8bN]80P{82HPackageNames82I8bO}
+1EC80J\usepackage[8bN]{8bO}80IC8bO2BN0E1epsf,MathSpadHeader,a4wide8bNHN0E2\input{mpmacros}
+8fPJN2A0ISe1ce087E   (21BCParameters-OpsOn1NCLatex2e#Parameters-OpsOnHelpGVe1ce087H'#2BCbfMSet counterdfM {82Hname82I8bO} bfMtodfM {8bN}1CC\setcounter{8bO}{8bN}1GCSet counter (integer)GVe1ce087I'#2CCbfMTo counterdfM {82Hname82I8bO} bfMadddfM {8bN} 1EC\addtocounter{8bO}{8bN}1JCAdd to counter (integer)GVe1ce087J'#2CCbfMChange valuedfM {82Hname82I8bO} bfMtodfM {8bN}1EC\renewcommand{8bO}{8bN}1HCChange value (decimal)GVe1ce087F'#2ACbfMSet lengthdfM {82Hname82I8bO} bfMtodfM {8bN}1BC\setlength{8bO}{8bN}LCSet lengthGVe1ce087G'#2ACbfMTo lengthdfM {82Hname82I8bO} bfMadddfM {8bN}1DC\addtolength{8bO}{8bN}OCAdd to lengthGVe1cfd8aL'#2JCbfMSet lengthdfM {82Hname82I8bO} bfMto width of dfM{8bN}1CC\settowidth{8bO}{8bN}1ECSet length to widthGVe1cfd8dH'#2KCbfMSet lengthdfM {82Hname82I8bO} bfMto height of dfM{8bN}1DC\settoheight{8bO}{8bN}1FCSet length to heightGVe1cfd8dO'#2JCbfMSet lengthdfM {82Hname82I8bO} bfMto depth of dfM{8bN}1CC\settodepth{8bO}{8bN}1ECSet length to depthH8bNLN0E220cm8bOIN0E18fPHN2A0ISe1ce03dP   B2LCParameters1HCLatex2e#ParametersHelpGVe1ce03eA##KCparindentLC\parindentGVe1ce03eB##LCmathindentMC\mathindentGVe1ce03eC##KCbibindentLC\bibindentGVe1ce03eD##KCtextwidthLC\textwidthGVe1ce03eE##LCtextheightMC\textheightGVe1ce03eF##ICparskipJC\parskipGVe1ce03eG##NCbaselineskipPC\baselineskip80JGVe1ce03eH##MCfootnotesepNC\footnotesepGVe1ce03eI!#MCsecnumdepthGVe1ce03eJ!#JCtocdepthGVe1ce03eK##LCpaperwidthMC\paperwidthGVe1ce03eL##MCpaperheightNC\paperheightGVe1ce03eM##KCtopmarginLC\topmarginGVe1ce03eN##LCheadheightMC\headheightGVe1ce03eO##ICheadsepJC\headsepGVe1ce03eP##OCoddsidemarginPC\oddsidemarginGVe1ce03fA##PCevensidemargin1AC\evensidemarginGVe1ce03fB##KClinewidthLC\linewidthGVe1ce03fC##KCcolumnsepLC\columnsepGVe1ce03fD##OCcolumnseprulePC\columnsepruleGVe1ce03fE##JCfootskipKC\footskipGVe1ce03fF##OCmarginparpushPC\marginparpushGVe1ce03fG##NCmarginparsepOC\marginparsepGVe1ce03fH##PCmarginparwidth1AC\marginparwidthGVe1ce03fI##1BCabovedisplayskip1CC\abovedisplayskipGVe1ce03fJ##1BCbelowdisplayskip1CC\belowdisplayskipGVe1ce03fK##HCtopsepIC\topsepGVe1ce03fL##1GCabovedisplayshortskip1HC\abovedisplayshortskipGVe1ce03fM##1GCbelowdisplayshortskip1HC\belowdisplayshortskipGVe1ce03fP##1ACbaselinestretch1BC\baselinestretchGVe1ce040A##1HCunitlength in picturesMC\unitlengthGVe1f5e43N##1ACsmallskipamount1BC\smallskipamountGVe1f5e46E##OCmedskipamountPC\medskipamountGVe1f5e47J##OCbigskipamountPC\bigskipamounti
+8fPJN2A0H8bNNN0E215.5cm8bOIN0E18fPHN2A0j
+\font\metafnt=logo10 scaled \magstephalf
+\newcommand{\METAFONT}{{\metafnt METAFONT}}
+%Add addfont to package too.
+%\AddFont{mpfont}{mpfont}{\mpfont}
+\pagestyle{myheadings}
+%\renewcommand{\chaptermark}[1]{\markboth{{\rm 8fPHN2A0ISafa0e17G   !0GVafa0e17F#!MC80JbfIMath222LpaddfILC80J\mplogo{}n 0.51\ \ \today}\hspace{1cm} {\thechapter. #1}}{}}
+%\renewcommand{\sectionmark}[1]{\markright{{\thesection. #1}\hspace{1cm}{\rm\today}}}
+\renewcommand{\chaptermark}[1]{\markboth{\thechapter. #1}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection. #1}}
+\newlength{\GSboxwidth}
+\setlength{\GSboxwidth}{\textwidth}
+\addtolength{\GSboxwidth}{-\fboxsep}
+\addtolength{\GSboxwidth}{-\fboxsep}
+\mathsurround=2pt
+\parindent 0pt
+\setlength{\parskip}{0.5\baselineskip}
+%\includeonly{Copyright,Preface,Welcome,Philosophy,Tutorial,Basics,MoreOnWindows,
+%ConsoleCommands,TextEditing,StructureEditing,MathSEditing,FindAndReplace,
+%StencilsandTemplates,VersionDefinition,Defaults,SystemAdministration,LatexHelp}
+%\includeonly{LatexHelp}
+8fPHN2A0ISe1ce8b4D   "2JCCommands1HCLatex2eC#MakeIndexHelpGVe1ce8b4E#!OCbfMMake IndexdfM
+OC80J\makeindex 80IGVe1ce8b4F#!1GCbfMInsert index here.dfM
+PC80J\printindex 80Ip8fPHN2A0ISe1cf5c2A   "2PCBegin/End(doc)1LCLatex2e#Begin/End(doc)HelpGVe1cf5c2B'!1CCbfKBegin documentdfK
+1DC80J\begin{document}80IGCBeginGVe1cf5c2C'!1ACbfKEnd documentdfK
+1BC80J\end{document}80IECEndr
+8fPHN2A0ISe1dbb4aD   $21GCBibliographyStyle    1GCLatex2eC#BibStyleHelpGVe1dbb4aE'!1MCbfMBibliography Style PlaindfM
+1LC\bibliographystyle{plain}80IGCPlainGVe1dbb4aF'!1MCbfMBibliography Style UnsrtdfM
+1LC\bibliographystyle{unsrt}80IGCUnsrtGVe1dbb4aG'!1MCbfMBibliography Style AlphadfM
+1LC\bibliographystyle{alpha}80IGCAlphaGVe1dbb4aH'!1MCbfMBibliography Style AbbrvdfM
+1LC\bibliographystyle{abbrv}80IGCAbbrvv8fPHN2A0ISe1ce015A   (2KCPageStyle1GCLatex2e#PageStyleHelpGVe1ce015B'!1DCbfMPageStyle plaindfM
+1EC80J\pagestyle{plain}80IGCPlainGVe1ce015C'!1DCbfMPageStyle emptydfM
+1EC80J\pagestyle{empty}80IGCEmptyGVe1ce015D'!1GCbfMPageStyle headingsdfM
+1HC80J\pagestyle{headings}80IJCHeadingsGVe1ce015E'!1HCbfMPageStyle myheadingdfM
+1JC80J\pagestyle{myheadings}80ILCMyHeadingsGVe1ce015F'!1HCbfMThisPageStyle plaindfM
+1IC80J\thispagestyle{plain}80IPCThisPage PlainGVe1ce015G'!1HCbfMThisPageStyle emptydfM
+1IC80J\thispagestyle{empty}80IPCThisPage EmptyGVe1ce015H'!1KCbfMThisPageStyle headingsdfM
+1LC80J\thispagestyle{headings}80I1CCThisPage HeadingsGVe1ce015I'!1LCbfMThisPageStyle myheadingdfM
+1NC80J\thispagestyle{myheadings}80I1ECThisPage MyHeadingsy
+8fPKN2A0ISe1d5d89K   &2OCTitle        1CCLatex2e#TitleHelpGVe1d5d89L'!2DC81P80C80EcbNbfO82HTitle82I8bOdfO80P80F
+
+80C80EcbO82HAuthor82I8bN80P80F82A
+2FC80J\title{8bO}%80I\author{8bN}%80I\maketitle 80IPCTitle & AuthorGVe1d5d89M'!3BC81P80C80EcbNbfO82HTitle82I8bOdfO80P80F
+
+80C80EcbO82HAuthor82I8bN80P80F
+
+80C80EcbO82HDate82I8bM80P80F82A
+2PC80J\title{8bO}%80I\author{8bN}%80I\date{8bM}%80I\maketitle 80I1FCTitle, Author & DateGVe1d5d89N'!CC8bONC\thanks{8bO}\ HCThanksGVe1d5d89O'!ECandGC\and 1GCand (between authors)GVe1d5d89P'!1ACbfOTitle PagedfO
+8bO
+2GC80J\begin{titlepage}80I8bO80I\end{titlepage}80I1BCTitle Page (DIY)GVe1d5d8aA'!PCbfMtoday's datedfMJC\today{}NCToday's Date8D8bM1DN0E3Version 0.608bN2NN0E2Roland Backhouse and Richard Verhoeven8bO1BN0E18fPIN2A0ISe196d0dO   *2JCTextSize1GCLatex2eA#TextSizeHelpGVe196d0dP%!FC80JccD8bO80PFCtinyGVe196d0eA%!FC80Jc4C8bO80PLCscriptsizeGVe196d0eB%!FC80Jc4B8bO80PNCfootnotesizeGVe196d0eC%!FC80Jc4A8bO80PGCsmallGVe196d0eD%!FC80Jc3P8bO80PLCnormalsizeGVe196d0eE%!FC80Jc3O8bO80PGClargeGVe196d0eF%!FC80Jc3N8bO80PGCLargeGVe196d0eG%!FC80Jc3M8bO80PGCLARGEGVe196d0eH%!FC80Jc3L8bO80PFChugeGVe196d0eI%!FC80Jc3K8bO80PFCHuge8F8bOIN0E18fPHN2A0n \\
+8fPIN2A08I8bOIN0E18fPIN2A0ISe196d18D   +2KCTextStyle1HCLatex2eA#TextStyleHelpGVe196d18N'!FC80JbfJ8bOdfJKC80J\emph{8bO}1CCbfMEmphasizeddfM textGVe196d18E'!DC80J8bOMC80J\textup{8bO}OCUpright shapeGVe196d18F'!FC80JbfM8bOdfMMC80J\textit{8bO}PCbfMItalicdfM shapeGVe196d18G'!FC80JbfJ8bOdfJMC80J\textsl{8bO}1ACbfJSlanteddfJ shapeGVe196d18H'!DC80J8bOMC80J\textsc{8bO}1FCSccBMALLcbPcbNCccBAPS cbNshapeGVe196d18I'!DC80J8bOMC80J\textmd{8bO}OCMedium seriesGVe196d18J'!FC80JbfO8bOdfOMC80J\textbf{8bO}OCbfOBolddfO seriesGVe196d18K'!DC80J8bOMC80J\textrm{8bO}NCRoman familyGVe196d18L'!FC80JbfI8bOdfIMC80J\textsf{8bO}1ECbfISans SerifdfI familyGVe196d18M'!FC80JbfH8bOdfHMC80J\texttt{8bO}1ECbfHTypewriterdfH familyGVe196d18O'!FC80JbfK8bOdfK1GC80J\textbf{80J\textit{8bO}}1NCbfKBolddfK series bfKItalicdfK shape9D8bO2FN0E1Ergonomic Document Preparation \\
+\frontmatter
+8fPHN2A0y\input{Copyright}
+%*****************************************************************
+%8fPIN2A09D8bO1MN0E1see entries for index
+8fPMN2A0ISe1ce8baJ   "2KCSEE-Entry1HCLatex2eC#MakeIndexHelpGVe1ce8bbC'!bIC80JbfKIndex EntrydfK
+bfMprimary sort key:dfM80C8bO
+bfMsub sort key:dfM80C8bN
+bfMsubsub sort keydfM80C8bM
+80CbfMvisual key if different from sort key:dfM80C80C8bL
+bfMsee other entry --- enter other entrydfM80C8bK
+bfKEnd of Index EntrydfK
+1PC80J\mpindexnewS{8bO}{8bN}{8bM}{8bL}{8bK}{}1ACenter SEE entryGVe1ce8bbI'!1JC80J8bO 80CbfIseedfI     8bKbfK81Ji81L 81M81NdfK
+1PC80J\mpindexnewS{8bO}{8bN}{8bM}{8bL}{8bK}{}1ECdisplay SEE command9K8bK1BN0E58fPHN2A0ISe1cfa44M   %2GCLaTeX1CCLatex2e#LaTeXHelpGVe1cfa44N#!1FCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NXKC80J\LaTeX{}GVe1cfa44O#!MCT81K81L81K81L81ME81N81M81NXIC80J\TeX{}GVe1cfa45A#!1HCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NX23bF4AC80J{\mathsurround=0pt\LaTeX $2_80L{\textstyle 3bF}$\hspace{-0.4mm}}{}GVe1cfa45B#!1BCBccAIB80PT81K81L81K81L81ME81N81M81NX1FC80J80J\textsc{Bib}\TeX{}GVe1e4779B#!MCbfMMakeIndexdfMOCbfMMakeIndexdfM{}  document8bLHN0E48bMHN0E38bNHN0E28bO1BN0E1book class
+8fPMN2A09K8bK1BN0E58fPHN2A0  document8bLHN0E48bMHN0E38bNHN0E28bO1EN0E1article class
+8fPMN2A09K8bK1BN0E58fPHN2A0  document8bLHN0E48bMHN0E38bNHN0E28bO1DN0E1report class
+8fPMN2A09K8bK1BN0E58fPHN2A0  document8bLHN0E48bMHN0E38bNHN0E28bO1DN0E1letter class
+8fPMN2A09K8bK1BN0E58fPHN2A0  document8bLHN0E48bMHN0E38bNHN0E28bO1DN0E1slides class
+8fPMN2A09K8bK1AN0E5descender8bLHN0E48bMHN0E38bNHN0E28bOON0E1descent
+8fPMN2A09K8bK1HN0E5system variables8bLIN0E48fPIN2A09A8bO1CN0E1MATHPADHOME8bMHN0E38bNHN0E28bO1CN0E1MATHPADHOME
+8fPMN2A09K8bK1HN0E5system variables8bLIN0E48fPIN2A09A8bO1GN0E1MATHPADHELPPATH8bMHN0E38bNHN0E28bO1GN0E1MATHPADHELPPATH
+8fPMN2A09K8bK1DN0E5place holder8bLIN0E48fPIN2A09B8bO1CN0E1Insert Disp8bMHN0E38bNHN0E28bO1CN0E1Insert Disp
+8fPMN2A09K8bK1DN0E5place holder8bLIN0E48fPIN2A09B8bO1CN0E1Insert Expr8bMHN0E38bNHN0E28bO1CN0E1Insert Expr
+8fPMN2A09K8bK1DN0E5place holder8bLIN0E48fPIN2A09B8bO1AN0E1Insert Id8bMHN0E38bNHN0E28bO1AN0E1Insert Id
+8fPMN2A09K8bK1DN0E5place holder8bLIN0E48fPIN2A09B8bO1AN0E1Insert Op8bMHN0E38bNHN0E28bO1AN0E1Insert Op
+8fPMN2A09K8bK1DN0E5place holder8bLIN0E48fPIN2A09B8bO1CN0E1Insert Text8bMHN0E38bNHN0E28bO1CN0E1Insert Text
+8fPMN2A09K8bK1DN0E5place holder8bLIN0E48fPIN2A09B8bO1BN0E1Insert Var8bMHN0E38bNHN0E28bO1BN0E1Insert Var
+8fPMN2A09K8bKPN0E5template8bLHN0E48bMHN0E38bNHN0E28bO1CN0E1code number
+8fPMN2A09K8bK1BN0E58fPIN2A09J8bOLN0E1also dragging8bLHN0E48bMHN0E38bNHN0E28bOMN0E1click
+8fPMN2A09K8bKON0E58fPIN2A09J8bOLN0E1also click8bLHN0E48bMHN0E38bNHN0E28bOPN0E1dragging
+8fPMN2A09K8bK1BN0E5expression8bLIN0E48fPIN2A09B8bO1BN0E1Add/Rem ()8bMHN0E38bNHN0E28bO1BN0E1Add/Rem ()
+8fPMN2A09K8bK1BN0E5expression8bLIN0E48fPIN2A09B8bOMN0E1Apply8bMHN0E38bNHN0E28bOMN0E1Apply
+8fPMN2A09K8bK1BN0E5expression8bLIN0E48fPIN2A09B8bOON0E1Commute8bMHN0E38bNHN0E28bOON0E1Commute
+8fPMN2A09K8bK1BN0E5expression8bLIN0E48fPIN2A09B8bOLN0E1Copy8bMHN0E38bNHN0E28bOLN0E1Copy
+8fPMN2A09K8bK1BN0E5expression8bLIN0E48fPIN2A09B8bONN0E1Delete8bMHN0E38bNHN0E28bONN0E1Delete
+8fPMN2A09K8bK1BN0E5expression8bLIN0E48fPIN2A09B8bO1BN0E1Distribute8bMHN0E38bNHN0E28bO1BN0E1Distribute
+8fPMN2A09K8bK1BN0E5expression8bLIN0E48fPIN2A09B8bO1AN0E1Factorise8bMHN0E38bNHN0E28bO1AN0E1Factorise
+8fPMN2A09K8bK1BN0E5expression8bL1CN0E48fPIN2A09B8bOLN0E1Find menu item8bMHN0E38bNHN0E28bOLN0E1Find
+8fPMN2A09K8bK1BN0E5expression8bLIN0E48fPIN2A09B8bOMN0E1Group8bMHN0E38bNHN0E28bOMN0E1Group
+8fPMN2A09K8bK1BN0E5expression8bLIN0E48fPIN2A09B8bONN0E1Rename8bMHN0E38bNHN0E28bONN0E1Rename
+8fPMN2A09K8bK1BN0E5expression8bLIN0E48fPIN2A09B8bOON0E1Reverse8bMHN0E38bNHN0E28bOON0E1Reverse
+8fPMN2A09K8bK1BN0E5expression8bLIN0E48fPIN2A09B8bOON0E1Ungroup8bMHN0E38bNHN0E28bOON0E1Ungroup
+8fPMN2A09K8bK1DN0E5place holder8bLHN0E48bM1DN0E3place holder8bNPN0E2entering8bO1BN0E1expression8fPMN2A09K8bKON0E5stencil8bL1ON0E4Gries-Schneider stencil8bMHN0E38bNHN0E28bO1ON0E1Gries-Schneider stencil
+8fPMN2A09K8bK1HN0E5spelling checker8bLHN0E48bMHN0E38bNHN0E28bONN0E1Ispell8fPMN2A09K8bK1BN0E58fPHN2A0  document8bLHN0E48bMHN0E38bNLN0E2root8bOLN0E1file8fPMN2A09K8bKON0E5stencil8bL1GN0E4latex2e stencil8bMHN0E38bNHN0E28bO1GN0E1latex2e stencil
+8fPMN2A09K8bK5HN0E5buffer, console, document, file selector, mouse, stencil, symbol
+palette, window8bLHN0E48bMHN0E38bNHN0E28bONN0E1button
+8fPMN2A09K8bKMN0E5mouse8bLHN0E48bMHN0E38bNHN0E28bO1IN0E1near mouse button
+8fPMN2A09K8bKMN0E5mouse8bLHN0E48bMHN0E38bNHN0E28bO1KN0E1middle mouse button
+8fPMN2A09K8bKMN0E5mouse8bLHN0E48bMHN0E38bNHN0E28bO1HN0E1far mouse button
+8fPMN2A09K8bK1CN0E5window port8bLHN0E48bMHN0E38bNHN0E28bO1MN0E1buffer, window system
+8fPMN2A09K8bKPN0E5document8bLHN0E48bMHN0E38bNPN0E2document8bONN0E1window8fPMN2A09K8bK1EN0E5file selector8bLHN0E48bMHN0E38bN1EN0E2file selector8bONN0E1window8fPMN2A09K8bKNN0E5buffer8bLHN0E48bMHN0E38bNNN0E2buffer8bONN0E1window8fPMN2A09K8bK1EN0E5define window8bLHN0E48bMHN0E38bNNN0E2define8bONN0E1window8fPMN2A09K8bK1FN0E5default window8bLHN0E48bMHN0E38bNON0E2default8bONN0E1window8fPMN2A09K8bK1FN0E5symbol palette8bLHN0E48bMHN0E38bN1FN0E2symbol palette8bONN0E1window8fPMN2A09K8bKON0E5stencil8bLHN0E48bMHN0E38bN1GN0E2stencil palette8bONN0E1window8fPMN2A09K8bK1FN0E5find 8fPHN2A0ISe1d5142P   *2NCSpecialChars1JCLatex2e#SpecialCharsHelpGVe1d5143A#!CC#GC80J\#{}GVe1d5143B#!CC$GC80J\${}GVe1d5143C#!CC%GC80J\%{}GVe1d5143D#!CC&GC80J\&{}GVe1d5143E#"CC~HC{\sim}GVe1d5143F#!CC_GC80J\_{}GVe1d5143G#!DC80J^GC80J\^{}GVe1d5143H#"CC\NC{\backslash}GVe1d5143I#!CC{EC80J\{GVe1d5143J#!CC}EC80J\}§ replace8bLHN0E48bMHN0E38bN1FN0E2find 8fPHN2A0§ replace8bONN0E1window8fPMN2A09K8bK1FN0E5find 8fPHN2A0§ replace8bLHN0E48bMHN0E38bNHN0E28bO1FN0E1replace window8fPMN2A09K8bK1FN0E5find 8fPHN2A0§ replace8bLHN0E48bMHN0E38bNHN0E28bOMN0E1stack8fPMN2A09K8bKON0E5console8bLHN0E48bMHN0E38bNON0E2console8bONN0E1window8fPMN2A09K8bK1EN0E5file selector8bLHN0E48bMHN0E38bNHN0E28bOLN0E1mask
+8fPMN2A09K8bK1AN0E58fPIN2A09J8bOLN0E1also stencil8bLHN0E48bMHN0E38bNHN0E28bOPN0E1template
+8fPMN2A09K8bK1AN0E5selection8bLHN0E48bMHN0E38bNHN0E28bO1HN0E1target selection
+8fPMN2A09K8bK1IN0E5help or help file8bLHN0E48bMHN0E38bN1AN0E2help with8bOPN0E1template8fPMN2A09K8bK2BN0E58fPIN2A09J8bOLN0E1also template layout commands8bLHN0E48bMHN0E38bNHN0E28bO2FN0E1screen format command language
+8fPMN2A09K8bK1IN0E5help or help file8bLHN0E48bMHN0E38bN1AN0E2help with8bOON0E1stencil8fPMN2A09K8bK1GN0E58fPIN2A09J8bOLN0E1also file selector8bLHN0E48bMHN0E38bNHN0E28bO1AN0E1selection
+8fPMN2A09K8bK1AN0E5selection8bLHN0E48bMHN0E38bNHN0E28bO1HN0E1source selection
+8fPMN2A09K8bK1AN0E5selection8bLHN0E48bMHN0E38bNHN0E28bO1JN0E1argument selection
+8fPMN2A09K8bKPN0E5template8bLHN0E48bMHN0E38bNPN0E2template8bOON0E1stencil8fPMN2A09K8bKPN0E5template8bLHN0E48bMHN0E38bNHN0E28bOON0E1version
+8fPMN2A09K8bKIN0E58fPIN2A09B8bOLN0E1Info8bLHN0E48bMHN0E38bN1IN0E2information about8bOPN0E1template8fPMN2A09K8bK1AN0E5selection8bL1FN0E48fPIN2A09B8bOLN0E1Swap (selections)8bMHN0E38bNHN0E28bO2FN0E1Swap (operation on selections)
+8fPMN2A09K8bK1BN0E5expression8bL1JN0E48fPIN2A09B8bOLN0E1Swap (edit operation)8bMHN0E38bNHN0E28bO1PN0E1Swap (editing operation)
+8fPMN2A09K8bK1FN0E58fPIN2A09J8bOLN0E1also mathsurround8bLHN0E48bMHN0E38bNON0E2spacing8bOPN0E1operator8fPMN2A09K8bKLN0E5mode8bLNN0E48fPIN2A09B8bOLN0E1TEXT mode8bMHN0E38bNHN0E28bO1AN0E1TEXT mode
+8fPMN2A09K8bKLN0E5mode8bLNN0E48fPIN2A09B8bOLN0E1MATH mode8bMHN0E38bNHN0E28bO1AN0E1MATH mode
+8fPMN2A09K8bKLN0E5mode8bLNN0E48fPIN2A09B8bOLN0E1BOTH mode8bMHN0E38bNHN0E28bO1AN0E1BOTH mode
+%*****************************************************************
+\cleardoublepage
+\pagenumbering{roman}
+\include{Preface}
+\pagebreak
+\parskip .5ex
+8fPHN2A0ISe1cf689N   -2OCContentsList 1JCLatex2e#ContentsListHelpGVe1cf689O'!1GCbfMTable of  ContentsdfM
+1DC\tableofcontents 80I1ACTableOfContentsGVe1cf689P'!1DCbfMList of FiguresdfM
+1BC\listoffigures 80IOCListOfFiguresGVe1cf68aA'!1CCbfMList of TablesdfM
+1AC\listoftables 80INCListOfTablesGVe1cf68aB'!3OCbfMAdd line to TOCdfM - {82Hsec. type82I8bN} {82Hsec. no.82I8bM}   {82Htext82I8bO}
+3DC\addcontentsline{toc}{8bN}{\protect\numberline{8bM}8bO}80I1DCAddLineTOCwith no.GVe1cf68aC'!2PCbfMAdd line to LOFdfM - {82Hfig. no.82I8bM}   {82Htext82I8bO}
+3IC\addcontentsline{lof}{figure}{\protect\numberline{8bM}8bO}80I1DCAddLineLOFwith no.GVe1cf68aD'!3ACbfMAdd line to LOTdfM - {82Htable no.82I8bM}   {82Htext82I8bO}
+3HC\addcontentsline{lot}{table}{\protect\numberline{8bM}8bO}80I1DCAddLineLOTwith no.GVe1cf68aE'!3ACbfMAdd line to TOCdfM - {82Hsec. type82I8bN}   {82Htext82I8bO}
+1NC\addcontentsline{toc}{8bN}{8bO}80ILCAddLineTOCGVe1cf68aF'!1PCbfMAdd line to LOFdfM - {82Htext82I8bO}
+2CC\addcontentsline{lof}{figure}{8bO}80ILCAddLineLOFGVe1cf68aG'!1PCbfMAdd line to LOTdfM - {82Htext82I8bO}
+2BC\addcontentsline{lot}{table}{8bO}80ILCAddLineLOTGVe1cf68aH'!2DCbfMAdd to contents TOCdfM - {82Htext82I8bO}
+1IC\addtocontents{toc}{8bO}80IJCAddToTOCGVe1cf68aI'!2DCbfMAdd to contents LOFdfM - {82Htext82I8bO}
+1IC\addtocontents{lof}{8bO}80IJCAddToLOFGVe1cf68aJ'!2DCbfMAdd to contents LOTdfM - {82Htext82I8bO}
+1IC\addtocontents{lot}{8bO}80IJCAddToLOTGVe043775F'!MC82Hnumber82I{8bO}1HC\protect\numberline{8bO}NCEnter number·8fPHN2A0µ8fPHN2A0¶\cleardoublepage
+\setlength{\parskip}{0.5\baselineskip}
+\mainmatter
+\pagenumbering{arabic}
+\setcounter{page}{1}
+  \part{Introduction}
+  \include{Welcome}
+  \include{Philosophy}
+  \include{Tutorial}
+  \part{Reference Manual}
+  \include{Basics}
+  \include{MoreOnWindows}
+  \include{ConsoleCommands}
+  \include{TextEditing}
+  \include{StructureEditing}
+   \include{MathSEditing}
+  \include{FindAndReplace}
+\include{StencilsandTemplates}
+\include{VersionDefinition}
+  \include{Defaults}
+  \include{SystemAdministration}
+\appendix
+\include{LatexHelp}
+8fPIN2A0ISe1cf55aD   "2OCInputFile    1GCLatex2e#InputFileHelpGVe1cf55aE#!1BCbfMInput FiledfM {8bO}LC\input{8bO}80IGVe1cf55aF#!1DCbfMInclude FiledfM {8bO}NC\include{8bO}80I¸8bO1AN0E1IndexHelp
+8fPHN2A0ISe1d09abA   +2KCPageBreak1GCLatex2e#PageBreakHelpGVe1d09abB'!NCbfMPageBreakdfM
+NC\pagebreak 80ILCPage breakGVe1d09abC'!1NCbfMPageBreakdfM[82H0,1,2,3 or 482I8bO]OC\pagebreak[8bO]1MCPage break [ 0,1,2,3 or 4 ]GVe1d09abD'!OCbfMNoPageBreakdfMNC\nopagebreakOCNo page breakGVe1d09abE'!1PCbfMNoPageBreakdfM[82H0,1,2,3 or 482I8bO]1AC\nopagebreak[8bO]1PCNo page break [ 0,1,2,3 or 4 ]GVe1d09abI'!2DCbfMEnlarge this page bydfM {82Hlength82I8bO}1EC\enlargethispage{8bO}ICEnlargeGVe1d09abJ'!3FCbfMCompress text and enlarge this page bydfM {82Hlength82I8bO}1FC\enlargethispage*{8bO}1DCEnlarge & CompressGVe1d09abF'!LCbfMNewPagedfM
+LC\newpage 80IJCNew pageGVe1d09abG'!NCbfMClearPagedfM
+NC\clearpage 80ILCClear pageGVe1d09abH'!1DCbfMClearDoublePagedfM
+1DC\cleardoublepage 80I1CCClear double pageGVe1bb88bO'!2ECbfMClearPage then one-column formatdfM
+NC\onecolumn 80ILCOne columnGVe1bb893A'!2ECbfMClearPage then two-column formatdfM
+NC\twocolumn 80ILCTwo column¼8fPJN2A0±8bO1DN0E1Bibliography8bNON0E2chapter8fPIN2A0ISe1dbb3eJ   !2NCBibliography1KCLatex2eC#BibliographyHelpGVe1dbb3eK#!4GCbfMInsert bibliography compiled fromdfM {82Hname(s) database(s)82I8bO}bfM here.dfM
+1CC\bibliography{8bO}80IÅ8bOPN0E1bibliogr\renewcommand{\rightmark}{}
+\renewcommand{\leftmark}{}
+\backmatter
+8fPHN2A0¼\renewcommand{\rightmark}{Index}
+\renewcommand{\leftmark}{Index}
+8fPJN2A0±8bOMN0E1Index8bNON0E2chapter8fPHN2A0o
+8fPHN2A0q

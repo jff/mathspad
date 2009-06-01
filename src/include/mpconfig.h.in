@@ -1,0 +1,7 @@
+#define MATHPADHOME "@DATADIR@"
+#define MATHPADFONTPATH "@DATADIR@/fonts"
+#define MATHPADKEYS "emacs:unicode"
+
+#define DEFAULTMAPPATH ".:@DATADIR@/map"
+#define DEFAULTMPKPATH ".:@DATADIR@/mpk"
+#define DEFAULTLIBPATH ".:@LIBDIR@"

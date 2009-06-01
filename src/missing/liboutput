@@ -1,0 +1,31 @@
+
+
+Undefined symbols from output/.libs/liboutput.so.0.0.0:
+
+    UstrtoLocale
+    __ctype
+    char_latex
+    close_tabbing
+    font_closetex
+    font_openmathtex
+    font_opentexttex
+    fprintf
+    fputs
+    get_default_thinspace
+    get_display_delta
+    latex_line_unit
+    latex_side
+    latex_space_unit
+    latex_tab_unit
+    myfree
+    mymalloc
+    open_tabbing
+    out_char
+    out_char_bold
+    out_char_string
+    output_mode
+    set_default_thinspace
+    set_display_delta
+    sprintf
+    strcpy
+    strlen

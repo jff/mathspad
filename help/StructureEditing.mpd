@@ -1,0 +1,625 @@
+[4mMathpad Document
+[0m4eaBN0E08fPKN2A0ISe1d4f11P   +2PCSectionHeading2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f1aC'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+HC80J8bN{8bO}80IKC{heading}GVe1d4f20A'!3CC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80IPC[toc]{heading}GVe1d4f27D'!2MC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1CC[no no.]{heading}GVe1d4f2aE'!2NC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1AC80J8bN{8bO}\label{8bM}80IPC{heading}labelGVe1d4f2eB'!3LC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1EC[toc]{heading}labelGVe1d4f12M'!3FC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1BC80J8bN*{8bO}\label{8bM}80I1HC[no no.]{heading}labelGVe1d4f12H'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80I1EChide-[toc]{heading}GVe1d4f12I'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1IChide -[no no.]{heading}GVe1d4f12J'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1AC80J8bN{8bO}\label{8bM}80I1EChide-{heading}labelGVe1d4f12K'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1JChide-[toc]{heading}labelGVe1d4f12L'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1BC8bN80J*{8bO}\label{8bM}80I1MChide-[no no.]{heading}label'8bM1MN0E3file:StructureEditing8bO1IN0E1Structure Editing8bNIN0E28fPHN2A0ISe1d4f86L   '21ACSectioningTypes2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f86M#!JCcbLbfKPartdfK80PHC80J\partGVe1d4f86N#!MCcbMbfKChapterdfK80PKC80J\chapterGVe1d4f86O'!MCcbNbfKSectiondfK80PKC80J\sectionMCcbObfKSectiondfKccAGVe1d4f86P#!PCcbObfKSubSectiondfK80PNC80J\subsectionGVe1d4f87A#!1ACbfKSubSubSectiondfK1AC80J\subsubsectionGVe1d4f87B#!MCbfKParagraphdfKMC80J\paragraphGVe1d4f87C#!PCbfKSubParagraphdfKPC80J\subparagraph0
+Structure editing, as opposed to text editing, can be enormously beneficial
+because it enables one to work with logical building blocks  rather than with
+the encoding of those building blocks as sequences of characters.  Structure
+editing is particularly beneficial to the creation of mathematical documents,
+and a very natural technique to use.  
+
+As an example of structure editing, suppose one states and proves a theorem
+in a mathematical document.  It is often convenient to give the theorem a
+name in order to be able to refer to it later.  Let us suppose the theorem is called
+the ``Banchirikovsky theorem''.  (We have deliberately chosen a complicated
+name in order to emphasise our point.) When the name is first entered its
+``encoding'' as a sequence of characters ``B'', ``a'', ``n'', ``c'', 8fPHN2A0ISe1ec753N   %2OCAbbreviations1LCLatex2eB#AbbreviationsHelpGVe1ec753O#!GCe.g. IC80Je.g.\ GVe1ec753P!!ICbfMetc. dfMGVe1ec754A#!GCi.e. IC80Ji.e.\ GVe1ec754B#!GCE.g. IC80JE.g.\ GVe1ec754C#!GCI.e. IC80JI.e.\ 5is relevant, but 
+thereafter it is not.  It is the 8fPIN2A0ISe196d18D   +2KCTextStyle1HCLatex2eA#TextStyleHelpGVe196d18N'!FC80JbfJ8bOdfJKC80J\emph{8bO}1CCbfMEmphasizeddfM textGVe196d18E'!DC80J8bOMC80J\textup{8bO}OCUpright shapeGVe196d18F'!FC80JbfM8bOdfMMC80J\textit{8bO}PCbfMItalicdfM shapeGVe196d18G'!FC80JbfJ8bOdfJMC80J\textsl{8bO}1ACbfJSlanteddfJ shapeGVe196d18H'!DC80J8bOMC80J\textsc{8bO}1FCSccBMALLcbPcbNCccBAPS cbNshapeGVe196d18I'!DC80J8bOMC80J\textmd{8bO}OCMedium seriesGVe196d18J'!FC80JbfO8bOdfOMC80J\textbf{8bO}OCbfOBolddfO seriesGVe196d18K'!DC80J8bOMC80J\textrm{8bO}NCRoman familyGVe196d18L'!FC80JbfI8bOdfIMC80J\textsf{8bO}1ECbfISans SerifdfI familyGVe196d18M'!FC80JbfH8bOdfHMC80J\texttt{8bO}1ECbfHTypewriterdfH familyGVe196d18O'!FC80JbfK8bOdfK1GC80J\textbf{80J\textit{8bO}}1NCbfKBolddfK series bfKItalicdfK shapeA8bOLN0E1name that we use, not  the sequence of characters.
+The name of a theorem can be given a logical role using a structure editor by
+making it a component in a ``theorem'' template.  By so doing it is easy to copy
+the name, without any risk of introducing error.  This is in contrast to the use
+of a text editor where it is the individual characters that one selects and copies,
+and where the risk of introducing error is present.  
+
+The structures in a 8fPHN2A0ISafa0e17G   !0GVafa0e17F#!MC80JbfIMath222LpaddfILC80J\mplogo{}B document are embodied in the user-defined
+templates.  In this chapter we assume that the templates are already available
+and we discuss the most basic edit operations that can be performed on
+structures (creation,  copying and moving).    See 8fPJN2A0ISe04f743O   &1KCBook Ref.GVe04f743P#!1ICsection bfI8bOdfI in bfIfile:8bNdfI1DC80Jsection~\ref{8bN.8bO}GVe04f744A#!JCbfIfile:8bOdfI1GC80Jchapter~\ref{file:8bO}GVe04f744B#!MCsection bfI8bOdfI1DC80Jsection~\ref{8bN.8bO}GVe04f744C#!JCfig. bfI8bOdfI1DC80Jfig.\ \ref{fig:8bO}GVe04f744D#!KCtable bfI8bOdfI1FC80Jtable \ref{Table:8bO}GVe04f744E#!KCTable bfI8bOdfI1GC80J80JTable \ref{Table:8bO}G8bNHN@E2"8bO1LN0E1StencilsandTemplates 
+and 8fPJN2A0G8bNHN@E2"8bO1IN0E1VersionDefinition for the
+creation of templates and  8fPJN2A0G8bNHN@E2"8bO1DN0E1MathSEditing for more advanced edit operations
+relating to the manipulation of mathematical expressions. 
+
+Text is not completely unstructured: it consists of ``words'' and lines (a ``word''
+being  a sequence of characters of maximal length delimited by spaces or line
+breaks).    Facilities built into 8fPHN2A0B that exploit this structure
+are also discussed in this chapter.
+
+ 8fPKN2A0*8bMHN@E3"8bO1JN0E1Entering Templates8bNIN0E28fPHN2A0/
+Expressions are entered into a document via the templates of a stencil. See 
+8fPJN2A0H8bN1EN0E2MoreOnWindows8bOPN0E1Stencils for how to load a stencil. 
+
+The window in which a stencil is displayed is called a stencil 8fPIN2A0A8bOON0E1palette. 
+Templates from it can be entered into a document  with a simple click of the
+mouse.  (See the following section for the fine details.) The template is then
+entered at the position of the 8fPIN2A0?8bO1HN0E1target selection (subject to a few restrictions).
+
+Templates may be entered anywhere in running text.  They may also be
+entered into place holders created by other templates.  The only restriction on
+the latter is that templates may not be entered in identifier or variable place
+holders.
+
+The type of the target selection determines how the template will be used. If
+the template cannot be used, the enter command is simply ignored (and no error
+message is given). Some examples of entering templates are given in 
+8fPJN2A0D8bNHN@E2"8bO2IN0E1StructureEditing.EnteringTemplate.
+8fPLN2A0ISe1e728fL   42GCTable1ECLatex2eA#floatsHelpGVe1e728fM'!4MCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+3HC80J\begin{table}[8bL]80I8bO 80I\caption{8bN}\label{8bM}80I\end{table}80I1HCtable/capt/label/placeGVe1e728fN'!3JCbfOBegin TabledfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+3FC80J\begin{table}80I8bO 80I\caption{8bN}\label{8bM}80I\end{table}%80I1BCtable/capt/labelGVe1e728fO'!4CCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+2OC80J\begin{table}[8bL]80I8bO 80I\caption{8bN}80I\end{table}80I1BCtable/capt/placeGVe1e728fP'!2PCbfOBegin TabledfO
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+2LC80J\begin{table}80I8bO 80I\caption{8bN}80I\end{table}80ILCtable/captGVe1e7290A'!3HCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+bfOEnd TabledfO
+2CC80J\begin{table}[8bL]80I8bO 80I\end{table}80IMCtable/placeGVe1e7290B'!2ECbfOBegin TabledfO
+82Htable82I8bO
+bfOEnd TabledfO
+1PC80J\begin{table}80I8bO 80I\end{table}80IGCtableGVe1e7290C'!6ECbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+3LC80J\begin{table}[8bL]80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table}%80I2BCtable/capt+LOT entry/label/placeGVe1e7290D'!5BCbfOBegin TabledfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+3HC80J\begin{table}80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table}80I1LCtable/capt+LOT entry/labelGVe1e7290E'!5KCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+3BC80J\begin{table}[8bL]80I8bO 80I\caption[8bK]{8bN}80I\end{table}80I1LCtable/capt+LOT entry/placeGVe1e7290F'!4HCbfOBegin TabledfO
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+2OC80J\begin{table}80I8bO 80I\caption[8bK]{8bN}80I\end{table}80I1FCtable/capt+LOT entryGVe1e7abcJ'!4OCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+3JC80J\begin{table*}[8bL]80I8bO 80I\caption{8bN}\label{8bM}80I\end{table*}80I1PCtable*(2-col)/capt/label/placeGVe1e7abdD'!3LCbfOBegin Table*dfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+3GC80J\begin{table*}80I8bO 80I\caption{8bN}\label{8bM}80I\end{table*}80I1JCtable*(2-col)/capt/labelGVe1e7abdK'!4ECbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+3AC80J\begin{table*}[8bL]80I8bO 80I\caption{8bN}80I\end{table*}80I1JCtable*(2-col)/capt/placeGVe1e7abeH'!3BCbfOBegin Table*dfO
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+2NC80J\begin{table*}80I8bO 80I\caption{8bN}80I\end{table*}80I1DCtable*(2-col)/captGVe1e7ac0F'!3JCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+bfOEnd Table*dfO
+2EC80J\begin{table*}[8bL]80I8bO 80I\end{table*}80I1ECtable*(2-col)/placeGVe1e7ac1D'!2GCbfOBegin Table*dfO
+82Htable82I8bO
+bfOEnd Table*dfO
+2BC80J\begin{table*}80I8bO 80I\end{table*}80IOCtable*(2-col)GVe1e7ac1L'!6GCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3MC80J\begin{table*}[8bL]80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table*}80I2JCtable*(2-col)/capt+LOT entry/label/placeGVe1e7ac5E'!5DCbfOBegin Table*dfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3JC80J\begin{table*}80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table*}80I2DCtable*(2-col)/capt+LOT entry/labelGVe1e7ac2I'!5MCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3DC80J\begin{table*}[8bL]80I8bO 80I\caption[8bK]{8bN}80I\end{table*}80I2DCtable*(2-col)/capt+LOT entry/placeGVe1e7ac3B'!4JCbfOBegin Table*dfO
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3AC80J\begin{table*}80I8bO 80I\caption[8bK]{8bN}80I\end{table*}80I1NCtable*(2-col)/capt+LOT entry\8bN2FN0E2Effect of entering a template.8bOIN0E18fPIN2A0ISe1cfae7F   #2NCLayout-c,l,r1JCLatex2e#Layout-c,l,rHelpGVe1cfae7G'!GC
+82B8bO82C
+2BC80J80I\begin{center}80I8bO80I\end{center}80IHCCenterGVe1cfae7H'!GC
+82B8bO82C
+2HC80J80I\begin{flushleft}80I8bO80I\end{flushleft}80IKCFlushleftGVe1cfae7I'!GC
+82B8bO82C
+2JC80J80I\begin{flushright}80I8bO80I\end{flushright}80ILCFlushright_8bOIN0E18fPMN2A0ISe1fd9e6J   &21DCTabular-Enter     1FCLatex2eB#TabularHelpGVe1fd9e6K'!7DCbfMTabular  ( alignment code: dfM82H|x|  where x=l, c or r for the col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col 82I8bO80B1faP81M 81H 81N
+8bH81J81L80C 82D80C 82D 81M 81H 81N82A
+4AC80J\begin{tabular}{8bI}\hline 80I8bO \\ \hline 80I8bH\hline 80I\end{tabular}80IHC1 col.GVe1fd9e6L'!8ECbfMTabular  ( alignment code: dfM82H|x|x| where x=l, c or r for each col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C 82D 81M 81H 81N82A
+4EC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN \\ \hline 80I8bH\hline 80I\end{tabular}80IHC2 col.GVe1fd9e6M'!9GCbfMTabular  ( alignment code: dfM82H|x|x|x| where x=l, c or r for each col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C 82D 81M 81H 81N82A
+4HC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN & 8bM\\ \hline 80I8bH\hline 80I\end{tabular}80IHC3 col.GVe1fd9e6N'!8MCbfMTabular  ( alignment code: dfM82He.g.|l|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+4MC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL\\ \hline 80I8bH\hline 80I\end{tabular}80IHC4 col.GVe1fd9e6O'!9OCbfMTabular  ( alignment code: dfM82He.g.|l|c|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B82D 82Hhead col82I8bK80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+5AC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL & 8bK\\ \hline 80I8bH\hline 80I\end{tabular}80IHC5 col.GVe1fd9e6P'!bACbfMTabular  ( alignment code: dfM82He.g.|l|c|c|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B82D 82Hhead col82I8bK80B82D 82Hhead col82I8bJ80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+5EC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL & 8bK & 8bJ\\ \hline 80I8bH\hline 80I\end{tabular}80IHC6 col.c8bHON0E88fPKN2A0ISe1fd9e7H   &2MCTabular-Row1FCLatex2eB#TabularHelpGVe1fd9e7I'!KC80C 82D 8bO80C 82D
+HC80J8bO\\ 80IKCRow 1-colGVe1fd9e7J'!PC80C 82D 8bO80C82D 8bN80C 82D 
+MC80J8bO & 8bN \\ 80IKCRow 2-colGVe1fd9e7K'!1DC80C 82D 8bO80C82D 8bN80C82D 8bM80C 82D 
+1AC80J8bO & 8bN & 8bM \\ 80IKCRow 3-colGVe1fd9e7L'!1HC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C 82D 
+1DC80J8bO & 8bN & 8bM & 8bL\\ 80IKCRow 4-colGVe1fd9e7M'!1LC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C82D 8bK80C 82D 
+1JC80J8bO & 8bN & 8bM & 8bL  &  8bK\\ 80IKCRow 5-colGVe1fd9e7N'!2AC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C82D 8bK80C82D  8bJ80C 82D 
+1PC80J8bO & 8bN & 8bM & 8bL  &  8bK  &  8bJ\\ 80IKCRow 6-coli8bMIN0E38fPKN0A08fPHN0A08ePHN2B0ISafa0e22B#!%.0GVafa0e21D!"CC229BGVafa0e21E!"CC229CGVafa0e21F!"CC228GGVafa0e21G!"CC228HGVafa0e21H!"CC22bEGVafa0e21I!"CC22bFGVafa0e21J!"CC226EGVafa0e21K!"CC226FGVafa0e21L!"CC<GVafa0e21M!"CC>GVafa0e21N!"CC227MGVafa0e21O!"CC227NGVafa0e21P!"CC227KGVafa0e22A!"CC227Ls8fPHN0A08bNIN0E2 8bOIN0E18ePHN2B0s8fPKN2A0i8bMIN0E38fPJN0A08ePHN2B0ISb84028cL! 4"0GVb84028cJ!"CC¬GVb84028cK!"CC223M{8fPHN0A08bNIN0E28fPHN0A08bOIN0E18fPIN0A08ePHN2B0{8fPKN2A0i8bMIN0E38fPJN0A08fPKN1A08fPIN0A0a8ePHN2B0ISafa0e20I# -&0GVafa0e20C#"CC+IC{\plus}GVafa0e20D#"CC×EC{×}GVafa0e20E#"CC25bPGC\juncGVafa0e20F#"CC25bFHC\splitGVafa0e20G#"CC25bEJC\cosplitGVafa0e20H#"CC25bOIC\cojunc8B8fPIN0A0b8ePHN2B0ISafa0e1aN" 4!0GVafa0e1aM#"IC81KccA280P81L81M81NFC{}^28C8bNIN0E28fPKN0A08fPIN0A0a8ePHN2B08B8fPIN0A0b8bOIN0E18fPIN0A08ePHN2B08C8fPKN2A0i8bMIN0E38fPKN0A08fPKN1A08fPIN0A0P8ePHN2B0ISafa0e20N#!#$0GVafa0e20J%"CC222HDC222H GVafa0e20K%"IC80G80F
+222H80C80E80HKC222H (split)GVafa0e20L%"CC222IDC222I GVafa0e20M%"IC80G80F
+222I80C80E80HKC222I (split)8E8fPIN0A0Q8ePHN2B08G8fPHN0A08bNIN0E28fPKN0A08fPIN0A0P8ePHN2B08E8fPIN0A0Q8bOIN0E18fPIN0A08ePHN2B08G8fPKN2A0i8bMIN0E38fPIN0A08ePHN2B08G8bNIN0E28ePHN0B08bOIN0E18fPIN0A08ePHN2B08G8fPKN2A0i8bMIN0E38fPKN2A0ISafa0e1cJ   +1HCQuant.GVafa0e1bO#"LC220A(8cN: 8fM: 8fL)LC220A(8cN:~8fM:~8fL)GVafa0e1bP#"LC220D(8cN: 8fM: 8fL)LC220D(8cN:~8fM:~8fL)GVafa0e1cA#"MC229E.(8cN: 8fM: 8fL)OC{229E}.(8cN:~8fM:~8fL)GVafa0e1cB#"MC229D.(8cN: 8fM: 8fL)OC{229D}.(8cN:~8fM:~8fL)GVafa0e1cC#"LC8fO(8cN: 8fM: 8fL)LC8fO(8cN:~8fM:~8fL)GVafa0e1cD%"1KC80G8fO80B80E(80C80E8cN80F
+:80C80E8fM80F
+:80C80E8fL80F
+)80F80HMCMult. linesGVafa0e1cE#"JC220A(8cN:: 8fL)JC220A(8cN::~8fL)GVafa0e1cF#"JC220D(8cN:: 8fL)PC\exists(8cN::~8fL)GVafa0e1cG#"KC229D.(8cN:: 8fL)1BC{\sqcap}.(8cN::~8fL)GVafa0e1cH#"KC229E.(8cN:: 8fL)1BC{\sqcup}.(8cN::~8fL)GVafa0e1cI#"JC8fO(8cN:: 8fL)JC8fO(8cN::~8fL)9B8cNHN0D28fMJN0A38ePHN2B0{8fPIN0A0R8fLHN0A48bNIN0E28fPJN0A08ePHN2B0{8fPIN0A0R8bOIN0E18fPKN2A09B8cNHN0D28fMHN0A38fLHN0A48fPKN2A0i8bMIN0E38fPIN2A0ISe1d5e40A   !2OCUnderlineText1KCLatex2e#UnderlineTextHelpGVe1d5e40B#!HC81J81L8bO81M81H81NPC80J\underline{8bO}9C8bOLN0E1text8bNLN0E2text8bOIN0E18fPIN2A09C8bOIN0E18fPIN2A0;8bOIN0E1T8bM1KN0E3        result     8bN1LN0E2  target selection  8bO1GN0E1    template   8bION0E7|c|c|c|8bM2ON0E3Table:StructureEditing.EnteringTemplate8bLKN0E4htb
+The first example illustrates the creation of expressions in running text.  The
+target is empty, the chosen template is a binary operator, and the result is to
+enter two expression place holders separated by the chosen binary operator in
+the text at the position of the cursor.
+
+The next  two examples illustrate the introduction of parentheses.  Note that
+parentheses are introduced around the expression 8fPKN0A08fPIN0A0a8ePHN2B08B8fPIN0A0b in the third example
+whereas no parentheses are introduced in the second example.  The rules
+governing their introduction are the normal mathematical conventions
+regarding precedence of mathematical operators, the precedence that has been
+given to specific operators being completely user-defined.  In the case of the
+third example the precedence given to the squaring operator is 20 and that given
+to addition is 13.  (This information can be obtained via the 8fPIN2A098bOON0E1Version button on the
+console.  See 8fPJN2A0F8bN1HN0E2StructureEditing8bO1IN0E1Help on Templates for further information.)
+
+In the fourth example the target  is an expression and the chosen
+template is that of a binary operator.  The result is that the target becomes the
+left operand of the binary operator.  (It is not possible to specify that the target
+becomes the right operand.)  
+
+The fifth example contrasts  with the fourth example: if the
+target is an operator place holder rather than an expression or expression place holder then
+selecting an operator will insert just the operator, not the operator and
+(place holders for) its operands.
+
+The template chosen in the sixth example is more complicated.  It has two
+expression place holders and one variable place holder.  The target is an
+expression.  8fPHN2A0B inserts the target in the first empty, type-correct place
+holder, in this case the first expression place holder.  The order given to the
+place holders is specified in the definition of the template and is not necessarily
+left-to-right.
+
+The last example shows that what goes for mathematical expressions also
+goes for text.  It illustrates the technique mentioned in 
+8fPJN2A0H8bN1CN0E2TextEditing8bO1AN0E1Templates for specifying font or size information.
+
+Naming place holders8fPON2A0ISe1ce08fJ   "2GCEntry1ECLatex2eC#MakeIndex GVe1ce08fK'!11IC80JbfKIndex EntrydfK
+bfMprimary sort key:dfM80C8bO
+bfMsub sort key:dfM80C8bN
+bfMsubsub sort keydfM80C8bM
+bfMvisual key if different from sort key:dfM80C80C8bL
+bfMif start of range of pages set holder to dfM ( 80C8bK
+bfMfont type for page nr. if non-standarddfM80C8bJ
+bfMif end of range of pages set holder to dfM ) 80C8bI
+bfKEnd of Index EntrydfK
+2EC80J\mpindexnew{8bO}{8bN}{8bM}{8bL}{8bK}{8bJ}{8bI}{}1CCenter index entryGVe1ce08fL'!KC80JbfK81Ji81L 81M81NdfK2EC80J\mpindexnew{8bO}{8bN}{8bM}{8bL}{8bK}{8bJ}{8bI}{}1EChide index commands9D8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNMN0E2named8bO1DN0E1place holder has no effect on the above rules.  Suppose, for example, that one
+defines a programming language stencil with templates for statements, declarations,
+expressions and so on.  Suppose also that all place holders are appropriately named so that
+the syntactic structure of the language is made clear to the user of the stencil.  Then, it will
+nevertheless be the case that the user may enter a statement (say) where a declaration is
+required.  The names of place holders are there to guide, not to discipline the user.
+
+After using a template the target selection will be set to the leftmost  empty place holder of the
+resulting expression. If there are no empty place holders, the edit cursor will be placed
+immediately after the expression. The target selection will therefore be at the most likely
+position at which the next expression or text will be entered. 
+
+To undo the insertion of a template is usually straightforward.  If the target
+was empty before the insertion set it to the inserted expression and press the
+delete or backspace key.  If the target was not empty before the insertion then
+set the source to the original target  and the target to the inserted expression. 
+Then execute the 8fPIN2A098bOLN0E1Copy command.  (These instructions may be difficult to
+carry out if the template you selected involves complicated layout
+instructions, particularly where these conflict with layout information in the
+original target.)
+
+8fPIN2A0ISfe1c3a6C   "1FClinkGVfe1c3a6J'!DC80J BC1ACLink (editable)GVfe1c3b0O'!DC80J BCOCLink (hidden)9F8bO2BN0E1help:Console.Version.pinup8fPKN2A0'8bM3CN0E3StructureEditing.Switching between Versions8bO2BN0E1Switching between Versions8bNIN0E28fPHN2A0.
+8fPON2A09D8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1IN0E3switching between8bNON0E2version8bOPN0E1template8fPON2A09D8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM2CN0E3concealing information with8bNON0E2version8bOPN0E1template
+Templates may have several 8fPIN2A0A8bOPN0E1versions.  To switch between versions of a template
+set the target to the occurrence of the template in the document and with the far
+mouse button reveal the menu under the 8fPIN2A098bOON0E1Version button on the console. The
+hand that appears indicates which version of the template is currently being
+used.  Move the hand to point to the version required and release the mouse
+button. The target will alter accordingly.  
+
+This facility can be very useful, particularly for information which one only
+wishes to have displayed on the computer screen occasionally. For example, the
+footnote template has one  version which displays the text of the footnote on the
+screen and one which doesn't. The former version must be used to enter or  edit
+the text of the footnote but at other times either version may be used.   (Of course both
+versions must produce the same output code.)
+
+
+8fPKN2A0'8bM2JN0E3StructureEditing.Help on Templates8bO1IN0E1Help on Templates8bNIN0E28fPHN2A0.
+To find out more, set the target selection to the template you are interested in. 
+(You may sometimes have to move up or down in the tree structure to find the
+correct template.)  Then select  8fPIN2A098bOON0E1Version8fPON2A09D8bIHN0E78bJHN0E68bKHN0E58bLPN0E48fPIN2A098bOON0E1Version button8bMHN0E38bN1FN0E2Version button8bOON0E1console in the console with the far mouse
+button.  Pin up the menu that appears and select 8fPIN2A098bOLN0E1Info.8fPON2A09D8bIHN0E78bJHN0E68bKHN0E58bL1KN0E48fPIN2A098bOLN0E1Info about  a template8bMHN0E38bNHN0E28bO1ON0E1Info about  a template   The information
+that appears contains the following items:
+8fPIN2A0ISe1dbb24P   "21OCItemize                      3BCLatex2eB#Description, Enumerate and Itemize HelpGVe1dbb25A'!2HC81PbfMItemdfM80BbfMizedfM
+82Hitems82I8bO82A bfMEnd ItemizedfM
+2DC80J\begin{itemize}80I8bO 80I\end{itemize}80IICItemizeGVe1dbb25B'!1DC   221J 80C80E{82Htext82I8bO}80F
+LC80J\item 8bO 80IFCItem9I8bONN0E18fPIN2A09H8bO2AN0E1The name of the template.8fPIN2A09H8bO1PN0E1The name of a help file.8fPIN2A09H8bO3NN0E1The operator type, its precedence and default spacing.8fPIN2A09H8bO2ON0E1The number of versions of the template.8fPIN2A09H8bO3GN0E1The number of times the template has been used.8fPIN2A09H8bO4MN0E1The names of loaded stencil files in which the template can be found.
+The name of the template is the entry name under which the template appears
+in any stencil.  
+
+A help file8fPON2A09D8bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1AN0E1help file associated with a template may or may not have been provided by
+the creator of that template.  The contents of a help file is also the responsibility of
+the creator of the template.  The intention, however, is that the help file explains
+the purpose of the template and gives examples of its use.   A help file is just a
+normal 8fPHN2A0B document and so can be read by loading it via the 8fPIN2A098bOPN0E1Document
+entry below the 8fPIN2A098bONN0E1Window button on the console.
+8fPKN2A0*8bMHN@E3"8bO1NN0E1Entering Place Holders8bNIN0E28fPHN2A0/
+8fPON2A09D8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNPN0E2entering8bO1DN0E1place holderOccasionally it is necessary to create a place holder in a document (other than
+by entering a template).  Examples are: the introduction of an identifier in
+running text (8fPHN2A06as in ``let 8fPIN0A0x be 8fPHN2A0ISe1eb2a4M   %2NCDots        1CCLatex2eB#DotsHelpGVe1eb2a4N'"IC81K81L81M...81NHC\ldotsNClow ellipsisGVe1eb2a4O'"IC81K81L...81M81NHC\cdots1BCcentred ellipsisGVe1eb2a4P'"IC81K.81L.81M.81NHC\vdots1CCvertical ellipsisGVe1eb2a5A'"OC81K.  81L . 81M  .81NHC\ddots1CCdiagonal ellipsisGVe1eb2a5B'"GC81K81L.81M81NGC\cdotMCcentred dot9N''), the insertion of a fresh mathematical expression
+that begins with a parenthesis, the inclusion of a displayed mathematical
+formula, and changing the kind of a place holder (for example, from expression
+to text).  To do so the target is set appropriately ---in all but the last example this
+means setting the cursor to the point in the text at which the place holder is to be
+inserted---
+and then one of the following methods is used to enter the place holder.
+8fPIN2A09I8bOJN0E18fPIN2A09H8bOeKN0E1Click on on the relevant menu item under the  8fPIN2A098bONN0E1EditOp button in the console.
+The options are  8fPIN2A098bO1CN0E1Insert Expr8fPON2A09D8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A098bO1CN0E1Insert Expr8bM1CN0E3Insert Expr8bNPN0E2entering8bO1DN0E1place holder (insert expression), 8fPIN2A098bO1CN0E1Insert Disp8fPON2A09D8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A098bO1CN0E1Insert Disp8bM1CN0E3Insert Disp8bNPN0E2entering8bO1DN0E1place holder 
+(insert display), 8fPIN2A098bO1AN0E1Insert Id8fPON2A09D8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A098bO1AN0E1Insert Id8bM1AN0E3Insert Id8bNPN0E2entering8bO1DN0E1place holder  (insert identifier),  8fPIN2A098bO1AN0E1Insert Op8fPON2A09D8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A098bO1AN0E1Insert Op8bM1AN0E3Insert Op8bNPN0E2entering8bO1DN0E1place holder  (insert
+operator), 8fPIN2A098bO1CN0E1Insert Text8fPON2A09D8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A098bO1CN0E1Insert Text8bM1CN0E3Insert Text8bNPN0E2entering8bO1DN0E1place holder  (insert text) and 8fPIN2A098bO1BN0E1Insert Var8fPON2A09D8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A098bO1BN0E1Insert Var8bM1BN0E3Insert Var8bNPN0E2entering8bO1DN0E1place holder  (insert variable).8fPIN2A09H8bO8IN0E1Type 8fPIN2A0;8bOLN0E1CM-P for a displayed expression.  Otherwise type 8fPIN2A0;8bO1AN0E1CM-<char> 
+where <char> is the initial letter of the kind of place holder you require.
+Expression and display place holders are entered most frequently.  For this
+reason, they can be entered via function keys, 8fPIN2A0;8bOJN0E1F5 for an expression and 8fPIN2A0;8bOJN0E1F6 for
+a display.
+
+
+8fPKN2A0*8bMHN@E3"8bO1LN0E1Entering Expressions8bNIN0E28fPHN2A0/
+Complete expressions can be entered by repeatedly entering the templates that
+make up the expression.  Three techniques for building up a complicated
+expression are described below:
+8fPIN2A0ISd555ce5O   (1JCManTableGVd555ce5J'!1EC
+81PbfH          dfH80B
+8bO82A
+2JC80J\begin{mantable}{20mm}80I8bO80I\end{mantable}1ACManTable (20mm)GVd555ce5K'!1CC
+81PbfH        dfH80B
+8bO82A
+2JC80J\begin{mantable}{15mm}80I8bO80I\end{mantable}1ACManTable (15mm)GVd555ce5L'!PC
+81PbfH    dfH80B 
+8bO82A
+2IC80J\begin{mantable}{8mm}80I8bO80I\end{mantable}PCManTable (8mm)GVd555ce5M'!JCbfO8bOdfO80C80E8bN80F
+NC80J\item[8bO] 8bN80I1BCItem (same line)GVd555ce5N'!KCbfO8bOdfO
+80C80E8bN80F
+NC80J\item[8bO] 8bN80I1BCItem (next line)GVfdb41f4K'!1GC
+81PbfH            dfH80B
+8bO82A
+2JC80J\begin{mantable}{25mm}80I8bO80I\end{mantable}1ACManTable (25mm)GVfc4a6c3E'!1JC
+81PbfH               dfH80B
+8bO82A
+2JC80J\begin{mantable}{30mm}80I8bO80I\end{mantable}1ACManTable (30mm)GVe113ff5L'!1MC
+81PbfH                  dfH80B
+8bO82A
+2JC80J\begin{mantable}{35mm}80I8bO80I\end{mantable}1ACManTable (35mm) 8bOKN0E18fPJN2A0¢8bN1aDN0E2An expression usually contains a number of templates and
+operators at different levels. The top-down technique first
+enters the main operators at the highest level. The
+empty place holders are then entered from left to right, again
+with the operators first. The cursor will automatically move to
+the first place holder after an operator is inserted, so you don't
+have to move the mouse between different windows.8bO1AN0E1top-down8fPON2A09D8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1GN0E3top-down method8bNPN0E2entering8bO1BN0E1expression8fPJN2A0¢8bN11ON0E2It is also possible to input a subexpression first and then add
+the operator from a higher level. In the bottom-up technique,
+the leftmost subexpression is entered first. The operators are
+entered later and the selected expression is used as the first
+argument of the operator.  8bO1BN0E1bottom-up8fPON2A09D8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1HN0E3bottom-up method8bNPN0E2entering8bO1BN0E1expression8fPJN2A0¢8bN8DN0E2A third possibility is to enter the expression from left to
+right. This is the most natural method as it's the way we read.
+8bO1FN0E1left-to-right8fPON2A09D8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1LN0E3left-to-right method8bNPN0E2entering8bO1BN0E1expression
+Most commonly a combination of these techniques is used since in mathematical
+texts (sub)expressions are frequently repeated.  The left-to-right technique is the 
+most natural method as it's the way we read.  It has the disadvantage, however, 
+that it can involve  much switching  between the keyboard and the mouse.
+(This is much less so the more use is made of copying to create an expression.)  
+It shares this disadvantage with the bottom-up technique. The  top-down
+technique, on the other hand, has two phases.  The first phase involves the use of
+the mouse to build up the operator structure, and the second phase uses the
+keyboard to fill in variables.
+
+The difference between these three techniques is  shown in
+8fPJN2A0D8bNHN@E2"8bO2DN0E1StructureEditing.EntryStyles with an 
+example from Boolean algebra:  entering the law  8fPKN0A08fPKN0A08fPJN0A08ePHN2B0{8fPIN0A0a8ePHN2B08G8fPJN0A08ePHN2B0{8fPIN0A0b8ePHN2B0ISafa0e23O#!"$0GVafa0e23K!"CC226BGVafa0e23L!"IC80G80F
+226B80C80E80HGVafa0e23M!"CC225JGVafa0e23N!"CC21dE©8fPJN0A08ePHN2B0{8fPKN1A08fPIN0A0a8ePHN2B08E8fPIN0A0b.  
+8fPLN2A0\8bN2LN0E2Techniques for entering expressions.8bOIN0E18fPIN2A0_8bOIN0E18fPMN2A0c8bH1IN0E8   8fPKN2A0i8bM1CN0E3Click on 8ePHN2B0{ 8bNIN0E28fPIN2A098bO1DN0E1Insert Expr.8bO1BN0E1Click on 8ePHN2B0©8fPKN2A0i8bMNN0E3Type 8fPIN2A0ISe1d5e5bI   &2JCVerbatim1FCLatex2e#VerbatimHelpGVe1d5e5bJ'!ECbfH8bOdfHKC80J\verb+8bO+1JCShort-No `+' in contentsGVe1d5e5bK'!ECbfH8bOdfHKC80J\verb?8bO?1JCShort-No `?' in contentsGVe1d5e5bM'!ECbfH8bOdfHLC80J\verb*+8bO+2ICShort-No `+' in contents, spaces as ccB229EcbNGVe1d5e8dO'!ECbfH8bOdfHLC80J\verb*?8bO?2ICShort-No `?' in contents, spaces as ccB229EcbNGVe1d5e5bL'!GC
+bfH8bOdfH
+2EC80J\begin{verbatim}80I8bO80I\end{verbatim}80I1ICLong-more than one lineGVe1d5f98F'!GC
+bfH8bOdfH
+2GC80J\begin{verbatim*}80I8bO80I\end{verbatim*}80I2HCLong-more than one line, spaces as ccB229EcbN¯8bOIN0E1a8bNNN0E2Type 8fPIN2A0¯8bOIN0E1a8bO1BN0E1Click on 8ePHN2B08G8fPKN2A0i8bM1BN0E3Click on 8ePHN2B08G8bN1BN0E2Click on 8ePHN2B0{8bO1BN0E1Click on 8ePHN2B0{8fPKN2A0i8bM1BN0E3Click on 8ePHN2B0{8bNPN0E2Select 8fPJN0A08ePHN2B0{8fPIN0A0a8bOON0E1Enter 8fPIN2A0¯8bOIN0E1a8fPKN2A0i8bMNN0E3Type 8fPIN2A0¯8bOIN0E1b8bN1BN0E2Click on 8ePHN2B08G8bO1BN0E1Click on 8ePHN2B0{8fPKN2A0i8bM1BN0E3Click on 8ePHN2B0©8bNNN0E2Type 8fPIN2A0¯8bOIN0E1b8bOON0E1Enter 8fPIN2A0¯8bOIN0E1b8fPKN2A0i8bM1BN0E3Click on 8ePHN2B0{8bN1BN0E2Click on 8ePHN2B0{8bO1BN0E1Click on 8ePHN2B0{8fPKN2A0i8bMNN0E3Type 8fPIN2A0¯8bOJN0E1(a8bNPN0E2Select 8fPKN0A08fPJN0A08ePHN2B0{8fPIN0A0a8ePHN2B08G8fPJN0A08ePHN2B0{8fPIN0A0b8bO1BN0E1Click on 8ePHN2B08E8fPKN2A0i8bM1BN0E3Click on 8ePHN2B08E8bN1BN0E2Click on 8ePHN2B0©8bOON0E1Enter 8fPIN2A0¯8bOIN0E1a8fPKN2A0i8bMON0E3Enter 8fPIN2A0¯8bOIN0E1b8bNNN0E2Type 8fPIN2A0¯8bOIN0E1a8bOON0E1Enter 8fPIN2A0¯8bOIN0E1b8fPKN2A0i8bMIN0E3 8bN1BN0E2Click on 8ePHN2B08E8bOIN0E1 8fPKN2A0i8bMIN0E3 8bNNN0E2Type 8fPIN2A0¯8bOIN0E1b8bOIN0E1 8fPKN2A0i8bMIN0E3 8bNPN0E2Select 8fPKN0A08fPIN0A0a8ePHN2B08E8fPIN0A0b8bOIN0E1 8fPKN2A0i8bMIN0E3 8bN1BN0E2Click on 8ePHN2B0{8bOIN0E1 8bM1KN0E3  left-to-right    8bN1LN0E2  bottom-up         8bO1EN0E1   top-down  8bION0E7|l|l|l|8bM2JN0E3Table:StructureEditing.EntryStyles8bLKN0E4htb
+In 8fPJN2A0D8bNHN@E2"8bO2DN0E1StructureEditing.EntryStyles, ``8fPIN2A0?8bOPN0E1click on'' means click on a specific template in
+the stencil palette, ``type'' means press a sequence of keys, ``8fPIN2A0?8bOMN0E1enter'' means press a
+sequence of keys followed by a 8fPIN2A0;8bONN0E1return and ``8fPIN2A0?8bONN0E1select'' means select the expression with
+the target  selection. 
+
+The table not only gives the number of steps  that are required  but also
+an indication of the physical work involved.  The
+order in which the steps are performed shows how often the user has to
+switch between the mouse and the keyboard. A switch from ``type'' or ``enter''
+to ``click'' or ``select'' means a switch from the keyboard to the mouse.
+A ``select'' followed by a ``click'' in a template will force the user to move the mouse to the edit window, click
+at the correct position and move it back to the stencil palette. If the number
+of switches and mouse movements between the edit window and stencil template
+are compared, it can be seen that there is not much difference between the 
+top-down  and  left-to-right techniques (the former being slightly better).
+The bottom-up technique, however,  clearly involves more work.
+
+Each technique uses  some of the following features to  make the editing easier.
+ 8fPIN2A09I8bOMN0E18fPIN2A09H8bObPN0E1Pressing the  8fPIN2A0;8bONN0E1return or 8fPIN2A0;8bO1AN0E1space bar  will move the target selection  to
+the next empty place holder in  the current expression. The top-down
+technique uses this   each time an identifier is inserted.8fPIN2A09H8bOcEN0E1A selected expression will be used as the first argument of a template or
+operator. An existing expression can therefore be used as a subexpression.
+This is used in the bottom-up technique.8fPIN2A09H8bO19DN0E1If an operator template is selected after entering an identifier
+(and before taking any other action such as entering a space or return),  
+the left operand of the operator is taken to be the 
+subexpression containing only operators of a  higher precedence that
+is completely to the left of the cursor. Parentheses can be used to ensure 
+that a particular expression is  used as the argument.    8fPIN2A09H8bO10HN0E1The left parenthesis from the keyboard can be used to put parentheses
+around an empty place holder. The right parenthesis is used to select the
+expression within the parentheses. This is used in the left-to-right technique
+in order to enter 8fPJN0A08ePHN2B0{8fPKN1A08fPIN0A0a8ePHN2B08E8fPIN0A0b instead of 8fPKN0A08fPJN0A08ePHN2B0{8fPIN0A0a8ePHN2B08E8fPIN0A0b.8fPIN2A09H8bO16KN0E1It is possible to insert a sequence of operators  such as  8fPMN0A08fPIN0A0a8ePHN2B08G8fPIN0A0b8ePHN2B08G8fPIN0A0c  by selecting
+one part of  the available expression and using the same operator again.
+This can be used in all techniques. In the top-down technique,  you just
+click twice on 8ePHN2B08G. In the bottom-up technique, select 8fPKN0A08fPIN0A0a8ePHN2B08G8fPIN0A0b or 8fPIN0A0b and click on 8ePHN2B08G. 
+In the left-to-right technique, click on 8ePHN2B08G after typing 8fPIN0A0b
+Remember that it is always possible to use a mixture of the techniques and
+features depending on the situation in hand.
+
+
+8fPKN2A0*8bMHN@E3"8bO1MN0E1Continued Expressions8bNIN0E28fPHN2A0/
+
+8fPIN2A0A8bO1MN0E1Continued expressions8fPON2A09D8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1AN0E2continued8bO1BN0E1expression are  expressions like 8fPMN0A08fPIN0A0a8ePHN2B08B8fPIN0A0b8ePHN2B08B8fPIN0A0c and 8fPMN0A08fPIN0A008ePHN2B0s8fPIN0A0i8ePHN2B0q8fPIN0A0N
+consisting of a sequence of infix operators and their arguments.  Such
+expressions occur frequently in mathematics.  Accordingly, their
+creation and manipulation causes no particular problems.  The
+expression 8fPMN0A08fPIN0A0a8ePHN2B08B8fPIN0A0b8ePHN2B08B8fPIN0A0c is entered by simply selecting the 8ePHN2B08B template twice
+(and filling in the variables 8fPIN0A0a, 8fPIN0A0b, and 8fPIN0A0c).    Entering 8fPMN0A08fPIN0A008ePHN2B0s8fPIN0A0i8ePHN2B0q8fPIN0A0N is equally
+simple provided only that the operators 8ePHN2B0s and 8ePHN2B0q are versions of the
+same template.  A continued expression can also be created with
+(infix) operators from different templates but in that case the ungroup
+operator described in the next chapter has to be applied.
+
+8fPKN2A0*8bMHN@E3"8bO1AN0E1Selecting8bNIN0E28fPHN2A0/
+Both text and expressions can be selected with the mouse. The selection of
+text will be the same as in many other window applications.  By clicking, the
+cursor will be set and the previous selection will be undone.  By dragging the
+selection can be set to the text between the position where the mouse button
+is pressed and where it is released. The mouse button indicates which selection
+is to be made --- (in the default situation) near button for the target, middle button
+for the source, and far button for the argument selection --- and all 
+are made in the same way.
+
+8fPKN2A0*8bMHN@E3"8bOLN0E1Text8bNIN0E28fPHN2A0.
+A double click can be used to select other units and can be used after a click or
+drag. The possible units are characters, words, lines and a complete text. The
+units are used in the following way:
+8fPIN2A09I8bOMN0E18fPIN2A09H8bO3FN0E1A normal click or drag will select characters.8fPIN2A09H8bOcPN0E1A double click will select the word and with a double drag complete words
+are selected. A word consists of a sequence of letters and digits. Other
+characters and symbols are still selected one by one.8fPIN2A09H8bO11DN0E1A triple click will select a complete line, defined as the shortest sequence
+beginning and ending with a
+return. Templates may also contain returns  and a selected line may therefore
+contain multiple lines on screen. With a triple drag, multiple lines can be
+selected.8fPIN2A09H8bObKN0E1A quadruple click will select the complete text. This text does not have to
+be the complete document. It is possible to select the text from a text place
+holder with such a click.8fPIN2A09H8bO3IN0E1Clicking five times will select characters again.As described earlier, the double click/drag is a click/drag that immediately follows
+a click or drag. The triple and quadruple click/drag are defined the same way.
+The only two positions used by a multiple click are the position where the
+first click/drag starts and the position where the last click/drag ends.  These
+two positions determine what is selected.
+
+8fPKN2A0*8bMHN@E3"8bO1CN0E1Expressions8bNIN0E28fPHN2A0.
+When an expression is  selected,  the selection will be the smallest
+expression that contains both positions as described above. If these positions
+are equal the smallest non-operator will be selected. This means that clicking
+on a symbol of a template will select that template and clicking on an operator
+will select the operator and its arguments.
+
+Continued expressions like 8fPON0A08fPIN0A0a8ePHN6B0A8B8fPIN0A0b8ePHN6B0A8B8fPIN0A0c8ePHN6B0A8B8fPIN0A0d  have continued expressions as
+subexpressions.  (In the case of 8fPON0A08fPIN0A0a8ePHN6B0A8B8fPIN0A0b8ePHN6B0A8B8fPIN0A0c8ePHN6B0A8B8fPIN0A0d these are 8fPKN0A08fPIN0A0a8ePHN6B0A8B8fPIN0A0b, 8fPMN0A08fPIN0A0a8ePHN6B0A8B8fPIN0A0b8ePHN6B0A8B8fPIN0A0c, 8fPKN0A08fPIN0A0b8ePHN6B0A8B8fPIN0A0c 8fPIN2A0A8bOKN0E1etc.)
+These may be selected by dragging from the first to the last operand.
+Sections of continued expressions (subsequences beginning or ending on an
+operator) can also be selected by commencing the selection appropriately.
+The selection will be shown during the drag.   Some (but not all) selections 
+from the sequence 8fPMN0A08fPIN0A0P8ePHN2B08E8fPIN0A0Q8ePHN2B08E8fPIN0A0R are shown in 8fPJN2A0D8bNHN@E2"8bO1DN0E1SectionedOps.
+
+8fPLN2A0\8bN1LN0E2Sectioned operators.8bOIN0E18fPIN2A0_8bOIN0E18fPLN2A0d8bHLN0E88fPJN2A0j8bNIN0E28fPJN0A08fPIN0A0P8ePHN2B08E8bOIN0E18fPIN0A0P8fPJN2A0j8bNIN0E28fPLN0A08fPIN0A0P8ePHN2B08E8fPIN0A0Q8ePHN2B08E8bOIN0E18fPKN0A08fPIN0A0P8ePHN2B08E8fPIN0A0Q8fPJN2A0j8bNIN0E28fPLN0A08ePHN2B08E8fPIN0A0Q8ePHN2B08E8fPIN0A0R8bOIN0E18fPKN0A08fPIN0A0Q8ePHN2B08E8fPIN0A0R8fPJN2A0j8bNIN0E28fPKN0A08ePHN2B08E8fPIN0A0Q8ePHN2B08E8bOIN0E18fPMN0A08fPIN0A0P8ePHN2B08E8fPIN0A0Q8ePHN2B08E8fPIN0A0R8bN1EN0E2  sectioned  8bO1EN0E1not sectioned8bIMN0E7|c|c|8bM1JN0E3Table:SectionedOps8bLKN0E4htb
+A double click can be used to select the complete expression or to select the
+expression that contains the selected expression as a subexpression. 
+For example, parts of the expression 8fPKN0A08fPMN0A08fPIN0A008ePHN2B0s8fPIN0A0i8ePHN2B0q8fPIN0A0N8ePHN2B08E8fPKN0A08fPIN0A0j8ePHN2B0p8fPIN0A01 can be selected as 
+shown in 8fPJN2A0D8bNHN@E2"8bO1GN0E1ClickSelections.
+
+8fPLN2A0\8bN2BN0E2Multiple clicks and drags.8bOIN0E18fPIN2A0_8bOIN0E18fPMN2A0c8bH1BN0E88fPKN2A0i8bMIN0E38fPKN0A08fPIN0A008ePHN2B0s8fPIN0A0i8bNIN0E28ePHN2B0s8bOMN0E1Click8fPKN2A0i8bMIN0E38fPMN0A08fPIN0A008ePHN2B0s8fPIN0A0i8ePHN2B0q8fPIN0A0N8bNIN0E28fPHN2A0s8bO1DN0E1Double click8fPKN2A0i8bMIN0E38fPKN0A08fPMN0A08fPIN0A008ePHN2B0s8fPIN0A0i8ePHN2B0q8fPIN0A0N8ePHN2B08E8fPKN0A08fPIN0A0j8ePHN2B0p8fPIN0A018bNIN0E28fPHN2A0s8bO1DN0E1Triple click8fPKN2A0i8bMIN0E38fPKN0A08fPMN0A08fPIN0A008ePHN2B0s8fPIN0A0i8ePHN2B0q8fPIN0A0N8ePHN2B08E8fPKN0A08fPIN0A0j8ePHN2B0p8fPIN0A018bNIN0E28ePHN2B08E8bOMN0E1Click8fPKN2A0i8bMIN0E38fPIN0A0N8bNIN0E28fPIN0A0N8bOMN0E1Click8fPKN2A0i8bMIN0E38fPMN0A08fPIN0A008ePHN2B0s8fPIN0A0i8ePHN2B0q8fPIN0A0N8bNIN0E28fPIN0A0N8bO1DN0E1Double click8fPKN2A0i8bMIN0E38fPKN0A08fPIN0A0i8ePHN2B0q8fPIN0A0N8bNIN0E28fPHN2A0q8bOMN0E1Click8fPKN2A0i8bMIN0E38fPKN0A08ePHN2B0s8fPIN0A0i8ePHN2B0q8bNON0E28fPHN2A0s and 8fPHN2A0q8bOLN0E1Drag8fPKN2A0i8bMIN0E38fPKN0A08fPMN0A08fPIN0A008ePHN2B0s8fPIN0A0i8ePHN2B0q8fPIN0A0N8ePHN2B08E8fPKN0A08fPIN0A0j8ePHN2B0p8fPIN0A018bNON0E28fPIN0A0N and 8fPIN0A0j8bOLN0E1Drag8fPKN2A0i8bMIN0E38fPJN0A08ePHN2B08E8fPKN0A08fPIN0A0j8ePHN2B0p8fPIN0A018bNON0E28fPIN0A0j and 8ePHN2B08E8bOLN0E1Drag8bM1KN0E3Resulting selection8bN1BN0E2On symbol 8bO1NN0E1Action                8bION0E7|c|c|c|8bM1MN0E3Table:ClickSelections8bLKN0E4htb
+A double click can also be used to select templates that are not directly
+visible on screen, whereas a normal click will only select the argument of
+the  template, not the template itself. After a double click on the argument
+the template is selected. This often happens with templates that only
+change the font style or the size of the text.
+
+8fPKN2A0*8bMHN@E3"8bO1HN0E1Large Selections8bNIN0E28fPHN2A0.
+Large selections that don't fit on one screen can be made using the 8fPIN2A098bOLN0E1Join
+function available via the 8fPIN2A098bO1AN0E1Selection button
+on the  console. This function expands one selection to contain
+another selection. In a submenu, you can choose which selection you want to
+expand: the target selection, source selection or argument selection.
+
+As an example, to copy a large part of text from one document to another document,
+follow these steps: 
+8fPIN2A09I8bOMN0E18fPIN2A09H8bO3HN0E1Set the source selection at one end of the text.8fPIN2A09H8bO3PN0E1Set the argument selection at the other end of the text.8fPIN2A09H8bO7DN0E1Select the item 8fPKN0A08fPKN0A08fPINPA0'S8ePHN2B08B8fPINPA0'A8ePHN2B0ISff204c6B# +'0GVff204c5L!"CC219CGVff204c5M#"CC1ffDNC\natrightrelGVff204c5N!"CC219NGVff204c5O#"HC81K*81L219C81M81N1AC\stackrel{221H}{219C}GVff204c5P#"NC 81J ccA8fO80P81L219C81H81M81N 1MC\rTeXto[l>=0.8em]^{8fO}\relaxGVff204c6A#"IC81K219C81H81L8fO81M81N1DC\overrightarrow{8fO}GVaf57681F!"CC21aG¶8fPINPA0'S from the  8fPIN2A098bOLN0E1Join menu.
+The source selection will be extended to contain the argument selection.8fPIN2A09H8bO4IN0E1Set the cursor at the position where the text should be inserted.8fPIN2A09H8bO3MN0E1Click on the 8fPIN2A098bOLN0E1Copy button or use the 8fPIN2A0;8bOJN0E1F7 keyboard shortcut.
+8fPKN2A0'8bM2FN0E3StructureEditing.Copy and Swap8bO1EN0E1Copy and Swap8bNIN0E28fPHN2A0/
+The 8fPIN2A098bOLN0E1Copy and 8fPIN2A098bOLN0E1Swap functions are used to copy, swap or move both text and
+expressions. The functions are available through the options 8fPIN2A098bOLN0E1Copy and 8fPIN2A098bOLN0E1Swap
+in the 8fPIN2A098bONN0E1EditOp menu and the keyboard shortcuts 8fPIN2A0;8bOJN0E1F7 and 8fPIN2A0;8bOJN0E1F8. To 8fPIN2A0?8bOLN0E1copy a piece
+of text to a particular position, follow these steps: 
+8fPIN2A09I8bOKN0E18fPIN2B09H8bO3ON0E1Select the text to be copied with the source selection.8fPIN2B09H8bO2ON0E1Set the cursor at the target position. 8fPIN2B09H8bO3DN0E1Select the 8fPIN2A098bOLN0E1Copy8fPON2A09D8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2copying8bOLN0E1text8fPON2A09D8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A098bOLN0E1Copy8bMLN0E3Copy8bN1GN0E2edit operations8bO1BN0E1expression option or use the 8fPIN2A0;8bOJN0E1F7 shortcut.
+If the target selection is not empty, it will be moved to the buffer first.
+
+To 8fPIN2A0?8bOLN0E1swap two pieces of text, the steps are almost the same:
+8fPIN2A09I8bOKN0E18fPIN2B09H8bO3CN0E1Select one piece with the target selection.8fPIN2B09H8bO3IN0E1Select the other piece with the source selection.8fPIN2B09H8bO3DN0E1Select the 8fPIN2A098bOLN0E1Swap8fPON2A09D8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A098bOLN0E1Swap8bMLN0E3Swap8bN1GN0E2edit operations8bO1BN0E1expression8fPON2A09D8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNPN0E2swapping8bOLN0E1text option or use the 8fPIN2A0;8bOJN0E1F8 shortcut.If the target selection is empty, the swap function can be used to 8fPIN2A0?8bOLN0E1move8fPON2A09D8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMLN0E3move8bN1GN0E2edit operations8bO1BN0E1expression8fPON2A09D8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNNN0E2moving8bOLN0E1text text
+from one position to another. The cursor determines the target position of the move in that
+situation.
+
+Other kinds of structure (expressions, operators 8fPIN2A0A8bOKN0E1etc.)8fPHN2A0ISe1f47d6C   -22ECHorizontal                         1ICLatex2eB#HorizSpaceHelpGVe1f47d6D'!1FCbfMHSpacedfM {82Hlength82I8bO}LC\hspace{8bO}OCspace{length}GVe1f47d6E'!1HCbfMHspace*dfM {82Hlength82I8bO} MC\hspace*{8bO}2GCspace{length}* also at start/end lineGVe1f47d6F'!ICbfMHFilldfMHC\hfill1ECfill out with spaceGVe1f490cL'!JCbfMHFill*dfM1AC\hspace*{\fill}1FCfill out with space*GVe1f47d6G'!CC DC\,LCthin spaceGVe1f47d6H'!CC EC80J\ 1EC1 inter-word space*GVe1f47d6I'!DC  GC80J\ \ 1GC2  inter-word spaces*GVe1f47d6J'!GC     MC80J\ \ \ \ \ 1GC5  inter-word spaces*GVe1f47d6K'!LC          1GC80J\ \ \ \ \ \ \ \ \ \ 1GC10 inter-word spaces*GVe1f47d6L'!FC    LC\hspace{8bO}1DChide-space{length}GVe1f47d6M'!FC    MC\hspace*{8bO}1EChide-space{length}*GVe1f47d6N'!FC    HC\hfill1FChide-fill with spaceGVe1f4910N'!FC    1AC\hspace*{\fill}1KChide-fill out with space*¾can also be copied
+or swapped.  Swapping may even involve incompatible kinds of structure,
+with some restrictions.  8fPJN2A0C8bNHN@E2"8bO1LN0E1CopySwapRestrictions shows  where  the
+restrictions occur.
+
+8fPLN2A0\8bN2FN0E2Restrictions on Copy and Swap.8bOIN0E189PNN2G0b8bH1AN0E88fPLN2A0h8bLKN0E4Yes8bMKN0E3Yes8bNLN0E2Text8bOLN0E1Text8fPLN2A0h8bL1AN0E4Sometimes8bMKN0E3Yes8bN1BN0E2Not a text8bOLN0E1Text8fPLN2A0h8bLKN0E4Yes8bMKN0E3Yes8bN1BN0E2Expression8bO1BN0E1Expression8fPLN2A0h8bLJN0E4No8bMKN0E3Yes8bN1LN0E2Operator, identifier8bO1BN0E1Expression8fPLN2A0h8bL1AN0E4Sometimes8bM1AN0E3Sometimes8bNLN0E2Text8bO1BN0E1Expression8fPLN2A0h8bLKN0E4Yes8bMKN0E3Yes8bNPN0E2Operator8bOPN0E1Operator8fPLN2A0h8bLJN0E4No8bMJN0E3No8bN1GN0E2Not an operator8bOPN0E1Operator8fPLN2A0h8bLKN0E4Yes8bMKN0E3Yes8bN1BN0E2Identifier8bO1BN0E1Identifier8fPLN2A0h8bLJN0E4No8bMJN0E3No8bN1IN0E2Not an identifier8bO1BN0E1Identifier8bL1LN0E4Swap?               8bM1KN0E3Copy?              8bN2KN0E2Source                             8bO1HN0E1Target          8bI1AN0E7|c|c|c|c|8bM2BN0E3Table:CopySwapRestrictions8bLKN0E4htb
+The ``Sometimes'' entries are explained by the fact that in-line expressions
+(and identifiers 8fPIN2A0A8bOKN0E1etc.) may occur in text, but the movement of  text may not
+result in its  occupying a non-text placeholder within an expression.
+
+The move function has the same restrictions as the swap function. 
+
+The copy function also works if the target selection is part of the
+source selection or vice versa. The result will be what you would expect:
+the target selection is replaced by a copy of the source selection. Some
+examples are given in 8fPJN2A0D8bNHN@E2"8bO1DN0E1CopyExamples.
+
+8fPLN2A0\8bN3IN0E2Copying when source or target is a subexpression.8bOIN0E18fPIN2A0_8bOIN0E18fPMN2A0c8bHKN0E88fPKN2A0i8bMON0E3italic 8bNNN0E2italic8bO1BN0E18fPIN2A0¯8bOLN0E1{\it italic 8fPIN2A0¯8bOKN0E1\/}8fPKN2A0i8bMIN0E38fPKN0A08fPIN0A0b8ePHN6B0?8G8fPIN0A0c8bNIN0E28fPKN0A08fPIN0A0b8ePHN6B0?8G8fPIN0A0c8bOIN0E18fPKN0A08fPIN0A0a8ePHN2B08E8fPKN1A08fPIN0A0b8ePHN6B0?8G8fPIN0A0c8fPKN2A0i8bMIN0E38fPMN0A08fPIN0A0P8ePHN2B0ISafa0e26K% !!0GVafa0e26J!"CC21dCÄ8fPIN0A0P8ePHN2B0Ä8fPKN0A08fPIN0A0R8ePHN6B0?8E8fPIN0A0S8bNIN0E28fPKN0A08fPIN0A0P8ePHN2B0Ä8fPKN0A08fPIN0A0R8ePHN6B0?8E8fPIN0A0S8bOIN0E18fPKN0A08fPIN0A0R8ePHN6B0?8E8fPIN0A0S8bM2DN0E3Result                      8bN1GN0E2Source         8bO2CN0E1Target                     8bION0E7|c|c|c|8bM1JN0E3Table:CopyExamples8bLKN0E4htb8fPKN2A0'8bM2HN0E3StructureEditing.Undoing Changes8bO1GN0E1Undoing Changes8bNIN0E28fPHN2A0/
+8fPHN2A0B has no functions to undo changes. As a safeguard against error, 
+deleted elements are stored in the 8fPIN2A0?8bONN0E1buffer. The contents of this buffer
+is displayed in the 8fPIN2A0?8bO1EN0E1buffer window, as shown in figure8fPHN2A0ISfe55814G   $1HCSpacesGVfe57c5cH'!DC  DC80J~CC1GVfe55816N'!DC  EC80J~~CC2GVfe55814N'!GC     HC80J~~~~~CC5GVfe55820H'!LC          MC80J~~~~~~~~~~DC10È8fPIN2A0ISe1d48b1L   %21DCRef(within doc)   1MCLatex2e#Ref(within doc)HelpGVe1d48b1M'!NC(bfI82Hlabel82I8bOdfI)LC80J(\ref{8bO})GC(Ref)GVe1d48b1N'!LCbfI82Hlabel82I8bOdfIJC80J\ref{8bO}ECRefGVe1d48c4C'#NC(bfI82Hlabel82I8bOdfI)1AC80J(\pageref{80K8bO})KC(PageRef)GVe1d48b1O'#LCbfI82Hlabel82I8bOdfIOC80J\pageref{80K8bO}ICPageRefGVe1d48b1P'!OC(bfMLabeldfM bfI8bOdfI)LC80J\label{8bO}GCLabelÌ8bO1EN0E1fig:bufferwin.
+8fPLN2A0ISafa0e1aH   #1GCPSfigGVafa0e1aE'!2CC
+80C81J 81H 81L1faPccE(8bO,8bN)80P  8bM1faP81M 81H 81N
+8bK:  bfO8bLdfO
+5OC80J\begin{figure}80I\epsfxsize=8bO80I\epsfysize=8bN80I$$\epsffile{8bM}$$80I\caption{8bL}80I\label{8bK}80I\end{figure}1IC(x,y) [file] Name (Lab)GVafa0e1aF'!1IC
+80C81J 81H 81L1faP8bM1faP81M 81H 81N
+8bK: bfO8bLdfO
+5BC80J\begin{figure}80I\epsfxsize=8bO80I$$\epsffile{8bM}$$80I\caption{8bL}80I\label{8bK}80I\end{figure}1GC(x) [file] Name (Lab)GVafa0e1aG'!1IC
+80C81J 81H 81L1faP8bM1faP81M 81H 81N
+8bK: bfO8bLdfO
+5BC80J\begin{figure}80I\epsfysize=8bN80I$$\epsffile{8bM}$$80I\caption{8bL}80I\label{8bK}80I\end{figure}1GC(y) [file] Name (Lab)Ï8bO1BN0E1\textwidth8bM1AN0E3figbuf.ps8bL1IN0E4The Buffer Window8bK1EN0E5fig:bufferwin
+This window is used like a normal document window; deleted text and
+expressions can be restored by copying them back to a document window.
+
+New deletions are added at the beginning of the buffer.
+Opening the buffer window will show you what has been deleted. The following
+functions may add something to the buffer:
+8fPIN2A09I8bOMN0E18fPIN2A09H8bO2NN0E1Copy, if the destination is not empty.8fPIN2A09H8bO3HN0E1Delete or backspace, if the target is not empty.8fPIN2A09H8bO4JN0E1Using a template, if the selection can't be used in that template.8fPIN2A09H8bO3MN0E1A new kill sequence, if the kill buffer is not empty.8fPIN2A09H8bO4BN0E1Replace, if the argument can't be used in the replacement.So, during a session, the contents of the buffer window will grow.
+
+If you delete something in the buffer, it will not be stored again and an undo is
+not possible. This can be used to clean up the buffer or clear it completely.
+However, if you kill something in the buffer, it can be recovered via the kill buffer.
+You can clear the buffer also by clicking on the 8fPIN2A098bOLN0E1Kill button.
+
+8fPKN2A0'8bM3AN0E3StructureEditing.Information on Templates8bO1PN0E1Information on Templates8bNIN0E28fPHN2A0/8fPON2A09D8bIHN0E78bJHN0E68bKIN0E5(8bLHN@E4$8bMHN0E38bNHN0E28bOLN0E1help
+
+It  is often the case that you want help with the use of templates, even with
+templates that you yourself have created.  8fPHN2A0B provides several
+mechanisms for doing so which we discuss in this section.
+
+8fPKN2A0'8bM2HN0E3StructureEditing.DocumentStencil8bO1LN0E1The Document
+Stencil8bNIN0E28fPHN2A0.
+The most comprehensive information about a template is provided by its definition.
+See 8fPJN2A0G8bNHN@E2"8bO1IN0E1VersionDefinition for how to (re)define a template. By
+going  through the motions  of redefining a template, but not making any change
+whatsoever, you can find out full details of any template. 
+
+A stencil, called the 8fPIN2A0A8bO1HN0E1document stencil8fPON2A09D8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNPN0E2document8bOON0E1stencil,  containing all the templates used in a
+document can be generated automatically as follows:  Click on the 8fPIN2A098bOON0E1Stencil
+menu item under 8fPIN2A098bONN0E1Window on the console, and then click on 8fPIN2A098bOLN0E1Load in the stencil
+window that appears.  The file selector will appear on your screen, the message
+``Load stencil:'' at its head indicating that its function is to load a stencil.  The
+``Mask'' entry will accordingly be set to ``8fPIN2A088bOLN0E1.mps''.  Edit the mask so that it reads
+``8fPIN2A088bOLN0E1.mpd'', and then seek the document that you are interested in.  (See 
+8fPJN2A0H8bN1EN0E2MoreOnWindows8bO1EN0E1File Selector for details of how to do this.)  Once
+the document name has been found and entered as the ``Selection'' click on
+8fPIN2A098bOJN0E1OK.  A stencil will appear on your screen; the name of this stencil is the name
+of the document you selected.  (Thus if you selected the document
+``8fPIN2A088bO1FN0E1mydocument.mpd'' the header of the stencil will read ``8fPIN2A098bO1NN0E1mydocument.mpd
+Stencil''.
+
+The principal use of the document stencil is as a summary of all the templates
+that have been used in a document.  It can also be used to recover the definition of
+templates that have been lost (because the stencil in which they were first defined
+has been lost or destroyed or because the definition has been inadvertently
+overwritten).  Document stencils should not normally be saved since there is little
+point in doing so.
+
+8fPKN2A0'8bM1DN0E3TemplateHelp8bO1NN0E1Info and the Help File8bNIN0E28fPHN2A0.
+Summary  and help information about a template can be obtained via an
+occurrence of the template in a document or in a stencil.  The information that is
+obtained is identical in both cases but the procedure to obtain the information
+differs. 
+
+In the case of an occurrence of a template in a document the procedure is as
+follows.  First set the target selection to the template you are interested in.  Then
+select  8fPIN2A098bOON0E1Version8fPON2A09D8bIHN0E78bJHN0E68bKHN0E58bLPN0E48fPIN2A098bOON0E1Version button8bMHN0E38bN1FN0E2Version button8bOON0E1console in the console with the far mouse button.  Pin up the menu that
+appears and select 8fPIN2A098bOLN0E1Info.8fPON2A09D8bIHN0E78bJHN0E68bKHN0E58bL1KN0E48fPIN2A098bOLN0E1Info about  a template8bMHN0E38bNHN0E28bO1ON0E1Info about  a template   
+
+In the case of an occurrence of a template in a stencil a similar menu can be
+obtained by selecting the template with the far mouse button.  Pin the menu up
+and select 8fPIN2A098bOLN0E1Info.  
+
+(Note that the headers of the two menus differ.  The menu obtained via 8fPIN2A098bOON0E1Version
+in the console is headed ``8fPIN2A098bOON0E1Version'' and the menu obtained via a stencil is headed
+``8fPIN2A098bOPN0E1Template''.   This has nothing to do with the information that is available.)
+
+The information that appears contains the following items: 
+8fPIN2A09I8bONN0E18fPIN2A09H8bO2AN0E1The name of the template.8fPIN2A09H8bO1PN0E1The name of a help file.8fPIN2A09H8bO7EN0E1The type (mathematical operator or not) and, if a mathematical operator, its 
+precedence and default spacing.8fPIN2A09H8bO2ON0E1The number of versions of the template.8fPIN2A09H8bO3GN0E1The number of times the template has been used.8fPIN2A09H8bO4HN0E1The names of loaded stencils in which the template can be found.
+The name of the template is the entry name under which the template appears
+in any stencil.  
+
+A help file8fPON2A09D8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNLN0E2file8bOLN0E1help associated with a template may or may not have been provided by
+the creator of that template.  The contents of a help file is also the responsibility of
+the creator of the template.  The intention, however, is that the help file explains
+the purpose of the template and gives examples of its use.   A help file is just a
+normal 8fPHN2A0B document and so can be read by loading it via the 8fPIN2A098bOPN0E1Document
+entry below the 8fPIN2A098bONN0E1Window button on the console. 
+
+  
+
+8fPON2A09D8bIIN0E7)8bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOLN0E1help

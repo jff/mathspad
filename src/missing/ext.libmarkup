@@ -1,0 +1,36 @@
+
+
+markup/.libs/libmarkup.so.0.0.0:
+
+[Index]   Value      Size    Type  Bind  Other Shndx   Name
+
+[87]	|         0|       0|NOTY |GLOB |0    |UNDEF  |.div
+[72]	|         0|       0|NOTY |GLOB |0    |UNDEF  |.rem
+[68]	|         0|       0|NOTY |GLOB |0    |UNDEF  |UTFtoUstr
+[75]	|     81692|       0|OBJT |GLOB |0    |10     |_DYNAMIC
+[66]	|     81544|       0|OBJT |GLOB |0    |9      |_GLOBAL_OFFSET_TABLE_
+[84]	|     81804|       0|OBJT |GLOB |0    |11     |_PROCEDURE_LINKAGE_TABLE_
+[76]	|         0|       0|NOTY |GLOB |0    |UNDEF  |__iob
+[83]	|     89028|       0|OBJT |GLOB |0    |12     |_edata
+[65]	|     90082|       0|OBJT |GLOB |0    |13     |_end
+[86]	|     16007|       0|OBJT |GLOB |0    |8      |_etext
+[67]	|      9544|      32|FUNC |GLOB |0    |7      |add_markup_handler
+[82]	|      9436|     108|FUNC |GLOB |0    |7      |add_surrogate_handler
+[79]	|      7540|     108|FUNC |GLOB |0    |7      |box_markup_init
+[78]	|      8208|     108|FUNC |GLOB |0    |7      |color_markup_init
+[89]	|         0|       0|NOTY |GLOB |0    |UNDEF  |font_change_attribute
+[85]	|         0|       0|NOTY |GLOB |0    |UNDEF  |font_get_name
+[64]	|      8500|     108|FUNC |GLOB |0    |7      |font_markup_init
+[90]	|         0|       0|NOTY |GLOB |0    |UNDEF  |fprintf
+[69]	|      9796|      96|FUNC |GLOB |0    |7      |handle_surro
+[74]	|      9748|      48|FUNC |GLOB |0    |7      |high_surro
+[73]	|      8944|     108|FUNC |GLOB |0    |7      |lang_markup_init
+[70]	|      9988|      20|FUNC |GLOB |0    |7      |markup_init
+[91]	|         0|       0|NOTY |GLOB |0    |UNDEF  |mymalloc
+[63]	|      9892|      96|FUNC |GLOB |0    |7      |print_surro
+[77]	|      9576|     172|FUNC |GLOB |0    |7      |set_handle
+[80]	|         0|       0|NOTY |GLOB |0    |UNDEF  |set_string_size
+[71]	|         0|       0|NOTY |GLOB |0    |UNDEF  |sprintf
+[88]	|         0|       0|NOTY |GLOB |0    |UNDEF  |strlen
+[81]	|         0|       0|NOTY |GLOB |0    |UNDEF  |uctype
+[62]	|      9052|     120|FUNC |GLOB |0    |7      |valid_start_position

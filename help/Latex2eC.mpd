@@ -1,0 +1,661 @@
+[4mMathpad Document
+[0m6b3NN0E0
+©  1996 Hilary Backhouse\\
+All rights reserved.  No part of this publication may be reproduced, in any form, or by any
+means without prior permission in writing from the copyright holder.   Permission is 
+however granted to make and distribute verbatim copies of the 8fPHN2A0ISafa0e17G   !0GVafa0e17F#!MC80JbfIMath222LpaddfILC80J\mplogo{}  document
+and stencil files used to create this publication.  Permission is also granted to modify the
+8fPHN2A0  document and stencil files for individual use but not to distribute such
+modifications without the express  written permission of the copyright holder.  The
+8fPHN2A0  files may  not be processed by any other system than the
+8fPHN2A0  system and may not be converted to any other format, electronic or
+otherwise, without the express  written permission of the copyright holder. 
+
+
+
+
+8fPIN2A0ISfe1c3a6C   "1FClinkGVfe1c3a6J'!DC80J BC1ACLink (editable)GVfe1c3b0O'!DC80J BCOCLink (hidden)"8bO1BN0E1BIBTEXHelp8fPJN2A0ISe1d4f11P   +2PCSectionHeading2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f1aC'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+HC80J8bN{8bO}80IKC{heading}GVe1d4f20A'!3CC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80IPC[toc]{heading}GVe1d4f27D'!2MC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1CC[no no.]{heading}GVe1d4f2aE'!2NC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1AC80J8bN{8bO}\label{8bM}80IPC{heading}labelGVe1d4f2eB'!3LC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1EC[toc]{heading}labelGVe1d4f12M'!3FC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1BC80J8bN*{8bO}\label{8bM}80I1HC[no no.]{heading}labelGVe1d4f12H'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80I1EChide-[toc]{heading}GVe1d4f12I'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1IChide -[no no.]{heading}GVe1d4f12J'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1AC80J8bN{8bO}\label{8bM}80I1EChide-{heading}labelGVe1d4f12K'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1JChide-[toc]{heading}labelGVe1d4f12L'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1BC8bN80J*{8bO}\label{8bM}80I1MChide-[no no.]{heading}label-8bNJN0E28fPHN2A0ISe1d4f86L   '21ACSectioningTypes2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f86M#!JCcbLbfKPartdfK80PHC80J\partGVe1d4f86N#!MCcbMbfKChapterdfK80PKC80J\chapterGVe1d4f86O'!MCcbNbfKSectiondfK80PKC80J\sectionMCcbObfKSectiondfKccAGVe1d4f86P#!PCcbObfKSubSectiondfK80PNC80J\subsectionGVe1d4f87A#!1ACbfKSubSubSectiondfK1AC80J\subsubsectionGVe1d4f87B#!MCbfKParagraphdfKMC80J\paragraphGVe1d4f87C#!PCbfKSubParagraphdfKPC80J\subparagraph3 8bONN0E1BIBTEX
+8fPHN2A0ISe1cfa44M   %2GCLaTeX1CCLatex2e#LaTeXHelpGVe1cfa44N#!1FCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NXKC80J\LaTeX{}GVe1cfa44O#!MCT81K81L81K81L81ME81N81M81NXIC80J\TeX{}GVe1cfa45A#!1HCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NX23bF4AC80J{\mathsurround=0pt\LaTeX $2_80L{\textstyle 3bF}$\hspace{-0.4mm}}{}GVe1cfa45B#!1BCBccAIB80PT81K81L81K81L81ME81N81M81NX1FC80J80J\textsc{Bib}\TeX{}GVe1e4779B#!MCbfMMakeIndexdfMOCbfMMakeIndexdfM{}6 is a program which can be used in conjunction with 
+8fPHN2A09 to produce a bibliography.  
+The templates that you will need can be found in the group 
+labelled  8fPIN2A0ISe196d18D   +2KCTextStyle1HCLatex2eA#TextStyleHelpGVe196d18N'!FC80JbfJ8bOdfJKC80J\emph{8bO}1CCbfMEmphasizeddfM textGVe196d18E'!DC80J8bOMC80J\textup{8bO}OCUpright shapeGVe196d18F'!FC80JbfM8bOdfMMC80J\textit{8bO}PCbfMItalicdfM shapeGVe196d18G'!FC80JbfJ8bOdfJMC80J\textsl{8bO}1ACbfJSlanteddfJ shapeGVe196d18H'!DC80J8bOMC80J\textsc{8bO}1FCSccBMALLcbPcbNCccBAPS cbNshapeGVe196d18I'!DC80J8bOMC80J\textmd{8bO}OCMedium seriesGVe196d18J'!FC80JbfO8bOdfOMC80J\textbf{8bO}OCbfOBolddfO seriesGVe196d18K'!DC80J8bOMC80J\textrm{8bO}NCRoman familyGVe196d18L'!FC80JbfI8bOdfIMC80J\textsf{8bO}1ECbfISans SerifdfI familyGVe196d18M'!FC80JbfH8bOdfHMC80J\texttt{8bO}1ECbfHTypewriterdfH familyGVe196d18O'!FC80JbfK8bOdfK1GC80J\textbf{80J\textit{8bO}}1NCbfKBolddfK series bfKItalicdfK shape>8bONN0E1BIBTEX. If, however,  you wish to generate the list of references yourself
+use template 8fPIN2A0<8bO1IN0E1Bibliography(DIY) (group 8fPIN2A0>8bO1EN0E1Miscellaneous) instead.
+
+There are  four templates in this group.  The 8fPIN2A0<8bO1DN0E1Bibliography template is used to indicate
+where you want the bibliography to appear in your document,  and the 8fPIN2A0<8bO1IN0E1BibliographyStyle
+template what conventions you wish to apply in presenting the bibliography.  The
+remaining two templates,  8fPIN2A0<8bOPN0E1DocTypes and  8fPIN2A0<8bO1AN0E1OptFields,  are used to create a database of 
+references as required by the 8fPHN2A06 program.  
+
+The general procedure is as follows.  More specific information is given in the sections
+appropriate to each template.
+
+First, create a so-called ``8fPIN2A0;8bOKN0E1bib'' file, containing the bibliography database.  Use the 
+8fPIN2A0<8bOPN0E1DocTypes and  8fPIN2A0<8bO1AN0E1OptFields templates to enter your references into an 8fPIN2A0;8bOKN0E1mpd file. This
+entails inserting, for each entry, details such as the type of publication and the 
+name of the author together with a search key.
+The search key given to each  reference in the database must be unique.
+When all the entries have been
+entered  into the database in the document window (8fPIN2A0;8bOKN0E1mpd file) you must generate the
+version of the database file which is to be processed by  8fPHN2A06.  This must have a
+8fPIN2A0;8bOKN0E1bib extension. Thus, after clicking on the 8fPIN2A0<8bONN0E1Output  button at the top of the document
+window  8fPIN2A0B8bO3FN0E1edit the selection in the file selector window to ensure that the extension of the
+file to which the 8fPHN2A09 code is written is 8fPIN2A0;8bOKN0E1bib. 
+
+Now you may enter references in your document.  Where you wish
+to cite a publication in the text of your document select 8fPIN2A0<8bOLN0E1Cite from template  8fPIN2A0<8bO1FN0E1Ref(other
+doc)8fPHN2A0ISe1f47d6C   -22ECHorizontal                         1ICLatex2eB#HorizSpaceHelpGVe1f47d6D'!1FCbfMHSpacedfM {82Hlength82I8bO}LC\hspace{8bO}OCspace{length}GVe1f47d6E'!1HCbfMHspace*dfM {82Hlength82I8bO} MC\hspace*{8bO}2GCspace{length}* also at start/end lineGVe1f47d6F'!ICbfMHFilldfMHC\hfill1ECfill out with spaceGVe1f490cL'!JCbfMHFill*dfM1AC\hspace*{\fill}1FCfill out with space*GVe1f47d6G'!CC DC\,LCthin spaceGVe1f47d6H'!CC EC80J\ 1EC1 inter-word space*GVe1f47d6I'!DC  GC80J\ \ 1GC2  inter-word spaces*GVe1f47d6J'!GC     MC80J\ \ \ \ \ 1GC5  inter-word spaces*GVe1f47d6K'!LC          1GC80J\ \ \ \ \ \ \ \ \ \ 1GC10 inter-word spaces*GVe1f47d6L'!FC    LC\hspace{8bO}1DChide-space{length}GVe1f47d6M'!FC    MC\hspace*{8bO}1EChide-space{length}*GVe1f47d6N'!FC    HC\hfill1FChide-fill with spaceGVe1f4910N'!FC    1AC\hspace*{\fill}1KChide-fill out with space*Land insert  the search key of the required reference into the place holder.  If you
+wish to add a comment such as a  page number to the citation use  version
+8fPIN2A0<8bO1IN0E1Cite[Ref,Comment] instead. 
+
+At the point in the document where you wish the list of references to appear, insert  
+command 8fPIN2A0<8bO1DN0E1Bibliography filling its place holder with the name(s) of your database(s).
+These are assumed to have a 8fPIN2A0;8bOKN0E1bib extension. Also insert  into your document file  a
+version from the  template 8fPIN2A0<8bO1IN0E1BibliographyStyle to indicate the style required for the list
+of references. 
+
+Instructions on how to generate the bibliography in your document are
+in the section called ``Running 8fPHN2A06'' which follows.
+
+8fPJN2A0-8bOON0E1Example8bNIN0E28fPHN2A00
+
+The box below illustrates the structure of a 8fPHN2A0  document including a reference
+to the publication with search key LaTeX2e. 8fPHN2A0ISe1cfe05L   +2KCLineBreak1GCLatex2e#LineBreakHelpGVe1cfe05M'!NCbfMLineBreakdfM
+NC\linebreak 80ILCLine breakGVe1cfe05N'!1NCbfMLineBreakdfM[82H0,1,2,3 or 482I8bO]OC\linebreak[8bO]1MCLine break [ 0,1,2,3 or 4 ]GVe1cfe05O'!OCbfMNoLineBreakdfMNC\nolinebreakOCNo line breakGVe1cfe05P'!1PCbfMNoLineBreakdfM[82H0,1,2,3 or 482I8bO]1AC\nolinebreak[8bO]1OCNo line break [ 0,1,2,3 or 4]GVe1cfe06A'!LCbfMNewLinedfM
+LC\newline 80IJCNew lineGVe1cfe06B#!EC\\
+KC\\\empty80IGVe1cfe06C'!1AC\\[82Hlength82I8bO]
+
+HC\\[8bO]80ILC\\[length]GVe1d08b3I#!FC\\*
+LC\\*\empty80IGVe1d08b5E'!1BC\\*[82Hlength82I8bO]
+
+IC\\*[8bO]80IMC\\*[length]GVe1cfe06D'!GC   
+
+HC\\[8bO]80I1CC\\[length] (hide)GVe1cfe06E'!DC 
+KC\\\empty80IKC\\ (hide)R 
+--------------------------------------------------------------8fPHN2A0R8fPIN2A0B8bOON0E1Article8fPHN2A0R8fPIN2A0:8bO1FN0E1Begin document8fPHN2A0R8fPIN2A0B8bO1PN0E1Bibliography Style Plain8fPHN2A0RStart of the text.8fPHN2A0RHere we cite publication [8fPIN2A0<8bOON0E1LaTeX2e] using a8fPHN2A0Rversion of template 8fPIN2A0<8bO1FN0E1Ref(other doc).8fPHN2A0RRest of the text.8fPIN2A0S8bOKN0E12mm8fPIN2A0B8bO2IN0E1Insert bibliography compiled from 8fPHN2A0ISe1d5142P   *2NCSpecialChars1JCLatex2e#SpecialCharsHelpGVe1d5143A#!CC#GC80J\#{}GVe1d5143B#!CC$GC80J\${}GVe1d5143C#!CC%GC80J\%{}GVe1d5143D#!CC&GC80J\&{}GVe1d5143E#"CC~HC{\sim}GVe1d5143F#!CC_GC80J\_{}GVe1d5143G#!DC80J^GC80J\^{}GVe1d5143H#"CC\NC{\backslash}GVe1d5143I#!CC{EC80J\{GVe1d5143J#!CC}EC80J\}^8fPIN2A0;8bO1CN0E1bibmathspad8fPHN2A0] 8fPIN2A0B8bOLN0E1here.8fPHN2A0R8fPIN2A0:8bO1DN0E1End document8fPHN2A0R--------------------------------------------------------------8fPHN2A0R
+
+After processing by 8fPHN2A09 the following output would be generated.  Note that the
+search key has been replaced by a number and a ``Reference'' section has been added to
+the document at the position of the ``Insert bibliography'' command.
+
+--------------------------------------------------------------8fPHN2A0RStart of the text.8fPHN2A0RHere we cite publication [1] using a 8fPHN2A0Rversion of template 8fPIN2A0<8bO1FN0E1Ref(other doc).8fPHN2A0RRest of the text.8fPIN2A0S8bOKN0E12mm8fPIN2A0>8bO1BN0E1References8fPIN2A0S8bOKN0E12mm[1]8fPHN2A0JLeslie Lamport. 8fPIN2A0B8bO3FN0E18fPHN2A09: A Document Preparation System, 2nd Edition.8fPHN2A0R8fPHN2A0J8fPHN2A0JAddison-Wesley, Reading, Massachusetts, 1994.8fPHN2A0R---------------------------------------------------------------
+
+8fPIN2A0"8bO1HN0E1BibliographyHelp8fPJN2A0-8bNIN0E28fPHN2A028bO1DN0E1Bibliography  
+
+This  template should only be used  if you intend to use 8fPHN2A06 to produce the list of
+references. If you are going to produce it yourself use template 8fPIN2A0<8bO1IN0E1Bibliography(DIY). 
+
+At the point in the document where you wish the list of references to appear insert  
+template 8fPIN2A0<8bO1DN0E1Bibliography filling its place holder with the name(s) of your database(s). These
+are assumed to have a 8fPIN2A0;8bOKN0E1bib extension.
+
+8fPIN2A0"8bO1DN0E1BibStyleHelp8fPJN2A0-8bNIN0E28fPHN2A028bOPN0E1BibStyle
+
+This template should only be used if a list of references is to be produced with the aid of the
+8fPHN2A06 program. Insert  a version of it into the document file after the 8fPIN2A0D8bOPN0E1preamble. The
+version chosen indicates the style in which the bibliography is to be set and may be one  of
+the following: 
+8fPIN2A0ISd555ce5O   (1JCManTableGVd555ce5J'!1EC
+81PbfH          dfH80B
+8bO82A
+2JC80J\begin{mantable}{20mm}80I8bO80I\end{mantable}1ACManTable (20mm)GVd555ce5K'!1CC
+81PbfH        dfH80B
+8bO82A
+2JC80J\begin{mantable}{15mm}80I8bO80I\end{mantable}1ACManTable (15mm)GVd555ce5L'!PC
+81PbfH    dfH80B 
+8bO82A
+2IC80J\begin{mantable}{8mm}80I8bO80I\end{mantable}PCManTable (8mm)GVd555ce5M'!JCbfO8bOdfO80C80E8bN80F
+NC80J\item[8bO] 8bN80I1BCItem (same line)GVd555ce5N'!KCbfO8bOdfO
+80C80E8bN80F
+NC80J\item[8bO] 8bN80I1BCItem (next line)GVfdb41f4K'!1GC
+81PbfH            dfH80B
+8bO82A
+2JC80J\begin{mantable}{25mm}80I8bO80I\end{mantable}1ACManTable (25mm)GVfc4a6c3E'!1JC
+81PbfH               dfH80B
+8bO82A
+2JC80J\begin{mantable}{30mm}80I8bO80I\end{mantable}1ACManTable (30mm)GVe113ff5L'!1MC
+81PbfH                  dfH80B
+8bO82A
+2JC80J\begin{mantable}{35mm}80I8bO80I\end{mantable}1ACManTable (35mm)i8bOLN0E18fPJN2A0k8bN4EN0E2Entries are sorted alphabetically and labelled with a number.8bOMN0E1Plain8fPJN2A0k8bN5IN0E2Entries are in the order they appear in the text and are labelled with  a
+number.8bOMN0E1Unsrt8fPJN2A0k8bN9FN0E2Entries are sorted alphabetically with the label for each document
+being formed from the author's name and  the year of publication,
+8fPHN2A0ISe1ec753N   %2OCAbbreviations1LCLatex2eB#AbbreviationsHelpGVe1ec753O#!GCe.g. IC80Je.g.\ GVe1ec753P!!ICbfMetc. dfMGVe1ec754A#!GCi.e. IC80Ji.e.\ GVe1ec754B#!GCE.g. IC80JE.g.\ GVe1ec754C#!GCI.e. IC80JI.e.\ s[BAC95].8bOMN0E1Alpha8fPJN2A0k8bN5HN0E2The same as plain except the bibliographical entries contain more abbreviations.8bOMN0E1Abbrv
+
+8fPIN2A0"8bO2CN0E1DocTypes and OptFields Help8fPJN2A0-8bNIN0E28fPHN2A028bO1NN0E1DocTypes and OptFields 
+
+These templates are used to make a database of bibliographical entries for  processing
+with the 8fPHN2A06 program.
+
+First open a document window and give it the name of the new database. 
+
+For each entry various pieces of information are entered into the database. These are
+stored in 8fPIN2A0B8bONN0E1fields. There are fields for the title of the document, for the name(s) of the
+author(s) and so on. Not every field must be filled for every type of document. For example,
+an author, title,  journal and year must be entered in an article document type
+whereas a booklet only requires a title. 8fPHN2A06 recognises several types of document
+and for each of these types there are some fields which 8fPIN2A0D8bOLN0E1must be filled and others which
+8fPIN2A0D8bOKN0E1may be filled. These document types together with lists of their compulsory and 
+optional fields are given below.
+
+It is possible to enter information about an entry into a field which is
+neither required nor optional. This will be ignored by 8fPHN2A06 and will not appear in
+the reference. This can be a useful place for  storing additional information about a
+document.
+
+8fPJN2A0ISe182dfcL   #2OCTabbing-Enter1FCLatex2eB#TabbingHelpGVe182dfcO'!4OCbfMBegin tabbingdfM
+bfO{dfO81P82Hkill-line82I8bNccBbfMkilldfM80P
+82HTabbing-Row(s)82I8bO82AbfO}dfO
+bfMEnd tabbingdfM
+1CC80J81P 80I8bN\kill 80I8bO80I82A 80IPCEdit kill-lineGVe182dfcN'!1PC
+81P80O8bN81ObfO{dfO82HTabbing-Row(s)82I8bO82AbfO}dfO
+1CC80J81P 80I8bN\kill 80I8bO80I82A 80IPCHide Kill-lineGVe182dfcM'!3MCbfMBegin tabbingdfM
+bfO{dfO81P82HTabbing-Row(s)DIY82I8bO82AbfO}dfO
+bfMEnd tabbingdfM
+KC80J81P 80I8bO80I82A 80IMCTabbing DIYv8bO2ON0E18fPKN2A0ISe185e45J   &2MCTabbing-Row1FCLatex2eB#TabbingHelpGVe185e45K'!3HC82Hitem182I8bO80C82Hitem282I8bN80C82Hitem382I8bM80C82Hitem482I8bL80C82Hitem582I8bK80C82Hitem682I8bJ
+2EC\MPnewitem 8bO80C8bN80C8bM80C8bL80C8bK80C8bJ\MPinsertsep80IKC6 col rowGVe185e45L'!2OC82Hitem182I8bO80C82Hitem282I8bN80C82Hitem382I8bM80C82Hitem482I8bL80C82Hitem582I8bK
+2CC\MPnewitem 8bO80C8bN80C8bM80C8bL80C8bK\MPinsertsep80IKC5 col rowGVe185e45M'!2FC82Hitem182I8bO80C82Hitem282I8bN80C82Hitem382I8bM80C82Hitem482I8bL
+2AC\MPnewitem 8bO80C8bN80C8bM80C8bL\MPinsertsep80IKC4 col rowGVe185e45N'!1MC82Hitem182I8bO80C82Hitem282I8bN80C82Hitem382I8bM
+1OC\MPnewitem 8bO80C8bN80C8bM\MPinsertsep80IKC3 col rowGVe185e45O'!1DC82Hitem182I8bO80C82Hitem282I8bN
+1MC\MPnewitem 8bO80C8bN\MPinsertsep80IKC2 col rowGVe185e45P'!KC82Hitem182I8bO
+1KC\MPnewitem 8bO\MPinsertsep80IKC1 col rowy8bM2GN0E3Author, Title, Publisher, Year.8bN1AN0E2Required:8bOIN0E18fPIN2A0>8bO1CN0E1Book-author8fPKN2A0y8bM3CN0E3Volume or Number, Series, Address, Edition,8bN1AN0E2Optional:8bOIN0E1 8fPKN2A0y8bM1DN0E3Month, Note.8bNIN0E2 8bOIN0E1 8fPKN2A0y8bM2HN0E3Editor, Title, Publisher, Year.8fPIN2A0ISe1d519bJ   $21NCStrut(InvisibleVerticalLine)2JCLatex2e#Strut(InvisibleVerticalLine)HelpGVe1d519bK'!KC82Hheight82I8bNOC\rule{0cm}{8bN}1MCbottom of line on base lineGVe1d519bL'!CC OC\rule{0cm}{8bN}1LCbottom on base line (hide)GVe1d519bM'!1BC82Hheight82I8bN82HYccB080P82I8bM1BC\rule[8bM]{0cm}{8bN}2PCbottom of line bfIYccB0dfI bfPcbPcbNdfPabove/below base lineGVe1d519bN'!CC 1BC\rule[8bM]{0cm}{8bN}3DCbottom of line bfIYccB0 bfPcbNdfPabove/below base line(hide)7P8bNKN0E25mm8bN1AN0E2Required:8bOIN0E18fPIN2A0>8bO1CN0E1Book-editor8fPKN2A0y8bM3CN0E3Volume or Number, Series, Address, Edition,8bN1AN0E2Optional:8bOIN0E1 8fPKN2A0y8bM1EN0E3Month, Note.8fPHN2A0ISe1f47d5C   +2JCVertical1HCLatex2eB#VertSpaceHelpGVe1f47d5D'!1DCVSpace {82Hlength82I8bO}LC\vspace{8bO}OCspace{length}GVe1f47d5E'!1ECVSpace* {82Hlength82I8bO}MC\vspace*{8bO}2GCspace{length} *also at start/end pageGVe1f47d5F'!KC219D219DccDVfill80PHC\vfill1ECfill out with spaceGVe1f49ebA'!LC219D219DccDVfill*80P1AC\vspace*{\fill}1FCfill out with space*GVe1f47d5G'!1HCAdd VSpace {82Hlength82I8bO}OC\addvspace{8bO}1CCadd space{length}GVe1f47d5K'!FC219DccBs80PLC\smallskipMCSmall spaceGVe1f47d5L'!FC219DccBm80PJC\medskipNCMedium spaceGVe1f47d5M'!FC219DccBb80PJC\bigskipKCBig spaceGVe1f47d5H'!NC219DccD82Hlength82I8bO80PLC\vspace{8bO}1DChide-space{length}GVe1f47d5I'!PC 219D*ccD82Hlength82I8bO80PMC\vspace*{8bO}1EChide-space{length}*GVe1f47d5J'!OC219D219DccD82Hlength82I8bO80POC\addvspace{8bO}PChide-add space8G8bNIN0E2 8bOIN0E1 8fPKN2A0y8bM2FN0E3Author, Title, Journal, Year.8fPIN2A07P8bNKN0E25mm8bN1AN0E2Required:8bOIN0E18fPIN2A0>8bOON0E1Article8fPKN2A0y8bM2KN0E3Volume, Number, Pages, Month, Note.8bN1AN0E2Optional:8bOIN0E1 8fPKN2A0y8bMON0E3Title.8fPIN2A07P8bNKN0E25mm8bN1AN0E2Required:8bOIN0E18fPIN2A0>8bOON0E1Booklet8fPKN2A0y8bM2MN0E3Author, HowPublished, Address, Month,8bN1AN0E2Optional:8bOIN0E1 8fPKN2A0y8bM1CN0E3Year, Note.8bNIN0E2 8bOIN0E1 8fPKN2A0y8bM3ON0E3Author, Title,  Chapter and/or Pages, Publisher, Year.8fPIN2A07P8bNKN0E25mm8bN1AN0E2Required:8bOIN0E18fPIN2A0>8bO1EN0E1InBook-author8fPKN2A0y8bM2PN0E3Volume or Number, Series, Type, Address,8bN1AN0E2Optional:8bOIN0E1 8fPKN2A0y8bM1MN0E3Edition, Month, Note.8bNIN0E2 8bOIN0E1 8fPKN2A0y8bM3NN0E3Editor, Title, Chapter and/or Pages, Publisher, Year.8fPIN2A07P8bNKN0E25mm8bN1AN0E2Required:8bOIN0E18fPIN2A0>8bO1EN0E1InBook-editor8fPKN2A0y8bM3JN0E3Volume or Number, Series, Type, Address, Edition, 8bN1AN0E2Optional:8bOIN0E1 8fPKN2A0y8bM1DN0E3Month, Note.8bNIN0E2 8bOIN0E1 8fPKN2A0y8bM3DN0E3Author, Title, Book Title, Publisher, Year.8fPIN2A07P8bNKN0E25mm8bN1AN0E2Required:8bOIN0E18fPIN2A0>8bO1DN0E1InCollection8fPKN2A0y8bM3HN0E3Editor, Volume or Number, Series, Type, Chapter,8bN1AN0E2Optional:8bOIN0E1 8fPKN2A0y8bM2MN0E3Pages, Address, Edition, Month, Note.8bNIN0E2 8bOIN0E1 8fPKN2A0y8bM2IN0E3Author, Title, Book Title, Year.8fPIN2A07P8bNKN0E25mm8bN1AN0E2Required:8bOIN0E18fPIN2A0>8bO1EN0E1InProceedings8fPKN2A0y8bM3PN0E3Editor, Volume or Number, Series, Pages, Address, Month,8bN1AN0E2Optional:8bOIN0E1 8fPKN2A0y8bM2FN0E3Organisation, Publisher, Note.8bNIN0E2 8bOIN0E1 8fPKN2A0y8bMON0E3Title.8fPIN2A07P8bNKN0E25mm8bN1AN0E2Required:8bOIN0E18fPIN2A0>8bONN0E1Manual8fPKN2A0y8bM3LN0E3Author, Organisation, Address, Edition, Month, Year,8bN1AN0E2Optional:8bOIN0E1 8fPKN2A0y8bMMN0E3Note.8bNIN0E2 8bOIN0E1 8fPKN2A0y8bM2EN0E3Author, Title, School, Year.8fPIN2A07P8bNKN0E25mm8bN1AN0E2Required:8bOIN0E18fPIN2A0>8bO1EN0E1MastersThesis8fPKN2A0y8bM2CN0E3Type, Address, Month, Note.8bN1AN0E2Optional:8bOIN0E1 8fPKN2A0y8bMNN0E3None.8fPIN2A07P8bNKN0E25mm8bN1AN0E2Required:8bOIN0E18fPIN2A0>8bOLN0E1Misc8fPKN2A0y8bM2PN0E3Author, HowPublished, Month, Year, Note.8bN1AN0E2Optional:8bOIN0E1 8fPKN2A0y8bM2EN0E3Author, Title, School, Year.8fPIN2A07P8bNKN0E25mm8bN1AN0E2Required:8bOIN0E18fPIN2A0>8bO1AN0E1PhDThesis8fPKN2A0y8bM2CN0E3Type, Address, Month, Note.8bN1AN0E2Optional:8bOIN0E1 8fPKN2A0y8bM1EN0E3Title, Year.8fPIN2A07P8bNKN0E25mm8bN1AN0E2Required:8bOIN0E18fPIN2A0>8bO1CN0E1Proceedings8fPKN2A0y8bM3IN0E3Editor, Volume or Number, Series, Address, Month,8bN1AN0E2Optional:8bOIN0E1 8fPKN2A0y8bM2FN0E3Organisation, Publisher, Note.8bNIN0E2 8bOIN0E1 8fPKN2A0y8bM2JN0E3Author, Title, Institution, Year.8fPIN2A07P8bNKN0E25mm8bN1AN0E2Required:8bOIN0E18fPIN2A0>8bO1BN0E1TechReport8fPKN2A0y8bM2KN0E3Type, Number, Address, Month, Note.8bN1AN0E2Optional:8bOIN0E1 8fPKN2A0y8bM1MN0E3Author, Title, Note.8fPIN2A07P8bNKN0E25mm8bN1AN0E2Required:8bOIN0E18fPIN2A0>8bO1CN0E1Unpublished8fPKN2A0y8bM1DN0E3Month, Year.8bN1AN0E2Optional:8bOIN0E1 8bN1GN0E28fPIN2A0>8bO1GN0E1Masters Thesis8fPHN2A0K\=Required: \=
+Having decided which of these document types is the one which you require, click on
+the appropriate version  and a template for the bibliographical entry will appear in the
+document window. The first place holder is labelled 8fPIN2A0<8bOON0E1Ref Key. This is the key with
+which the document can cited. (Another document can be cited
+by  entering its key into the place
+holder of one of the 8fPIN2A0<8bOLN0E1Cite versions of  template 8fPIN2A0<8bO1FN0E1Ref(other doc) group 8fPIN2A0>8bO1EN0E1Miscellaneous.)
+The key may be any
+sequence of letters, digits or punctuation marks but must not include a comma and
+naturally must be different from
+every other 8fPIN2A0<8bOON0E1Ref Key. Next fill in the place holders for the compulsory fields.
+There is one for each.
+
+Names can be entered with or without commas. Thus J. Smith and  Smith, J are both
+acceptable. However only the comma form should be used for names with a  surname
+with more than one capitalised part. If more than one name is to be entered into the
+author or editor fields then the names should be separated by the word ``8fPIN2A0B8bOKN0E1and''. If only the
+first few of a list of names are to be entered, type ``8fPIN2A0B8bO1BN0E1and others'' after the last name  typed
+and ``et al.'' will appear in the output.  The title should be entered  in a capitalised form. If
+that is not the appropriate style for the document type then 8fPHN2A09 will change the
+capital letters to lowercase letters if necessary. Uppercase letters which should not be
+changed should be enclosed by brackets ``8fPHN2A0^'' and ``8fPHN2A0]''.   More detailed information on how to
+enter names and titles  can be found in appendix~B of the 8fPHN2A07 manual.
+
+The last place holder is for any additional information. Optional and ignored fields
+can be entered here. If you do not wish to enter any extra details
+select version
+8fPIN2A0<8bOLN0E1None from template 8fPIN2A0<8bO1AN0E1OptFields, move the cursor past the 8fPIN2A0>8bOKN0E1End
+ and then repeat the
+process for the following document that is to be entered into the database. If further
+information is required, select the appropriate version from   template 8fPIN2A0<8bO1AN0E1OptFields and fill
+its place holder with text. More the cursor out of the place holder with the right arrow and
+then if necessary select another optional field from the template. When all the additional
+information has been entered  move the cursor past the 8fPIN2A0>8bOKN0E1End and continue as before.
+
+When all the data has been entered into the database click on the 8fPIN2A0<8bONN0E1Output button at the
+top of the window. Since 8fPHN2A09 assumes that bibliographical databases have extension
+8fPIN2A0;8bOKN0E1bib make certain that the output file mentioned in the file selector has that extension
+before clicking on 8fPIN2A0<8bOJN0E1OK. 
+
+8fPJN2A0-8bOPN0E1Examples8bNIN0E28fPHN2A00
+8fPIN2A0>8bOLN0E1BOOK8fPHN2A0J8fPIN2A0B8bOON0E1Ref Key: SJ95a8fPHN2A0R8fPHN2A0JAuthor:80C80CJ. Smith and R. Jones8fPHN2A0R8fPHN2A0JTitle:80C80CBritish Trees8fPHN2A0R8fPHN2A0JPublisher:80CA. Publishing Co.8fPHN2A0R8fPHN2A0JYear:80C80C19958fPHN2A0R8fPHN2A0J8fPIN2A0B8bO1GN0E1Optional fields8fPHN2A0R8fPHN2A0J(Volume or Number, Series, Address, Edition, Month, Note)8fPHN2A0R8fPHN2A0JNone8fPHN2A0R8fPHN2A0J8fPIN2A0>8bOKN0E1End
+
+8fPIN2A0>8bOON0E1BOOKLET8fPHN2A0J8fPIN2A0B8bOON0E1Ref Key: SJ95b8fPHN2A0R8fPHN2A0JTitle:80C80CEuropean Trees8fPHN2A0R8fPHN2A0J8fPIN2A0B8bO1GN0E1Optional fields8fPHN2A0R8fPHN2A0J(Author, HowPublished, Address, Month, Year, Note)8fPHN2A0R8fPHN2A0JAuthor:80CSmith, J. and Jones, R. and others 8fPHN2A0R8fPIN2A0>8bOKN0E1End
+
+
+
+
+8fPJN2A0-8bO1AN0E1Running 8fPHN2A068bNIN0E28fPHN2A02
+Several steps are needed in order to produce a bibliography with 8fPHN2A06.  First run
+8fPHN2A09  on  the file which contains the document class command.  Suppose that this
+file is called 8fPIN2A0;8bOPN0E1Root.tex.  8fPHN2A09 will send  messages to the terminal for each citation,
+warning you that it is undefined, because at this stage it has no bibliography list. The
+name(s) of the database(s), the desired bibliographical style and the reference keys of
+the bibliographical  entries required are written to 8fPIN2A0;8bOPN0E1Root.aux and not to a special file. 
+Next execute 8fPHN2A06 with the command
+8fPIN2A0ISfe9c0daL   !1NCdisplay textGVfe9c0daO#!GC
+82B8bO82C
+EC82B8bO82C8M8bOIN0E18fPIN2A0;8bO1CN0E1bibtex Root
+8fPHN2A06 processes the information in 8fPIN2A0;8bOPN0E1Root.aux  and writes  the bibliographical
+entries to a file called  8fPIN2A0;8bOPN0E1Root.bbl.  Any error or warning messages will be sent to the
+screen and also to file 8fPIN2A0;8bOPN0E1Root.blg.  It is now necessary to run 8fPHN2A09 8fPIN2A0B8bOMN0E1twice more on
+8fPIN2A0;8bOLN0E1Root to obtain a complete bibliography.  8fPHN2A09 will read in and process file
+8fPIN2A0;8bOPN0E1Root.bbl, the warning messages should disappear, and a bibliography should now
+appear in your document. Unless there is a 8fPIN2A0<8bO2HN0E1No Auxiliary Files to be Written command
+in your preamble a new 8fPIN2A0;8bOPN0E1Root.aux will also have been generated. However, unless a
+change has been made to the document since the previous run, this file will have the
+same contents as before.  
+
+ 
+
+
+8fPIN2A0"8bO1EN0E1MakeIndexHelp8fPJN2A0-8bO1AN0E1MakeIndex8bNIN0E28fPHN2A03 
+
+The templates in this section are only intended to be used when an index is to be
+produced with program 8fPHN2A05. In order to use this program, packages
+8fPIN2A0B8bOON0E1makeidx and 8fPIN2A0B8bONN0E1ifthen must be loaded into the preamble of the document. If you have
+entered template 8fPIN2A0<8bO1EN0E1DocumentClass from the 8fPIN2A0>8bOON0E1latex2e stencil into your document then
+these packages are automatically   included in your document. If, however, you didn't use 
+template  8fPIN2A0<8bO1EN0E1DocumentClass then insert template 8fPIN2A0<8bOPN0E1Packages into the preamble and
+enter 8fPIN2A0B8bO1GN0E1makeidx, ifthen into its place holder.
+
+
+To generate an index we must not only indicate the items in the document
+which are to be indexed but also  inform 8fPHN2A09 that we wish to make an index
+and specify where in the document it is to appear.
+To do so first enter version 8fPIN2A0<8bO1BN0E1Make Index from 8fPIN2A0<8bOPN0E1Commands  into the preamble of the document. 
+This instructs 8fPHN2A09 to write details of the index entries in the document to a file with
+extension 8fPIN2A0;8bOKN0E1idx.    (8fPHN2A09 does not create an index by
+default even when there are index entries in your document.)  
+Then enter version 8fPIN2A0<8bO1DN0E1Insert Index from the same template at the place in
+the document at which you wish the index to appear.  This command instructs 8fPHN2A09 to
+process at  this point the file with extension 8fPIN2A0;8bOKN0E1ind of sorted index entries (if it exists).
+
+
+We are now ready to discuss the generation of the index items themselves.
+This is done with  templates  8fPIN2A0<8bOMN0E1Entry and  8fPIN2A0<8bO1AN0E1SEE-Entry both of which have two versions.
+
+An index item may be a normal index entry with a page number or it may be an index
+entry which refers the reader to another index entry. The latter we call a ``SEE'' entry. 
+As the number of the page  in which  a ``SEE'' entry is inserted into the document is
+irrelevant, it is a good idea to put all ``SEE'' entries together.  These are entered with
+version 8fPIN2A0<8bO1GN0E1enter SEE entry of template 8fPIN2A0<8bO1AN0E1SEE-Entry.  Once such an item has been entered
+use the 8fPIN2A0<8bOON0E1Version button on the console to change the version to 8fPIN2A0<8bO1KN0E1display SEE command.
+Only a selection of the index fields is then displayed in the document window improving
+the readability. Similarly  enter a standard index item with the 8fPIN2A0<8bO1HN0E1enter index item version
+from template 8fPIN2A0<8bOMN0E1Entry and then hide it to improve the appearance of your document on
+the screen by changing to version  8fPIN2A0<8bO1JN0E1hide index command.  
+
+8fPJN2A0-8bNIN0E28fPHN2A028bO3PN0E1Place holders 1-4 of an index entry or a SEE index entry 
+
+Entering an index item can be complicated as can be seen by the fact that version 8fPIN2A0<8bO1IN0E1enter
+index entry has 7 place holders  and version 8fPIN2A0<8bO1GN0E1enter SEE entry 5. However, usually only a
+few are  required.
+
+The first four place holders of both templates are identical.  The first three  specify the item
+in the index. If the word to be indexed is a main entry then only the first of the place
+holders is filled.  For example  in the index of the 8fPHN2A0  manual we indexed
+8fPIN2A0B8bO1AN0E1selection. For each of its entries we inserted version 8fPIN2A0<8bO1IN0E1enter index entry at the appropriate
+place in the document filling the first place holder with ``selection'' and leaving place
+holders 2 and 3 empty. Index item  8fPIN2A0B8bO1AN0E1selection has  several subitems one of which is
+8fPIN2A0B8bO1EN0E1operations on. For each of these entries ``selection'' was entered into place holder 1, 
+``operations on'' into place holder 2 and place holder 3 left empty.  Finally the 8fPIN2A0B8bO1EN0E1operations
+on entry had subitems 8fPIN2A0B8bOMN0E1Clear, 8fPIN2A0B8bOLN0E1Join and  8fPIN2A0B8bOLN0E1Swap  For each of their entries ``selection''
+was entered  into place holder 1, ``operations on'' into place holder 2 and either ``Clear'',
+``Join'' or ``Swap'' into place holder 3. 
+
+During a run of 8fPHN2A09 all the index entries are written to a file with extension 8fPIN2A0;8bOKN0E1idx.
+This file is then processed by 8fPHN2A05 which then  writes the sorted entries to a file
+with extension 8fPIN2A0;8bOKN0E1ind. The entries are sorted alphabetically according to the contents of the
+first place holder. Entries with the same first place holder are then sorted according to the 
+second place holder. Those with identical first and second place holders are sorted
+according to the content of the third place holder. It is only possible to have three levels of
+items  with program 8fPHN2A05.
+
+It is possible to specify where an entry should appear in the index with place holders 1, 2
+and 3 and specify the text of the entry with place holder~4. For example the entries for
+Clear, Join and Swap mentioned above had ``8fPIN2A0<8bOMN0E1Clear'', ``8fPIN2A0<8bOLN0E1Join'' and ``8fPIN2A0<8bOLN0E1Swap'' respectively
+in place holder~4 so that they appeared in a sans serif font in the index. The entry for
+8fPHN2A09 was another that required the use of place holder~4.  Template 8fPIN2A0<8bOMN0E1LaTeX was used to
+enter the 8fPHN2A09 logo into place holder~4 and ``LATEX'' was entered into place
+holder~1 
+to ensure that it appeared at the correct place in the index. 
+
+Summing up, the 4th place holder must be filled if the visual appearance
+of the entry required is different from the last  non-empty place holder of the first
+three.   
+
+8fPIN2A0>8bOON0E1Warning It is very important when filling these place holders not to insert extra blank
+spaces  as these are treated as characters  by 8fPHN2A05. Thus an entry with
+``selection'' in place holder 1 and another with `` selection'' in  place holder 1 will
+generate two items in the index.
+
+8fPIN2A0>8bO1GN0E1Special symbols The three symbols ``!'', ``@'' and  ``|'' have a special meaning to
+program 8fPHN2A05. If one of them is to be entered into a place holder it should  be
+preceded by the quote symbol ".
+
+8fPJN2A0-8bNIN0E28fPHN2A028bO3AN0E1The other place holders of an index entry
+
+If you wish to enter a
+range of pages for an index item then a pair of instances of  template 8fPIN2A0<8bOMN0E1Entry
+must be entered into the document. The first four place holders  must be identical and
+place holder 5 of the first occurrence set to ``( '' and  place holder 7 of the second
+occurrence to ``)''.
+
+The sixth place holder is used if the number in the index is to be printed in a different font.
+If an item has a list of page numbers associated with it, then the principal  reference
+might be set in a different type to aid the reader. A version for each of the standard fonts is
+available in template 8fPIN2A0<8bO1DN0E1FontOfNumber. Insert the one required in  place holder~6.
+Alternatively you can specify your own version. In this case enter the name of your
+8fPHN2A09 command in the Output section and the name without the 8fPHN2A0_ in the Screen
+section. If 8fPIN2A0ISe1d5e5bI   &2JCVerbatim1FCLatex2e#VerbatimHelpGVe1d5e5bJ'!ECbfH8bOdfHKC80J\verb+8bO+1JCShort-No `+' in contentsGVe1d5e5bK'!ECbfH8bOdfHKC80J\verb?8bO?1JCShort-No `?' in contentsGVe1d5e5bM'!ECbfH8bOdfHLC80J\verb*+8bO+2ICShort-No `+' in contents, spaces as ccB229EcbNGVe1d5e8dO'!ECbfH8bOdfHLC80J\verb*?8bO?2ICShort-No `?' in contents, spaces as ccB229EcbNGVe1d5e5bL'!GC
+bfH8bOdfH
+2EC80J\begin{verbatim}80I8bO80I\end{verbatim}80I1ICLong-more than one lineGVe1d5f98F'!GC
+bfH8bOdfH
+2GC80J\begin{verbatim*}80I8bO80I\end{verbatim*}80I2HCLong-more than one line, spaces as ccB229EcbN9C8bOIN0E1\8fPIN2A0;8bOLN0E1name is your 8fPHN2A09 command then 8fPIN2A09C8bOIN0E1\8fPIN2A0;8bOON0E1name8fPHN2A0^n8fPHN2A0] where 8fPIN2A0B8bOIN0E1n is the page
+number should generate the required format of your page number.
+
+8fPJN2A0-8bNIN0E28fPHN2A028bO3EN0E1The other place holders of a  SEE index entry
+
+This version of
+template 8fPIN2A0<8bO1AN0E1SEE-Entry is used to refer the reader to another index item. The first four place
+holders are filled as usual. The fifth should be filled with the  name of the other index item.
+
+8fPJN2A0-8bO1AN0E1Running 8fPHN2A058bNIN0E28fPHN2A02
+
+Several steps are needed in order to produce an index with 8fPHN2A05.  First run
+8fPHN2A09  on  the file which contains the document class command.  Suppose that this
+file is called 8fPIN2A0;8bOPN0E1Root.tex.  Then, provided that the 8fPIN2A0<8bO1BN0E1Make Index version has been
+inserted into the preamble, a file 8fPIN2A0;8bOPN0E1Root.idx will be generated.  Next run
+8fPHN2A05 by typing 
+
+89PIN2A0;8bO1FN0E1makeindex Root
+
+8fPHN2A05 processes the information in 8fPIN2A0;8bOPN0E1Root.idx  and writes  the sorted index
+entries to a file called  8fPIN2A0;8bOPN0E1Root.ind.  Any error or warning messages will be sent to
+the screen and also to file 8fPIN2A0;8bOPN0E1Root.ilg. Finally rerun 8fPHN2A09 on 8fPIN2A0;8bOPN0E1Root.tex.
+8fPHN2A09 will read in and process file 8fPIN2A0;8bOPN0E1Root.ind and an index should now appear
+in your document. Unless there is a 8fPIN2A0<8bO2HN0E1No Auxiliary Files to be Written command in your preamble a new
+8fPIN2A0;8bOPN0E1Root.idx will also have been generated. However, unless a change has been
+made to the document since the previous run, this file will have the same contents as
+before. Note that if a change is made
+to the document  it is necessary to repeat the whole process to be sure that the index is
+correct. That is, run 8fPHN2A09, then 8fPHN2A05 and finally 8fPHN2A09 again. 
+
+8fPHN2A09 will output the warning message ``8fPIN2A0;8bO1IN0E1No file Root.ind.''  if file 8fPIN2A0;8bOPN0E1Root.ind
+does not exist.  Should you get this error check that the template 8fPIN2A0<8bO1BN0E1Make Index has been
+included in the preamble.  
+
+8fPIN2A0"8bO1DN0E1GraphicsHelp8fPJN2A0-8bNJN0E28fPHN2A03 8bO1HN0E1Graphics package
+
+8fPIN2A0>8bO1AN0E1Warning: 8fPIN2A0B8bO6FN0E1The graphics package doesn't work on my installation so these templates 
+have not been tested. These templates not only require the 8fPIN2A0<8bOPN0E1graphics package to be available 
+and to have been requested in the 8fPIN2A0B8bOPN0E1preamble of the document, but also
+support from the device driver --- see chapter 7 of the 8fPHN2A07  manual.
+A description of the  8fPHN2A09 commands corresponding to this group of templates
+can be found in section 7.2 of the 8fPHN2A07  manual.
+
+8fPIN2A0"8bO1KN0E1IncludegraphicsHelp8fPJN2A0-8bNIN0E28fPHN2A028bO1GN0E1Includegraphics
+
+8fPIN2A0>8bOPN0E1Warning: 8fPIN2A0B8bO2JN0E1This template has not been tested.
+This template is used to insert graphics from a file into a box in a document. There are
+three versions, all of which have a place holder into which the name  of the file must be
+entered. The version labelled 8fPIN2A0<8bO2CN0E1box size determined by file can only be used if the file
+specifies the reference point  and the size of the box. 
+
+The other two versions can be used in order to specify the size of the box
+overriding any values that may have been set in the file.
+In these cases fill the 4 place holders to
+specify a box whose corners have co-ordinates
+(8fPIN2A0B8bOJN0E1x1, 8fPIN2A0B8bOJN0E1y1), (8fPIN2A0B8bOJN0E1x2, 8fPIN2A0B8bOJN0E1y1), (8fPIN2A0B8bOJN0E1x1, 8fPIN2A0B8bOJN0E1y2) and (8fPIN2A0B8bOJN0E1x2, 8fPIN2A0B8bOJN0E1y2) taking the left bottom corner of the file as the
+origin.  With the version labelled 8fPIN2A0<8bO2NN0E1only contents of box specified by user anything
+outside the specified box will not be shown whereas with the other version it would be.
+
+
+8fPIN2A0"8bO1FN0E1ReflectboxHelp8fPJN2A0-8bNIN0E28fPHN2A028bO1BN0E1Reflectbox
+
+8fPIN2A0>8bOPN0E1Warning: 8fPIN2A0B8bO2JN0E1This template has not been tested.
+This template produces a mirror image of the contents of the place holder 
+labelled ``contents box''.
+
+8fPIN2A0"8bO1EN0E1ResizeboxHelp8fPJN2A0-8bNIN0E28fPHN2A028bO1AN0E1Resizebox
+
+8fPIN2A0>8bOPN0E1Warning: 8fPIN2A0B8bO2JN0E1This template has not been tested.
+This template enables the user to enlarge or reduce the size of the contents of the place
+holder  labelled ``contents box'' to fit a particular size of box. Enter the desired width
+and height of the box into the appropriate place holders. Instead of entering specific
+lengths into both place holders one may be filled instead by an exclamation mark (!).
+In this case a value is assigned to the dimension so that the ratio of the width to the
+height of the contents of the box is unchanged.
+
+8fPIN2A0"8bO1EN0E1RotateboxHelp8fPJN2A0-8bNIN0E28fPHN2A028bO1AN0E1Rotatebox
+
+8fPIN2A0>8bOPN0E1Warning: 8fPIN2A0B8bO2JN0E1This template has not been tested.
+This template enables the user to rotate the contents of the place holder  labelled
+``contents box''. In the place holder labelled ``angle'', enter the angle in degrees 
+through which the box must be rotated
+in an anti-clockwise direction.
+
+
+
+8fPIN2A0"8bO1DN0E1ScaleboxHelp8fPJN2A0-8bNIN0E28fPHN2A028bOPN0E1Scalebox
+
+8fPIN2A0>8bOPN0E1Warning: 8fPIN2A0B8bO2JN0E1This template has not been tested.
+This template enables the user to enlarge or reduce the size of the contents of the place
+holder  labelled ``contents box''. There are versions with one or two place holders. Use
+the version with one place holder to specify a universal scaling factor for the contents
+of the box. The  version with two place holders enables the user to specify a different
+scaling factor for the vertical direction.
+
+
+8fPIN2A0!8bO1IN0E1ifthenpackageHelp8fPJN2A0-8bO1AN0E18fPHN2A0ISe058e20L   "1HCifthenGVe058e21D#!HCifthenJCif\/thenGVe058e23H#!LCifthenelseNCif\/thenelse9E package8bNIN0E28fPHN2A03
+
+This package enables the user to write very simple programs. If you wish to use this
+package then it must be loaded into the preamble of the document.  If you have entered
+template 8fPIN2A0<8bO1EN0E1DocumentClass from the 8fPIN2A0>8bOON0E1latex2e stencil into your document then this
+package is automatically  included in your document. If, however, you didn't use 
+template  8fPIN2A0<8bO1EN0E1DocumentClass then insert template 8fPIN2A0<8bOPN0E1Packages into the preamble and
+enter 8fPIN2A0B8bONN0E1ifthen into its place holder.
+
+
+
+There are templates available for the 8fPIN2A0>8bOIN0E18fPHN2A09D and 8fPIN2A0>8bOMN0E1while
+commands, for comparing two lengths, for comparing two values,
+for comparing two strings and for
+testing if a number is odd or not. In addition there are templates
+for the prefix operator logical 8fPIN2A0>8bOKN0E1not (¬) and  the  infix operators 
+logical 8fPIN2A0>8bOKN0E1and (222H) and logical 8fPIN2A0>8bOJN0E1or (222I).
+
+8fPIN2A0"8bO1BN0E1READMEHelp8fPJN2A0-8bO2BN0E1README---Important warning8bNIN0E28fPHN2A02
+When a mathematical expression is built up from smaller subexpressions it is usual to
+insert brackets around the subexpressions to make it obvious in which order the
+operators are to be evaluated. For example, by inserting parentheses in the expression
+8fPKN0A08fPKN1A08fPIN0A0a8ePHN2B0ISfe11f3bA# ("0GVfe11f3bD!"CC+GVfe11f3bN!"CC-9G8fPIN0A0b8ePHN2B0ISe12fce0F# 2$0GVe12fce0G!"CC.GVe12fce0H#"CC×EC{×}GVe12fcf3A!"CC÷GVe1eb2d5I!"CC/9K8fPIN0A0c  it is clear that 8dPIN0C0a should be added to 8dPIN0C0b and then the result multiplied by 8dPJN0C0c.
+8fPHN2A0   automatically inserts the parentheses according to how the precedence of
+the operator is defined in the template. Unfortunately the 8fPIN2A0B8bONN0E1ifthen package  does not
+use the standard parentheses ``('' and ``)'' but `` 8fPHN2A0_('' and ``8fPHN2A0_)'' to show precedence. This
+means that we have to be careful with precedence and the user should insert any
+brackets required with template (8fPIN2A0>8bOIN0E1E).  
+
+The precedence of the logical operators have all been set to zero in their definitions so
+frequently no brackets will be  inserted by 8fPHN2A0 . However  problems
+can occur.   E.g., suppose we wish to enter an expression of the form
+8fPKN0A08fPKN1A08fPHN0A08ePHN2B0ISe12fcebO#!#$0GVe12fcebP%"CC222HDC222H GVe12fcecA%"IC80G80F
+222H80C80E80HKC222H (split)GVe12fcecB%"CC222IDC222I GVe12fcecC%"IC80G80F
+222I80C80E80HKC222I (split)9O8fPHN0A08ePHN2B09M8fPKN1A08fPHN0A08ePHN2B09O8fPHN0A0. If we insert 8fPKN0A08fPHN0A08ePHN2B09O8fPHN0A0 and make that the target selection and then click on 
+version 222I, 8fPHN2A0  will insert ordinary brackets around 8fPKN0A08fPHN0A08ePHN2B09O8fPHN0A0. What we should
+have done when 8fPKN0A08fPHN0A08ePHN2B09O8fPHN0A0 was the target selection was, first click on template (8fPIN2A0>8bOIN0E1E) to
+insert the 8fPIN2A0B8bONN0E1ifthen parentheses and then version 222I.  The third 8fPIN2A0>8bOIN0E1E is now the target
+selection so next click on template (8fPIN2A0>8bOIN0E1E) and then on 222H to obtain the complete
+expression. Alternatively, we could have clicked on  222H 222I and 222H and then first made one
+8fPKN0A08fPHN0A08ePHN2B09O8fPHN0A0 the target and clicked on (8fPIN2A0>8bOIN0E1E) and then the other 8fPKN0A08fPHN0A08ePHN2B09O8fPHN0A0 the target and clicked 
+on (8fPIN2A0>8bOIN0E1E).
+
+A special template has been provided for an unary minus because with the usual
+minus templates  the three characters  8fPHN2A0^221C8fPHN2A0] are inserted into the document and not just the
+minus. These brackets can cause an error when running 8fPHN2A09 if they are found
+within commands of the 8fPIN2A0B8bONN0E1ifthen package or commands from the 8fPIN2A0<8bOMN0E1OpsOn template
+for counters. Templates have also been provided for + and = for a similar reason just in
+case they are needed when using  one of the templates for the 8fPIN2A0B8bONN0E1ifthen package. 
+
+8fPIN2A0"8bO1CN0E1BooleanHelp8fPJN2A0-8bOON0E1Boolean8bNIN0E28fPHN2A02
+
+A Boolean variable can only take the values 8fPIN2A0B8bOLN0E1true and 8fPIN2A0B8bOMN0E1false.
+The versions of this template can be used to declare a new Boolean variable,
+assign it a value or evaluate it.
+
+8fPIN2A0ISe1dbb1aO   "2MCDescription3BCLatex2eB#Description, Enumerate and Itemize HelpGVe1dbb1aP'!2PC81PbfMDescripdfM80BbfMtiondfM
+82Hitems82I8bO82A bfMEnd descriptiondfM
+2LC80J\begin{description}80I8bO 80I\end{description}80IMCDescriptionGVe1dbb1bA'!1JCbfO82Hlabel82I8bNdfO  80E{82Htext82I8bO}80F
+NC80J\item[8bN]8bO 80IFCItem 8bOKN0E18fPJN2A09P8bO9BN0E1Enter into the place holder the name of the new Boolean
+variable. This may be any string of letters. Initially it is assigned
+the value 8fPIN2A0B8bOMN0E1false.8bN1LN0E2new Boolean variable8fPJN2A09P8bObAN0E1This version evaluates the Boolean variable
+whose name is entered into the place holder.  It is shown on the
+screen as  [8fPIN2A0>8bOLN0E1name]8fPIN2A0ISe196d0dO   *2JCTextSize1GCLatex2eA#TextSizeHelpGVe196d0dP%!FC80JccD8bO80PFCtinyGVe196d0eA%!FC80Jc4C8bO80PLCscriptsizeGVe196d0eB%!FC80Jc4B8bO80PNCfootnotesizeGVe196d0eC%!FC80Jc4A8bO80PGCsmallGVe196d0eD%!FC80Jc3P8bO80PLCnormalsizeGVe196d0eE%!FC80Jc3O8bO80PGClargeGVe196d0eF%!FC80Jc3N8bO80PGCLargeGVe196d0eG%!FC80Jc3M8bO80PGCLARGEGVe196d0eH%!FC80Jc3L8bO80PFChugeGVe196d0eI%!FC80Jc3K8bO80PFCHuge©8bOIN0E18fPIN2A0B8bOLN0E1Bool where 8fPIN2A0>8bOLN0E1name is the name of the Boolean variable.8bN2AN0E2evaluate Boolean variable8fPJN2A09P8bO8FN0E1Use this version to assign a value of either
+8fPIN2A0B8bOLN0E1true or 8fPIN2A0B8bOMN0E1false to the Boolean variable whose name is entered into the first
+place holder.8bN2HN0E2assign value to Boolean variable
+8fPJN2A0-8bOON0E1Example8bNIN0E28fPHN2A00
+8fPIN2A0B8bO1CN0E1New Boolean8fPHN2A0^8fPIN2A0;8bOLN0E1temp8fPHN2A0]8fPHN2A0R8fPIN2A0B8bOKN0E1Set[8fPIN2A0;8bOLN0E1temp]8fPIN2A0©8bOIN0E18fPIN2A0B8bOLN0E1Bool 8fPIN2A0B8bOJN0E1to 8fPHN2A0^8fPIN2A0;8bOLN0E1true8fPHN2A0]8fPHN2A0R
+
+8fPIN2A0"8bO1CN0E1Len=LenHelp8fPJN2A0-8bO1FN0E1Length=Length?8bNIN0E28fPHN2A02
+This template can  be used to compare two lengths. There are three tests available:
+8fPIN2A0ISe1dbb21G   "21MCEnumerate                  3BCLatex2eB#Description, Enumerate and Itemize HelpGVe1dbb21H'!2LC81PbfMEnumedfM80BbfMratedfM
+82Hitems82I8bO82A bfMEnd EnumeratedfM
+2KC80J\begin{enumerate}%80I8bO %80I\end{enumerate}%80IKCEnumerateGVe1dbb21I'!1JC   (ccAbfMndfM80P) 80C80E{82Htext82I8bO}80F
+MC80J\item 8bO %80IFCItem¬8bOKN0E18fPIN2A0«8bO3GN0E1Is the first length equal to the second length?8fPIN2A0«8bO3HN0E1Is the first length less than the second length?8fPIN2A0«8bO3KN0E1Is the first length greater than the second length?
+The  tests evaluate to either 8fPIN2A0B8bOLN0E1true or 8fPIN2A0B8bOMN0E1false and can be used in the ``test'' place holder of
+the 8fPIN2A0<8bOIN0E18fPHN2A09D or 8fPIN2A0<8bOMN0E1while templates. 
+
+8fPIN2A0"8bO1CN0E1Num=NumHelp8fPJN2A0-8bO1FN0E1Number=Number?8bNIN0E28fPHN2A02
+This template can  be used to compare two numbers. There are three tests available:
+8fPIN2A0¬8bOKN0E18fPIN2A0«8bO3GN0E1Is the first number equal to the second number?8fPIN2A0«8bO3HN0E1Is the first number less than the second number?8fPIN2A0«8bO3KN0E1Is the first number greater than the second number?
+The  tests evaluate to either 8fPIN2A0B8bOLN0E1true or 8fPIN2A0B8bOMN0E1false and can be used in the ``test'' place holder of
+the 8fPIN2A0<8bOIN0E18fPHN2A09D or 8fPIN2A0<8bOMN0E1while templates. 
+
+This test is often used to compare the value of a counter with a number or
+with the the value of another counter.
+
+8fPIN2A0"8bO1AN0E1OddNoHelp8fPJN2A0-8bONN0E1OddNo?8bNIN0E28fPHN2A02
+This template is another which can be used in the ``test'' place holder of the 8fPIN2A0<8bOIN0E18fPHN2A09D
+or 8fPIN2A0<8bOMN0E1while templates. It tests whether a number is odd or not. If the number is odd
+it takes the value 8fPIN2A0B8bOLN0E1true otherwise it takes the value 8fPIN2A0B8bOMN0E1false.
+
+8fPIN2A0"8bO1IN0E1String=StringHelp8fPJN2A0-8bO1FN0E1String=String?8bNIN0E28fPHN2A02
+
+This template compares two strings. If the strings are identical then the result
+of the test is 8fPIN2A0B8bOLN0E1true otherwise it  is 8fPIN2A0B8bOMN0E1false.
+This template  can be used in the ``test'' place holder of the 8fPIN2A0<8bOIN0E18fPHN2A09D
+or 8fPIN2A0<8bOMN0E1while templates.
+
+8fPIN2A0"8bO1FN0E1ifthenelseHelp8fPJN2A0-8bOIN0E18fPIN2A0>8bOIN0E18fPHN2A09D8bNIN0E28fPHN2A02
+
+This template can be used to insert
+a conditional command into the document. There are three versions available and 
+a test  such as, ``are  two strings identical?'', must be inserted into the first place holder
+of each.
+
+If the test is 8fPIN2A0B8bOLN0E1true then the commands in the place holder labelled ``then8fPHN2A0acommands''
+are executed. 
+
+If the test is 8fPIN2A0B8bOMN0E1false then with the 8fPIN2A0<8bOIN0E18fPHN2A09D version of the template  the commands in
+the place holder labelled ``else8fPHN2A0acommands'' are executed. If one of the 8fPIN2A0<8bOIN0E18fPHN2A09E version has
+been  selected then there are no commands to execute. 
+
+
+
+As the 8fPIN2A0>8bONN0E1return key is treated by 8fPHN2A09 as if it were a space character it is usual
+when writing a definition to insert a 8fPHN2A0d character before pressing 8fPIN2A0>8bONN0E1return on the
+keyboard in order to to avoid adding unwanted space into the definition.  (8fPHN2A09 will
+ignore the 8fPHN2A0d character and all following characters up to and including the carriage
+return symbol. Any space at the start of the following line will also be ignored.) The
+8fPIN2A0<8bOIN0E18fPHN2A09D template may be used both in definitions of commands or within the
+normal text of the document. Thus a 8fPHN2A0d character has been inserted before each
+8fPIN2A0>8bONN0E1return in the 8fPHN2A09 code generated. The last line of the code for each version has,
+however, not been terminated with a 8fPHN2A0d 8fPIN2A0>8bONN0E1return.  This is in order that if the template
+is used in normal text  and to be followed by a space then that space can be  entered in
+the usual way with the space bar.  Consequently 8fPIN2A0B8bO3FN0E1if you are using this template in a
+definition and  you wish to follow it with a carriage return 8fPIN2A0B8bO3DN0E1insert 8fPHN2A0d first and then 
+the carriage return.
+
+
+8fPJN2A0&8bOON0E1Example8bNIN0E28fPHN2A00
+In the example below the Boolean variable 8fPIN2A0;8bOLN0E1temp is tested to see if it has the value 
+8fPIN2A0B8bOLN0E1true or 8fPIN2A0B8bOMN0E1false and depending on the result either ``true'' or ``false'' is
+sent to the terminal.
+
+8fPIN2A0>8bOLN0E1if 8fPHN2A0^[8fPIN2A0;8bOLN0E1temp]8fPIN2A0©8bOIN0E18fPIN2A0B8bOLN0E1Bool8fPIN2A0>8bOIN0E18fPHN2A0]8fPHN2A0R8fPIN2A0>8bONN0E1then 8fPHN2A0^8fPIN2A0B8bO2BN0E1Output message to terminal8fPIN2A0>8bOIN0E1[8fPIN2A0;8bOLN0E1true8fPIN2A0>8bOIN0E1]8fPIN2A0>8bOIN0E18fPHN2A0]8fPHN2A0R8fPIN2A0>8bONN0E1else 8fPHN2A0^8fPIN2A0B8bO2BN0E1Output message to terminal8fPIN2A0>8bOIN0E1[8fPIN2A0;8bOMN0E1false8fPIN2A0>8bOJN0E18fPIN2A0>8bOIN0E1]8fPHN2A0]
+
+8fPIN2A0"8bO1AN0E1whileHelp8fPJN2A0-8bOIN0E18fPIN2A0>8bOMN0E1while8bNIN0E28fPHN2A02
+
+This template can be used to insert a loop into the document. 
+
+ A test  such as, ``are  two numbers identical?'' must be inserted into the first place holder.
+If the result of this test is 8fPIN2A0B8bOMN0E1false then nothing is done but if the result is 8fPIN2A0B8bOLN0E1true then the
+command(s) in the second place holder  labelled ``body8fPHN2A0awhile loop'' are executed. These
+commands are repeatedly executed until the test in the first place holder evaluates to
+8fPIN2A0B8bOMN0E1false. Obviously a command in the second place holder must effect the outcome of the
+test or otherwise the program could loop indefinitely. 
+
+8fPIN2A0B8bO3FN0E1If you are using this template in a definition and 
+you wish to follow it with a carriage return 8fPIN2A0B8bO3CN0E1insert 8fPHN2A0d first and then the carriage return.
+See the help for the 8fPIN2A0<8bOIN0E18fPHN2A09D template above for an explanation.
+
+
+
+8fPJN2A0-8bOON0E1Example8bNIN0E28fPHN2A00
+
+8fPIN2A0B8bONN0E1NewCtr8fPHN2A0^8fPIN2A0;8bOLN0E1temp8fPHN2A0]8fPHN2A0R8fPIN2A0B8bONN0E1SetCtr8fPHN2A0^8fPIN2A0;8bOLN0E1temp8fPHN2A0] 8fPIN2A0B8bOJN0E1to 8fPHN2A0^18fPHN2A0]8fPHN2A0R8fPIN2A0>8bOPN0E1while [(8fPHN2A0^8fPIN2A0B8bOPN0E1ValueCtr8fPHN2A0^8fPIN2A0;8bOLN0E1temp8fPHN2A0]8fPHN2A0] < 8fPHN2A0^38fPHN2A0]8fPIN2A0>8bOJN0E1)]8fPHN2A0R8fPHN2A0J8fPIN2A0>8bOLN0E1do [8fPIN2A0B8bO1BN0E1PrintValue8fPHN2A0^8fPIN2A0;8bOLN0E1temp8fPHN2A0]8fPHN2A0R8fPHN2A0J8fPIN2A0B8bONN0E1To Ctr8fPHN2A0^8fPIN2A0;8bOLN0E1temp8fPHN2A0] 8fPIN2A0B8bOKN0E1add 8fPHN2A0^18fPHN2A0]8fPIN2A0>8bOIN0E1]
+
+8fPIN2A0"8bO1DN0E1bracketsHelp8fPJN2A0-8bOKN0E1(8fPIN2A0>8bOIN0E1E)8bNIN0E28fPHN2A02
+This template should be used to insert parentheses to indicate precedence when building
+up complicated tests in the ``test'' place holder of the 8fPIN2A0<8bOIN0E18fPHN2A09D or 8fPIN2A0<8bOMN0E1while templates.   Do
+not allow 8fPHN2A0   to automatically insert parentheses as this will cause an error
+when 8fPHN2A09 is run. See the 8fPIN2A0B8bOON0E1warning  in the help file for template 8fPIN2A0<8bONN0E1README  
+for the reason for this. 
+
+
+8fPIN2A0"8bOPN0E1notEHelp8fPJN2A0-8bOIN0E1¬8bNIN0E28fPHN2A02
+
+This is the logical negation operator.  I.e., ¬(8fPIN2A0B8bOMN0E1false) = 8fPIN2A0B8bOLN0E1true and ¬(8fPIN2A0B8bOLN0E1true) = 8fPIN2A0B8bOMN0E1false. Insert a logical
+item into its place holder. That could be an instance of one of  the templates
+8fPIN2A0<8bO1FN0E1Length=Length?, 8fPIN2A0<8bO1FN0E1Number=Number?, 8fPIN2A0<8bONN0E1OddNo? and 8fPIN2A0<8bO1FN0E1String=String?. Alternatively a
+number of instances of versions of these templates can be combined with the logical
+operators 8fPIN2A0>8bOKN0E1and (222H) and 8fPIN2A0>8bOJN0E1or (222I) and entered into the place holder. However in this case be
+certain to enter any parentheses to indicate precedence with template (8fPIN2A0>8bOIN0E1E). If
+8fPHN2A0   should enter any parentheses an error will occur when 8fPHN2A09 is run.  See
+the 8fPIN2A0B8bOON0E1warning in the help file for template 8fPIN2A0<8bONN0E1README for the reason for this. 
+
+Thus, suppose we wish to negate 8fPKN0A08fPHN0A08ePHN2B09O8fPHN0A0. We should make 8fPKN0A08fPHN0A08ePHN2B09O8fPHN0A0 the target, select template
+(8fPIN2A0>8bOIN0E1E) and then finally template ¬. If we omit selecting template (8fPIN2A0>8bOIN0E1E) 8fPHN2A0 
+will automatically insert brackets and we will get an error
+when running 8fPHN2A09. 
+
+8fPJN2A0-8bOON0E1Example8bNIN0E28fPHN2A00
+
+8fPIN2A0>8bOON0E1while [¬8fPIN2A0>8bOIN0E1(8fPHN2A0^8fPIN2A0B8bOPN0E1ValueCtr8fPHN2A0^8fPIN2A0;8bOLN0E1CtrA8fPHN2A0]8fPHN2A0] = 8fPHN2A0^8fPIN2A0B8bOPN0E1ValueCtr8fPHN2A0^8fPIN2A0;8bOLN0E1CtrB8fPHN2A0]8fPHN2A0]8fPIN2A0>8bOJN0E1)]8fPHN2A0R8fPHN2A0J8fPIN2A0>8bO1MN0E1do [ body while8fPHN2A0aloop]
+
+I.e., execute the instructions in the body of the while loop so long as the value
+of 8fPIN2A0;8bOLN0E1CtrA  doesn't equal the value of 8fPIN2A0;8bOLN0E1CtrB.
+
+
+
+8fPIN2A0"8bO1FN0E1logicalandHelp8fPJN2A0-8bOIN0E1222H8bNIN0E28fPHN2A02
+This template can be used to insert the logical 8fPIN2A0>8bOKN0E1and (222H) and logical 8fPIN2A0>8bOJN0E1or (222I) operators
+into the document.
+They can be used to build up a complicated test to be inserted into the ``test'' place holder of
+either the 8fPIN2A0<8bOIN0E18fPHN2A09D or the 8fPIN2A0<8bOMN0E1while templates. However care must be exercised
+when using this template to ensure that  8fPHN2A0  does not enter any parentheses
+to indicate precedence.
+If 8fPHN2A0   should do so an error will occur
+when 8fPHN2A09 is run. See the 8fPIN2A0B8bOON0E1warning  in the help file for template 8fPIN2A0<8bONN0E1README  
+for the reason for this. 
+
+
+8fPIN2A0"8bO1AN0E1minusHelp8fPJN2A0-8bOIN0E1221C8bNIN0E28fPHN2A02
+A special template has been provided for an unary minus because with the usual
+minus templates  the three characters 8fPHN2A0^221C8fPHN2A0] are inserted into the document and not just the minus.
+These brackets can cause an error when running 8fPHN2A09 if they are found
+within commands of the 8fPIN2A0B8bONN0E1ifthen package or commands from the 8fPIN2A0<8bOMN0E1OpsOn template
+for counters.
+
+8fPIN2A0!8bO1FN0E1plusequalsHelp8fPJN2A0-8bOON0E1+ and =8bNIN0E28fPHN2A02
+These templates have been provided just in case they are needed when using 
+one of the templates for the 8fPIN2A0B8bONN0E1ifthen package. The standard + and = templates can not
+be used as they insert curly brackets  (``8fPHN2A0^'' and ``8fPHN2A0]'' ) into the document and these can cause
+an error if 8fPHN2A09 encounters them in commands  of the 8fPIN2A0B8bONN0E1ifthen package.
+
+
+
+
+

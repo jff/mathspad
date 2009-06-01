@@ -1,0 +1,73 @@
+/* for linking without window interface */
+/* from message.h */
+void message(int lvl, char *text) { fprintf(stderr, "%s\n", text); }
+void message2(int lvl, char *text1, char *text2) { fprintf(stderr, "%s%s\n", text1, text2); } 
+
+
+/* from output.h */
+Bool tab_equal(void *ts) { return 0; }
+void set_smart_height(int height) { ; }
+void open_display(void) {;}
+void set_display_delta(int d) {;}
+void out_char(Char data) {;}
+void detect_margin(void) {;}
+int  tex_current_pos(void) {return 75;}
+void set_tab_stack(void *ts, int nropen) {;}
+void thinspace(int spacing) {;}
+void out_index(int data) {;}
+void out_text_delim(int on) {;}
+int  next_id_font(int nr) {return -1;}
+void tex_set_string(char **string) {;}
+int more_keys(void) {return 0;}
+void switch_thick(void) {;}
+void clear_to_end_of_page(void) {;}
+void out_cursor(int kind) {;}
+void tab_unlock(void *ts) {;}
+void set_output_window(void *w) {;}
+void set_drawstyle(int style) {;}
+void out_latex_char(Char c) {;}
+int saved_chars=0;
+void close_node(void) {;}
+void set_y(int new_y) {;}
+void tex_to_mode(int tmode) {;}
+#define TexCode int
+void tex_code(TexCode c) {;}
+void set_default_thinspace(int n) {;}
+void unset_output_window(void) {;}
+void open_node(void* data) {;}
+void set_search_func(void (*func)(void*), int x, int y) {;}
+void tex_unset(void) {;}
+int  line_height(void) {return 5000;}
+void close_display(void) {;}
+void put_mark(int x, int y) {;}
+void switch_reverse(void) {;}
+void set_italic(Bool on) {;}
+void switch_thin(void) {;}
+int  where_x(void) {return 0;}
+int  where_y(void) {return 5000;}
+void* tab_lock(void) { return 0;}
+void move_content_down(int size) {;}
+void move_content_up(int size) {;}
+void switch_visible(void) {;}
+/* from match.h */
+#define PARSERULES void
+int parse_use_rules(PARSERULES *set) { return 0; }
+int parse_add_rule(int group, Char *parsestring, int len, int temp,
+		   int prec)
+{ return 0; }
+int lex_add_string(char* item, int retval) { return 0; }
+
+/* from keymap.h */
+ Bool    interrupted(void) {return 0;}
+
+/* from system.h */
+char *notationdir="./tmp";
+char *program_notationdir="./tmp";
+
+/* from buffer.h */
+void buffer_set_number_of_lines(void *data, int numlin) {;}
+
+/* from find.h */
+void find_set_number_of_lines(void *data, int numlin) {;}
+/* from edit.h */
+void edit_set_number_of_lines(void *data, int numlin) {;}

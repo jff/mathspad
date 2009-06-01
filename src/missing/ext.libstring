@@ -1,0 +1,24 @@
+
+
+language/.libs/libstring.so.0.0.0:
+
+[Index]   Value      Size    Type  Bind  Other Shndx   Name
+
+[54]	|         0|       0|NOTY |GLOB |0    |UNDEF  |Ustrcmp
+[55]	|         0|       0|NOTY |GLOB |0    |UNDEF  |Ustrcpy
+[60]	|         0|       0|NOTY |GLOB |0    |UNDEF  |Ustrlen
+[65]	|         0|       0|NOTY |GLOB |0    |UNDEF  |Ustrncpy
+[56]	|         0|       0|NOTY |GLOB |0    |UNDEF  |UstrtoLocale
+[52]	|     69052|       0|OBJT |GLOB |0    |9      |_DYNAMIC
+[51]	|     68932|       0|OBJT |GLOB |0    |8      |_GLOBAL_OFFSET_TABLE_
+[59]	|     69164|       0|OBJT |GLOB |0    |10     |_PROCEDURE_LINKAGE_TABLE_
+[58]	|     69432|       0|OBJT |GLOB |0    |11     |_edata
+[50]	|     69432|       0|OBJT |GLOB |0    |12     |_end
+[61]	|      3395|       0|OBJT |GLOB |0    |7      |_etext
+[64]	|         0|       0|NOTY |GLOB |0    |UNDEF  |define_function
+[57]	|         0|       0|NOTY |GLOB |0    |UNDEF  |define_operator
+[62]	|         0|       0|NOTY |GLOB |0    |UNDEF  |define_program_variable
+[63]	|      2376|     828|FUNC |GLOB |0    |6      |init_library
+[67]	|         0|       0|NOTY |GLOB |0    |UNDEF  |make_prototype
+[66]	|         0|       0|NOTY |GLOB |0    |UNDEF  |mymalloc
+[53]	|         0|       0|NOTY |GLOB |0    |UNDEF  |printf

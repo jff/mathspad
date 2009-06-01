@@ -1,0 +1,517 @@
+[4mMathpad Document
+[0m4cbFN0E08fPKN2A0ISe1d4f11P   +2PCSectionHeading2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f1aC'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+HC80J8bN{8bO}80IKC{heading}GVe1d4f20A'!3CC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80IPC[toc]{heading}GVe1d4f27D'!2MC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1CC[no no.]{heading}GVe1d4f2aE'!2NC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1AC80J8bN{8bO}\label{8bM}80IPC{heading}labelGVe1d4f2eB'!3LC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1EC[toc]{heading}labelGVe1d4f12M'!3FC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1BC80J8bN*{8bO}\label{8bM}80I1HC[no no.]{heading}labelGVe1d4f12H'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80I1EChide-[toc]{heading}GVe1d4f12I'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1IChide -[no no.]{heading}GVe1d4f12J'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1AC80J8bN{8bO}\label{8bM}80I1EChide-{heading}labelGVe1d4f12K'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1JChide-[toc]{heading}labelGVe1d4f12L'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1BC8bN80J*{8bO}\label{8bM}80I1MChide-[no no.]{heading}label'8bM2AN0E3file:SystemAdministration8bO1MN0E1System Administration8bNIN0E28fPHN2A0ISe1d4f86L   '21ACSectioningTypes2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f86M#!JCcbLbfKPartdfK80PHC80J\partGVe1d4f86N#!MCcbMbfKChapterdfK80PKC80J\chapterGVe1d4f86O'!MCcbNbfKSectiondfK80PKC80J\sectionMCcbObfKSectiondfKccAGVe1d4f86P#!PCcbObfKSubSectiondfK80PNC80J\subsectionGVe1d4f87A#!1ACbfKSubSubSectiondfK1AC80J\subsubsectionGVe1d4f87B#!MCbfKParagraphdfKMC80J\paragraphGVe1d4f87C#!PCbfKSubParagraphdfKPC80J\subparagraph0
+One of the most useful aspects of computer software is that it 8fPIN2A0ISe196d18D   +2KCTextStyle1HCLatex2eA#TextStyleHelpGVe196d18N'!FC80JbfJ8bOdfJKC80J\emph{8bO}1CCbfMEmphasizeddfM textGVe196d18E'!DC80J8bOMC80J\textup{8bO}OCUpright shapeGVe196d18F'!FC80JbfM8bOdfMMC80J\textit{8bO}PCbfMItalicdfM shapeGVe196d18G'!FC80JbfJ8bOdfJMC80J\textsl{8bO}1ACbfJSlanteddfJ shapeGVe196d18H'!DC80J8bOMC80J\textsc{8bO}1FCSccBMALLcbPcbNCccBAPS cbNshapeGVe196d18I'!DC80J8bOMC80J\textmd{8bO}OCMedium seriesGVe196d18J'!FC80JbfO8bOdfOMC80J\textbf{8bO}OCbfOBolddfO seriesGVe196d18K'!DC80J8bOMC80J\textrm{8bO}NCRoman familyGVe196d18L'!FC80JbfI8bOdfIMC80J\textsf{8bO}1ECbfISans SerifdfI familyGVe196d18M'!FC80JbfH8bOdfHMC80J\texttt{8bO}1ECbfHTypewriterdfH familyGVe196d18O'!FC80JbfK8bOdfK1GC80J\textbf{80J\textit{8bO}}1NCbfKBolddfK series bfKItalicdfK shape<8bOKN0E1can be customised to one's own
+requirements.  The time that is spent doing  so often pays for itself handsomely within a very short
+space of time. One of the most frustrating aspects of computer software is that it often 8fPIN2A0<8bOLN0E1must be
+customised so as not to conflict with the local configuration before one can begin to use it.    Two
+aspects of 8fPHN2A0ISafa0e17G   !0GVafa0e17F#!MC80JbfIMath222LpaddfILC80J\mplogo{}= that you may want to, or may have to, reconfigure before you can use the
+system to full advantage are the menus, the keyboard commands and the installed fonts. How to do
+so is described in this chapter.
+
+ 8fPKN2A0*8bMHN@E3"8bO2BN0E1The Customisation Language8bNIN0E28fPHN2A0/8fPHN2A0= has its own customisation language for configuring the system. The customisation
+language is used in  mpk files to define new functions, menus and keyboard definitions in order to
+adjust or extend the 8fPHN2A0= system.   (An mpk file is simply a file with extension ``mpk''.) The
+language is similar to the guarded command language, with some additions to allow easy
+construction of menus and keyboard definitions.
+
+New users of the system will probably only want to customise the menus, and not wish to add new
+functions.  For this purpose only a modest understanding of the language is necessary, and readers
+may safely skip to section 8fPIN2A0ISe1d48b1L   %21DCRef(within doc)   1MCLatex2e#Ref(within doc)HelpGVe1d48b1M'!NC(bfI82Hlabel82I8bOdfI)LC80J(\ref{8bO})GC(Ref)GVe1d48b1N'!LCbfI82Hlabel82I8bOdfIJC80J\ref{8bO}ECRefGVe1d48c4C'#NC(bfI82Hlabel82I8bOdfI)1AC80J(\pageref{80K8bO})KC(PageRef)GVe1d48b1O'#LCbfI82Hlabel82I8bOdfIOC80J\pageref{80K8bO}ICPageRefGVe1d48b1P'!OC(bfMLabeldfM bfI8bOdfI)LC80J\label{8bO}GCLabelA8bO1CN0E1CustomMenus.
+
+8fPJN2A0*8bO1ON0E1Constants and Variables8bNIN0E28fPHN2A0.
+Constants and variables are treated by the interpreter in the same way, except that constants can
+not be changed or passed as an call-by-reference parameter to a procedure.    Therefore, every
+constant that appears inside a definition file results in an unnamed variable with a fixed value.  The
+interpreter supports three kind of constants: integers, reals and strings.   Integer constants are
+specified according to the usual convention, which includes the octal notation, decimal notation,
+hexadecimal notation and character notation.   Real  (floating point) constants use the standard
+floating point notation of programming languages.   String constants are similar to the strings in C
+or Java, where the usual escape sequences can be used to add special characters. Examples of
+constants are:8fPIN2A0ISe1d5e5bI   &2JCVerbatim1FCLatex2e#VerbatimHelpGVe1d5e5bJ'!ECbfH8bOdfHKC80J\verb+8bO+1JCShort-No `+' in contentsGVe1d5e5bK'!ECbfH8bOdfHKC80J\verb?8bO?1JCShort-No `?' in contentsGVe1d5e5bM'!ECbfH8bOdfHLC80J\verb*+8bO+2ICShort-No `+' in contents, spaces as ccB229EcbNGVe1d5e8dO'!ECbfH8bOdfHLC80J\verb*?8bO?2ICShort-No `?' in contents, spaces as ccB229EcbNGVe1d5e5bL'!GC
+bfH8bOdfH
+2EC80J\begin{verbatim}80I8bO80I\end{verbatim}80I1ICLong-more than one lineGVe1d5f98F'!GC
+bfH8bOdfH
+2GC80J\begin{verbatim*}80I8bO80I\end{verbatim*}80I2HCLong-more than one line, spaces as ccB229EcbND8bO12MN0E15481           integer, decimal notation
+012551         integer, octal notation
+0x1569         integer, hexadecimal notation
+'\x54'         integer, character notation
+54.81          real
+5.481E+1       real
+5481E-2        real
+"5481"         string
+"\x15\x6A"     string
+"54\t!=\t81"   string
+Variables are either declared globally or locally, where block structures are used to create local
+environments.  These blocks can be nested and the usual scoping rules apply to the variables
+defined inside a block.  The name of a variable is case sensitive and consists of a combination of
+Latin characters, digits and underscores, where the first character cannot be a digit.  As the
+language contains several keywords, these keywords are not allowed as variable names.
+Furthermore, the names of types are also not allowed as variable names.
+
+To allow output arguments to procedures, the interpreter supports references to variables, where
+the conversion between referenced variables and non-referenced variables is performed
+automatically where needed.
+
+Some examples of variable definitions are:8fPIN2A0D8bO5HN0E1Var Int counter;
+Var Real pi;
+Var String pc_5481;
+Var StringRef return_argument;
+
+8fPJN2A0*8bO1CN0E1Expressions8bNIN0E28fPHN2A0.
+The interpreter supports a standard set of operators to construct expressions.  However, there is no
+default semantics for these operators.  Instead,  an extension can define the semantics of an operator
+by providing a function with the appropriate argument types.   With these functions,
+the interpreter can determine the semantics of an expression by matching functions to the
+operators from the expression.  The available operators are, in order of their precedence:
+8fPIN2A0ISe1cfae7F   #2NCLayout-c,l,r1JCLatex2e#Layout-c,l,rHelpGVe1cfae7G'!GC
+82B8bO82C
+2BC80J80I\begin{center}80I8bO80I\end{center}80IHCCenterGVe1cfae7H'!GC
+82B8bO82C
+2HC80J80I\begin{flushleft}80I8bO80I\end{flushleft}80IKCFlushleftGVe1cfae7I'!GC
+82B8bO82C
+2JC80J80I\begin{flushright}80I8bO80I\end{flushright}80ILCFlushrightK8bOIN0E18fPLN2A0ISe1fd9e6J   &21DCTabular-Enter     1FCLatex2eB#TabularHelpGVe1fd9e6K'!7DCbfMTabular  ( alignment code: dfM82H|x|  where x=l, c or r for the col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col 82I8bO80B1faP81M 81H 81N
+8bH81J81L80C 82D80C 82D 81M 81H 81N82A
+4AC80J\begin{tabular}{8bI}\hline 80I8bO \\ \hline 80I8bH\hline 80I\end{tabular}80IHC1 col.GVe1fd9e6L'!8ECbfMTabular  ( alignment code: dfM82H|x|x| where x=l, c or r for each col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C 82D 81M 81H 81N82A
+4EC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN \\ \hline 80I8bH\hline 80I\end{tabular}80IHC2 col.GVe1fd9e6M'!9GCbfMTabular  ( alignment code: dfM82H|x|x|x| where x=l, c or r for each col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C 82D 81M 81H 81N82A
+4HC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN & 8bM\\ \hline 80I8bH\hline 80I\end{tabular}80IHC3 col.GVe1fd9e6N'!8MCbfMTabular  ( alignment code: dfM82He.g.|l|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+4MC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL\\ \hline 80I8bH\hline 80I\end{tabular}80IHC4 col.GVe1fd9e6O'!9OCbfMTabular  ( alignment code: dfM82He.g.|l|c|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B82D 82Hhead col82I8bK80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+5AC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL & 8bK\\ \hline 80I8bH\hline 80I\end{tabular}80IHC5 col.GVe1fd9e6P'!bACbfMTabular  ( alignment code: dfM82He.g.|l|c|c|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B82D 82Hhead col82I8bK80B82D 82Hhead col82I8bJ80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+5EC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL & 8bK & 8bJ\\ \hline 80I8bH\hline 80I\end{tabular}80IHC6 col.P8bH1CN0E88fPJN2A0ISe1fd9e7H   &2MCTabular-Row1FCLatex2eB#TabularHelpGVe1fd9e7I'!KC80C 82D 8bO80C 82D
+HC80J8bO\\ 80IKCRow 1-colGVe1fd9e7J'!PC80C 82D 8bO80C82D 8bN80C 82D 
+MC80J8bO & 8bN \\ 80IKCRow 2-colGVe1fd9e7K'!1DC80C 82D 8bO80C82D 8bN80C82D 8bM80C 82D 
+1AC80J8bO & 8bN & 8bM \\ 80IKCRow 3-colGVe1fd9e7L'!1HC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C 82D 
+1DC80J8bO & 8bN & 8bM & 8bL\\ 80IKCRow 4-colGVe1fd9e7M'!1LC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C82D 8bK80C 82D 
+1JC80J8bO & 8bN & 8bM & 8bL  &  8bK\\ 80IKCRow 5-colGVe1fd9e7N'!2AC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C82D 8bK80C82D  8bJ80C 82D 
+1PC80J8bO & 8bN & 8bM & 8bL  &  8bK  &  8bJ\\ 80IKCRow 6-colV8bN1PN0E2Logical  and bitwise not8bOIN0E18fPIN2A0G8bOKN0E1! ~8fPJN2A0V8bN2NN0E2Multiplication, division and remainder8bOIN0E18fPIN2A0G8bOMN0E1* / %8fPJN2A0V8bN1PN0E2Addition and subtraction8bOIN0E18fPIN2A0G8bOKN0E1+ -8fPJN2A0V8bN1DN0E2Bit shifting8bOIN0E18fPIN2A0G8bOMN0E1<< >>8fPJN2A0V8bN1BN0E2Comparison8bOIN0E18fPIN2A0G8bO1FN0E1= < > <= >= !=8fPJN2A0V8bN1CN0E2Bitwise and8bOIN0E18fPIN2A0G8bOIN0E1&8fPJN2A0V8bN1LN0E2Bitwise exclusive or8bOIN0E18fPIN2A0G8bOIN0E1^8fPJN2A0V8bN1BN0E2Bitwise or8bOIN0E18fPIN2A0G8bOIN0E1|8fPJN2A0V8bN1CN0E2Logical and8bOIN0E18fPIN2A0G8bOJN0E1&&8fPJN2A0V8bN1LN0E2Logical exclusive or8bOIN0E18fPIN2A0G8bOJN0E1^^8fPJN2A0V8bN1BN0E2Logical or8bOIN0E18fPIN2A0G8bOJN0E1||8bN4EN0E2Intended meaning                                             8bO2ON0E1Operators                              8bIMN0E7|c|l|These operators are based on the C programming language, although most of them are
+available in other programming languages as well.  The meaning of these operators for
+specific types is defined by the plugin extensions.  For the standard types the meaning
+of the operators is the standard meaning, as far as that is possible.
+
+Note that the operator for equality is =, which differs from the == operator used in C
+or Java.
+
+8fPJN2A0*8bO1BN0E1Statements8bNIN0E28fPHN2A0.
+The constructs for statements are based on the Guarded Command Language and include
+the 8fPIN2A0<8bO1KN0E1multiple assignment, 8fPIN2A0<8bO1GN0E1procedure calls, the 8fPIN2A0<8bO1NN0E1sequential composition, the 8fPIN2A0<8bO1AN0E1selection and the 8fPIN2A0<8bO1AN0E1iteration.
+
+The 8fPIN2A0<8bO1KN0E1multiple assignment is part of GCL for convenience and it is a generalized version of the
+normal assignment, as multiple variables are changed in a single assignment.  The syntax of
+the multiple assignment is:8fPIN2A0D8bO1ON0E1v1,...,vN := e1,...,eN;for variables 8fPIN2A0G8bOJN0E1v1 to 8fPIN2A0G8bOJN0E1vN and expression 8fPIN2A0G8bOJN0E1e1 to 8fPIN2A0G8bOJN0E1eN.  The semantics of this assignment is that the
+expressions 8fPIN2A0G8bOJN0E1e1 to 8fPIN2A0G8bOJN0E1eN are evaluated in some order and the resulting values are assigned to the
+variables 8fPIN2A0G8bOJN0E1v1 to 8fPIN2A0G8bOJN0E1vN in some order.
+
+A 8fPIN2A0<8bO1FN0E1procedure call allows structure and abstraction by means of hiding the internal computation.
+The syntax of a procedure call is8fPIN2A0D8bO2FN0E1procedure_name(arg1,...,argN);where the semantical meaning is that the arguments 8fPIN2A0G8bOLN0E1arg1 to 8fPIN2A0G8bOLN0E1argN are evaluated and
+the procedure 8fPIN2A0G8bO1FN0E1procedure_name is called with the resulting values.
+
+The 8fPIN2A0<8bO1NN0E1sequential composition combines two statements into a new statement.  The syntax of the
+composition is:8fPIN2A0D8bONN0E1S1; S2where the semantical meaning is that statement 8fPIN2A0G8bOJN0E1S1 is executed first and statement 8fPIN2A0G8bOJN0E1S2 is executed
+next.
+
+The 8fPIN2A0<8bO1AN0E1selection allows the program to execute statements under certain conditions.  The syntax of the
+selection is:8fPIN2A0D8bO4NN0E1if (B1)      S1
+elseif (B2)  S2
+...
+elseif (BN)  SN
+else         SR
+fiThe semantical meaning is that a statement 8fPIN2A0G8bOJN0E1Sk is executed for which guard 8fPIN2A0G8bOJN0E1Bk is true.
+If none of the guards is true, statement 8fPIN2A0G8bOJN0E1SR will be executed.
+
+
+The 8fPIN2A0<8bO1AN0E1iteration allows the program to execute statements repeatedly, according to certain conditions.
+The syntax of the iteration is similar to the syntax of the selection:
+8fPIN2A0D8bO3NN0E1do (B1)      S1
+elsedo (B2)  S2
+...
+elsedo (BN)  SN
+odThe semantical meaning is that a statement 8fPIN2A0G8bOJN0E1Sk is executed if guard 8fPIN2A0G8bOJN0E1Bk is true, until all
+guards are false.  Notice that the else clause is not allowed in an iteration, otherwise it would
+result in endless loops.
+
+8fPJN2A0*8bO1LN0E1Function definitions8bNIN0E28fPHN2A0.
+For abstraction, reusability and readability, the language allows function definitions.  As the
+interpreter performs type checking on the arguments of functions, each function definition
+provides a prototype for that function by listing the arguments and their types.  With the prototype,
+the arguments are also available as local variables.  Within the function definition, statements,
+blocks and local variables can be used to complete the calculation.
+
+It is currently not possible to define recursive functions as the interpreter does not handle local
+variables in a suitable way yet.  However, many recursive functions can be written in a
+non-recursive fashion, especially if stack operations are available.  Furthermore,  recursive
+functions usually require a performance which is easier to achieve in a plugin using a compiled
+language.
+
+The arguments to functions are passed either by reference or by value, depending on the prototype
+of the function.    As the arguments can be used as local variables within the
+function, the call by value conversion will copy values to temporary variables. To release the user
+of the burden to dereference the arguments, the
+interpreter performs this task automatically: a value is converted to a reference by taking the
+address of the value, a reference is converted to a value by dereferencing the reference and copying
+the value.   Due to this automatic conversion, values and references to values are used without
+distinction.
+
+It is possible to define local variables in functions by using blocks, which can be nested.  The normal
+scoping rules apply to the nested blocks and it is possible to define variables that hide
+existing variables, although that is not advisable with respect to readability. 
+
+For example, the function which calculates the greatest common divisor of two integers might
+look like this.
+8fPIN2A0D8bOaEN0E1Function gcd(Int x, Int y, IntRef r)
+{    /* assume x>0 and y>0 */
+     do (x>y)     x:=x-y;
+     elsedo (y>x) y:=y-x;
+     od;
+     /* x = y */
+     r:=x;
+}
+
+ 8fPLN2A0'8bLHN0E48bM1CN0E3CustomMenus8bO1MN0E1Customising the Menus8bNIN0E28fPHN2A0/All the menus used within 8fPHN2A0= are specified with the customisation language.  To ease the
+definition of menus, a special Menu construct is available in the language.  Within the menu
+construct,  you can specify the title, the items and the functions or submenus that are used.  The
+general format of a menu definition is as follows: 8fPIN2A0D8bOeHN0E1Menu ExampleMenu {
+        Options Pin;
+        Title "Example";
+Default "Insert x"   : self_insert(x,1);
+        "Increase x" : x:=x+1;
+        Separator;
+        "Greek"      : GreekMenu;
+        "Math"       : MathMenu;
+}After the Menu keyword, the identifier for the menu is specified, which is used as a reference when
+the menu is used as a submenu or when the menu is extended with new items.  Within the menu
+definition, the optional 8fPIN2A038bOKN0E1Pin attribute can be set to make it possible to pin the menu down for easier
+access. The title, which is also optional, is used to give the menu a title and is presented in bold.   After
+the optional features, a list of menu items is given where each item consists of a description of the
+item and either a function call, assignment or menu identifier.   When the menu item is selected, 
+either the specified function is called or the submenu is opened.  The 8fPIN2A038bOON0E1Default keyword can be used
+to make a menu item the default item, which means that that item is selected automatically when
+the menu is used as a submenu. When large menus are defined, the 8fPIN2A038bO1AN0E1Separator keyword can be
+used to put items in different sections.
+
+As all the strings in the language are Unicode strings, it is possible to use any character within an
+item description by using the correct escape sequences.  Moreover,  it is possible to use the special
+features that are available in the template definitions to improve the appearance of the menus, for
+example to indicate shortcut keys by underlining certain characters or to indicate danger by using
+colours.   These special features require specific escape sequences and the 8fPIN2A048bOPN0E1mpk-menu stencil is
+available to ease the definition of menus which use these features.
+
+8fPKN2A0*8bMHN@E3"8bO1PN0E1Customising the Keyboard8bNIN0E28fPHN2A0/
+By default, 8fPHN2A0= provides a keyboard binding resembling the Emacs keyboard binding. 
+Customising the keyboard may be necessary because the window manager or the operating system
+you are using reserves some of the keyboard bindings for its own use.  (For example, on the Linux
+system used by one of the authors the window manager preempts the  8fPIN2A068bOJN0E1F7 key in order to iconise 
+windows and so the key can't be used for copying expressions.)  You may also  want to customise the
+keyboard if, for example, you are used to another text editor with settings different to Emacs or you
+commonly write in a language other than English and want to be able to enter particular accented
+characters efficiently. 
+
+The customisation language provides a 8fPIN2A038bOPN0E1Keyboard construct to allow easy definition of keyboard
+mappings. The keyboard construct contains a list which connects key sequences to functions, similar
+to the definition of menu items.   A keyboard definition looks like this: 8fPIN2A0D8bO14BN0E1Keyboard Example {
+      `Help`         : open_help_file("NoHelp.mpd");
+      `Alt` `f` `x`  : exit_mathspad();
+      ` ` ... `~`    : self_insert(pressed_key,1);
+      `CM-Delete`    : reboot();
+      `Escape`       : use_map("MetaMap");
+      `C-u`          : use_temporary_map("Argument", @Check(), @Reset());
+}
+In this example, most of the features for keyboard definitions are demonstrated.
+8fPIN2A0ISe1dbb24P   "21OCItemize                      3BCLatex2eB#Description, Enumerate and Itemize HelpGVe1dbb25A'!2HC81PbfMItemdfM80BbfMizedfM
+82Hitems82I8bO82A bfMEnd ItemizedfM
+2DC80J\begin{itemize}80I8bO 80I\end{itemize}80IICItemizeGVe1dbb25B'!1DC   221J 80C80E{82Htext82I8bO}80F
+LC80J\item 8bO 80IFCItemY8bONN0E18fPIN2A0X8bO6CN0E1Of course, it is possible to attach functions to ordinary keys, as in the 8fPIN2A068bOLN0E1Help key definition.8fPIN2A0X8bO10DN0E1When a key sequence is used, as in 8fPIN2A068bOON0E1Alt f x,  the keys in the sequence have to be pressed and
+released in succession in order the call the given function. When a key sequence is defined, it is
+not possible to define any functions to a prefix of that sequence.8fPIN2A0X8bOfGN0E1For easy definition of large collections keys, you can specify a range of keys, as in 8fPIN2A068bO1CN0E1` ` ... `~`.  In
+this case, each key in that range will call the same function, where the variable 8fPIN2A048bO1DN0E1pressed\_key
+determines the Unicode value of the key that is actually used.8fPIN2A0X8bOeGN0E1To allow modal keyboard definitions, a stack is available to push keyboard maps on.  With a
+keyboard definition, you can connect a key, 8fPIN2A068bONN0E1Escape in this case, to the function that pushes a
+keyboard map on the stack ( use\_map() ).8fPIN2A0X8bO33BN0E1It is also possible to temporarily switch to a different keyboard map, as defined for the 8fPIN2A068bOKN0E1C-u key.  
+When a keyboard map is pushed temporarily on the keyboard stack, that map will be used as
+long as the pressed keys are defined in that map.  Once a non-defined key is pressed, the
+temporary map is removed and the key is handled according to the other keymaps on the
+stack.  In the example, if the 8fPIN2A068bOLN0E1Help key is not defined in the 8fPIN2A048bOPN0E1Argument map,  pressing the
+sequence 8fPIN2A068bOPN0E1C-u Help will result in a sequence of a calls to Check(),
+open\_help\_file("NoHelp.mpd") and Reset().  The temporary map is useful for constructing
+arguments to functions, similar to the universal argument in Emacs, where a small collection
+of keys is used for constructing the argument and the other keys behave the same, possibly
+using the constructed argument.8fPIN2A0X8bOHN0E1
+In the example, the prefixes 'CM-' and 'C-' are used.  Such a prefix indicates that the key has to be
+pressed in combination with the 
+
+8fPKN2A0'8bM2LN0E3SystemAdministration.Font Management8bO1GN0E1Font Management8bNIN0E28fPHN2A0/
+A font8fPON2A0ISe1ce08fJ   "2GCEntry1ECLatex2eC#MakeIndex GVe1ce08fK'!11IC80JbfKIndex EntrydfK
+bfMprimary sort key:dfM80C8bO
+bfMsub sort key:dfM80C8bN
+bfMsubsub sort keydfM80C8bM
+bfMvisual key if different from sort key:dfM80C80C8bL
+bfMif start of range of pages set holder to dfM ( 80C8bK
+bfMfont type for page nr. if non-standarddfM80C8bJ
+bfMif end of range of pages set holder to dfM ) 80C8bI
+bfKEnd of Index EntrydfK
+2EC80J\mpindexnew{8bO}{8bN}{8bM}{8bL}{8bK}{8bJ}{8bI}{}1CCenter index entryGVe1ce08fL'!KC80JbfK81Ji81L 81M81NdfK2EC80J\mpindexnew{8bO}{8bN}{8bM}{8bL}{8bK}{8bJ}{8bI}{}1EChide index commandsZ8bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOLN0E1font or typeface is a design of a collection of related symbols.  The letters of the alphabet that you
+are reading now are all drawn from a particular font (the name of which is not relevant).   8fPIN2A048bO1BN0E1Sans
+serif letters form a different font.  Fonts can also contain designs that one doesn't normally ``read''
+--- pictures of chess symbols, and heraldic symbols are examples of designs that might make up a
+font.  The elements of a font are often called 8fPIN2A0<8bONN0E1glyphs8fPON2A0Z8bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOMN0E1glyph.
+
+Scientific documents  usually make use of a lot of different fonts, rather more than their fair share in
+fact.  The advantage of using a system like 8fPHN2A0= is that a great many fonts are already available
+for use both on-screen and in the printed output, and there is no limit to the number you can  add. 
+8fPHN2A0= will only load those fonts that are actually used in a document and if a font can't be loaded,
+a default will be substituted.
+
+The design of new fonts is a task for experts.   If you are not an expert,  you can choose from a large
+collection of freely available fonts.  Incorporating new fonts in 8fPHN2A0= is complicated, at least
+initially, because of the many ways that fonts may be represented and the lack of using proper
+character encodings. After the first attempt, however, it will become routine and you will discover
+for yourself the fun and usefulness of using  the facility  for all sorts of purposes such as  editing chess
+boards or including fancy headers.  
+
+There are several aspects to installing a new font:
+8fPIN2A0Y8bOLN0E18fPIN2A0X8bO4FN0E1The window system has to be able to find and display the font.8fPIN2A0X8bO9AN0E1The glyphs in the font have to be mapped to the correct Unicode values in order to have
+portable documents and a reliable display system.8fPIN2A0X8bO4BN0E18fPHN2A0= has to be informed of the availability of the new fonts.8fPIN2A0X8bO6AN0E18fPHN2A0= has to know how to convert the new characters to correct output in the markup
+language.
+8fPKN2A0'8bM1NN0E3Making Fonts Available8bO2CN0E1Informing the Window System8bNIN0E28fPHN2A0.
+If you have a font that you want to use in 8fPHN2A0=, you need to find a way to add that font to the font
+database of the X Window System.   Due to all the available font formats and possible configurations, 
+it is rather difficult to give a simple recipe on how to do it.   The most general method would be to set
+up a font server which presents your fonts to the window system, as it works with any configuration
+that we have encountered so far.  However, setting up a font server might require special
+permissions and it is a bit more difficult while you are testing different fonts, as you have to inform
+both the font server and the window system of the changes.  An alternative method would be to add
+the fonts to the system by placing the fonts in a directory and add that directory to the font path of
+the window system. However, this only works if the window system has direct access to that
+directory.   The general rules would be:
+8fPIN2A0Y8bOMN0E18fPIN2A0X8bO2IN0E1Using a font server always works.8fPIN2A0X8bO8MN0E1If you are using an X terminal, a font server is likely to be the only options, as an X terminal
+usually has limited access to disks.8fPIN2A0X8bO19EN0E1If you are using an X emulator under some Microsoft Windows version, you can copy the fonts
+to the machine that you are working on and use the tools provided by the emulator to install
+them properly. However, using a font server has the advantage that not every user has to copy
+all the fonts to their own system and announcing the font server to the window system can be
+done by a startup script.8fPIN2A0X8bO17IN0E1If you are using remote logins to other machines,  using a font directory works as long as both
+machines share the same disks at the same locations, that is, the network is transparent.
+Otherwise, you either have to use a font server,  install the fonts on the machine where the
+window system is running or provide the correct locations of the directory with the fonts.8fPIN2A0X8bO8IN0E1If you only work on one machine, using a directory probably works.  This configuration is
+especially useful for testing purposes.
+
+Once you know which method you have to use, you have to find which file formats are supported by
+the program reading the files.  If you use the font directory method, the X window system will read
+the fonts directly and therefore determines which font formats can be used.  If you use the font
+server method, the font server will read the fonts and will convert them to a suitable format for the
+X window system.
+
+If you have a bitmap font that you want to add, you probably have to convert it to the BDF font
+format, as it is used as the distribution format for X fonts and therefore supported by any X window
+system or font server.   To improve performance, a BDF font can be converted to a more efficient
+format, such as PCF.    To reduce the disk usage, it is often possible to compress the fonts  with
+standard compression tools such as 8fPIN2A038bOPN0E1compress and 8fPIN2A038bOLN0E1gzip.
+
+If you have an outline font, such as a Truetype font or a PostScript Type1 font,  you might run into
+some problems.  There are font servers available which support certain outline formats, most X
+window systems support PostScript Type1 fonts natively and you might be able to use Truetype fonts
+natively within an X emulator under Windows.   Recent X servers and font servers include support
+for Truetype and PostScript Type1 fonts. If  the outline fonts are not supported, you might be able to
+convert the outline fonts to bitmap version everything else fails, you could convert the outline version
+to bitmap versions by using a font renderer and add the bitmap versions of the fonts. 
+8fPIN2A0ISe04f743O   &1KCBook Ref.GVe04f743P#!1ICsection bfI8bOdfI in bfIfile:8bNdfI1DC80Jsection~\ref{8bN.8bO}GVe04f744A#!JCbfIfile:8bOdfI1GC80Jchapter~\ref{file:8bO}GVe04f744B#!MCsection bfI8bOdfI1DC80Jsection~\ref{8bN.8bO}GVe04f744C#!JCfig. bfI8bOdfI1DC80Jfig.\ \ref{fig:8bO}GVe04f744D#!KCtable bfI8bOdfI1FC80Jtable \ref{Table:8bO}GVe04f744E#!KCTable bfI8bOdfI1GC80J80JTable \ref{Table:8bO}\8bO1DN0E1FontPrograms contains a short list of font related software.
+8fPLN2A0ISe1e728fL   42GCTable1ECLatex2eA#floatsHelpGVe1e728fM'!4MCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+3HC80J\begin{table}[8bL]80I8bO 80I\caption{8bN}\label{8bM}80I\end{table}80I1HCtable/capt/label/placeGVe1e728fN'!3JCbfOBegin TabledfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+3FC80J\begin{table}80I8bO 80I\caption{8bN}\label{8bM}80I\end{table}%80I1BCtable/capt/labelGVe1e728fO'!4CCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+2OC80J\begin{table}[8bL]80I8bO 80I\caption{8bN}80I\end{table}80I1BCtable/capt/placeGVe1e728fP'!2PCbfOBegin TabledfO
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+2LC80J\begin{table}80I8bO 80I\caption{8bN}80I\end{table}80ILCtable/captGVe1e7290A'!3HCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+bfOEnd TabledfO
+2CC80J\begin{table}[8bL]80I8bO 80I\end{table}80IMCtable/placeGVe1e7290B'!2ECbfOBegin TabledfO
+82Htable82I8bO
+bfOEnd TabledfO
+1PC80J\begin{table}80I8bO 80I\end{table}80IGCtableGVe1e7290C'!6ECbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+3LC80J\begin{table}[8bL]80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table}%80I2BCtable/capt+LOT entry/label/placeGVe1e7290D'!5BCbfOBegin TabledfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+3HC80J\begin{table}80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table}80I1LCtable/capt+LOT entry/labelGVe1e7290E'!5KCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+3BC80J\begin{table}[8bL]80I8bO 80I\caption[8bK]{8bN}80I\end{table}80I1LCtable/capt+LOT entry/placeGVe1e7290F'!4HCbfOBegin TabledfO
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+2OC80J\begin{table}80I8bO 80I\caption[8bK]{8bN}80I\end{table}80I1FCtable/capt+LOT entryGVe1e7abcJ'!4OCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+3JC80J\begin{table*}[8bL]80I8bO 80I\caption{8bN}\label{8bM}80I\end{table*}80I1PCtable*(2-col)/capt/label/placeGVe1e7abdD'!3LCbfOBegin Table*dfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+3GC80J\begin{table*}80I8bO 80I\caption{8bN}\label{8bM}80I\end{table*}80I1JCtable*(2-col)/capt/labelGVe1e7abdK'!4ECbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+3AC80J\begin{table*}[8bL]80I8bO 80I\caption{8bN}80I\end{table*}80I1JCtable*(2-col)/capt/placeGVe1e7abeH'!3BCbfOBegin Table*dfO
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+2NC80J\begin{table*}80I8bO 80I\caption{8bN}80I\end{table*}80I1DCtable*(2-col)/captGVe1e7ac0F'!3JCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+bfOEnd Table*dfO
+2EC80J\begin{table*}[8bL]80I8bO 80I\end{table*}80I1ECtable*(2-col)/placeGVe1e7ac1D'!2GCbfOBegin Table*dfO
+82Htable82I8bO
+bfOEnd Table*dfO
+2BC80J\begin{table*}80I8bO 80I\end{table*}80IOCtable*(2-col)GVe1e7ac1L'!6GCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3MC80J\begin{table*}[8bL]80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table*}80I2JCtable*(2-col)/capt+LOT entry/label/placeGVe1e7ac5E'!5DCbfOBegin Table*dfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3JC80J\begin{table*}80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table*}80I2DCtable*(2-col)/capt+LOT entry/labelGVe1e7ac2I'!5MCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3DC80J\begin{table*}[8bL]80I8bO 80I\caption[8bK]{8bN}80I\end{table*}80I2DCtable*(2-col)/capt+LOT entry/placeGVe1e7ac3B'!4JCbfOBegin Table*dfO
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3AC80J\begin{table*}80I8bO 80I\caption[8bK]{8bN}80I\end{table*}80I1NCtable*(2-col)/capt+LOT entryu8bN1NN0E2Font related software.8bOIN0E18fPIN2A0K8bOIN0E18fPLN2A0P8bH1KN0E88fPJN2A0V8bN3DN0E2From BDF fonts to PCF fonts. Using PCF fonts8bO1EN0E1bdftopcf,dxfc8fPJN2A0V8bN3AN0E2improves the performance of the X server.8bOIN0E1 8fPJN2A0V8bN3BN0E2From BDF fonts to SNF fonts. SNF fonts are8bO1KN0E1bdftosnf,xtbdftosnf8fPJN2A0V8bN2CN0E2used by very old X servers.8bOIN0E1 8fPJN2A0V8bN2MN0E2From BDF fonts to X11/NeWS fonts. Sun8bO1CN0E1convertfont8fPJN2A0V8bN2EN0E2OpenWindows uses this format.8bOIN0E1 8fPJN2A0V8bN2KN0E2From Mac Bitmap fonts to BDF fonts.8bO1GN0E1mac2bdf,mac2win8fPJN2A0V8bN2GN0E2From 8fPHN2A0ISe1cfa44M   %2GCLaTeX1CCLatex2e#LaTeXHelpGVe1cfa44N#!1FCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NXKC80J\LaTeX{}GVe1cfa44O#!MCT81K81L81K81L81ME81N81M81NXIC80J\TeX{}GVe1cfa45A#!1HCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NX23bF4AC80J{\mathsurround=0pt\LaTeX $2_80L{\textstyle 3bF}$\hspace{-0.4mm}}{}GVe1cfa45B#!1BCBccAIB80PT81K81L81K81L81ME81N81M81NX1FC80J80J\textsc{Bib}\TeX{}GVe1e4779B#!MCbfMMakeIndexdfMOCbfMMakeIndexdfM{}y's pk fonts to BDF fonts.8bOON0E1pktobdf8fPJN2A0V8bN2JN0E2From 8fPHN2A0y's gf fonts to 8fPHN2A0y's pk fonts.8bONN0E1gftopk8fPJN2A0V8bN2NN0E2From 8fPHN2A0ISe0507b5I   !1JCMetafontGVe0507b6D#!LCbfHMETAFONTdfHNC80J\METAFONT{}{ outline fonts to a 8fPHN2A0y's gf fonts8bOJN0E1mf8fPJN2A0V8bN3MN0E2From TrueType outline fonts to PostScript Type1 fonts8bOON0E1ttf2pfa8fPJN2A0V8bN3GN0E2From TrueType outline fonts to BDF bitmap fonts8bOON0E1ttf2bdf8fPJN2A0V8bN1PN0E2The standard font server8bOKN0E1xfs8fPJN2A0V8bN2HN0E2A font server for TrueType fonts8bOMN0E1xfsft8fPJN2A0V8bN3AN0E2To create an index file for basic X fonts8bO1AN0E1mkfontdir8fPJN2A0V8bN3FN0E2To create an index file for the X11/NeWS fonts8bO1AN0E1bldfamily8fPJN2A0V8bN3BN0E2To create an index file for TrueType fonts8bOPN0E1ttmkfdir8fPJN2A0V8bN2PN0E2To add a font directory to the font path8bOLN0E1xset8fPJN2A0V8bN3BN0E2To add a font directory to the font server8bO1CN0E1chkfontpath8bN7FN0E2Purpose                                                                                                       8bO2ON0E1Tool                                   8bIMN0E7|l|l|8bM2DN0E3Table:FontConversionPrograms8bLKN0E4htb
+Once you have the font in the correct format, you have to create an index file which lists the available
+font files and the names of the  fonts contained in them.   There are several different configurations
+using different index files, but usually a file named 8fPIN2A038bO1AN0E1fonts.dir is used.  This file can be constructed
+with the utility 8fPIN2A0H8bO1AN0E1mkfontdir, which extracts the font names from the available font files. As this
+utility is not able to process outline fonts, the file 8fPIN2A038bO1CN0E1fonts.scale is used for adding the outline fonts. 
+This file should consists of a list of files and the appropriate font names and the utility 8fPIN2A0H8bOPN0E1ttmkfdir 
+can be used to generate it if you directory contains TrueType fonts.  For PostScript Type1 fonts, you
+have to construct  the 8fPIN2A0H8bO1CN0E1fonts.scale file by hand.
+
+Certain systems use different file formats and different index files.  For example, the X11/NeWS
+system uses a different format and certain Solaris system require additional index files in order to
+access PostScript Type1 fonts.   During the installation of 8fPHN2A0=, the fonts of the distribution are
+converted and indexed according to all the methods that we know of to assure that it will probably
+work.   The Makefile that is used to perform this task can be used to determine whether something
+special might be required for your system.
+
+After you have created the index file, you can try to add the directory to the font path of the X
+window system with the command  8fPIN2A0G8bO1BN0E1xset fp+ <directory8fPIN2A0G8bOIN0E1>.  If you already added the directory,
+the command 8fPIN2A0H8bO1FN0E1xset fp rehash should suffice.   If 8fPIN2A0G8bO1CN0E1chkfontpath is available and you have
+permission to use it, you could use the command 8fPIN2A0G8bO1KN0E1chkfontpath --add <directory8fPIN2A0G8bOIN0E1>.   If none of
+this works, the best solution would be to start up a font server and add that font server to the font
+path with a similar command. See the documentation of the font server for more information on
+how to do this.
+
+Once you are able to add the fonts to the X window system, you can verify whether they are available
+correctly with the commands 8fPIN2A0H8bOPN0E1xlsfonts, 8fPIN2A0H8bOPN0E1xfontsel and 8fPIN2A0H8bOKN0E1xfd.
+
+8fPKN2A0'8bM2AN0E3Font Encoding Information8bO2AN0E1Font Encoding Information8bNIN0E28fPHN2A0.
+When the font has to be used within 8fPHN2A0=, the encoding information of the font has to be
+available, as 8fPHN2A0= uses Unicode internally and using the wrong information could create
+portability problems and strange drawing behaviour.
+
+For most common encodings, this information is already available and nothing special has to be done.
+However, if  your font contains special characters, such as mathematical symbols or characters for
+an uncommon script, you have to define the encoding for that font, which consists of a list of font
+positions and the corresponding Unicode positions.  The easiest way to construct such a  list is by
+using a font display program like 8fPIN2A0H8bOKN0E1xfd, where you have easy access to the font positions and a copy of 
+the Unicode reference manual or Unicode character charts (available online at
+http://charts.unicode.org/).   By comparing the characters visually, the list can easily be constructed. 
+Such a list should consist of lines containing two integers, where the first integer is the position in the
+font and the second integer is the Unicode position. When characters are not defined in the Unicode
+standard, you should add them to the private zone of the Unicode encoding to assure that problems
+are less likely to occur. 
+
+For 8fPHN2A0= to be able to read the encoding information, the encoding file has to be converted to a
+binary file which is easier to process.  The programs  8fPIN2A0H8bO1BN0E1asciitomap and 8fPIN2A0H8bO1BN0E1maptoascii can be used
+for the conversion to and from the binary format.  Once the binary map file is constructed, it has to
+be installed in a place where 8fPHN2A0= is able to find it, such as the share/MathSpad/map directory.
+
+ 8fPKN2A0'8bM2FN0E3Making the Font Available to
+8fPHN2A0=8bO2FN0E1Making the Font Available to 8fPHN2A0=8bNIN0E28fPHN2A0.Although 8fPHN2A0= might be able to find your font automatically and guess its encoding correctly, it
+is very unlikely, especially if you had to define a new font encoding file.  8fPHN2A0= uses a font
+collection description file which specifies which attributes are supported, which encodings are
+recognised and which fonts are available. At the moment, only one such file is available, namely
+8fPIN2A0H8bO1GN0E1helvetica.ufont.  This file contains a detailed description on how to add other fonts.  Usually, it is
+sufficient to add the name of the encoding and the name of the font as it is known within the X
+window system.
+
+The same file is also used to define the font attributes that are available within templates and how
+these attributes will changed when certain fonts are missing.  As 8fPHN2A0=  uses these attributes to
+select fonts, you might have to specify additional attributes to make sure your font is not ignored, as
+only one font will be used for a given combination of attributes.  Although the number of possible
+attributes is very large, most fonts will map to a very small set of attribute combinations.  Again, a
+detailed description is given in the font description file itself.
+
+
+8fPKN2A0'8bM2EN0E3Attaching Macros to Character8bO2FN0E1Attaching Macros to Characters8bNIN0E28fPHN2A0.
+To generate valid markup output, 8fPHN2A0= has to know which macro should be used for each
+character.  So, for every new character that you introduce, you have to specify how you can produce
+that character in the macro language.  At the moment, that macro language is 8fPHN2A0z, so you have
+to specify the 8fPHN2A0z macros.    These macros are specified in the files named 8fPIN2A0H8bO1GN0E1latexmath.ascii
+and 8fPIN2A0H8bO1GN0E1latextext.ascii.  After you added the macros to these files, you have to convert these files to
+a binary format with the tool 8fPIN2A0H8bO1EN0E1strasciitomap and install the resulting map files in a directory
+where 8fPHN2A0= is able to find it, such as the share/MathSpad/map directory.
+
+If you add a complete script or fancy font to 8fPHN2A0=, you might have to define special templates in
+order to change to the correct environment in 8fPHN2A0z.
+

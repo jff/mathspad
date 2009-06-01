@@ -1,0 +1,1477 @@
+[4mMathpad Document
+[0m12a7PN0E08fPKN2A0ISe1d4f11P   +2PCSectionHeading2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f1aC'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+HC80J8bN{8bO}80IKC{heading}GVe1d4f20A'!3CC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80IPC[toc]{heading}GVe1d4f27D'!2MC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1CC[no no.]{heading}GVe1d4f2aE'!2NC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1AC80J8bN{8bO}\label{8bM}80IPC{heading}labelGVe1d4f2eB'!3LC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1EC[toc]{heading}labelGVe1d4f12M'!3FC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1BC80J8bN*{8bO}\label{8bM}80I1HC[no no.]{heading}labelGVe1d4f12H'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80I1EChide-[toc]{heading}GVe1d4f12I'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1IChide -[no no.]{heading}GVe1d4f12J'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1AC80J8bN{8bO}\label{8bM}80I1EChide-{heading}labelGVe1d4f12K'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1JChide-[toc]{heading}labelGVe1d4f12L'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1BC8bN80J*{8bO}\label{8bM}80I1MChide-[no no.]{heading}label'8bM1EN0E3file:Tutorial8bOPN0E1Tutorial8bNIN0E28fPHN2A0ISe1d4f86L   '21ACSectioningTypes2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f86M#!JCcbLbfKPartdfK80PHC80J\partGVe1d4f86N#!MCcbMbfKChapterdfK80PKC80J\chapterGVe1d4f86O'!MCcbNbfKSectiondfK80PKC80J\sectionMCcbObfKSectiondfKccAGVe1d4f86P#!PCcbObfKSubSectiondfK80PNC80J\subsectionGVe1d4f87A#!1ACbfKSubSubSectiondfK1AC80J\subsubsectionGVe1d4f87B#!MCbfKParagraphdfKMC80J\paragraphGVe1d4f87C#!PCbfKSubParagraphdfKPC80J\subparagraph0
+Like any sophisticated tool, 8fPHN2A0ISafa0e17G   !0GVafa0e17F#!MC80JbfIMath222LpaddfILC80J\mplogo{}2 demands an investment of time and  effort
+in order to get used to it.   Moreover, because 8fPHN2A02 is oriented to the  needs of
+specialists who wish to customise the system to their own specific  demands, it can
+take some time to build up a sufficiently large ``project file''  to that effect.  An
+analogy is with  one's first encounter with the 8fPHN2A0ISe1cfa44M   %2GCLaTeX1CCLatex2e#LaTeXHelpGVe1cfa44N#!1FCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NXKC80J\LaTeX{}GVe1cfa44O#!MCT81K81L81K81L81ME81N81M81NXIC80J\TeX{}GVe1cfa45A#!1HCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NX23bF4AC80J{\mathsurround=0pt\LaTeX $2_80L{\textstyle 3bF}$\hspace{-0.4mm}}{}GVe1cfa45B#!1BCBccAIB80PT81K81L81K81L81ME81N81M81NX1FC80J80J\textsc{Bib}\TeX{}GVe1e4779B#!MCbfMMakeIndexdfMOCbfMMakeIndexdfM{}68fPON2A0ISe1ce08fJ   "2GCEntry1ECLatex2eC#MakeIndex GVe1ce08fK'!11IC80JbfKIndex EntrydfK
+bfMprimary sort key:dfM80C8bO
+bfMsub sort key:dfM80C8bN
+bfMsubsub sort keydfM80C8bM
+bfMvisual key if different from sort key:dfM80C80C8bL
+bfMif start of range of pages set holder to dfM ( 80C8bK
+bfMfont type for page nr. if non-standarddfM80C8bJ
+bfMif end of range of pages set holder to dfM ) 80C8bI
+bfKEnd of Index EntrydfK
+2EC80J\mpindexnew{8bO}{8bN}{8bM}{8bL}{8bK}{8bJ}{8bI}{}1CCenter index entryGVe1ce08fL'!KC80JbfK81Ji81L 81M81NdfK2EC80J\mpindexnew{8bO}{8bN}{8bM}{8bL}{8bK}{8bJ}{8bI}{}1EChide index commands88bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPHN2A068bMHN0E38bNHN0E28bOKN0E1TEX system: so much power at
+one's finger tips, but at such a low level.  The use of 8fPHN2A078fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPHN2A078bMHN0E38bNHN0E28bOMN0E1LATEX instead is an
+improvement, since many more ``higher-level'' options are built in, but inevitably
+one has to build up one's  own personal macro file before one can effectively and
+comfortably use the  system. 
+
+Experienced users of 8fPHN2A02 will already have several  individually customised
+``stencils8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOON0E1stencil'' at their
+disposal.  These files contain specifications of commonly occurring  notational
+elements in the user's documents, ranging from  section or chapter headings to the
+preferred notation and layout for, for example, unbounded summations and
+products.  Before beginning to write a new document the experienced user will
+---ideally---  examine the manuscript carefully for new notational elements
+and define these appropriately on the system.  Few of us, however, are sufficiently
+well-disciplined to do this  in advance, and most will define new stencils on the fly
+in the process of writing  one's document. The greater one's existing stock of
+definitions the  less frequently this is necessary and the smaller the  delay it causes. 
+The delay is thus the greatest for the
+beginner and it is of course the beginner who is the least adept at defining stencils.
+
+In order to ease this initial hurdle a number of stencils are provided with the
+8fPHN2A02 distribution.  The 8fPIN2A0ISe1d0e80N   '1FCFontGVe1d0e80O'!FC80JbfJ8bOdfJLC80J{\em 8bO\/}JCEmphasisGVe1d0e80P%!FC80JbfO8bOdfOFCBoldGVe1d0e81A%!FC80JbfM8bOdfMHCItalicGVe1d0e81B%!FC80JbfK8bOdfKMCBold ItalicGVe1d0e81C%!FC80JbfJ8bOdfJICSlantedGVe1d0e81D%!FC80JbfI8bOdfILCSans SerifGVe1d0e81E%!FC80JbfH8bOdfHLCTypewriter?8bOON0E1latex2e stencil8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2latex2e8bOON0E1stencil,  for example, contains the 
+8fPHN2A02 equivalents of almost all 8fPHN2A05 commands and environments. 
+Since the creation of
+stencils is the hardest part of using 8fPHN2A02 (although it isn't that difficult!) we
+postpone its discussion to the very end of this tutorial.  You will, however, be using
+various stencils almost from the very beginning even though at times you may not
+be aware of it.
+
+
+8fPKN2A0'8bM1JN0E3Tutorial.The Mouse8bO1AN0E1The Mouse8bNIN0E28fPHN2A0/
+8fPON2A088bIHN0E78bJNN0E6textrm8bKIN0E5(8bLHN@E4$8bMHN0E38bNHN0E28bOMN0E1mouse
+Before we can begin at all, it is important that we agree on terminology  for
+referring to the  buttons8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2buttons8bOMN0E1mouse on the mouse.  We assume that your mouse has
+three buttons.  If your mouse does not have three buttons you will  need to use
+the rightmost button in combination with the control key to simulate the third
+button. You are warned that this feature has never been thoroughly tested.
+
+Modern computer systems allow you to customise the mouse (and just about
+everything else) to your own preferences.  For right-handed people the leftmost
+mouse button is often the one  that is easiest to use, for left-handed people (who
+operate the mouse with their left  hand) it is more likely to be the rightmost button. 
+Left-handed people may therefore wish to change the default settings on their
+computer so  that any action initiated by default by the leftmost button is initiated
+in their case by the rightmost button.   We won't tell you how ---it's often not very
+easy to find out and  there is no standard (software) mechanism for doing it that
+we  know of--- but we are acutely aware that  what is ergonomic for one person
+is not ergonomic for the other.   
+
+Ideally, in order to reflect this situation, we would now introduce some
+(standard) terminology to refer to the three mouse buttons that emphasises
+their logical functions rather than their relative physical positions. 
+Unfortunately, a standard terminology hasn't yet emerged and until there is
+we feel it would be too much of a burden  to ask you to commit three new terms
+to memory.  What we  shall do is very much a compromise: we shall
+refer to the buttons as the  8fPIN2A0@8bOLN0E1near8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMLN0E3near8bNON0E2buttons8bOMN0E1mouse button, the 8fPIN2A0@8bONN0E1middle8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMNN0E3middle8bNON0E2buttons8bOMN0E1mouse button, and the
+8fPIN2A0@8bOKN0E1far8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMKN0E3far8bNON0E2buttons8bOMN0E1mouse button.  The near button will typically be ---at least for most 
+right-handed people--- the leftmost button, and the far button will typically be
+the rightmost button.  (We realise that this terminology may be confusing to
+those who operate the mouse with their left hand but have not made
+any changes to the default settings on their computer.)
+8fPON2A088bIIN0E7)8bJNN0E6textrm8bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOMN0E1mouse
+8fPKN2A0'8bM1LN0E3Tutorial.The Console8bO1CN0E1The Console8bNIN0E28fPHN2A0/
+8fPON2A088bIHN0E78bJNN0E6textrm8bKIN0E5(8bLHN@E4$8bMHN0E38bNHN0E28bOON0E1console
+If you are reading this text at your computer, and have so far resisted the
+temptation to  go-it-alone and experiment yourself with the system, then there
+will be just two  windows on your screen, a document window8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOPN0E1document
+containing this text and the 8fPHN2A02  console8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOON0E1console.  The  console has
+seven buttons8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNNN0E2button8bOON0E1console starting on the left with  8fPIN2A0ISe196d18D   +2KCTextStyle1HCLatex2eA#TextStyleHelpGVe196d18N'!FC80JbfJ8bOdfJKC80J\emph{8bO}1CCbfMEmphasizeddfM textGVe196d18E'!DC80J8bOMC80J\textup{8bO}OCUpright shapeGVe196d18F'!FC80JbfM8bOdfMMC80J\textit{8bO}PCbfMItalicdfM shapeGVe196d18G'!FC80JbfJ8bOdfJMC80J\textsl{8bO}1ACbfJSlanteddfJ shapeGVe196d18H'!DC80J8bOMC80J\textsc{8bO}1FCSccBMALLcbPcbNCccBAPS cbNshapeGVe196d18I'!DC80J8bOMC80J\textmd{8bO}OCMedium seriesGVe196d18J'!FC80JbfO8bOdfOMC80J\textbf{8bO}OCbfOBolddfO seriesGVe196d18K'!DC80J8bOMC80J\textrm{8bO}NCRoman familyGVe196d18L'!FC80JbfI8bOdfIMC80J\textsf{8bO}1ECbfISans SerifdfI familyGVe196d18M'!FC80JbfH8bOdfHMC80J\texttt{8bO}1ECbfHTypewriterdfH familyGVe196d18O'!FC80JbfK8bOdfK1GC80J\textbf{80J\textit{8bO}}1NCbfKBolddfK series bfKItalicdfK shapeC8bONN0E1Window  and ending on the right with
+8fPIN2A0C8bOLN0E1Quit.   Behind each of these buttons is a menu8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1BN0E3menu under8bNNN0E2button8bOON0E1console which can be revealed
+with the aid of the mouse.  
+
+Selecting one of these buttons with the  far mouse button, with the exception of
+the 8fPIN2A0C8bOON0E1Version  button, will pull up a menu. Selecting one with the near mouse
+button will cause a default action to be performed.  We  do not recommend you
+do the latter at this stage, especially selecting the 8fPIN2A0C8bOLN0E1Quit  button!  The 8fPIN2A0C8bOPN0E1 Version
+button may or may not be disabled depending on what you have been doing with
+this  text: more about this later.  
+
+All the menus can be pinned up8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1BN0E2pinning up8bOLN0E1menu  by selecting the menu's title.  The complete
+procedure to pin up a menu is as follows.  Move the mouse so that it points at the
+console button of your choice.  Press down the far mouse button --- the menu
+will appear.  Keeping the mouse button held down, move the mouse upwards so
+that the title is highlighted.  Finally, release the mouse button. (If you have a
+colour screen) the menu will get a grey boarder8fPIN2A0ISe1cf70aF   "2JCFootnote1FCLatex2e#FootnoteHelpGVe1cf70aG'!1ACbfMFootnote:dfM {8bO}OC80J\footnote{8bO}1DCFootnote(Editable)GVe1cf70aH#!JCbfK81Jf81L 81M81NdfK1AC80J\footnote{80O8bO}81OL8bO6EN0E1This varies from
+window manager to window manager, as does the procedure for moving the menu.8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1CN0E2grey border8bOLN0E1menu and may then be dragged8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOPN0E1dragging to
+any position on the screen you like: depress the near  button when the mouse is
+pointing at one of the boarders and then, keeping the mouse button depressed,
+move the menu to any position you want on the screen.  (If you don't have a 
+colour screen everything will work as just described but there is no visual
+indication of whether the menu is pinned up or not.) 
+
+It is suggested that you pin up three of the  menus at this stage: the menus under
+the  8fPIN2A0C8bONN0E1EditOp, 8fPIN2A0C8bO1AN0E1Structure  and 8fPIN2A0C8bO1AN0E1Selection  buttons.    You won't need them all 
+immediately but it may save you time later, and it will give you an idea of the
+extent of the features offered by 8fPHN2A02.  Arrange them as neatly as you
+can in a clear area of the screen.  
+
+(You can get as many copies of the pin-up menus as you wish, and scatter them
+all over the screen.  8fPHN2A02 is not stingy, and tidiness is your concern!  To
+remove a pinned-up menu8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1AN0E2unpinning8bOLN0E1menu click on the header with any mouse button.)
+
+In this tutorial we will make use of the 
+Gries-Schneider8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1DN0E1Gries, David
+8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1JN0E1Schneider, Fred B.8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1GN0E2Gries-Schneider8bOON0E1stencil
+stencil to
+explain some of the system's features.  This stencil is for illustrative purposes
+only  and you are  advised not to use it for any other purpose.   You do not need to
+access the stencil at this point but, if you are curious, you can open it as follows. 
+Pull up the menu under the 8fPIN2A0C8bONN0E1Window  button on the  console.  Select
+the 8fPIN2A0C8bOON0E1Stencil entry by moving the mouse to it  and clicking with either the
+near or far mouse button.  A stencil window will appear.  Click on the 8fPIN2A0C8bOLN0E1Load
+button in the top left-hand corner and load the  Gries-Schneider  stencil
+ by clicking on 8fPIN2A0B8bO1KN0E1Gries-Schneider.mps in the file selector window in the usual way.
+(Several more stencils have
+been  used to write this tutorial ---indeed, all the stencils listed in the file selector---  so
+do not be  mislead into thinking that the Gries-Schneider stencil is all
+that one needs to prepare a  document such as this one.)
+
+Note that we always use 8fPIN2A0C8bO1BN0E1Sans Serif  characters when we refer to a button on
+a window or an entry in a menu.
+8fPON2A088bIIN0E7)8bJNN0E6textrm8bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOON0E1console
+8fPKN2A0'8bM1PN0E3Tutorial.The Text Editor8bO1GN0E1The Text Editor8bNIN0E28fPHN2A0/
+8fPHN2A02 recognises the fact that any mathematical document, whether it  be
+a formal proof of some mathematical theorem, the source code of a program, or
+whatever,  must contain provision for the inclusion of plain, non-formal  text. To
+cater for this, there are two distinct modes in 8fPHN2A02: 8fPIN2A0I8bO1BN0E1expression and 8fPIN2A0I8bOLN0E1text.
+In addition expressions may either be 8fPIN2A0I8bO1AN0E1displayed or 8fPIN2A0I8bOON0E1in-line.  Entering8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1AN0E3displayed8bNPN0E2entering8bO1BN0E1expression displayed
+expressions is begun by selecting the  8fPIN2A0C8bO1CN0E1Insert Disp8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bO1CN0E1Insert Disp8bM1CN0E3Insert Disp8bNPN0E2entering8bO1DN0E1place holder item under the 8fPIN2A0C8bONN0E1EditOp button on
+the console.  Entering in-line expressions8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMON0E3in-line8bNPN0E2entering8bO1BN0E1expression is most commonly begun by selecting a
+template from a stencil but  may also be begun by selecting the 8fPIN2A0C8bO1CN0E1Insert Expr8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bO1CN0E1Insert Expr8bM1CN0E3Insert Expr8bNPN0E2entering8bO1DN0E1place holder item. 
+(The latter option is typically used to enter identifiers in the text  as 
+in ``let 8fPIN0A0x be 8fPHN2A0ISe1eb2a4M   %2NCDots        1CCLatex2eB#DotsHelpGVe1eb2a4N'"IC81K81L81M...81NHC\ldotsNClow ellipsisGVe1eb2a4O'"IC81K81L...81M81NHC\cdots1BCcentred ellipsisGVe1eb2a4P'"IC81K.81L.81M.81NHC\vdots1CCvertical ellipsisGVe1eb2a5A'"OC81K.  81L . 81M  .81NHC\ddots1CCdiagonal ellipsisGVe1eb2a5B'"GC81K81L.81M81NGC\cdotMCcentred dotR''.)
+
+In addition to inserting expressions in text it is also possible to insert text in
+expressions.  As a safeguard, however, it is  not possible to do so as a side-effect of an
+edit operation such as a copy operation.  One can explicitly introduce a text
+place holder8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1MN0E1text in an expression in an expression either in a template definition or by choosing the 
+ 8fPIN2A0C8bO1CN0E1Insert Text8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bO1CN0E1Insert Text8bM1CN0E3Insert Text8bNPN0E2entering8bO1DN0E1place holder item under the 8fPIN2A0C8bONN0E1EditOp button on the console.  
+
+What you are  reading now is of course in text mode.  8fPHN2A02 incorporates a
+text editor based on the Emacs editor.  There are various commands for moving
+forward and  backwards through the text, for deleting, ``yanking'' and ``killing''
+text, and so  on.  If you are familiar with Emacs  just try doing what you would
+normally do  and see what happens.  Keep your eye on the  console for requests for
+ arguments to commands. In addition you may consult 8fPJN2A0ISe04f743O   &1KCBook Ref.GVe04f743P#!1ICsection bfI8bOdfI in bfIfile:8bNdfI1DC80Jsection~\ref{8bN.8bO}GVe04f744A#!JCbfIfile:8bOdfI1GC80Jchapter~\ref{file:8bO}GVe04f744B#!MCsection bfI8bOdfI1DC80Jsection~\ref{8bN.8bO}GVe04f744C#!JCfig. bfI8bOdfI1DC80Jfig.\ \ref{fig:8bO}GVe04f744D#!KCtable bfI8bOdfI1FC80Jtable \ref{Table:8bO}GVe04f744E#!KCTable bfI8bOdfI1GC80J80JTable \ref{Table:8bO}W8bNHN@E2"8bO1GN0E1ConsoleCommands
+for full details. This aspect of the system will not be discussed further here. 
+
+ 8fPKN2A0'8bM1KN0E3Tutorial.Selections8bO1BN0E1Selections8bNIN0E28fPHN2A0/
+8fPON2A088bIHN0E78bJNN0E6textrm8bKIN0E5(8bLHN@E4$8bMHN0E38bNHN0E28bO1AN0E1selection8fPKN2A0'8bM2GN0E3Tutorial.Clicks and Multiclicks8bO1NN0E1Clicks and Multiclicks8bNIN0E28fPHN2A0.8fPON2A088bIHN0E78bJNN0E6textrm8bKIN0E5(8bLHN@E4$8bMHN0E38bNHN0E28bOMN0E1click
+The main goal of 8fPHN2A02 is to enable algebraic calculations to be conducted on
+a computer terminal.  The first thing you must learn in order to do this 
+effectively is how to select subexpressions.  A simple mathematical 
+expression has been displayed below in order to let you practise the technique.
+
+89PON0A08fPIN0A0a8ePHN2B0ISafa0e27A# )"1ECaddGVafa0e26O!"CC+GVafa0e26P!"CC-Z8fPIN0A0b8ePHN2B0Z8fPKN0A08fPIN0A0c8ePHN2B0ISafa0e27D# *"1ECmulGVafa0e27B!"CC·GVafa0e27C!"CC÷\8fPIN0A0d8ePHN2B0Y8fPKN0A08fPKN1A08fPIN0A0e8ePHN2B0Y8fPIN0A0f8ePHN2B0[8fPIN0A0g
+
+In 8fPHN2A02 there are three types of selection8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1AN0E1selection, the target8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNNN0E2target8bO1AN0E1selection, the
+source8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNNN0E2source8bO1AN0E1selection and the argument8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNPN0E2argument8bO1AN0E1selection selection.  If there are three buttons on your
+mouse these will  correspond to the near8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMLN0E3near8bNON0E2buttons8bOMN0E1mouse, middle8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMNN0E3middle8bNON0E2buttons8bOMN0E1mouse and far8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMKN0E3far8bNON0E2buttons8bOMN0E1mouse mouse buttons,
+respectively.  For the  moment it doesn't matter which of the three you use.  
+
+The expression above has a certain structure that is governed by the normal
+precedence conventions of arithmetic.  The structure is evident from the spacing
+around the operators and the parentheses.  
+   
+Use the scroll bar to position the  expression at the very top of the screen so that you
+can both read and carry out these  instructions at the same time.  (The mouse
+pointer should be placed in the scroll bar  at the side of the window alongside the
+expression.  Then click with the near button.)  Now position the mouse pointer to
+point to one of the  operators and then click8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOMN0E1click (i.e. press and release one  of the mouse 
+buttons). Do this for each of the operators in turn.  Use the same mouse button
+each time or else things may get confusing.  
+
+In each case the subexpression you have selected will be highlighted (the colour of the
+highlighting being dependent on the  mouse button you used).   If, for instance, you click
+on the division operator you will select the  subexpression 8fPKN0A08fPKN1A08fPIN0A0e8ePHN2B0Y8fPIN0A0f8ePHN2B0[8fPIN0A0g.  What is selected in
+this way is  the operator and its  arguments.  Thus, when you click on either of the two
+``+''  operators you select only the two adjacent arguments:  clicking on the first  ``+''
+selects 8fPKN0A08fPIN0A0a8ePHN2B0Z8fPIN0A0b and on the second 8fPKN0A08fPIN0A0b8ePHN2B0Z8fPKN0A08fPIN0A0c8ePHN2B0\8fPIN0A0d.  Similarly if you click on the  leftmost minus sign
+you select 8fPKN0A08fPKN0A08fPIN0A0c8ePHN2B0\8fPIN0A0d8ePHN2B0Y8fPKN0A08fPKN1A08fPIN0A0e8ePHN2B0Y8fPIN0A0f8ePHN2B0[8fPIN0A0g.   If an operator has been  declared to be infix (for example ``+''
+or ``8fPIN0A0-'') you can select the whole expression by a ``double click'' over the operator.    Try
+this  with either of the two ``+''  signs  or the leftmost ``8fPIN0A0-'' sign.  (You must press and
+release quite fast twice in  succession.)  
+
+Just for the fun of it, try placing the mouse pointer anywhere in the text and 
+clicking rapidly several times in succession.  If you position the pointer in the
+middle of a word and click twice you will select the word.  If you click three
+times you will select the line in which the word appears, and four times the
+whole document.  You can undo your selection by clicking the same mouse
+button over  a blank line in the text.
+
+The correct technique for multiple clicks8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1NN0E2technique for multiple8bOMN0E1click so that you can keep track of how
+many  times you have clicked is the following.  Position the mouse pointer. Then
+press a  button down but 8fPIN2A0I8bO1JN0E1do  not release it.  (That is, keep it held down.  Do not
+allow it to  come up again.)  When you are ready, release the button and press it
+in again 8fPIN2A0I8bO2FN0E1rapidly and without releasing.  Pause awhile (keeping the mouse
+button firmly  in place) before repeating the release-and-press-down action.  If
+done at the  correct speed you will see the selection widening step-by-step.   If
+you do it too  slowly, however, you will go back to square one.  At first you will
+probably  be  inclined to overdo the speed, or press-down-and-release quickly
+rather than  release-and-press-down quickly,  but the technique is soon
+mastered.
+
+Let us go back to our arithmetic expression.  Since it will inevitably  have
+disappeared from your screen by now we reproduce it below so that you can
+both  read and practise simultaneously.  Position the text so that the expression
+is near but not at the very top of the screen.  (Leave this sentence visible for
+example.)
+
+89PON0A08fPIN0A0a8ePHN2B0Z8fPIN0A0b8ePHN2B0Z8fPKN0A08fPIN0A0c8ePHN2B0\8fPIN0A0d8ePHN2B0Y8fPKN0A08fPKN1A08fPIN0A0e8ePHN2B0Y8fPIN0A0f8ePHN2B0[8fPIN0A0g
+
+Try out your multiple click technique beginning with the mouse pointer 
+positioned over the second minus sign.   You will  select in turn 8fPKN0A08fPIN0A0e8ePHN2B0Y8fPIN0A0f, then 8fPKN0A08fPKN1A08fPIN0A0e8ePHN2B0Y8fPIN0A0f8ePHN2B0[8fPIN0A0g 
+and then the whole expression.  It's worth continuing to see what  happens next! 
+(Sometimes the selection doesn't seem to alter.  If that is the case keep on
+clicking until the whole screen has been selected.)  For most purposes you will
+only need the  single and double click but sometimes more can be useful.
+8fPON2A088bIIN0E7)8bJNN0E6textrm8bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOMN0E1click
+8fPKN2A0*8bMHN@E3"8bOPN0E1Dragging8bNIN0E28fPHN2A0.8fPON2A088bIHN0E78bJNN0E6textrm8bKIN0E5(8bLHN@E4$8bMHN0E38bNHN0E28bOPN0E1dragging
+ Clicking selects complete subtrees of an expression. Dragging the mouse 
+pointer enables you to select certain incomplete subexpressions.  Position the 
+mouse pointer this time over 8fPIN0A0b and press a button down again without releasing
+it.  The symbol 8fPIN0A0b will be highlighted.  Now 8fPIN2A0I8bO2DN0E1without releasing the button move
+the pointer across the screen.  Do this slowly (and for as long as you like) so that 
+you can observe its effect.  You will find that you can select subexpressions like 
+8fPJN0A08fPIN0A0b8ePHN2B0Z,  8fPLN0A08fPIN0A0b8ePHN2B0Z8fPKN0A08fPIN0A0c8ePHN2B0\8fPIN0A0d8ePHN2B0Y  and 8fPMN0A08fPIN0A0b8ePHN2B0Z8fPKN0A08fPIN0A0c8ePHN2B0\8fPIN0A0d8ePHN2B0Y8fPKN0A08fPKN1A08fPIN0A0e8ePHN2B0Y8fPIN0A0f8ePHN2B0[8fPIN0A0g. You can also select the subexpression 8fPKN0A08ePHN2B0Z8fPIN0A0b8ePHN2B0Z
+by first positioning the mouse pointer at one of the ``8fPHN2A0Z'' signs and dragging 
+across to the other. You cannot select 8fPKN0A08fPIN0A0b8ePHN2B0Z8fPIN0A0c   in this way because as soon as you 
+move the pointer over the 8fPIN0A0c the selection jumps so as to include the whole 
+subexpression 8fPKN0A08fPIN0A0c8ePHN2B0\8fPIN0A0d.  This reflects the way that the expression is stored in the 
+system.  It is a tree structure consisting of a root and a 8fPIN2A0I8bOLN0E1list of subexpressions.
+The subexpressions are in this case 8fPIN0A0a, 8fPHN2A0Z, 8fPIN0A0b, 8fPHN2A0Z, 8fPKN0A08fPIN0A0c8ePHN2B0\8fPIN0A0d, 8fPHN2A0Y, 8fPKN0A08fPKN1A08fPIN0A0e8ePHN2B0Y8fPIN0A0f8ePHN2B0[8fPIN0A0g.  By dragging you
+can select any (nonempty) sublist of this list.  You can thus also select the
+individual operators in this way.  For instance, positioning the pointer over the
+symbol ``8fPHN2A0['' and making a very slight dragging motion selects just the operator
+and nothing  more.  To select an operator such as the ``8fPHN2A0\'' which is very narrow
+and close to its two arguments the best technique is to position the pointer over
+the operator,  and click down but not release.  This will select the subexpression
+8fPKN0A08fPIN0A0c8ePHN2B0\8fPIN0A0d.  Then drag  8fPIN2A0I8bONN0E1beyond this subexpression (to include say the adjacent ``8fPHN2A0Z'' in
+the selection, or  even ``8fPJN0A08fPIN0A0b8ePHN2B0Z'') before bringing the pointer back to the ``8fPHN2A0\''.  
+
+Clicking and dragging can be combined, and all that we have said has a similar
+effect when used to select text rather than subexpressions.  Indeed, this is all so 
+much easier to demonstrate than to explain in words, and is not as difficult as it 
+may seem.  Selection of subexpressions is a fundamental technique in the use of
+8fPHN2A02, so experimentation and perseverance (if necessary) have their
+rewards.   Continue reading only when you feel you have mastered the 
+technique.
+8fPON2A088bIIN0E7)8bJNN0E6textrm8bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOPN0E1dragging
+8fPKN2A0*8bMHN@E3"8bO1DN0E18fPHN2A02 Goes Dotty8bNIN0E28fPHN2A0.One of the fine points of selections is to know what exactly it is you have selected!
+For example, you will have noticed that 8fPHN2A02 is capable of handling
+various fonts: section headings are in 8fPIN2A0E8bOLN0E1bold type, names of  console
+buttons are 8fPIN2A0C8bO1BN0E1sans serif, and some words are 8fPIN2A0K8bO1BN0E1emphasised.  Now, if you select,
+say,  ``8fPIN2A0K8bO1BN0E1emphasised''  the question is whether you have indeed selected the
+emphasised word or the unemphasised word ``emphasised''.  Sometimes you
+will want to  select the one, sometimes the other.  But which selection has been
+made is not normally visible.   
+
+The problems centre around the use of text as an argument to some function. 
+(Think  of emphasising a segment of text.  The function is ``emphasise'' and the
+segment is the argument.)   How can we distinguish between the text itself and
+the function applied to the text?  Sometimes you might not even wish to see a
+difference in the  final text between the argument and the function applied to
+the argument, for  example if you want to index words in a text.  During the
+preparation of the  document you will nevertheless most certainly wish to see
+the difference, in order to be sure that the scope of the function is correctly set. 
+(Those readers familiar  with the use of 8fPHN2A07 will know that a single missing
+bracket can suddenly turn  the whole of their document from roman type into
+italic type.)  
+
+To alleviate these problems 8fPHN2A02 automatically brackets text arguments 
+by a pair of raised dots.  Whether these are visible on your screen can be toggled
+by holding down the 8fPIN2A0C8bOLN0E1Ctrl key on your keyboard and hitting the ``.'' key.  If dots
+are visible around the several occurrences of 8fPIN2A0C8bOLN0E1Ctrl in this paragraph then
+holding down the 8fPIN2A0C8bOLN0E1Ctrl key  and hitting the ``.'' key8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1PN0E1dots, showing and hiding will cause them all to
+disappear.  If they are not visible the action will cause them to appear.
+
+Make the dots appear.  You can now see whether you have selected the raw
+word  ``Ctrl'' or the sans serif version by whether your selection excludes or
+includes the surrounding dots.  Moving the mouse pointer to point at the word
+followed by a  double click will give you the raw word, a treble click will give you
+the sans serif word.
+
+
+8fPKN2A0'8bM2CN0E3Tutorial.Joining Selections8bO1JN0E1Joining Selections8bNIN0E28fPHN2A0.As mentioned earlier, the three buttons on a mouse are used to make three types of
+selection.   The near8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMLN0E3near8bNON0E2buttons8bOMN0E1mouse mouse button enables you to set the target
+selection8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNNN0E2target8bO1AN0E1selection, the middle8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMNN0E3middle8bNON0E2buttons8bOMN0E1mouse button the source selection8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNNN0E2source8bO1AN0E1selection  and the far8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMKN0E3far8bNON0E2buttons8bOMN0E1mouse button the 
+argument selection8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNPN0E2argument8bO1AN0E1selection.  Joining selections8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bOLN0E1Join8bMLN0E3Join8bN1EN0E2operations on8bO1AN0E1selection makes use of two  types of selection. So
+now is the time to learn something about the different types.   Since the technique
+we are about to describe is most commonly used when selecting  large chunks of
+text we suggest you  practise it on text.  Nevertheless,  all that we have  said so far
+and are about to say is  equally applicable to both text and mathematical expressions.
+
+This is probably an opportune moment to remind you that if you want to clear a
+selection you should move the mouse pointer to a large area of white space 
+within this edit window and then click on the appropriate mouse button.
+
+Position the screen so that this sentence is at the very top.  Now, position the 
+mouse pointer so as to point at the space between ``target'' and ``selection''  in 
+the list below.  Do a double click with the near button: the effect is to set the 
+target selection to the string ``target selection''.  You can see this because  the
+string is then displayed in inverse video mode. 8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1MN0E2visual representation8bO1AN0E1selection Repeat the action using the
+middle and far buttons with the pointer positioned between ``source'' and
+``selection'', and between ``argument'' and ``selection'', respectively.  On a
+black-and-white screen, you will see that the source selection is indicated by a
+thick underline, and the  argument selection by a thin underline.   On a colour
+screen the  source selection is shaded blue, and the argument selection purple. 
+(These colours may vary, and can be altered to suit your own taste.  The
+important thing is to note for yourself how the different selections are
+indicated.)
+8fPIN2A0ISe1dbb24P   "21OCItemize                      3BCLatex2eB#Description, Enumerate and Itemize HelpGVe1dbb25A'!2HC81PbfMItemdfM80BbfMizedfM
+82Hitems82I8bO82A bfMEnd ItemizedfM
+2DC80J\begin{itemize}80I8bO 80I\end{itemize}80IICItemizeGVe1dbb25B'!1DC   221J 80C80E{82Htext82I8bO}80F
+LC80J\item 8bO 80IFCItem^8bOKN0E18fPIN2A0]8bO1HN0E1target selection8fPIN2A0]8bO1HN0E1source selection8fPIN2A0]8bO1JN0E1argument selectionSelections may overlap8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1CN0E2overlapping8bO1AN0E1selection in four different ways.  See for yourself which colour8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1MN0E2visual representation8bO1AN0E1selection is
+used to indicate which combination using the following list as a guide:
+8fPIN2A0^8bOLN0E18fPIN2A0]8bO1IN0E1target and source8fPIN2A0]8bO1KN0E1target and argument8fPIN2A0]8bO1KN0E1source and argument8fPIN2A0]8bO2CN0E1target, source and argument
+ (You can only inspect the combinations one at a time.  And, of course, the hard
+copy of this  manual cannot show what appears on the screen if the instructions
+have been carried out correctly.  We suggest you edit the lists above by adding
+the colour alongside each item.   Rename the file to something like ``MyTutorial''
+and save it in your own directory.) 
+
+If you now look among all the menus you were asked to pin up earlier you 
+should be able to locate the menu item 8fPIN2A0C8bOLN0E1Join.   (If you can't find it, pull up
+the menu once more by clicking on the  8fPIN2A0C8bO1AN0E1Selection button on the console with
+the far mouse button.  Pin the menu up by selecting its title.  
+The selections you have already made will not be lost in this process.)
+Mostly you will only use the target and source selections. 8fPIN2A0C8bOLN0E1Join  is, however, one
+of the few operations that makes use of the argument  selection.  
+
+The function of 8fPIN2A0C8bOLN0E1Join is to extend a selection.  Next to the word ``8fPIN2A0C8bOLN0E1Join'' in the
+pop-up menu is  a triangle pointing to the right.  This is the standard convention
+for indicating that there is a  collection of options from which to choose.  With
+the mouse pointing at 8fPIN2A0C8bOLN0E1Join8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bOLN0E1Join8bMLN0E3Join8bN1EN0E2operations on8bO1AN0E1selection and holding down the far button, drag the mouse to
+the right and the options will be revealed.  Moving the  mouse vertically whilst
+continuing to hold the far button down allows you to choose the option you want.
+ 
+There are three options to be chosen from.  The option ``8fPKN0A08fPKN0A08fPINPA0'T8ePHN2B0ISafa0e20I# -&0GVafa0e20C#"CC+IC{\plus}GVafa0e20D#"CC×EC{×}GVafa0e20E#"CC25bPGC\juncGVafa0e20F#"CC25bFHC\splitGVafa0e20G#"CC25bEJC\cosplitGVafa0e20H#"CC25bOIC\cojuncd8fPINPA0'A8ePHN2B0ISff204c6B# +'0GVff204c5L!"CC219CGVff204c5M#"CC1ffDNC\natrightrelGVff204c5N!"CC219NGVff204c5O#"HC81K*81L219C81M81N1AC\stackrel{221H}{219C}GVff204c5P#"NC 81J ccA8fO80P81L219C81H81M81N 1MC\rTeXto[l>=0.8em]^{8fO}\relaxGVff204c6A#"IC81K219C81H81L8fO81M81N1DC\overrightarrow{8fO}GVaf57681F!"CC21aGk8fPINPA0'T''  joins the
+target and argument  selections.  The joined selection becomes the new target.
+The option ``8fPKN0A08fPKN0A08fPINPA0'S8ePHN2B0d8fPINPA0'A8ePHN2B0k8fPINPA0'S''  joins the source and argument  selections, the joined
+selection becoming the new source. Finally, the option ``8fPKN0A08fPKN0A08fPINPA0'A8ePHN2B0d8fPINPA0'S8ePHN2B0k8fPINPA0'A''  joins the
+argument and source  selections, the joined selection becoming the new
+argument. 
+
+Try it out on the paragraph above.  On plain text the effect should be predictable. 
+Note carefully, however, what happens when you join substructures of two
+disjoint structures. (For instance if you set the target to the second  8fPIN2A0C8bOIN0E1T and the
+argument to the last 8fPIN2A0C8bOIN0E1S above,  and then join them, you will find that the selection
+immediately extends so as to  include the first  8fPIN2A0C8bOIN0E1T and the last 8fPIN2A0C8bOIN0E1A.)
+
+One final point.  If you are working simultaneously with two or more 
+documents there is still only one selection8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1FN0E2number allowed8bO1AN0E1selection of each type available.  This is to enable
+parts of one document to be copied over into, or swapped  with, parts of another
+document.  8fPIN2A0C8bOLN0E1Join does not join selections in different documents!  If one of the
+required selections is not set in the current document then it has no effect.
+
+8fPKN2A0*8bMHN@E3"8bO2HN0E1Clearing and Swapping Selections8bNIN0E28fPHN2A0.There are two other options under the 8fPIN2A0C8bO1AN0E1Selection button: 8fPIN2A0C8bOMN0E1Clear8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bOMN0E1Clear8bMMN0E3Clear8bN1EN0E2operations on8bO1AN0E1selection and 8fPIN2A0C8bOLN0E1Swap8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bOLN0E1Swap8bMLN0E3Swap8bN1EN0E2operations on8bO1AN0E1selection.
+Both will only work if the menu is pinned up because their action depends on which
+mouse button is used.  Clicking on 8fPIN2A0C8bOMN0E1Clear  will clear the selection corresponding to
+the mouse button that is used.  Clicking on 8fPIN2A0C8bOLN0E1Swap with the near button will swap the
+target and source selections, clicking on 8fPIN2A0C8bOLN0E1Swap with the middle  button will swap the
+source and argument selections, and clicking on 8fPIN2A0C8bOLN0E1Swap with the far button will swap 
+the target and argument selections.  It is important to note that swapping 8fPIN2A0K8bO1BN0E1selections
+is not the same as swapping the selected 8fPIN2A0K8bOMN0E1terms8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bOLN0E1Swap8bMLN0E3Swap8bN1GN0E2edit operations8bO1BN0E1expression.  The latter is executed by using the
+swap option under the 8fPIN2A0C8bONN0E1EditOp button and causes the document to change whereas
+the former has no effect on the document itself8fPON2A088bIIN0E7)8bJNN0E6textrm8bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1AN0E1selection.
+
+8fPKN2A0*8bMHN@E3"8bO2CN0E1Manipulating Subexpressions8bNIN0E28fPHN2A0/The primary goal of  8fPHN2A02 is  to provide a pleasant, useable interface for 
+performing algebraic calculations at a computer terminal.  The argument for 
+using a computer for such calculations rather than doing them by hand is a
+very  simple one:  computers are able to copy information very reliably and
+quickly  whereas human beings tend to introduce mistakes in the process.  
+
+Apart from being able to copy subexpressions easily and quickly, 8fPHN2A02 
+provides simple-to-use functions for rearranging expressions, and for finding 
+and replacing mathematical expressions of a given structure.  There are few 
+restrictions on the use of these functions.  The principle is that the user knows 
+what he/she is doing, and 8fPHN2A02 is simply there to carry out instructions. 
+There is  however one exception, namely,  you cannot perform any operation that
+would result in text being placed where a mathematical expression is expected. 
+For example, there are restrictions  on interchanging an  expression and a
+portion of text.  This does not mean to say that text cannot  appear in
+mathematical formulae: it is vital that it can.  It does mean that, via the  stencil
+definition mechanism, one must explicitly state where text may be inserted in an
+expression.  Bear this in mind when experimenting with the functions  described
+in this section.
+
+The functions provided for expression manipulation8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1DN0E2manipulation8bO1BN0E1expression are 8fPIN2A0C8bOLN0E1Copy8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bOLN0E1Copy8bMLN0E3Copy8bN1GN0E2edit operations8bO1BN0E1expression and  8fPIN2A0C8bOLN0E1Swap8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bOLN0E1Swap8bMLN0E3Swap8bN1GN0E2edit operations8bO1BN0E1expression, 
+8fPIN2A0C8bOON0E1Reverse8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bOON0E1Reverse8bMON0E3Reverse8bN1GN0E2edit operations8bO1BN0E1expression, 8fPIN2A0C8bO1BN0E1Distribute8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bO1BN0E1Distribute8bM1BN0E3Distribute8bN1GN0E2edit operations8bO1BN0E1expression and 8fPIN2A0C8bO1AN0E1Factorise8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bO1AN0E1Factorise8bM1AN0E3Factorise8bN1GN0E2edit operations8bO1BN0E1expression, 8fPIN2A0C8bOMN0E1Apply8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bOMN0E1Apply8bMMN0E3Apply8bN1GN0E2edit operations8bO1BN0E1expression, 8fPIN2A0C8bOMN0E1Group8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bOMN0E1Group8bMMN0E3Group8bN1GN0E2edit operations8bO1BN0E1expression and 8fPIN2A0C8bOON0E1Ungroup8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bOON0E1Ungroup8bMON0E3Ungroup8bN1GN0E2edit operations8bO1BN0E1expression,
+8fPIN2A0C8bONN0E1Rename8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bONN0E1Rename8bMNN0E3Rename8bN1GN0E2edit operations8bO1BN0E1expression  and 8fPIN2A0C8bOLN0E1Find8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bOLN0E1Find8bMLN0E3Find8bN1GN0E2edit operations8bO1BN0E1expression. You will find entries for each of these functions in the various
+pin-up menus.  The functions 8fPIN2A0C8bOLN0E1Swap, 8fPIN2A0C8bOLN0E1Copy and 8fPIN2A0C8bOLN0E1Find can also be used on plain text,
+but the  remainder are peculiar to the manipulation of mathematical expressions. 
+8fPIN2A0C8bOLN0E1Find is  short for 8fPIN2A0C8bO1MN0E1Find/Find-and-Replace. We discuss the use of 8fPIN2A0C8bOLN0E1Copy and 8fPIN2A0C8bOLN0E1Swap, 
+8fPIN2A0C8bOON0E1Reverse, 8fPIN2A0C8bO1BN0E1Distribute and 8fPIN2A0C8bO1AN0E1Factorise in this section.  8fPIN2A0C8bOLN0E1Find is discussed in 
+8fPJN2A0X8bNPN0E2Tutorial8bO1HN0E1Find and Replace.  8fPIN2A0C8bOMN0E1Group and 8fPIN2A0C8bOON0E1Ungroup,  8fPIN2A0C8bOMN0E1Apply and 
+8fPIN2A0C8bONN0E1Rename are not discussed in this tutorial.  Briefly,  8fPIN2A0C8bOMN0E1Group and 8fPIN2A0C8bOON0E1Ungroup are used to
+change the default structure of an  expression.  8fPIN2A0C8bOMN0E1Apply is used to ``apply'' a function to
+an expression.  (The operation is  purely syntactic.  Don't confuse it with evaluation of
+the function.)  8fPIN2A0C8bONN0E1Rename is used  to rename dummy variables within a given scope.
+We refer you to the reference  manual for precise details of their use.  
+8fPKN2A0'8bM3GN0E3Tutorial.Target, Source and Argument Selections8bO2NN0E1Target, Source and Argument Selections8bNIN0E28fPHN2A0.8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1AN0E1selectionBefore proceeding let us recall the three types of selection you can make.  These are
+the target selection8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNNN0E2target8bO1AN0E1selection, the source selection8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNNN0E2source8bO1AN0E1selection  and the argument selection8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNPN0E2argument8bO1AN0E1selection. These
+selections are made using the near, middle and  far mouse buttons, respectively.  
+Now is the time to appreciate the meaning of  these terms.  
+
+The target selection is where changes to the text occur.  With one exception ---the
+8fPIN2A0C8bOLN0E1Swap  function which swaps the target and source terms--- you may
+rely  on the fact that the effect of 8fPHN2A02 functions is localised to the target
+selection only.  The source selection determines how the target selection will be
+affected.   The argument selection is typically used to specify the scope of the
+function that is being applied.  
+
+It is important that you accustom yourself to which selection is which.  For those
+readers who skipped over 8fPJN2A0X8bNPN0E2Tutorial8bO1JN0E1Joining Selections here is the information once
+again: the target  selection is indicated on the screen by being displayed in inverse
+video mode8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1MN0E2visual representation8bO1AN0E1selection, the  source selection is indicated by a thick underscore on a
+black-and-white monitor and is shaded blue on a colour monitor, and the
+argument selection by a thin underscore on a black-and-white monitor and
+purple shading on a colour monitor.  Set all three now so that you see what is
+meant.  First set the three selections to 8fPIN2A0K8bOPN0E1disjoint areas of text.  (Click and drag with
+the appropriate mouse button anywhere you like.)  Then look to see what happens
+when the  selections overlap8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1CN0E2overlapping8bO1AN0E1selection.    (There are four possibilities: overlapping target and
+source, overlapping target  and argument, overlapping source and argument, and
+all three overlapping.   Try out all four.)  The effect is self-evident when you see it
+but much harder to  describe in words so we leave it to you to experiment.  (That
+isn't completely true:   if you are au fait with systems jargon you will immediately
+recognise the  combination of a number selections as just their exclusive-or.) 
+8fPKN2A0*8bMHN@E3"8bOON0E18fPIN2A0C8bOLN0E1Copy and 8fPIN2A0C8bOLN0E1Swap8bNIN0E28fPHN2A0.The  edit function that you will use the most is undoubtedly 8fPIN2A0C8bOLN0E1Copy8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bOLN0E1Copy8bMLN0E3Copy8bN1GN0E2edit operations8bO1BN0E1expression.  In this
+section  we describe its operation together with that of the related 8fPIN2A0C8bOLN0E1Swap8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bOLN0E1Swap8bMLN0E3Swap8bN1GN0E2edit operations8bO1BN0E1expression
+function. Again,  we have an example expression for you to practise on.  Position
+this expression at  the top of the screen.  (Our apologies to those who are
+impatient to create their  own mathematical expressions.  That will be discussed
+in the next section when  we discuss the use of stencils.)
+
+89PMN0A08fPKN0A08fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0b8ePHN2B0Z8fPIN0A0c8ePHN2B0ISe1f302dH#!$%0GVe1f302dJ!"CC<GVe1f302dK!"CC>GVe1f302dL!"CC=GVe1f302dM!"CC226EGVe1f302dN!"CC226Fm8fPKN0A08fPIN0A028ePHN2B0\8fPHN0A08ePHN2B0p8fPJN2A0ISe1ec428P   &22MCScripts                                    1FCLatex2eB#ScriptsHelpGVe1ec429A'"PC8fOccA81K 81L81M82Hsub82I8fN81N80PGC8fO_{8fN}IC8fO ccAsubcbOGVe1ec429B'"1BC8fOccA81K82Hsuper82I8fN81L 81M81N80PGC8fO^{8fN}KC8fO ccAsupercbOGVe1ec429C'"1JC8fOccA81K82Hsuper82I8fN81G81L 81M82Hsub82I8fM81G81N80PKC8fO^{8fN}_{8fM}JC8fO ccAbothcbOGVe1ec429D'"PCccA81K 81L81M82Hsub82I8fN81N80P8fOIC{}_{8fN}8fOICccAsub cbO8fOGVe1ec429E'"1BCccA81K82Hsuper82I8fN81L 81M81N80P8fOIC{}^{8fN}8fOKCccAsupercbO 8fOGVe1ec429F'"1JCccA81K82Hsuper82I8fN81G81L 81M82Hsub82I8fM81G81N80P8fOMC{}^{8fN}_{8fM}8fOJCccAbothcbO 8fOu8fOKN1A18fPIN0A0a8ePHN2B0Z8fPIN0A0b8fNIN0A23
+
+The expression is incomplete: it contains an expression place holder8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1DN0E1place holder indicated by
+a boldface 8fPIN2A0E8bOIN0E1E.  This is just so that you can practise copying.  Set the target
+selection  to the ``8fPIN2A0E8bOIN0E1E'' in the expression and the source selection to any
+subexpression.  Then click on  8fPIN2A0C8bOLN0E1Copy. (If you haven't pinned the appropriate 
+menu up, you will find it under the 8fPIN2A0C8bONN0E1EditOp  button on the   console.) The source
+selection will be copied into the place holder; the target selection becomes the
+expression you have  just copied. If you do not alter the target selection at any
+stage you can return to  the original state by pressing the ``Delete'' key on your
+keyboard.  Repeat the  procedure as often as you like.  (Instead of using 8fPIN2A0C8bOLN0E1Copy 
+you may find it more convenient to use the ``F7'' key on your keyboard.   Both
+have the same effect.)  Don't be afraid to copy a subexpression that itself  contains
+the place holder 8fPIN2A0E8bOIN0E1E.  The copy action is not recursive so you will not send
+8fPHN2A02 into an infinite loop!  Note that 8fPHN2A02 sometimes inserts 
+parentheses, and sometimes not.  Parentheses are not inserted if you copy an 
+identifier  or the subexpression 8fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0b into the place holder.  The latter is because the 
+multiplication operator has been defined in the stencil for this manual to be an 
+infix operator.  Parentheses are inserted if you copy say the  subexpression 8fPKN0A08fPIN0A0a8ePHN2B0Z8fPIN0A0b
+into the place holder.   This is because ``8fPIN0A0+'' has been defined to have a lower 
+precedence than ``8fPHN2A0\''.  Note also that the spacing around the operators8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1FN0E2spacing around8bOPN0E1operator grows as 
+the expression you create becomes more complex.
+
+You do not need to set the target selection to an expression place holder to
+perform a copy operation.  (What we now have to say holds true in general.)  If
+the target selection is an existing expression then the source selection will
+simply overwrite the target selection.  If, for example, you select 8fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0b as the
+target, and 8fPJN2A0u8fOKN1A18fPIN0A0a8ePHN2B0Z8fPIN0A0b8fNIN0A23 as  the source, copying will result in the expression below.
+
+89PMN0A08fPKN0A08fPJN2A0u8fOKN1A18fPIN0A0a8ePHN2B0Z8fPIN0A0b8fNIN0A238ePHN2B0Z8fPIN0A0c8ePHN2B0m8fPKN0A08fPIN0A028ePHN2B0\8fPHN0A08ePHN2B0p8fPJN2A0u8fOKN1A18fPIN0A0a8ePHN2B0Z8fPIN0A0b8fNIN0A23
+
+The overwritten expression is not lost.  It is copied to a buffer8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bONN0E1buffer.  The buffer can be
+opened by clicking on the 8fPIN2A0C8bONN0E1Buffer entry (under the 8fPIN2A0C8bONN0E1Window button on the  console). 
+The buffer  window is just like a normal   document window except that you can't
+save its  contents between sessions.  If you have overwritten8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOLN0E1undo an expression (or text)
+by  mistake you can always recover it  by copying it from the buffer back into your  
+document.  (Remember that the different selections do not have to be in the same
+window.) 
+
+As its name suggests,  8fPIN2A0C8bOLN0E1Swap8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bOLN0E1Swap8bMLN0E3Swap8bN1GN0E2edit operations8bO1BN0E1expression  swaps the target and the source terms. (This is the
+only time that anything other than the  target  is altered by an edit function.)  
+8fPIN2A0C8bOLN0E1Swap can be used to swap text or expressions. Text can also be swapped
+with a mathematical  expression provided that the expression is not a
+subexpression of another expression. (In other words, text and expressions can be
+swapped only where it is logical to do so.) 
+
+8fPHN2A02 doesn't  always get the parenthesisation right when new
+expressions are created.  For  example, try swapping 8fPKN0A08fPIN0A0a8ePHN2B0Z8fPIN0A0b and the superscript  8fPIN0A03
+ in the expression 8fPJN2A0u8fOKN1A18fPIN0A0a8ePHN2B0Z8fPIN0A0b8fNIN0A23. Without changing the selections repeat the swap
+operation.  Two swaps like this should have no effect on the text but instead you
+obtain 8fPJN2A0u8fOKN0A18fPIN0A0a8ePHN2B0Z8fPIN0A0b8fNIN0A23.  The parentheses around 8fPKN0A08fPIN0A0a8ePHN2B0Z8fPIN0A0b have disappeared!  You can't really
+blame 8fPHN2A02 for this because most of us would not wish to parenthesise  8fPKN0A08fPIN0A0a8ePHN2B0Z8fPIN0A0b 
+in the intermediate expression 8fPJN2A0u8fOIN0A138fNKN0A28fPIN0A0a8ePHN2B0Z8fPIN0A0b. Similarly, if 8fPKN0A08fPIN0A0a8ePHN2B0Z8fPIN0A0b is a subscript to 8fPIN0A03 as in 8fPJN2A0s8fNKN0A28fPIN0A0a8ePHN2B0Z8fPIN0A0b8fOIN0A13 
+we wouldn't want to   parenthesise 8fPKN0A08fPIN0A0a8ePHN2B0Z8fPIN0A0b. The rules that we use  for
+parenthesisation are non-trivial,  and based as much on the visual appearance 
+as the mathematical structure of  formulae.   Since computers are not endowed
+with sight one can only expect that  things sometimes go wrong.  The solution
+that 8fPHN2A02 adopts is to place the  responsibility fairly and squarely on the
+user's shoulders.  You are expected to  read and check the result of any edit
+operation you have executed.  In the case of  missing parentheses there is a
+menu item 8fPIN2A0C8bO1BN0E1Add/Rem () (under the 8fPIN2A0C8bO1AN0E1Structure button on the  console) that  allows
+you to insert them.  Set the target selection to the subexpression you want to 
+parenthesise and then select this item.  The parentheses will then appear.  
+If  8fPHN2A02 inserts parentheses that you don't want you can remove them
+with the  same menu item.   (Sometimes nothing happens when you do this except
+that the  screen flickers.  In that case you can oblige 8fPHN2A02 to remove the
+parentheses  by holding down the ``Control'' key on your keyboard whilst
+clicking8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1MN0E1parentheses, removing 8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN2BN0E2parenthesisation, removing8bO1BN0E1expressionon  8fPIN2A0C8bO1BN0E1Add/Rem ()8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bO1BN0E1Add/Rem ()8bM1BN0E3Add/Rem ()8bN1GN0E2edit operations8bO1BN0E1expression.  The structure of the expression is
+unchanged by either the  insertion or removal of parentheses.)  By the way, you
+can also impose your own will on the spacing within formulae. We won't go into
+details here ---refer to 8fPJN2A0W8bNHN@E2"8bO1GN0E1ConsoleCommands for that---  but the  general
+message is: you're the boss and can always override 8fPHN2A02's actions, and
+you bear the responsibility.
+
+ 8fPKN2A0*8bMHN@E3"8bO1BN0E18fPIN2A0C8bOON0E1Reverse, 8fPIN2A0C8bO1BN0E1Distribute and 8fPIN2A0C8bO1AN0E1Factorise8bNIN0E28fPHN2A0.Infix operators play a vital rôle  in mathematical formulae.  This is due in no 
+small measure to the relative importance of associativity among all the 
+algebraic properties that an operator may enjoy.  Because of the associativity of
+an operator like addition we can freely write, say, 8fPON0A08fPIN0A0a8ePHN2B0Z8fPIN0A0b8ePHN2B0Z8fPIN0A0c8ePHN2B0Z8fPIN0A0d without fear of
+confusion.  This is of great benefit to calculation because the notation is not 
+biased to any particular grouping of the subexpressions.  The exploitation of
+associativity in a calculation becomes an invisible step, one that we are often not 
+consciously aware of.  
+
+A similar phenomenon lies at the heart of the use of infix notation for transitive 
+relations.  When we write, say,  8fPMN0A08fPIN0A0a8ePHN6B0AISafa0e22G# %$0GVafa0e22C!"CC=GVafa0e22D!"IC80G80F
+=80C80E80HGVafa0e22E!"CC226AGVafa0e22F!"DC:=z8fPIN0A0b8ePHN6B0Az8fPIN0A0c   we mean 8fPKN0A08fPIN0A0a8ePHN6B0Az8fPIN0A0b   8fPIN2A0K8bOKN0E1and   8fPKN0A08fPIN0A0b8ePHN6B0Az8fPIN0A0c.   But,
+because of the transitivity of equality, it is also the case that 8fPKN0A08fPIN0A0a8ePHN6B0Az8fPIN0A0c.   In an
+extended calculation in which several steps occur it is typically the equality
+between the first and last terms that one is interested in,  the intermediate
+terms being only of passing interest.  At the end of such a calculation it is
+nonetheless rare to see  explicitly stated ``and hence, 8fPIN2A0K8bO2DN0E1by transitivity of equality,
+the first and last terms are  equal''.  Such would only happen in a very
+elementary mathematical text, or in an  extremely detailed (and pedantic)
+logical argument.  The infix notation encourages us to 8fPIN2A0K8bO1AN0E1associate the first and
+last terms with each other. 
+
+Several elements of  8fPHN2A02 are geared to the use of infix notation in the two
+ways explained above.  When creating a  stencil it is possible to
+declare that an operator is ``infix''.  This means that the  operator can have a list
+of arguments, of arbitrary finite length, whereby the  notation used to denote the
+application of the operator to a list is to repeatedly write  the operator between
+successive elements in the list of arguments.  Thus 8fPMN0A08fPIN0A0a8ePHN6B0AZ8fPIN0A0b8ePHN6B0AZ8fPIN0A0c    denotes the
+application of the operator 8fPHN2A0Z to the list 8fPIN2A0ISafa0e1dH   -1HCparensGVafa0e1cK!"EC230K8fO230LGVafa0e1cL!"EC230I8fO230JGVafa0e1cM!"EC{8fO}GVafa0e1cN!"EC222D8fO222DGVafa0e1cO!"EC232J8fO232KGVafa0e1cP!"EC1ffJ8fO1ffIGVafa0e1dA!"EC[8fO]GVafa0e1dB!"EC1ffH8fO1ffGGVafa0e1dC!"EC222F8fO222FGVafa0e1dD#"1AC80G80B80E{   80B80E8fO80F
+}80F80H1CC80G80B80E{ \ \ 80B80E8fO80F
+}80F80HGVafa0e1dE#"1AC80G80B80E232J   80B80E8fO80F
+232K80F80H1CC80G80B80E232J \ \ 80B80E8fO80F
+232K80F80HGVafa0e1dF#"1AC80G80B80E1ffJ   80B80E8fO80F
+1ffI80F80H1CC80G80B80E1ffJ \ \ 80B80E8fO80F
+1ffI80F80HGVafa0e1dG#"1AC80G80B80E1ffH   80B80E8fO80F
+1ffG80F80H1CC80G80B80E1ffH \ \ 80B80E8fO80F
+1ffG80F80H8F8fOMN0A18fPIN0A0a8ePHN2B0ISafa0e23J#!,+0GVafa0e22O#"CC221IGC\compGVafa0e22P#"IC80G80F
+221I80C80E80HMC80G80F
+\comp80C80E80HGVafa0e23A!"CC221JGVafa0e23B!"CC·GVafa0e23C!"CC;GVafa0e23D!"CC*GVafa0e23E#"CC°IC\fncompGVafa0e23F!"CC,GVafa0e23G#"CC221IGC\compGVafa0e23H#"IC80G80F
+221I80C80E80HMC80G80F
+\comp80C80E80HGVafa0e23I#"CC221JGC\cdot8L8fPIN0A0b8ePHN2B08L8fPIN0A0c.  Equally, 8fPMN0A08fPIN0A0a8ePHN6B0Az8fPIN0A0b8ePHN6B0Az8fPIN0A0c   denotes the
+application of the operator 8fPHN6A0?z to the list 8fPIN2A08F8fOMN0A18fPIN0A0a8ePHN2B08L8fPIN0A0b8ePHN2B08L8fPIN0A0c.   These are both  called 
+``associative infix operators'' in 8fPHN2A02 jargon because the notation is
+intended to encourage one  to ``associate'' terms in the expression together in a
+variety of different ways.
+
+(It is also possible to declare an operator to be ``left associative8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1HN0E2left associative8bOPN0E1operator'' or ``right
+associative8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1IN0E2right associative8bOPN0E1operator''. Such a declaration has the conventional meaning.  For example, if
+the operator 8fPIN0A08ePHN2B0ISafa0e26K% !!0GVafa0e26J!"CC21dC9D has been declared to be right associative then the expression
+8fPMN0A08fPIN0A0a8ePHN6B0A9D8fPIN0A0b8ePHN6B0A9D8fPIN0A0c  has the structure 8fPKN0A08fPIN0A0a8ePHN6B0A9D8fPKN1A08fPIN0A0b8ePHN6B0A9D8fPIN0A0c.  If you  click on the leftmost ``8fPIN0A08ePHN2B09D'' you
+will select the whole  expression, and you cannot select the subexpression8fPKN0A08fPIN0A0a8ePHN6B0A9D8fPIN0A0b.  
+You can, however, select 8fPKN0A08fPIN0A0a8ePHN6B0A9D8fPIN0A0b by dragging.  This should be contrasted with the
+situation in which  8fPIN0A08ePHN2B09D is declared to be associative.  Clicking on the leftmost ``8fPIN0A08ePHN2B09D''
+selects 8fPKN0A08fPIN0A0a8ePHN6B0A9D8fPIN0A0b whilst dragging or a double click is needed to select the whole
+expression.   This is the only  difference between ``left/right associative''
+operators and ``infix''8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNMN0E2infix8bOPN0E1operator operators in  8fPHN2A02. Our own advice would be to
+declare8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNLN0E2type8bOPN0E1operator all binary operators to be plain  ``infix'' rather than specifically left or
+right associative, but the latter feature  has been retained for those who do not
+wish to follow our advice.)
+
+The  functions that exploit the notion of associativity are  8fPIN2A0C8bOON0E1Reverse8fPON2A088bIHN0E78bJHN0E68bKIN0E5(8bLIN0E48fPIN2A0C8bOON0E1Reverse8bMON0E3Reverse8bN1GN0E2edit operations8bO1BN0E1expression
+(called 8fPIN2A0C8bOON0E1Commute8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bOON0E1Commute8bMON0E3Commute8bN1GN0E2edit operations8bO1BN0E1expression in older versions of the system), 8fPIN2A0C8bO1BN0E1Distribute8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bO1BN0E1Distribute8bM1BN0E3Distribute8bN1GN0E2edit operations8bO1BN0E1expression and its
+inverse 8fPIN2A0C8bO1AN0E1Factorise8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bO1AN0E1Factorise8bM1AN0E3Factorise8bN1GN0E2edit operations8bO1BN0E1expression.  (These functions are all to be found in the pin-up menu
+under the 8fPIN2A0C8bO1AN0E1Structure button on the console.)
+
+The function 8fPIN2A0C8bOON0E1Reverse  reverses the order of the elements in a list of
+arguments and (associative) infix operators.  Try it out on the following
+expression:
+
+89P1AN0A08fPIN0A0a8ePHN6B0AISafa0e22B#!%.0GVafa0e21D!"CC229BGVafa0e21E!"CC229CGVafa0e21F!"CC228GGVafa0e21G!"CC228HGVafa0e21H!"CC22bEGVafa0e21I!"CC22bFGVafa0e21J!"CC226EGVafa0e21K!"CC226FGVafa0e21L!"CC<GVafa0e21M!"CC>GVafa0e21N!"CC227MGVafa0e21O!"CC227NGVafa0e21P!"CC227KGVafa0e22A!"CC227L9L8fPIN0A0b8ePHN6B0A9J8fPIN0A0c8ePHN6B0Bz8fPIN0A0d8ePHN6B0A9L8fPIN0A0e
+
+First, by pointing at the individual operators in turn and clicking, note that there
+is no hidden tree structure present in the expression.  It is just a list of variables 
+(8fPIN0A0a to 8fPIN0A0e) separated by comparison operators.  By dragging you may
+therefore select any sublist of the list.  For the moment don't try to be nasty;
+select a sublist that  begins and ends with a variable.  Then click on 8fPIN2A0C8bOON0E1Reverse. 
+All the elements of the list you have selected will be
+reversed 8fPIN2A0K8bO2KN0E1including the comparison  operators.  Thus, if you select the subexpression
+8fPMN0A08fPIN0A0a8ePHN6B0A9L8fPIN0A0b8ePHN6B0A9J8fPIN0A0c the effect will be to  create the following expression.
+
+89P1AN0A08fPIN0A0c8ePHN6B0A9J8fPIN0A0b8ePHN6B0A9L8fPIN0A0a8ePHN6B0Bz8fPIN0A0d8ePHN6B0A9L8fPIN0A0e
+
+Note that not only has the order of 8fPIN0A0a, 8fPIN0A0b and 8fPIN0A0c  been reversed but also the order of
+8fPHN6A0A9L   and 8fPHN2A09J.    Now do try to be nasty.  Select a sublist that doesn't begin and end
+with a variable.   You will discover that the syntactic structure ---expressions
+separated by operators---  remains intact.  Within this constraint 8fPHN2A02
+reverses as much as possible of the list you have selected.  
+
+You may be disappointed that 8fPHN2A02 does not also reverse the symbols used
+to  denote the comparison operators as well.  (Thus reversing the whole
+expression should give 8fP1AN0A08fPIN0A0e8ePHN6B0A9K8fPIN0A0d8ePHN6B0Bz8fPIN0A0c8ePHN6B0A9I8fPIN0A0b8ePHN6B0A9K8fPIN0A0a.) Such a feature has not been
+implemented. You can always edit the individual operators yourself by hand
+after having reversed the list.  It is sometimes tedious, but it can be useful to
+check through what you have got as you do it.
+
+Here is another expression for you to experiment on.  The point to note is that 
+8fPIN2A0C8bOON0E1Reverse is not recursive: it does not reverse subexpressions of the expression
+you  have selected.
+
+89PMN0A08fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0b8ePHN2B0Z8fPKN0A08fPKN1A08fPIN0A0c8ePHN2B0[8fPIN0A0d8ePHN2B0\8fPIN0A0e8ePHN2B0Z8fPIN0A0f
+
+So much for the 8fPIN2A0C8bOON0E1Reverse function.8fPON2A088bIHN0E78bJHN0E68bKIN0E5)8bLIN0E48fPIN2A0C8bOON0E1Reverse8bMON0E3Reverse8bN1GN0E2edit operations8bO1BN0E1expressionLet us now discuss 8fPIN2A0C8bO1BN0E1Distribute8fPON2A088bIHN0E78bJNN0E6textrm8bKIN0E5(8bLIN0E48fPIN2A0C8bO1BN0E1Distribute8bM1BN0E3Distribute8bN1GN0E2edit operations8bO1BN0E1expression  and
+8fPIN2A0C8bO1AN0E1Factorise8fPON2A088bIHN0E78bJNN0E6textrm8bKIN0E5(8bLIN0E48fPIN2A0C8bO1AN0E1Factorise8bM1AN0E3Factorise8bN1GN0E2edit operations8bO1BN0E1expression.  These two are most often used in the normal situation in a
+calculation where  a function is known to distribute over a binary operator, for
+instance to take the step from 8fPKN0A08fPIN0A0a8ePHN2B0\8fPMN1A08fPIN0A0b8ePHN2B0Z8fPIN0A0c8ePHN2B0Z8fPIN0A0d to 8fPMN0A08fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0b8ePHN2B0Z8fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0c8ePHN2B0Z8fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0d  (``distribute'') or
+vice-versa to go from 8fPMN0A08fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0b8ePHN2B0Z8fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0c8ePHN2B0Z8fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0d  to  8fPKN0A08fPIN0A0a8ePHN2B0\8fPMN1A08fPIN0A0b8ePHN2B0Z8fPIN0A0c8ePHN2B0Z8fPIN0A0d (``factorise'').  The functions
+can  be useful in  other situations too.   One such situation arises when
+attempting to prove an equality,  say 8fPKN0A08fPIN0A0a8ePHN6B0Az8fPIN0A0c.  Not knowing from which side to
+begin, or suspecting that induction  may be necessary at some stage, one might
+hedge one's bets and calculate with the  equality 8fPKN0A08fPIN0A0a8ePHN6B0Az8fPIN0A0c as follows.
+
+89PMN0A08fPKN0A08fPIN0A0a8ePHN6B0Az8fPIN0A0c8ePJN2B0ISafa0e24O#  (0GVafa0e24G#"1DC80G80F
+8eO80C80C{80C80E80E80E8bN80F80F }80H
+1KC80G80F
+8eO80C80C\{80C80E80E80E8bN80F80F~~~~~~\}80H
+GVafa0e24H#"1DC80G80F
+=80C80C{80C80E80E80E8bN80F80F }80H
+1KC80G80F
+=80C80C\{80C80E80E80E8bN80F80F~~~~~~\}80H
+GVafa0e24I#"1DC80G80F
+226B80C80C{80C80E80E80E8bN80F80F }80H
+1KC80G80F
+226B80C80C\{80C80E80E80E8bN80F80F~~~~~~\}80H
+GVafa0e24J#"1DC80G80F
+21dA80C80C{80C80E80E80E8bN80F80F }80H
+1KC80G80F
+21dA80C80C\{80C80E80E80E8bN80F80F~~~~~~\}80H
+GVafa0e24K#"1DC80G80F
+21dC80C80C{80C80E80E80E8bN80F80F }80H
+1KC80G80F
+21dC80C80C\{80C80E80E80E8bN80F80F~~~~~~\}80H
+GVafa0e24L#"1DC80G80F
+229B80C80C{80C80E80E80E8bN80F80F }80H
+1KC80G80F
+229B80C80C\{80C80E80E80E8bN80F80F~~~~~~\}80H
+GVafa0e24M#"1DC80G80F
+229C80C80C{80C80E80E80E8bN80F80F }80H
+1KC80G80F
+229C80C80C\{80C80E80E80E8bN80F80F~~~~~~\}80H
+GVafa0e24N'"LC8eO  {  8bN  }LC8eO\{~~8bN~~\}HCinline©8eOHN2B1ISafa0e23O#!"$0GVafa0e23K!"CC226BGVafa0e23L!"IC80G80F
+226B80C80E80HGVafa0e23M!"CC225JGVafa0e23N!"CC21dE­8bN1DN0E2reason why 8fPKN0A08fPIN0A0a8ePHN6B0Az8fPIN0A0b8fPKN0A08fPIN0A0b8ePHN6B0Az8fPIN0A0c8ePJN2B0©8eOHN2B1­8bN1DN0E2reason why 8fPKN0A08fPIN0A0b8ePHN6B0Az8fPIN0A0c8fPKN0A08fPIN0A0c8ePHN6B0Az8fPIN0A0c
+
+It is no hardship when working with 8fPHN2A02 to repeatedly copy ``8fPJN0A08ePHN2B0z8fPIN0A0c'' even if the
+expression ``8fPIN0A0c'' is quite complicated.  Doing so also helps you to keep track of
+what it  is you are heading for.  On completion of the calculation, however, you
+may decide  that it would be more helpful to a reader if the ``8fPJN0A08ePHN2B0z8fPIN0A0c'' were omitted. 
+You can do this  as follows.  First, factorise  ``8fPJN0A08ePHN2B0z8fPIN0A0c'' from the
+expression (using the  technique to be explained shortly).   This results in
+
+89PKN0G08fPMN1A08fPIN0A0a8ePJN2B0©8eOHN2B1­8bN1DN0E2reason why 8fPKN0A08fPIN0A0a8ePHN6B0Az8fPIN0A0b8fPIN0A0b8ePJN2B0©8eOHN2B1­8bN1DN0E2reason why 8fPKN0A08fPIN0A0b8ePHN6B0Az8fPIN0A0c8fPIN0A0c8ePHN6B0Az8fPIN0A0c
+
+Then set the target selection to the whole expression and the source selection to
+the subexpression within parentheses and click on 8fPIN2A0C8bOLN0E1Copy.  You obtain:
+
+89PMN0A08fPIN0A0a8ePJN2B0©8eOHN2B1­8bN1DN0E2reason why 8fPKN0A08fPIN0A0a8ePHN6B0Az8fPIN0A0b8fPIN0A0b8ePJN2B0©8eOHN2B1­8bN1DN0E2reason why 8fPKN0A08fPIN0A0b8ePHN6B0Az8fPIN0A0c8fPIN0A0c
+
+Now with 8fPIN2A0C8bOLN0E1Find (to be explained in 8fPJN2A0V8bNPN0E2Tutorial8bO1HN0E1Find and Replace) you can replace all 
+occurrences of ``8fPHN2A0­'' in your proof by ``8fPHN2A0z'' and you are done.
+
+The fact that the intermediate steps in this edit process do not make
+mathematical  sense should be of no concern to you.  Indeed in order to exploit
+the capabilities of  8fPHN2A02 to the full you must learn to view calculation
+purely and simply as  a game with (structured) sets of meaningless symbols.
+
+The simplest way to use 8fPIN2A0C8bO1BN0E1Distribute  is as follows.  Suppose you have an expression
+consisting of a function applied to an expression where the  argument to the
+function is some infix operator applied to a list of expressions.    For example, the
+expression 
+89PKN0G08fPIN0A0a8ePHN2B0\8fPMN1A08fPIN0A0b8ePHN2B0Z8fPIN0A0c8ePHN2B0Z8fPIN0A0d
+comprises the function 8fPJN0A08fPIN0A0a8ePHN2B0\ applied to the argument 8fPMN0A08fPIN0A0b8ePHN2B0Z8fPIN0A0c8ePHN2B0Z8fPIN0A0d.  Set the target  selection
+to the whole expression and the source selection to the function's argument. 
+In the above example set the
+target to 8fPKN0A08fPIN0A0a8ePHN2B0\8fPMN1A08fPIN0A0b8ePHN2B0Z8fPIN0A0c8ePHN2B0Z8fPIN0A0d and the source to 8fPMN0A08fPIN0A0b8ePHN2B0Z8fPIN0A0c8ePHN2B0Z8fPIN0A0d.  Ensure that the argument 8fPIN2A0K8bO1AN0E1selection is
+not set. (Otherwise the procedure described in the next paragraph will be followed.)  
+Now click on 8fPIN2A0C8bO1BN0E1Distribute in the 
+console.  The target  will be  modified in such a way that the function is
+``distributed'' over the argument.   Try  it out on the expression displayed above.  
+You should get what you expect to get, namely 8fPMN0A08fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0b8ePHN2B0Z8fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0c8ePHN2B0Z8fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0d.  
+
+The simple procedure just described is not adequate in all circumstances.  In 
+general, there are two components to a  8fPIN2A0C8bO1BN0E1Distribute  or 8fPIN2A0C8bO1AN0E1Factorise operation, the 
+target selection and a 8fPIN2A0K8bOPN0E1function that is distributed over,  or factorised out of,  the 
+target selection. Sometimes, as in the example above, the function is a part of the
+target itself,  but this may not always be the case.  In the more general case  both
+the source and argument selections are used to specify the function.  The two 
+are set so that the argument selection is a subexpression of the source selection; 
+the function is then the difference between the two.  Try this out as follows.  Set
+the  target selection to the entire expression displayed below.  Set the source
+selection to 8fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0b and the argument selection to 8fPIN0A0b (thus setting  the function
+to 8fPJN0A08fPIN0A0a8ePHN2B0\).  Now click on 8fPIN2A0C8bO1AN0E1Factorise.   
+89PMN0A08fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0b8ePHN2B0Z8fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0c8ePHN2B0Z8fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0d
+If you have done it correctly the expression above will now be identical to the 
+expression below.
+89PKN0A08fPIN0A0a8ePHN2B0\8fPMN1A08fPIN0A0b8ePHN2B0Z8fPIN0A0c8ePHN2B0Z8fPIN0A0d
+Try reversing the process as follows.   Reset the target and argument selections to
+the  expression 8fPMN0A08fPIN0A0b8ePHN2B0Z8fPIN0A0c8ePHN2B0Z8fPIN0A0d (double click somewhere within the expression) and set the 
+source to the whole expression.  Now click on 8fPIN2A0C8bO1BN0E1Distribute.  
+
+Surprise, surprise!  If you thought you would get 8fPMN0A08fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0b8ePHN2B0Z8fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0c8ePHN2B0Z8fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0d you are wrong!
+What in fact happens is that you obtain 8fPKN0A08fPIN0A0a8ePHN2B0\8fPMN1A08fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0b8ePHN2B0Z8fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0c8ePHN2B0Z8fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0d.  This is not a bug.  The
+principle is that only the 8fPIN2A0K8bONN0E1target  selection is affected by any 8fPHN2A02 function. 
+The target selection was 8fPMN0A08fPIN0A0b8ePHN2B0Z8fPIN0A0c8ePHN2B0Z8fPIN0A0d and this has been replaced by 8fPMN0A08fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0b8ePHN2B0Z8fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0c8ePHN2B0Z8fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0d as
+requested.  The initial 8fPJN0A08fPIN0A0a8ePHN2B0\, selected as part of the  source selection in order to
+define the function to be distributed, has been left unchanged in the process.  You can
+easily return the document to its original state by now setting the target  to
+8fPKN0A08fPIN0A0a8ePHN2B0\8fPMN1A08fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0b8ePHN2B0Z8fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0c8ePHN2B0Z8fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0d, the source to 8fPMN0A08fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0b8ePHN2B0Z8fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0c8ePHN2B0Z8fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0d and clicking on 8fPIN2A0C8bOLN0E1Copy.  
+
+The general rule is that the function part of a 8fPIN2A0C8bO1AN0E1Factorise8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bO1AN0E1Factorise8bM1AN0E3Factorise8bN1GN0E2edit operations8bO1BN0E1expression or 8fPIN2A0C8bO1BN0E1Distribute8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0C8bO1BN0E1Distribute8bM1BN0E3Distribute8bN1GN0E2edit operations8bO1BN0E1expression operation is
+the difference between the source and the argument selections when the latter
+is a subexpression of the former.  If the argument selection is not a
+subexpression of the source (including when the argument is not set) then the
+source must be a subexpression of the target, and the difference between these
+two is used as the function.  The source must always be a complete expression. 
+Thus in the above example it is not possible to define the function part by setting the 
+source to 8fPJN0A08fPIN0A0a8ePHN2B0\.
+
+This method of specifying a function is typically very convenient  but it is of
+course  not complete.  For instance it is not possible to specify the function
+mapping 8fPIN0A0x to 8fPKN0A08fPIN0A0x8ePHN2B0Z8fPIN0A0x in this way.  In such circumstances you will have to
+perform the operation by hand.  Sorry!
+
+There is another aspect of  8fPIN2A0C8bO1AN0E1Factorise that may at first seem surprising. 
+Suppose  we take as target the expression 
+
+89PKN0A08fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0b8ePHN2B0Z8fPIN0A0c
+
+With the aid of the source and argument selections, set  ``8fPJN0A08fPIN0A0a8ePHN2B0\'' as the
+function to be factorised out.  Now click on 8fPIN2A0C8bO1AN0E1Factorise.  One might expect 8fPHN2A02
+to refuse in some way ---  an angry beep or rebuff of the sort ``How stupid can 
+you get, I can't factorise the given subexpression'' (but perhaps more tactfully 
+stated).  Instead one obtains the expression:
+
+89PKN0A08fPIN0A0a8ePHN2B0\8fPKN1A08fPIN0A0b8ePHN2B0Z8fPIN0A0c
+
+Try it again with the following target expressions
+
+89PON0A08fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0b8ePHN2B0Z8fPIN0A0c8ePHN2B0Z8fPKN0A08fPIN0A0a8ePHN2B0\8fPIN0A0d8ePHN2B0Z8fPIN0A0e
+89PKN0A08fPIN0A0b8ePHN2B0Z8fPIN0A0c
+
+In each case an expression is created of the form 8fPKN0A08fPIN0A0a8ePHN2B0\8fPHN0A0 where  the subexpression 8fPHN0A0 is the
+original target  with all occurrences of  ``8fPJN0A08fPIN0A0a8ePHN2B0\'' removed.
+
+The design decision underlying this effect is that 8fPHN2A02 functions should be 
+8fPIN2A0K8bOMN0E1total, so far as possible.   No angry beeps, no remonstrances.  We, as designers
+of  8fPHN2A02,  cannot predict how others might wish to exploit the system, and
+we  certainly do not wish to 8fPIN2A0K8bOON0E1dictate how the system should be used.  
+
+We conclude this discussion of distribution and factorisation8fPON2A088bIIN0E7)8bJNN0E6textrm8bKHN0E58bLIN0E48fPIN2A0C8bO1AN0E1Factorise8bM1AN0E3Factorise8bN1GN0E2edit operations8bO1BN0E1expression with a slightly more
+complicated example.  Suppose we want to include a step in a calculation of the
+following form:
+
+89PKN0A08fPIN2A08F8fOKN0A18fPIN0A0a8ePHN2B08L8fPIN0A0b8ePJN2B0©8eOHN2B1z8bN1DN0E2set calculus8fPKN0A08fPIN2A08F8fOIN0A1a8ePHN6B0AISff204c0L# &$0GVff204c0H!"CC229EGVff204c0I!"CC229DGVff204c0J!"CC222JGVff204c0K!"CC222K®8fPIN2A08F8fOIN0A1b
+
+We assume that you have a set-calculus stencil for all the notational elements
+in the calculation.  Using your stencil you can, of course, enter the whole step by
+hand, not making any use of 8fPIN2A0C8bO1BN0E1Distribute.   There may however be
+circumstances in which that would be quite cumbersome to do --- for example
+if the list of elements in the set is quite long and contains complicated
+expressions.  
+
+The step  clearly involves a distributivity property, but not so straightforward as 
+distributivity of multiplication over addition.  The way to proceed is as follows. In
+your calculation you will already have the line
+
+89PIN2G08F8fOKN0A18fPIN0A0a8ePHN2B08L8fPIN0A0b
+
+You would now extend the calculation by choosing in a ``proof'' stencil your own
+favourite notation for a calculational step.  The notation used above is the
+favourite  of the designers of 8fPHN2A02 so that is what we will use here.  Taking
+the  appropriate action (i.e. selecting the expression with the target selection and
+clicking on the correct notation) we get the template
+
+89PKN0A08fPIN2A08F8fOKN0A18fPIN0A0a8ePHN2B08L8fPIN0A0b8ePJN2B0©8eOHN0B18bNIN0E28fPIN2A0E8bOIN0E1T8fPHN0A0
+
+in which all of  8fPIN2A0E8bOIN0E1O,  8fPIN2A0E8bOIN0E1T  and 8fPIN2A0E8bOIN0E1E are place holders (for operator, text and
+expression, respectively).  The equality sign, the hint and the subexpression
+``8fPKN0A08fPIN0A0a8ePHN2B08L8fPIN0A0b'' are now  filled in so that the state of the calculation is as follows:
+
+89PKN0A08fPIN2A08F8fOKN0A18fPIN0A0a8ePHN2B08L8fPIN0A0b8ePJN2B0©8eOHN2B1z8bN1DN0E2set calculus8fPKN0A08fPIN0A0a8ePHN2B08L8fPIN0A0b
+
+Now we apply 8fPIN2A0C8bO1BN0E1Distribute.  The target is set to ``8fPKN0A08fPIN0A0a8ePHN2B08L8fPIN0A0b '' in the 8fPIN2A0K8bONN0E1bottom line of the 
+calculation,  the source to ``8fPIN2A08F8fOKN0A18fPIN0A0a8ePHN2B08L8fPIN0A0b'' and the argument to ``8fPKN0A08fPIN0A0a8ePHN2B08L8fPIN0A0b '' in the 8fPIN2A0K8bOKN0E1top line of 
+the calculation, and 8fPIN2A0C8bO1BN0E1Distribute is activated.8fPON2A088bIIN0E7)8bJNN0E6textrm8bKHN0E58bLIN0E48fPIN2A0C8bO1BN0E1Distribute8bM1BN0E3Distribute8bN1GN0E2edit operations8bO1BN0E1expression   (Try it.) The result is:
+
+89PKN0A08fPIN2A08F8fOKN0A18fPIN0A0a8ePHN2B08L8fPIN0A0b8ePJN2B0©8eOHN2B1z8bN1DN0E2set calculus8fPKN0A08fPIN2A08F8fOIN0A1a8ePHN2B08L8fPIN2A08F8fOIN0A1b
+
+Not quite what we wanted.  But now the comma in the bottom line can be
+selected (point at it and then drag a slight distance) and deleted (press the
+``Backspace'' or ``Delete''  key on your keyboard).  The operator place holder
+that then appears  can be filled in using a set-calculus stencil to obtain the
+desired result, namely:
+
+89PKN0A08fPIN2A08F8fOKN0A18fPIN0A0a8ePHN2B08L8fPIN0A0b8ePJN2B0©8eOHN2B1z8bN1DN0E2set calculus8fPKN0A08fPIN2A08F8fOIN0A1a8ePHN6B0A®8fPIN2A08F8fOIN0A1b
+
+8fPKN2A0'8bM1IN0E3Tutorial.Stencils8bOPN0E1Stencils8bNIN0E28fPHN2A0/We now come to the most important element of  8fPHN2A02, the 
+so-called stencils8fPON2A088bIHN0E78bJNN0E6textrm8bKIN0E5(8bLHN@E4$8bMHN0E38bNHN0E28bOON0E1stencil.
+
+A  stencil is a file describing the notational conventions used in one or  more 
+documents, and how these are to be set using the 8fPHN2A07 document preparation
+system (or other ascii-based mark-up language).  Each stencil consists of a
+number of templates8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOPN0E1template, each of which  may have various versions8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2version8bOPN0E1template.    
+
+In this section we discuss in some detail how to 8fPIN2A0K8bOKN0E1use existing stencils, and in
+much  less detail how to 8fPIN2A0K8bONN0E1create new stencils. 
+
+8fPKN2A0*8bMHN@E3"8bO1FN0E1Using Stencils8bNIN0E28fPHN2A0.In order to illustrate the use of stencils we have extracted various notational 
+elements from the book ``A Logical Approach to Discrete Math'' by 
+David Gries8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1DN0E1Gries, David 
+and Fred B. Schneider8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1JN0E1Schneider, Fred B.  and incorporated  
+them in the Gries-Schneider8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1GN0E2Gries-Schneider8bOON0E1stencil stencil.
+If the stencil is not already visible on your  screen you should call it up now.  To do
+so pull up the menu under the 8fPIN2A0C8bONN0E1Window button in the console and click on 
+8fPIN2A0C8bOON0E1Stencil.  Click on 8fPIN2A0C8bOLN0E1Load8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLPN0E48fPIN2A0C8bOLN0E1Load button8bMHN0E38bN1CN0E2Load button8bOON0E1stencil in the stencil window and then choose
+8fPIN2A0B8bO1KN0E1Gries-Schneider.mps from the list of files in the file selector window.
+
+Like all authors, Gries and Schneider have their own style for presenting 
+definitions, theorems etc., and their own notational conventions for constructing
+mathematical expressions.  The Gries-Schneider stencil is in effect a 
+syntax-directed editor for statements in their book.  (This is, of course, only 
+partially true.  The stencil we have created contains only a small number of 
+templates in order to illustrate the general idea.  Many more would be needed
+for the complete book.  More importantly, not all the conventions used by Gries
+and Schneider are peculiar to their own book.  For organisational reasons it is
+better to create several stencils, each forming a logical unit.  For the examples
+below we have made use of other stencils, in particular the latex stencil, in
+addition to the  Gries-Schneider stencil.)
+
+Figure 8fPIN2A0ISe1d48b1L   %21DCRef(within doc)   1MCLatex2e#Ref(within doc)HelpGVe1d48b1M'!NC(bfI82Hlabel82I8bOdfI)LC80J(\ref{8bO})GC(Ref)GVe1d48b1N'!LCbfI82Hlabel82I8bOdfIJC80J\ref{8bO}ECRefGVe1d48c4C'#NC(bfI82Hlabel82I8bOdfI)1AC80J(\pageref{80K8bO})KC(PageRef)GVe1d48b1O'#LCbfI82Hlabel82I8bOdfIOC80J\pageref{80K8bO}ICPageRefGVe1d48b1P'!OC(bfMLabeldfM bfI8bOdfI)LC80J\label{8bO}GCLabelµ8bO2CN0E1fig:Tutorial.GriesSchneider is an extract from  page 151 of their book  where the rule ``change of 
+dummy'' is stated and proved.  The extract is not completely identical to what 
+appears in their book, but almost.8fPIN2A0L8bOaHN0E1We assume you are reading this 
+document on screen.  If you are reading the hard copy version it may be difficult to 
+appreciate some of the remarks made later. We will explain the differences at the
+appropriate time.
+
+8fPLN2A0ISe1e728dD   42HCFigure1ECLatex2eA#floatsHelpGVe1e728dE'!4KCbfOFiguredfO 
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Hfigure82I8bO
+82Hcaption82I8bN
+bfOEnd FiguredfO
+3JC80J\begin{figure}[8bL]80I8bO 80I\caption{8bN}\label{8bM}80I\end{figure}80I1LCfigure/caption/label/placeGVe1e728dF'!3GCbfOFiguredfO
+bfMLabeldfM 8bM
+82Hfigure82I8bO
+82Hcaption82I8bN
+bfOEnd FiguredfO
+3GC80J\begin{figure}80I8bO 80I\caption{8bN}\label{8bM}80I\end{figure}80I1FCfigure/caption/labelGVe1e728dG'!3PCbfOFiguredfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Hfigure82I8bO
+82Hcaption82I8bN
+bfOEnd FiguredfO
+3AC80J\begin{figure}[8bL]80I8bO 80I\caption{8bN}80I\end{figure}80I1FCfigure/caption/placeGVe1e728dH'!2MCbfOFiguredfO
+82Hfigure82I8bO
+82Hcaption82I8bN
+bfOEnd FiguredfO
+2NC80J\begin{figure}80I8bO 80I\caption{8bN}80I\end{figure}80IPCfigure/captionGVe1e728dI'!3FCbfOFiguredfO 
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Hfigure82I8bO
+bfOEnd FiguredfO
+2EC80J\begin{figure}[8bL]80I8bO 80I\end{figure}80INCfigure/placeGVe1e728dJ'!2CCbfOFiguredfO 
+82Hfigure82I8bO
+bfOEnd FiguredfO
+2BC80J\begin{figure}80I8bO 80I\end{figure}80IHCfigureGVe1e728dK'!6DCbfOFiguredfO 
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Hfigure82I8bO
+82Hcaption82I8bN
+82HList of figures entry82I8bK
+bfOEnd FiguredfO
+3MC80J\begin{figure}[8bL]80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{figure}80I2FCfigure/caption+LOF entry/label/placeGVe1e728dL'!5ACbfOFiguredfO 
+bfMLabeldfM 8bM
+82Hfigure82I8bO
+82Hcaption82I8bN
+82HList of figures entry82I8bK
+bfOEnd FiguredfO
+3JC80J\begin{figure}80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{figure}80I1PCfigure/caption+LOF entry/labelGVe1e728dM'!5JCbfOFiguredfO 
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Hfigure82I8bO
+82Hcaption82I8bN
+82HList of figures entry82I8bK
+bfOEnd FiguredfO
+3DC80J\begin{figure}[8bL]80I8bO 80I\caption[8bK]{8bN}80I\end{figure}80I1PCfigure/caption+LOF entry/placeGVe1e728dN'!4GCbfOFiguredfO 
+82Hfigure82I8bO
+82Hcaption82I8bN
+82HList of figures entry82I8bK
+bfOEnd FiguredfO
+3AC80J\begin{figure}80I8bO 80I\caption[8bK]{8bN}80I\end{figure}80I1JCfigure/caption+LOF entryGVe1e7aaeC'!4MCbfOFigure*dfO 
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Hfigure82I8bO
+82Hcaption82I8bN
+bfOEnd Figure*dfO
+3LC80J\begin{figure*}[8bL]80I8bO 80I\caption{8bN}\label{8bM}80I\end{figure*}80I2DCfigure*(2-col)/caption/label/placeGVe1e7aaeL'!3ICbfOFigure*dfO
+bfMLabeldfM 8bM
+82Hfigure82I8bO
+82Hcaption82I8bN
+bfOEnd Figure*dfO
+3IC80J\begin{figure*}80I8bO 80I\caption{8bN}\label{8bM}80I\end{figure*}80I1NCfigure*(2-col)/caption/labelGVe1e7aafD'!4BCbfOFigure*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Hfigure82I8bO
+82Hcaption82I8bN
+bfOEnd Figure*dfO
+3CC80J\begin{figure*}[8bL]80I8bO 80I\caption{8bN}80I\end{figure*}80I1NCfigure*(2-col)/caption/placeGVe1e7aafH'!2OCbfOFigure*dfO
+82Hfigure82I8bO
+82Hcaption82I8bN
+bfOEnd Figure*dfO
+2PC80J\begin{figure*}80I8bO 80I\caption{8bN}80I\end{figure*}80I1HCfigure*(2-col)/captionGVe1e7aafN'!3HCbfOFigure*dfO 
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Hfigure82I8bO
+bfOEnd Figure*dfO
+2GC80J\begin{figure*}[8bL]80I8bO 80I\end{figure*}80I1FCfigure*(2-col)/placeGVe1e7ab0E'!2ECbfOFigure*dfO 
+82Hfigure82I8bO
+bfOEnd Figure*dfO
+2DC80J\begin{figure*}80I8bO 80I\end{figure*}80IPCfigure*(2-col)GVe1e7ab0M'!6FCbfOFigure*dfO 
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Hfigure82I8bO
+82Hcaption82I8bN
+82HList of figures entry82I8bK
+bfOEnd Figure*dfO
+3OC80J\begin{figure*}[8bL]80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{figure*}80I2NCfigure*(2-col)/caption+LOF entry/label/placeGVe1e7ab1B'!5CCbfOFigure*dfO 
+bfMLabeldfM 8bM
+82Hfigure82I8bO
+82Hcaption82I8bN
+82HList of figures entry82I8bK
+bfOEnd Figure*dfO
+3OC80J\begin{figure*}%80I8bO %80I\caption[8bK]{8bN}\label{8bM}%80I\end{figure*}80I2HCfigure*(2-col)/caption+LOF entry/labelGVe1e7ab1H'!5LCbfOFigure*dfO 
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Hfigure82I8bO
+82Hcaption82I8bN
+82HList of figures entry82I8bK
+bfOEnd Figure*dfO
+3GC80J\begin{figure*}[8bL]80I8bO %80I\caption[8bK]{8bN}80I\end{figure*}80I2HCfigure*(2-col)/caption+LOF entry/placeGVe1e7ab1L'!4ICbfOFigure*dfO 
+82Hfigure82I8bO
+82Hcaption82I8bN
+82HList of figures entry82I8bK
+bfOEnd Figure*dfO
+3DC80J\begin{figure*}80I8bO %80I\caption[8bK]{8bN}80I\end{figure*}80I2BCfigure*(2-col)/caption+LOF entryÊ8bN3BN0E2An Extract from Gries and Schneider's Book8bOdON0E1\fbox{\begin{minipage}{\GSboxwidth}
+8fPLN2A0ISafa0e07C   #1FCruleGVafa0e06P'!3EC(82Hlabel82I8bO)80CbfOName  80C8bN:dfO
+Condition:80C80C8bM,
+Statement:80C80C8fL3IC80J81P(8bO)~~~~80BbfONamedfO~~~~80BbfO8bNdfO:
+Condition:80C80C8bM,
+Statement:80C80C8fL82A1LCName, Condition, StatementGVafa0e07A'!2HC(82Hlabel82I8bO)80CCondition:80C8bM,
+Statement:80C80C8fL2JC80J81P(8bO)~~~80BCondition:~~~80B8bM,
+Statement:80C80C8fL82A1FCCondition, StatementGVafa0e07B'!2EC(82Hlabel82I8bO)80CbfOName  80C8bNdfO
+Statement:80C80C8fL2FC80J81P(8bO)~~~~80BbfONamedfO~~~80B8bN
+Statement:80C80C8fL82A1ACName, StatementÍ8bOLN0E18.228bN1GN0E2Change of dummy8bM2GN0E3Provided 8fPJN0A08ePHN2B0ISafa0e07N! 2!0GVafa0e07M!"CC¬Î8fPJN2A0ISafa0e07L   !0GVafa0e07K!"FC8fO(8fN)Ï8fONN0A1occurs8fNKN0A28fPIN2A0ISaf5cc71E   !0GVaf5cc71F#!EC`8fO'2FC80J{\setlength{\mathsurround}{0pt}`8fO'}Ð8fOIN0A1y8ePHN2B08L8fPIN2A0Ð8fOKN0A18fPIN0A0R8ePHN2B08L8fPIN0A0P and 8fPIN0A0f has an inverse8fLKN0A48fPLN2A0ISafa0e07J   &1HCQuant.GVafa0e07D#"NC(220A8cN | 8fM : 8fL)NC(220A8cN~|~8fM~:~8fL)GVafa0e07E#"NC(220D8cN | 8fM : 8fL)NC(220D8cN~|~8fM~:~8fL)GVafa0e07F#"NC(8fO8cN 222D 8fM : 8fL)NC(8fO8cN~222D~8fM~:~8fL)GVafa0e07G#"KC(220A8cN |: 8fL)KC(220A8cN~|:~8fL)GVafa0e07H#"KC(220D8cN |: 8fL)1AC(\exists8cN~|:~8fL)GVafa0e07I#"KC(8fO8cN |: 8fL)KC(8fO8cN~|:~8fL)Ô8fOIN0A122cG8cNIN0D2x8fMIN0A3R8fLIN0A4P8ePHN2B0n8fPLN2A0Ô8fOIN0A122cG8cNIN0D28dPIN0C0y8fMJN0A38fPIN0A0R8ePJN2B0ISafa0e07P" 4!0GVafa0e07O!"JC[8cO := 8fN]×8cOIN0D18dPIN0C0x8fNKN0A28fPIN0A0f8ePHN2B0ISafa0e08P$ 3!0GVafa0e08O!"CC.Ø8fPIN0A0y8fLJN0A48fPIN0A0P8ePJN2B0×8cOIN0D18dPIN0C0x8fNKN0A28fPIN0A0f8ePHN2B0Ø8fPIN0A0y
+
+The proof of this theorem illustrates the use of several of the axioms given above. 
+ The proof starts with the RHS of (8.22), because it has more structure.
+
+89PON8A0?8fPLN2A0Ô8fOIN0A122cG8cNIN0D2y8fMJN0A38fPIN0A0R8ePJN2B0×8cOIN0D18dPIN0C0x8fNKN0A28fPIN0A0f8ePHN2B0Ø8fPIN0A0y8fLJN0A48fPIN0A0P8ePJN2B0×8cOIN0D18dPIN0C0x8fNKN0A28fPIN0A0f8ePHN2B0Ø8fPIN0A0y8ePJN2B0ISafa0e08B#  !0GVafa0e08A#"1CC80G80F
+8eO80C80C232J80B80E80E80E8bN80F 232K80H
+1HC80G80F
+8eO80C80C232J80C80B80E80E80E8bN80F80F~~~ 232K80H
+Ù8eOHN2B1ISafa0e2dF# %!0GVafa0e2dE!"CC=Ú8bN8ON0E2One point rule (8.14)   --- Quantification over 8fPIN0A0x has to be
+introduced.  The One-point rule is the 8fPIN2A0K8bOLN0E1only rule that can
+be applied at first.8fPLN2A0Ô8fOIN0A122cG8cNIN0D2y8fMJN0A38fPIN0A0R8ePJN2B0×8cOIN0D18dPIN0C0x8fNKN0A28fPIN0A0f8ePHN2B0Ø8fPIN0A0y8fLLN2A4Ô8fOIN0A122cG8cNIN0D2x8fMKN0A38fPIN0A0x8ePHN2B0n8fPKN0A08fPIN0A0f8ePHN2B0Ø8fPIN0A0y8fLIN0A4P8ePJN2B0Ù8eOHN2B1Ú8bN5KN0E2Nesting (8.20) --- Moving dummy 8fPIN0A0x to the outside  gets us
+closer to the final form.8fPLN2A0Ô8fOIN0A122cG8cNKN0D28dPIN0C0x,8dPIN0C0y8fMKN0A38fPJN0A08fPIN0A0R8ePJN2B0×8cOIN0D18dPIN0C0x8fNKN0A28fPIN0A0f8ePHN2B0Ø8fPIN0A0y8ePHN2B0ISafa0e08G# ""0GVafa0e08E!"CC222HGVafa0e08F!"CC222IÜ8fPKN0A08fPIN0A0x8ePHN2B0n8fPKN0A08fPIN0A0f8ePHN2B0Ø8fPIN0A0y8fLIN0A4P8ePJN2B0Ù8eOHN0B18bNIN0E28fPIN2A0E8bOIN0E1T8fPHN0A0
+\end{minipage}}8bM2CN0E3fig:Tutorial.GriesSchneider8bLKN0E4htb
+Since the extract is rather long it will be impossible for you to keep it in view as you
+read.  A copy has therefore been placed in a separate file called 
+``GriesSchneiderExample''.  We suggest you pull up this file and place it  alongside
+the current one.  In case you have forgotten here once more are the  instructions
+for doing so:  Select  8fPIN2A0C8bOPN0E1Document  in the menu under 8fPIN2A0C8bONN0E1Window on the  console and, 
+when a window appears, click on the 8fPIN2A0C8bOLN0E1Load  button.  Finally, select the entry 
+8fPIN2A0B8bO2AN0E1GriesSchneiderExample.mpd from  the list of files that appears.
+
+
+If you look at the Gries-Schneider stencil you will see that it has six sections, 
+labelled 8fPIN2A0ISe1d5e40A   !2OCUnderlineText1KCLatex2e#UnderlineTextHelpGVe1d5e40B#!HC81J81L8bO81M81H81NPC80J\underline{8bO}Ý8bOLN0E1None8fPON2A088bIHN0E78bJHN0E68bKHN0E58bL2KN0E4\protect{8fPIN2A0Ý8bOLN0E1None} --- section in  stencil8bMHN0E38bNHN0E28bOLN0E1None, 8fPIN2A0Ý8bONN0E1Prefix8fPON2A088bIHN0E78bJHN0E68bKHN0E58bL2JN0E4\protect{8fPIN2A0Ý8bONN0E1Prefix} --- section in stencil8bMHN0E38bNHN0E28bONN0E1Prefix, 8fPIN2A0Ý8bOON0E1Postfix8fPON2A088bIHN0E78bJHN0E68bKHN0E58bL2JN0E4\protect{8fPIN2A0Ý8bOON0E1Postfix} --- section in stencil8bMHN0E38bNHN0E28bOON0E1Postfix, 8fPIN2A0Ý8bOMN0E1Infix8fPON2A088bIHN0E78bJHN0E68bKHN0E58bL2JN0E4\protect{8fPIN2A0Ý8bOMN0E1Infix} --- section in stencil8bMHN0E38bNHN0E28bOMN0E1Infix, 8fPIN2A0Ý8bOLN0E1Left8fPON2A088bIHN0E78bJHN0E68bKHN0E58bL2JN0E4\protect{8fPIN2A0Ý8bOLN0E1Left} --- section in stencil8bMHN0E38bNHN0E28bOLN0E1Left and 8fPIN2A0Ý8bOMN0E1Right8fPON2A088bIHN0E78bJHN0E68bKHN0E58bL2JN0E4\protect{8fPIN2A0Ý8bOMN0E1Right} --- section in stencil8bMHN0E38bNHN0E28bOMN0E1Right.  All  but the first of 
+these sections define mathematical operators and their precedences.  The first 
+section (the one labelled 8fPIN2A0Ý8bOLN0E1None) is used to define mathematical notations 8fPIN2A0K8bOKN0E1and
+other  (not necessarily mathematical) conventions that are used in a document.
+
+Ostensibly, nine conventional operators have been defined in the  stencil --- 
+reading  from top to bottom, ¬ ,  226B , 222H , = , + , mul , . , 21dA  and  21dC .  (The
+unconventional  operators  [8fPIN2A0E8bONN0E1V := 8fPIN2A0E8bOIN0E1E]  and 8fPIN2A0E8bOKN0E1O232J8fPIN2A0E8bOIN0E1T232K will be discussed shortly.) 
+The first is a prefix  operator, the next five are infix  operators, the next two are 
+left-associative infix operators, and the last  a right-associative operator.   We say
+``ostensibly'' because several of the operators have different ``versions''.  If for 
+instance you move the mouse to point at ``222H'' in the stencil and press down with
+the 8fPIN2A0K8bOKN0E1far mouse button a small menu will appear containing two items ``222H'' and
+``222I''. The two operators have different meanings, of course, but according to the
+definition in the stencil, they are treated by 8fPHN2A02 as different ``versions'' of
+the same  operator8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN2AN0E2as a version in a stencil8bOPN0E1operator.  In fact the total number of operators defined in the stencil is
+seventeen.  (Go through each in turn to see which have and which do not have 
+different versions.    Before you can proceed you must either pin the menu up
+---using the by now familiar technique of selecting the title---  or dismiss the
+menu by pointing at one of the entries, pressing down the far mouse button, and
+then moving the mouse pointer outside the menu before releasing the mouse
+button.)
+
+Each operator has been assigned a precedence according to a list to be found at
+the  beginning of  Gries and Schneider's book8fPIN2A0M8bO9LN0E1The entry ``mul''
+deviates  slightly from their book since it gives multiplication and division the
+same  precedence.  This is of no relevance here..  Different versions of an
+operator8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1ON0E2precedence of a version8bOPN0E1operator all have the same precedence.  Although we don't discuss how here, it
+is very easy to add  new operators to the stencil or to modify existing definitions. 
+Doing so results in a  simple syntax-directed editor for mathematical
+expressions.  For instance, the  expression 8fPJN0A08ePHN2B0Î8fPKN1A08fPKN0A08fPIN0A0p8ePHN2B0ISafa0e09B$ #!0GVafa0e09A!"CC21dAÞ8fPIN0A0q8ePHN2B0Ü8fPIN0A0r can be created either
+top-down or linearly as follows:
+
+Top down8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1GN0E3top-down method8bNPN0E2entering8bO1BN0E1expression:  (Using the near mouse button) click  on ``¬'' in the stencil.  This
+creates the expression 8fPIN2A0ISff2495bF   &0GVff2495bA'"EC 8fO EC~8fO~EC~8fO~GVff2495bB%"DC8fO8bNDC8fO8bOGVff2495bC'"FC8fO  ,FC8fO~~,DC8fO,GVff2495bD'"IC   8fO   GC~~8fO~~GC~~8fO~~GVff2495bE#"FC8fO  .FC8fO~~.GVffd7e2eF!"CC8bNä8fOJN0A18ePHN2B0Î8fPHN0A0 at the position of the cursor in your document.  The 
+target selection will automatically be set to the place holder ``8fPIN2A0E8bOIN0E1E''.  Now click on 
+``222H'' in the stencil.  Parentheses are automatically inserted (because the 
+precedence of  ``222H'' has been defined to be less than that of ``¬'') and the
+expression will have been transformed to 8fPJN0A08ePHN2B0Î8fPKN1A08fPHN0A08ePHN2B0Ü8fPHN0A0.  The target selection will be
+automatically set to the first expression place holder. Click on ``21dA'' in the stencil.
+ The expression  is transformed to 8fPJN0A08ePHN2B0Î8fPKN1A08fPKN0A08fPHN0A08ePHN2B0Þ8fPHN0A08ePHN2B0Ü8fPHN0A0.  No parentheses are introduced
+because  ``21dA'' has  been defined to have a higher precedence than ``222H''.  (Not a
+choice we would make, by the way, but everyone to their own taste!)   The
+spacing around the ``222H'' sign,  however, increases automatically. Fill in ``p'' and
+press the space bar or ``Enter''.   The target selection automatically switches to
+the second place holder. Fill in  ``q''  and press the space bar or ``Enter''.  Finally
+fill in ``r''.  The construction is complete  when you press the space bar or
+``Enter''.  
+ 
+Left-to-right8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1LN0E3left-to-right method8bNPN0E2entering8bO1BN0E1expression: Begin as before by clicking  on ``¬'' in the stencil.  Now key in an
+opening parenthesis.  You will find that the closing parenthesis is automatically
+inserted giving you 8fPJN0A08ePHN2B0Î8fPHN1A0.  The target selection is also automatically set to the
+expression holder.  Key in ``p'' but this time do not press the space bar (or
+``Enter''). Click on ``21dA'' in the stencil and then key in ``q''.   Now click on ``222H''  in
+the stencil.   Key in ``r''.  Again, the construction is completed
+when you press the space  bar or ``Enter'' on your keyboard.  (If, instead  of pressing
+the space bar or ``Enter'', you key
+in a closing parenthesis the target selection will jump to the subexpression
+8fPKN0A08fPKN1A08fPIN0A0p8ePHN2B0Þ8fPIN0A0q8ePHN2B0Ü8fPIN0A0r  in anticipation of your  continuing this particular subexpression.  This
+is not intended --- it should jump to the subexpression 8fPJN0A08ePHN2B0Î8fPKN1A08fPKN1A08fPIN0A0p8ePHN2B0Þ8fPIN0A0q8ePHN2B0Ü8fPIN0A0r.  To
+continue the latter you have to reset  the target selection yourself by hand.)
+
+The first entry in the 8fPIN2A0Ý8bOLN0E1None section of the  Gries-Schneider stencil is labelled 
+``rule''.   This template describes the style used by  Gries and Schneider to  present
+rules.  Each rule typically has a 8fPIN2A0I8bOMN0E1label, a 8fPIN2A0I8bOLN0E1name, a 8fPIN2A0I8bO1AN0E1condition or
+context under which the rule is valid, and the  8fPIN2A0I8bO1AN0E1statement of the rule itself.  In the
+above example the label is ``8.22'', the name is ``8fPIN2A0E8bO1GN0E1Change of dummy'', the
+condition is ``Provided  8fPJN0A08ePHN2B0Î8fPJN2A0Ï8fONN0A1occurs8fNKN0A28fPIN2A0Ð8fOIN0A1y8ePHN2B08L8fPIN2A0Ð8fOKN0A18fPIN0A0R8ePHN2B08L8fPIN0A0P and 8fPIN0A0f has an inverse'', and the
+statement is ``8fPKN0A08fPLN2A0Ô8fOIN0A122cG8cNIN0D2x8fMIN0A3R8fLIN0A4P8ePHN2B0n8fPLN2A0Ô8fOIN0A122cG8cNIN0D28dPIN0C0y8fMJN0A38fPIN0A0R8ePJN2B0×8cOIN0D18dPIN0C0x8fNKN0A28fPIN0A0f8ePHN2B0Ø8fPIN0A0y8fLJN0A48fPIN0A0P8ePJN2B0×8cOIN0D18dPIN0C0x8fNKN0A28fPIN0A0f8ePHN2B0Ø8fPIN0A0y''. 
+
+Clicking on ``rule'' in the stencil with the near mouse button
+causes the following template to appear in your document at the location of the 
+target selection:
+
+89PLN2G0Í8bOIN0E18fPIN2A0E8bOMN0E1label8bNIN0E28fPIN2A0E8bOIN0E1T8bMIN0E38fPIN2A0E8bOIN0E1T8fLHN0A4
+
+The bold ``8fPIN2A0E8bOMN0E1label'' and the two bold ``8fPIN2A0E8bOIN0E1T'' 's  are place holders for text; the bold ``8fPIN2A0E8bOIN0E1E''  is a
+place holder for a mathematical expression.  
+
+This template illustrates two ways of reminding oneself of the function of a place holder in
+a template.  Both ways are intended to facilitate the process of 8fPIN2A0K8bOON0E1writing a document 
+without compromising the quality of the finished product.
+
+The first way is to give place holders a name:  ``8fPIN2A0E8bOMN0E1label'' is a named place
+holder8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNMN0E2named8bO1DN0E1place holder and can be replaced by an arbitrary text.  It reminds the writer that a label is
+needed and where it should be entered.  
+
+A characteristic of named place holders is that the name disappears as soon as anything is
+entered into the place holder.  This can be an advantage, for instance in order to avoid
+clutter in the  on-screen view of a document, but it can also be a disadvantage.  In the
+latter case one can add explanatory information to the screen view of a template which is
+then discarded in the generated output.  This, the second way of reminding oneself of the
+function of a place holder, is illustrated by the use of the headings ``8fPIN2A0E8bOLN0E1Name'', ``Condition:''
+and ``Statement:'' together with the unnamed place holders ``8fPIN2A0E8bOIN0E1T'' and ``8fPIN2A0E8bOIN0E1E''. In Gries and
+Schneider's book  these headings do not appear.  The point is that the template can always
+be defined so that the headings 8fPIN2A0K8bOJN0E1do appear on the screen8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1EN0E2screen output8bOON0E1stencil  but  do 8fPIN2A0K8bOKN0E1not appear in the
+8fPHN2A07 output8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLPN0E48fPHN2A07 output8bMHN0E38bN1DN0E2LaTex output8bOON0E1stencil generated by the  document.  
+
+It is sometimes the case that Gries and Schneider do not give a rule a name, or the
+rule is unconditionally valid.  To accommodate these additional possibilities the
+template has three versions.  You can see these versions by pointing at  ``rule'' in
+the stencil, and then clicking with the far mouse button.  A  menu will appear
+with three entries 8fPIN2A0C8bO2BN0E1Name, Condition, Statement,   8fPIN2A0C8bO1LN0E1Condition, Statement and
+8fPIN2A0C8bO1GN0E1Name, Statement.  (There is also an entry 8fPIN2A0C8bOLN0E1Info8fPON2A088bIHN0E78bJHN0E68bKHN0E58bL1JN0E48fPIN2A0C8bOLN0E1Info about a template8bMHN0E38bNHN0E28bO1ON0E1Info about  a template  separated from the rest which, if
+selected, provides further information on the template.  We return to this later.)
+We suggest that you pin this menu up.  If you now press down on  either the near
+or far mouse button  you can move the pointer to select one of the entries.    If you
+release the mouse button whilst one of the items is selected then a template will
+appear in your document at the position of the cursor.  (The menu will remain on
+your screen if you had pinned it up earlier and will disappear if you hadn't pinned
+it up.)  If you release when  none of the items is selected then the menu will
+disappear and nothing will  happen to your document.  
+
+The second entry in the Gries-Schneider stencil is labelled ``Quant.''.  This too
+has several versions which you can examine by pointing at the entry and
+pressing down on the far mouse button.  In the example above we in fact only
+use one of  the versions, namely 8fPIN2A0C8bOIN0E18fPLN2A0Ô8fOHN0A18cNHN0D28fMHN0A38fLHN0A4.   This version has place holders
+for four  entries, an 8fPIN2A0E8bOIN0E1Expression, a 8fPIN2A0E8bOIN0E1Variable, and two 8fPIN2A0E8bOIN0E1Expressions.  Try
+selecting different components of the template displayed below:
+
+89PLN2G0Ô8fOHN0A18cNHN0D28fMHN0A38fLHN0A4
+
+You will find that you are unable to select the ``syntactic sugar''8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1PN0E2unable to select part of8bOPN0E1template: the 
+individual parentheses, the vertical bar and the colon. Only the four place 
+holders and the entire expression can be selected.  
+
+Now set one of the expression place holders to be the target selection.  Then,  with
+the near mouse button, click on any entry in the stencil.  Repeat this as often as
+you like and observe how the expression grows.   Observe also which parts of  the
+expression can be selected and which not.   (If you are unfamiliar with the  term,
+this is what is meant by ``syntax-directed editing''.)
+
+The next entry in the 8fPIN2A0Ý8bOLN0E1None section of the stencil is  labelled 8fPIN2A0E8bOIN0E1E(8fPIN2A0E8bOIN0E1E).  
+Clicking on  it (in the stencil window) with the near mouse button generates the
+template 8fPJN2A0Ï8fOHN0A18fNHN0A2 at the position of the cursor in your  document. This
+template has been  used to construct the expression 8fPJN2A0Ï8fONN0A1occurs8fNKN0A28fPIN2A0Ð8fOIN0A1y8ePHN2B08L8fPIN2A0Ð8fOKN0A18fPIN0A0R8ePHN2B08L8fPIN0A0P. 
+Specifically, the first place  holder has been replaced by the expression 8fPNN0A0occurs
+and the second place holder by  the expression 8fPKN0A08fPIN2A0Ð8fOIN0A1y8ePHN2B08L8fPIN2A0Ð8fOKN0A18fPIN0A0R8ePHN2B08L8fPIN0A0P. 
+
+It is useful to compare the template 8fPIN2A0E8bOIN0E1E(8fPIN2A0E8bOIN0E1E) with the template labelled
+8fPIN0A08ePJN2B0×8cOHN0D18fNHN0A2 in the stencil.  Clicking on the latter generates  8fPJN0A08fPHN0A08ePJN2B0×8cOHN0D18fNHN0A2 at the
+position of the cursor in your document.   The additional ``8fPHN0A0'' at the beginning is
+implicit in the fact that 8fPIN0A08ePJN2B0×8cOHN0D18fNHN0A2 is a postfix operator.   (Note: Operators8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNNN0E2symbol8bOPN0E1operator in
+8fPHN2A02 needn't be single symbols; as illustrated here, they may be expressions
+with arbitrary  structure.)   
+
+The postfix operator 8fPJN2A0×8cOHN0D18fNHN0A2 has been defined to have the highest precedence of
+all  the operators in the Gries-Schneider stencil.  (You can't see this from the 
+information displayed on your screen.  You have to look at the ``8fPIN2A0C8bOLN0E1Info'' to find that
+out.)  This means that whatever expression8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1HN0E2parenthesisation8bO1BN0E1expression is entered as argument to the
+operator it will be automatically parenthesised.  (There are two exceptions: if the
+expression is just an identifier and if the expression is an instance of the same
+postfix  operator.)   Expressions that are entered in the first place holder of the
+template labelled 8fPIN2A0E8bOIN0E1E(8fPIN2A0E8bOIN0E1E) will never be parenthesised by 8fPHN2A02.  The
+point is that the  automatic insertion of parentheses is applicable only to the
+templates defined outwith  the 8fPIN2A0Ý8bOLN0E1None section8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1HN0E2parenthesisation8bO1BN0E1expression8fPON2A088bIHN0E78bJHN0E68bKHN0E58bL2KN0E4\protect{8fPIN2A0Ý8bOLN0E1None} --- section in  stencil8bMHN0E38bNHN0E28bOLN0E1None. 8fPHN2A02 will never try to
+parenthesise an expression that  occupies a place holder of  a template in the
+8fPIN2A0Ý8bOLN0E1None section.   Typically, mathematical  operators defined in the 8fPIN2A0Ý8bOLN0E1None section
+are multi-fix operators8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1AN0E2multi-fix8bOPN0E1operator, and it is advisable as a general rule to ensure that every
+place holder is bracketed on both sides by some  ``syntactic sugar''.  (This is
+exemplified by the quantifier template.) If this is  unavoidable an effect will be
+obtained that is comparable to defining a postfix8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2postfix8bOPN0E1operator, prefix8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNNN0E2prefix8bOPN0E1operator  or infix operator with
+the lowest possible precedence. If in such cases you feel it  would be more
+helpful to your reader to insert parentheses this can always be done  using the
+8fPIN2A0C8bO1BN0E1Add/Rem () item in the menu under 8fPIN2A0C8bO1AN0E1Structure on the  console.
+
+Instead of defining a postfix operator 8fPJN2A0×8cOHN0D18fNHN0A2 we could have defined a postfix 
+operator 8fPIN2A08B8fOHN0A1 combined with an infix operator  := .  This is more flexible but has
+the  disadvantage that more hand movements are necessary to enter an
+expression.   A better solution is to enter both as ``versions'' of a template as
+illustrated by the quantifier template discussed above. This is one argument for
+the use of versions.    Frequently used instances of a general construction can be
+entered as versions of the  construction and more quickly entered into a
+document than by entering the general  version followed by the details of the
+instantiation.  The main argument for versions  however is organisational.  It is
+remarkable just how many different templates one  needs in even a small
+document and the total size of one's stencil database grows  very rapidly.  Apart
+from the fact that a computer screen is much, much smaller  than a desk and
+can very quickly become clogged up, looking up the template you  want can
+become time-consuming. Sensible use of versions and logically-organised 
+stencils can make a world of difference.  8fPHN2A02 provides the tools.  How well
+(or  badly) they are used is up to you.
+
+The final operator in the Gries-Schneider stencil has the label ``8fPIN2A0E8bOKN0E1O232J8fPIN2A0E8bOIN0E1T232K''.  This
+is an excellent example of the flexibility of the template notion in 8fPHN2A02. 
+
+
+The template cannot be used for in-line mathematical expressions; it can only
+be used in display  mode.  This is because its definition includes specific layout
+requirements, in  particular that the operator's two arguments are to be placed
+one above the other on separate lines.
+
+To create a displayed expression you should set the target selection to an empty line
+where you want the expression to be displayed.  Then select the  entry  8fPIN2A0C8bO1CN0E1Insert
+Disp8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1AN0E3displayed8bNPN0E2entering8bO1BN0E1expression under the 8fPIN2A0C8bONN0E1EditOp button on the  console.  A bold-faced 8fPIN2A0E8bOIN0E1D will appear in
+the text like the one below.  The target  selection will be set to the ``8fPIN2A0E8bOIN0E1D''.
+
+89PIN2G0E8bOIN0E1D
+
+You don't need to create a new display in this document.  Just set the target
+selection to the displayed ``8fPIN2A0E8bOIN0E1D'' above.  Now click on 8fPIN2A0E8bOKN0E1O232J8fPIN2A0E8bOIN0E1T232K in the
+Gries-Schneider stencil. This is what you should get.  
+
+89PKN0A08fPHN0A08ePJN2B0Ù8eOHN0B18bNIN0E28fPIN2A0E8bOIN0E1T8fPHN0A0
+
+A place holder has been created for two expressions (8fPIN2A0E8bOIN0E1E), an operator (8fPIN2A0E8bOIN0E1O) and
+text (8fPIN2A0E8bOIN0E1T). If you continue clicking on the same template you will find that the
+pattern is  repeated.  Each time, you get one each of an extra expression,
+operator and text place holder.  The template 8fPIN2A0E8bOKN0E1O232J8fPIN2A0E8bOIN0E1T232K behaves exactly like an
+infix operator.   Its  precedence8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1BN0E2precedence8bOPN0E1operator has however been defined to be 0, the lowest
+possible value.  If you enter  a particular operator in the operator place holder
+(just click on one in the stencil)  then the precedence remains 0; the construction
+does not adopt the precedence of the instantiated operator.  
+8fPKN2A0*8bMHN@E3"8bO1KN0E1Help with Templates8bNIN0E28fPHN2A0.
+It  is often the case that you want help8fPON2A088bIHN0E78bJHN0E68bKIN0E5(8bLHN0E48bMHN0E38bN1FN0E2with templates8bOLN0E1help with the use of templates, even with
+templates that you yourself have created.  The most comprehensive
+information is provided in the definition of a template.  See the next subsection
+for how to redefine existing templates. By going  through the motions  of
+redefining a template, but not making any change whatsoever, you can find out
+full details of any template.
+
+Two other mechanisms are provided in order to let you obtain information about
+existing  templates.  The first is obtained via a selection in a 8fPIN2A0C8bOPN0E1Document window,
+the second via a stencil. We consider both in turn.
+
+Suppose you are reading a 8fPHN2A02  document, possibly written by someone
+else,  and you  see that use has been made of a template.  You would like to find
+out more about the template, for instance, in which stencil (or stencils) it is
+defined.  In this document, for example, you will no doubt have noted that a
+template has been used for sections and subsections.  
+
+To find out more, set the target selection to the template you are interested in. 
+(You may sometimes have to move up or down in the tree structure to find the
+correct template.)  Then select  8fPIN2A0C8bOON0E1Version8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLPN0E48fPIN2A0C8bOON0E1Version button8bMHN0E38bN1FN0E2Version button8bOON0E1console in the console with the far mouse
+button.  Pin up the menu that appears and select 8fPIN2A0C8bOLN0E1Info.8fPON2A088bIHN0E78bJHN0E68bKHN0E58bL1KN0E48fPIN2A0C8bOLN0E1Info about  a template8bMHN0E38bNHN0E28bO1ON0E1Info about  a template   The information
+that appears contains the following items:
+8fPIN2A0^8bONN0E18fPIN2A0]8bO2AN0E1The name of the template.8fPIN2A0]8bO1PN0E1The name of a help file.8fPIN2A0]8bO7EN0E1The type (mathematical operator or not) and, if a mathematical operator, its 
+precedence and default spacing.8fPIN2A0]8bO2ON0E1The number of versions of the template.8fPIN2A0]8bO3GN0E1The number of times the template has been used.8fPIN2A0]8bO4HN0E1The names of loaded stencils in which the template can be found.
+The name of the template is the entry name under which the template appears
+in any stencil.  
+
+A help file8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNLN0E2file8bOLN0E1help associated with a template may or may not have been provided by
+the creator of that template.  The contents of a help file is also the responsibility of
+the creator of the template.  The intention, however, is that the help file explains
+the purpose of the template and gives examples of its use.   A help file is just a
+normal 8fPHN2A02 document and so can be read by loading it via the 8fPIN2A0C8bOPN0E1Document
+entry below the 8fPIN2A0C8bONN0E1Window button on the console. 
+
+The template type8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNLN0E2type8bOPN0E1template is either ``none8fPON2A088bIHN0E78bJHN0E68bKHN0E58bL2KN0E4\protect{8fPIN2A0Ý8bOLN0E1None} --- section in  stencil8bMHN0E38bNHN0E28bOLN0E1None'', ``prefix8fPON2A088bIHN0E78bJHN0E68bKHN0E58bL2JN0E4\protect{8fPIN2A0Ý8bONN0E1Prefix} --- section in stencil8bMHN0E38bNHN0E28bONN0E1Prefix'', ``postfix8fPON2A088bIHN0E78bJHN0E68bKHN0E58bL2JN0E4\protect{8fPIN2A0Ý8bOON0E1Postfix} --- section in stencil8bMHN0E38bNHN0E28bOON0E1Postfix'', ``infix8fPON2A088bIHN0E78bJHN0E68bKHN0E58bL2JN0E4\protect{8fPIN2A0Ý8bOMN0E1Infix} --- section in stencil8bMHN0E38bNHN0E28bOMN0E1Infix'',  ``left8fPON2A088bIHN0E78bJHN0E68bKHN0E58bL2KN0E4\protect{8fPIN2A0Ý8bOLN0E1Left}  --- section in stencil8bMHN0E38bNHN0E28bOLN0E1Left''
+(meaning ``left associative'') or ``right8fPON2A088bIHN0E78bJHN0E68bKHN0E58bL2JN0E4\protect{8fPIN2A0Ý8bOMN0E1Right} --- section in stencil8bMHN0E38bNHN0E28bOMN0E1Right'' (meaning ``right associative'').  The
+precedence8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1BN0E2precedence8bOPN0E1operator and spacing are not  relevant in the first case.  In the other cases the
+precedence is a number between 0 and 20 expressing the relative binding power of
+the operator.  (We recommend that all prefix and postfix operators are given the
+highest precedence8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1BN0E2precedence8bOPN0E1operator.  The precedence of infix operators is of your own choosing, but
+a good rule is that the smaller the symbol used to denote the operator8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1FN0E2size of symbol8bOPN0E1operator the higher its
+precedence should be.   Thus an infix dot should have a high precedence whereas a
+long arrow should have a low precedence.)  
+
+The number of versions of the template is self-explanatory.  The number of
+times the template has been used relates to the documents that are loaded at the
+time the information is requested.  It also includes uses of the template in the
+8fPIN2A0C8bONN0E1Buffer window and in the 8fPIN2A0C8bOLN0E1Find window.  (Thus, if you delete a template from a
+document the number of uses will not change because the template is
+automatically deposited in the buffer. ) 
+
+Templates may be stored in more than one stencil.  The section ``Files'' lists the
+names of all the stencils that are currently loaded in which the template has been
+defined.  Often a dash (--) will appear in this entry indicating that the template8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1JN0E2finding definition8bO1LN0E1template in document
+doesn't occur in any loaded stencil.  This doesn't mean that the template is
+nowhere defined, only that you haven't loaded any stencil containing its
+definition.  If the creator of the template has been conscientious then the name of
+the stencil will be included in the help file.  So, consult the help file first if the
+template does not occur in any loaded stencil. Otherwise the definition of the
+template is always accessible via the so-called  ``document stencil'': see 
+8fPJN2A0X8bN1HN0E2StructureEditing8bO1GN0E1DocumentStencil for further details. 
+
+If you have the appropriate  stencil loaded then the same information can be
+obtained by selecting a template with the far mouse button and then selecting 8fPIN2A0C8bOLN0E1Info8fPON2A088bIHN0E78bJHN0E68bKHN0E58bL1KN0E48fPIN2A0C8bOLN0E1Info about  a template8bMHN0E38bNHN0E28bO1ON0E1Info about  a template 
+in the menu that appears.
+
+Note that information is available on all templates, even if the template has only
+one version.8fPON2A088bIIN0E7)8bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1FN0E2with templates8bOLN0E1help
+
+8fPKN2A0'8bM2BN0E3Tutorial.Creating Stencils8bO1IN0E1Creating Stencils8bNIN0E28fPHN2A0.
+The creation of (versions of) a template8fPON2A088bIHN0E78bJHN0E68bKIN0E5(8bLHN0E48bMHN0E38bNPN0E2defining8bOPN0E1template in a stencil can be very straightforward;
+it can also be the most difficult task of all in the use of 8fPHN2A02.  It is very 
+straightforward to enter simple mathematical operators.  The difficulties begin 
+when you require special layout conventions.  The difficulties are compounded
+when the 8fPHN2A07 automatically generated by 8fPHN2A02 is not adequate to your
+needs. In this section we only outline the creation of templates and you are
+referred to the  reference section for more details.
+
+To create a new stencil click on 8fPIN2A0C8bOON0E1Stencil in the menu under 8fPIN2A0C8bONN0E1Window on the
+console.  Once the stencil window appears you can change its default name to
+whatever you like using 8fPIN2A0C8bONN0E1Rename8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLPN0E48fPIN2A0C8bONN0E1Rename button8bMHN0E38bN1EN0E2Rename button8bOON0E1stencil.
+
+To create a new template or amend an existing template click on 8fPIN2A0C8bONN0E1Define8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLPN0E48fPIN2A0C8bONN0E1Define button8bMHN0E38bN1EN0E2Define button8bOON0E1stencil at the
+head  of the stencil window.  At the same time you will probably wish to open the
+symbol palette8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1FN0E1symbol palette by clicking on 8fPIN2A0C8bONN0E1Symbol in the menu under 8fPIN2A0C8bONN0E1Window on the 
+console.  This window contains  several pages of mathematical
+symbols which you can enter directly into your documents or use in the
+definition of stencils.   
+
+Defining templates is menu-driven.  The window opened by clicking on 8fPIN2A0C8bONN0E1Define
+is  headed by a list of items.  The first three (``Kind'', ``Prec.'' and  ``Space'') must 
+always be set.  When you open the window these items are already initialised to
+the  default values ``None'',  0, and 0.
+
+To enter, for example, the operators 229H, 229F, and 229I all as versions of one template
+called, say, ``o.ops''  proceed further as follows.  First enter the name ``o.ops''.
+(You can skip this step if you want.  If you don't supply a name 8fPHN2A02 will
+create one for you.  All the names in the Gries-Schneider stencil were
+created by 8fPHN2A02 except for ``rule'', ``Quant.'' and ``mul''.)  
+
+Now select ``Kind'' and choose an item (for example ``Infix'')  from the menu that 
+appears. After having done so  select  ``Prec.'' and
+choose a number from the menu that appears.    
+
+Now move the mouse pointer down into the  main window area and click.  The
+three headings ``Screen'',  ``Latex''  and  ``Name'' will appear.  If you move the
+mouse pointer below all three and click  again a second such entry will appear. 
+Each of these entries forms a version of  the template you are defining.  
+
+The ``Name'' field allows you to give an individual  name to each version.  (In this
+case it will not be necessary to do that since the  name 8fPHN2A02 creates is
+perfectly adequate.)  The ``Screen'' field lets you specify how the (version of the)
+template is to be laid out on the screen, and the ``Latex'' field  specifies the 8fPHN2A07
+code that is generated by each version of the  template in your document. 
+ 
+For our example you would click in the ``Screen'' field in order to indicate that it
+is that field you wish to edit.  Two cursors appear, one in the ``Screen'' field, the
+other in the ``Latex'' field.  The two cursors indicate that  8fPHN2A02 will
+automatically generate  8fPHN2A07 corresponding to whatever is entered in the screen
+filed.  Then you would look up  the symbol 229H
+in the symbol palette and click on it.  The symbol is copied to the  ``Screen'' entry
+and the corresponding 8fPHN2A07 is automatically filled in in the ``Latex'' field.  This
+process is then repeated for 229F and 229I.  
+
+Clicking on 8fPIN2A0C8bOON0E1Install followed by 8fPIN2A0C8bOLN0E1Done in the 8fPIN2A0C8bONN0E1Define window completes the
+operation.8fPON2A088bIIN0E7)8bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNPN0E2defining8bOPN0E1template
+
+The limitations of the written word have obliged us to describe the above process
+as a 8fPIN2A0K8bOPN0E1sequence of steps.  The steps may however be performed in any order.  
+
+The remaining menu entries allow you to specify the default spacing around 
+operators, to align different elements of a template, to specify the kind, size
+and/or  font  of  individual place holders, and to draw variable length lines
+alongside, above or below the elements of the template.  It is also possible to hide
+elements of a  template on the screen (but then you should include a version of
+the template in which the element is not hidden so that you can edit it!).  
+
+In more complicated cases involving, for example,  alignment of different
+elements or sub- or superscripting, the best advice is to look for a template that
+approximates  the one that you want, and use that template as a blue-print.  You
+can include an existing template in a new one just by clicking on the template
+when the cursor is set in the 8fPIN2A0C8bONN0E1Define window.  The complete definition will be
+copied across.
+
+The three other buttons at the head of the 8fPIN2A0C8bONN0E1Define window --- 8fPIN2A0C8bONN0E1Modify, 8fPIN2A0C8bONN0E1Delete
+and 8fPIN2A0C8bONN0E1Double allow you to edit a stencil.  8fPIN2A0C8bONN0E1Delete deletes the template that is loaded in
+the 8fPIN2A0C8bONN0E1Define window, and 8fPIN2A0C8bONN0E1Modify changes the definition of the loaded template.
+(You can see which template is loaded by looking at the ``Name'' entry.)  Take care
+with 8fPIN2A0C8bONN0E1Modify and  8fPIN2A0C8bONN0E1Delete since there is no undo facility!  
+
+The  8fPIN2A0C8bONN0E1Double button allows you to remove a duplicated entry in a stencil whilst at
+the same time ensuring that all occurrences of the duplicate in loaded documents
+are  identified with the original.  This is useful in case you need to integrate two or
+more independently produced documents.    Suppose, for instance, you are writing 
+a document in collaboration with a colleague.  Both you and your colleague define
+independently a ``woggle'' template, say, for use in the sections of the document on
+which you are working. Subsequently, the two sections are to be merged.  The
+problem that you then face is that, although the two woggle templates may
+produce exactly the same output,  8fPHN2A02 does not recognise them as being
+the same.  (8fPHN2A02 uses a code number to identify templates, the number
+being generated at the time of creation of the template.  The chances that the code
+number given to two templates is the same is negligibly small.)  Any find
+operation, for example, will find only one of them.  The solution is to first ensure
+that the two templates are indeed identically defined and then, with one of the
+templates loaded in the 8fPIN2A0C8bONN0E1Define window, click on 8fPIN2A0C8bONN0E1Double.   This  will update the code
+number assigned to the loaded template to be identical to the code number
+assigned to the other, both in the stencil and in all loaded documents.  Deleting the
+template from the stencil leaves you with just the one instance, as required. 
+Refer to the reference manual for the fine details before using this operation.
+
+
+Using the definition facility is not so hard as we may seem to have made out.  In  practice
+one doesn't do it very often so you will inevitably have to remind yourself of the
+procedure by reading the reference manual whenever you do.8fPON2A088bIIN0E7)8bJNN0E6textrm8bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOON0E1stencil
+8fPKN2A0'8bM2AN0E3Tutorial.Find and Replace8bO1IN0E1Find and Replace 8bNIN0E28fPHN2A0.8fPON2A088bIHN0E78bJHN0E68bKIN0E5(8bLHN@E4$8bMHN0E38bNHN0E28bO1FN0E1find 8fPHN2A0ISe1d5142P   *2NCSpecialChars1JCLatex2e#SpecialCharsHelpGVe1d5143A#!CC#GC80J\#{}GVe1d5143B#!CC$GC80J\${}GVe1d5143C#!CC%GC80J\%{}GVe1d5143D#!CC&GC80J\&{}GVe1d5143E#"CC~HC{\sim}GVe1d5143F#!CC_GC80J\_{}GVe1d5143G#!DC80J^GC80J\^{}GVe1d5143H#"CC\NC{\backslash}GVe1d5143I#!CC{EC80J\{GVe1d5143J#!CC}EC80J\}ë replace
+The 8fPIN2A0C8bOLN0E1Find  (and Replace) function is a very powerful and easy-to-use facility.  If
+you click on  8fPIN2A0C8bOLN0E1Find  under the 8fPIN2A0C8bONN0E1Window  button on the  console a window will
+appear divided into two equal-sized  subwindows.    The top one, the 8fPIN2A0K8bO1CN0E1find window8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1CN0E2find window8bO1FN0E1find 8fPHN2A0ë replace,
+specifies what is to be found, and the bottom one, the 8fPIN2A0K8bO1FN0E1replace window8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1FN0E2replace window8bO1FN0E1find 8fPHN2A0ë replace,  what the
+replacement should be.  The required operation is then chosen from the menu
+under the 8fPIN2A0C8bOLN0E1Find button at the head of the window.  The choices are 8fPIN2A0C8bOLN0E1Find, 8fPIN2A0C8bOON0E1Replace,
+8fPIN2A0C8bO1DN0E1Replace8fPHN2A0ëFind and 8fPIN2A0C8bO1CN0E1Replace All.  For the 8fPIN2A0C8bOLN0E1Find operation it is, of course, not
+necessary to specify a replacement.  8fPIN2A0C8bO1CN0E1Replace All is a global find-and-replace
+facility.  Use it with great care!  Not only is it difficult to undo, it may also cause the
+system to loop indefinitely.  
+
+All find or find-and-replace  actions take place in the edit document in which
+the target selection was last set and begin at the last such position of the target
+selection. If the message ``Not found''8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1AN0E2Not found8bO1HN0E1console message  appears in the console then check the
+position of the target selection. Sometimes in the processing of specifying the
+action it may be convenient to reset the target selection to another position in
+the edit document or even in another document.  If you have done so, remember
+to set the target to the position you want the search to begin from before
+initiating the action.   (Resetting the target selection to within the
+find-and-replace window is inevitable during the course of specifying a find or
+find-and-replace action but  has no effect on the search process.) 
+
+The fact that  the find and replace  windows are just like any other  document
+window, whilst having the one slight disadvantage mentioned above, is otherwise
+a major contribution to the ease of use of the facility.  Everything we have
+explained above about editing expressions can be carried out in these windows. 
+There are no limitations peculiar to find and replace.
+
+There is one difference.  Whenever you create a place holder in the find or
+replace window then it is numbered.  If  you create a place holder by copying a
+numbered  place holder  then the number is copied too, otherwise 8fPHN2A02
+creates a new number.  For instance it is possible to create the expression
+8fPKN0A08fPIN2A0E8bOJN0E1E18ePHN2B0Y8fPIN2A0E8bOJN0E1E1 in the find window.  If you create the expression in the  normal way
+8fPHN2A02 will create 8fPKN0A08fPIN2A0E8bOJN0E1E18ePHN2B0Y8fPIN2A0E8bOJN0E1E2. Now you can set the target to 8fPIN2A0E8bOJN0E1E2 and the 
+source to 8fPIN2A0E8bOJN0E1E1 and copy the latter to the former thus creating the desired
+expression. Searching for 8fPKN0A08fPIN2A0E8bOJN0E1E18ePHN2B0Y8fPIN2A0E8bOJN0E1E1 in your document will find all occurrences of
+a repeated  mathematical expression where the two instances are separated by a
+minus operator. (Spacing is ignored in this process.)  If you also enter 0 in the
+replace window (and command the replacement to be made) the expression will
+be simplified  according to the usual rule of arithmetic.  
+
+The find-and-replace facility can in this way be used to make complicated 
+mathematical transformations to an expression.  It is particularly useful when  a
+large subexpression needs to be copied several times.  (A so-called ``complification''
+step in a proof.  The use of find-and-replace in simplification steps, such as 
+reducing 8fPKN0A08fPIN2A0E8bOJN0E1E18ePHN2B0Y8fPIN2A0E8bOJN0E1E1 to 0, is not so useful since it is so much quicker and easier to do by
+more direct means.)  It is also possible to create and save a  database of  such
+transformations8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1HN0E2storing commands8bO1FN0E1find 8fPHN2A0ë replace, although the mechanism to do so is quite primitive.  Operations to
+do so can be found under the 8fPIN2A0C8bOMN0E1Stack8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLPN0E48fPIN2A0C8bOMN0E1Stack button8bMHN0E38bN1DN0E2Stack button8bO1FN0E1find 8fPHN2A0ë replace button of the find-and-replace window. For 
+further details see 8fPJN2A0W8bNHN@E2"8bO1FN0E1FindAndReplace.  
+
+You can also use find-and-replace to search for unfilled place holders8fPON2A088bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1NN0E2unfilled place holders8bO1FN0E1find 8fPHN2A0ë replace.  A
+``Delete'' operation in the find (or replace) window executed on a numbered
+place holder will remove the number leaving behind an unnumbered place holder
+of the same type.   Such unnumbered place holders match with 8fPIN2A0K8bOPN0E1unfilled
+place holders in the document to be searched.   For example, entering a display place holder in the find window
+will automatically enter the numbered place holder ``8fPIN2A0E8bOJN0E1D1''.  The find operation
+will then seek all displayed expressions, including displayed expressions in which
+the place holder is empty.  Selecting the display place holder and performing
+delete will cause ``8fPIN2A0E8bOJN0E1D1'' to be replaced by ``8fPIN2A0E8bOIN0E1D''.  The find operation will then seek
+just those displays in which the place holder is unfilled.
+
+Unnumbered place holders in the replace window have a similar function:
+the replacement is an empty place holder of the chosen type.  For example, if 
+8fPKN0A08fPIN2A0E8bOJN0E1E18ePHN2B0Y8fPIN2A0E8bOJN0E1E2 is entered in the find window, and 8fPKN0A08fPIN2A0E8bOJN0E1E18ePHN2B0Y8fPIN2A0E8bOIN0E1E in the replace window, then
+an expression such as 8fPKN0A08fPIN0A0x8ePHN2B0ISe12fcdbL# -"0GVe12fcdbM#"CC+IC{\plus}GVe12fcdbN!"CC-ï8fPIN0A0y will be replaced by 8fPKN0A08fPIN0A0x8ePHN2B0ï8fPHN0A0.  
+
+The find-and-replace facility can, of course, be used for much more mundane
+purposes.  For straight text an Emacs look-alike search and replace facility is
+also provided.  
+
+
+
+A very pleasant aspect of 8fPHN2A02's  find-and-replace is that you can always 
+interrupt any sequence of such actions at any time --- without taking any
+special steps.  If you are like us you will often find that during a global edit action
+you spot other items in your document that should be altered, sometimes as a
+consequence, sometimes not.  If so then just go ahead and make the changes! 
+The  find-and-replace can always be resumed when you are ready, and you
+don't have to key in some magic sequence of control characters to interrupt it.  
+8fPON2A088bIIN0E7)8bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1FN0E1find 8fPHN2A0ë replace
+8fPKN2A0*8bMHN@E3"8bO1BN0E1Conclusion8bNIN0E28fPHN2A0/
+This completes the tutorial.  Best of luck with your further efforts at using
+8fPHN2A02.  We'd be pleased to hear of your experiences.  

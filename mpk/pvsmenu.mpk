@@ -1,0 +1,256 @@
+
+Include "libpvs.so"
+
+Function pvs_send(String s)
+{
+	send_string(s, "PVS Session");
+	send_string("\n(pvs::lisp (ILISP:ilisp-restore))\n", "PVS Session");
+}
+
+Menu  PVSHelp {
+	Options Pin;
+	Title "Getting Help"
+	"help-pvs" : pvs_send("(help-pvs)");
+	"help-pvs-language" : pvs_send("(help-pvs-language)");
+	"help-pvs-prover" : pvs_send("(help-pvs-prover)");
+	"help-pvs-prover-command" : pvs_send("(help-pvs-prover-command)");
+	"help-pvs-prover-strategy" : pvs_send("(help-pvs-prover-strategy)");
+	"help-pvs-prover-emacs" : pvs_send("(help-pvs-prover-emacs)");
+}
+
+Menu  PVSEdit {
+	Options Pin;
+	Title "Editing PVS Files"
+	"forward-theory" : pvs_send("(forward-theory)");
+	"backward-theory" : pvs_send("(backward-theory)");
+	"find-unbalanced-pvs" : pvs_send("(find-unbalanced-pvs)");
+	"comment-region" : pvs_send("(comment-region)");
+}
+
+Menu  PVSParse {
+	Options Pin;
+	Title "Parsing and Typechecking"
+	"parse" : pvs_send("(parse)");
+	"typecheck" : pvs_send("(typecheck)");
+	"typecheck-importchain" : pvs_send("(typecheck-importchain)");
+	"typecheck-prove" : pvs_send("(typecheck-prove)");
+	"typecheck-prove-importchain" : pvs_send("(typecheck-prove-importchain)");
+}
+
+Menu  PVSProve {
+	Options Pin;
+	Title "Prover Invocation"
+	"prove" : pvs_send("(prove)");
+	"x-prove" : pvs_send("(x-prove)");
+	"step-proof" : pvs_send("(step-proof)");
+	"x-step-proof" : pvs_send("(x-step-proof)");
+	"redo-proof" : pvs_send("(redo-proof)");
+	"prove-theory" : pvs_send("(prove-theory)");
+	"prove-pvs-file" : pvs_send("(prove-pvs-file)");
+	"prove-importchain" : pvs_send("(prove-importchain)");
+	"prove-proofchain" : pvs_send("(prove-proofchain)");
+}
+
+Menu  PVSProofEdit {
+	Options Pin;
+	Title "Proof Editing"
+	"edit-proof" : pvs_send("(edit-proof)");
+	"install-proof" : pvs_send("(install-proof)");
+	"revert-proof" : pvs_send("(revert-proof)");
+	"remove-proof" : pvs_send("(remove-proof)");
+	"show-proof-file" : pvs_send("(show-proof-file)");
+	"show-orphaned-proofs" : pvs_send("(show-orphaned-proofs)");
+	"show-proofs-theory" : pvs_send("(show-proofs-theory)");
+	"show-proofs-pvs-file" : pvs_send("(show-proofs-pvs-file)");
+	"show-proofs-importchain" : pvs_send("(show-proofs-importchain)");
+	"install-pvs-proof-file" : pvs_send("(install-pvs-proof-file)");
+	"load-pvs-strategies" : pvs_send("(load-pvs-strategies)");
+	"set-print-depth" : pvs_send("(set-print-depth)");
+	"set-print-length" : pvs_send("(set-print-length)");
+	"set-rewrite-depth" : pvs_send("(set-rewrite-depth)");
+	"set-rewrite-length" : pvs_send("(set-rewrite-length)");
+}
+
+Menu  PVSProofInformation {
+	Options Pin;
+	Title "Proof Information"
+	"show-current-proof" : pvs_send("(show-current-proof)");
+	"explain-tcc" : pvs_send("(explain-tcc)");
+	"show-last-proof" : pvs_send("(show-last-proof)");
+	"ancestry" : pvs_send("(ancestry)");
+	"siblings" : pvs_send("(siblings)");
+	"show-hidden-formulas" : pvs_send("(show-hidden-formulas)");
+	"show-auto-rewrites" : pvs_send("(show-auto-rewrites)");
+	"show-expanded-sequent" : pvs_send("(show-expanded-sequent)");
+	"show-skolem-constants" : pvs_send("(show-skolem-constants)");
+}
+
+Menu  PVSDeclare {
+	Options Pin;
+	Title "Adding and Modifying Declarations"
+	"add-declaration" : pvs_send("(add-declaration)");
+	"modify-declaration" : pvs_send("(modify-declaration)");
+}
+
+Menu  PVSPrettyPrint {
+	Options Pin;
+	Title "Prettyprint"
+	"prettyprint-theory" : pvs_send("(prettyprint-theory)");
+	"prettyprint-pvs-file" : pvs_send("(prettyprint-pvs-file)");
+	"prettyprint-declaration" : pvs_send("(prettyprint-declaration)");
+	"prettyprint-region" : pvs_send("(prettyprint-region)");
+}
+
+Menu  PVSTCCs {
+	Options Pin;
+	Title "Viewing TCCs"
+	"show-tccs" : pvs_send("(show-tccs)");
+	"prettyprint-expanded" : pvs_send("(prettyprint-expanded)");
+}
+
+Menu  PVSFilesTheories {
+	Options Pin;
+	Title "Files and Theories"
+	"find-pvs-file" : pvs_send("(find-pvs-file)");
+	"find-theory" : pvs_send("(find-theory)");
+	"view-prelude-file" : pvs_send("(view-prelude-file)");
+	"view-prelude-theory" : pvs_send("(view-prelude-theory)");
+	"view-library-file" : pvs_send("(view-library-file)");
+	"view-library-theory" : pvs_send("(view-library-theory)");
+	"new-pvs-file" : pvs_send("(new-pvs-file)");
+	"new-theory" : pvs_send("(new-theory)");
+	"import-pvs-file" : pvs_send("(import-pvs-file)");
+	"import-theory" : pvs_send("(import-theory)");
+	"delete-pvs-file" : pvs_send("(delete-pvs-file)");
+	"delete-theory" : pvs_send("(delete-theory)");
+	"save-pvs-file" : pvs_send("(save-pvs-file)");
+	"save-some-pvs-files" : pvs_send("(save-some-pvs-files)");
+	"smail-pvs-files" : pvs_send("(smail-pvs-files)");
+	"rmail-pvs-files" : pvs_send("(rmail-pvs-files)");
+	"dump-pvs-files" : pvs_send("(dump-pvs-files)");
+	"undump-pvs-files" : pvs_send("(undump-pvs-files)");
+}
+
+Menu  PVSPrint {
+	Options Pin;
+	Title "Printing"
+	"pvs-print-buffer" : pvs_send("(pvs-print-buffer)");
+	"pvs-print-region" : pvs_send("(pvs-print-region)");
+	"print-theory" : pvs_send("(print-theory)");
+	"print-pvs-file" : pvs_send("(print-pvs-file)");
+	"print-importchain" : pvs_send("(print-importchain)");
+	"alltt-theory" : pvs_send("(alltt-theory)");
+	"alltt-pvs-file" : pvs_send("(alltt-pvs-file)");
+	"alltt-importchain" : pvs_send("(alltt-importchain)");
+	"alltt-proof" : pvs_send("(alltt-proof)");
+	"latex-theory" : pvs_send("(latex-theory)");
+	"latex-pvs-file" : pvs_send("(latex-pvs-file)");
+	"latex-importchain" : pvs_send("(latex-importchain)");
+	"latex-proof" : pvs_send("(latex-proof)");
+	"latex-theory-view" : pvs_send("(latex-theory-view)");
+	"latex-set-linelength" : pvs_send("(latex-set-linelength)");
+}
+
+Menu  PVSCommands {
+	Options Pin;
+	Title "Display Commands"
+	"x-theory-hierarchy" : pvs_send("(x-theory-hierarchy)");
+	"x-show-proof" : pvs_send("(x-show-proof)");
+	"x-show-current-proof" : pvs_send("(x-show-current-proof)");
+	"x-prover-commands" : pvs_send("(x-prover-commands)");
+}
+
+Menu  PVSContext {
+	Options Pin;
+	Title "Context"
+	"list-pvs-files" : pvs_send("(list-pvs-files)");
+	"list-theories" : pvs_send("(list-theories)");
+	"change-context" : pvs_send("(change-context)");
+	"save-context" : pvs_send("(save-context)");
+	"pvs-remove-bin-files" : pvs_send("(pvs-remove-bin-files)");
+	"pvs-dont-write-bin-files" : pvs_send("(pvs-dont-write-bin-files)");
+	"pvs-do-write-bin-files" : pvs_send("(pvs-do-write-bin-files)");
+	"context-path" : pvs_send("(context-path)");
+}
+
+Menu  PVSBrows {
+	Options Pin;
+	Title "Browsing"
+	"show-declaration" : pvs_send("(show-declaration)");
+	"find-declaration" : pvs_send("(find-declaration)");
+	"whereis-declaration-used" : pvs_send("(whereis-declaration-used)");
+	"list-declarations" : pvs_send("(list-declarations)");
+}
+
+Menu  PVSStatus {
+	Options Pin;
+	Title "Status"
+	"status-theory" : pvs_send("(status-theory)");
+	"status-pvs-file" : pvs_send("(status-pvs-file)");
+	"status-importchain" : pvs_send("(status-importchain)");
+	"status-importbychain" : pvs_send("(status-importbychain)");
+	"status-proof" : pvs_send("(status-proof)");
+	"status-proof-theory" : pvs_send("(status-proof-theory)");
+	"status-proof-pvs-file" : pvs_send("(status-proof-pvs-file)");
+	"status-proof-importchain" : pvs_send("(status-proof-importchain)");
+	"status-proofchain" : pvs_send("(status-proofchain)");
+	"status-proofchain-theory" : pvs_send("(status-proofchain-theory)");
+	"status-proofchain-pvs-file" : pvs_send("(status-proofchain-pvs-file)");
+	"status-proofchain-importchain" : pvs_send("(status-proofchain-importchain)");
+}
+
+Menu  PVSEnvironment {
+	Options Pin;
+	Title "Environment"
+	"whereis-pvs" : pvs_send("(whereis-pvs)");
+	"pvs-version" : pvs_send("(pvs-version)");
+	"pvs-mode" : pvs_send("(pvs-mode)");
+	"status-display" : pvs_send("(status-display)");
+	"pvs-status" : pvs_send("(pvs-status)");
+	"remove-popup-buffer" : pvs_send("(remove-popup-buffer)");
+	"pvs" : pvs_send("(pvs)");
+	"pvs-load-patches" : pvs_send("(pvs-load-patches)");
+	"pvs-interrupt-subjob" : pvs_send("(pvs-interrupt-subjob)");
+	"reset-pvs" : pvs_send("(reset-pvs)");
+}
+--------------------------------------------------------------------------------
+Menu  PVSExit {
+	Options Pin;
+	Title "Exiting"
+	"suspend-pvs" : pvs_send("(suspend-pvs)");
+	"exit-pvs" : pvs_send("(exit-pvs)");
+}
+
+Menu PVSMathSpad ;
+	Options Pin;
+	Title "PVS Link";
+	"Start"		: pvs_start("PVS Session");
+	"Send Selection": send_string("%1\n", "PVS Session");
+	"Check Hint"	: pvs_check_hint(1);
+	"Prove Hint"	: send_string("(pvs::lisp (ILISP:ilisp-restore))\n(prove-file-at \"hinttest0\" 8 nil \"pvs\" \"hinttest0.pvs\" 0 nil nil)\n","PVS Session");
+	"Exit"		: send_string("(pvs::lisp (ILISP:ilisp-restore))\n(pvs-errors (exit-pvs))\n", "PVS Session");
+}
+
+Menu PVS {
+	Options Pin;
+	Title "PVS"
+	"MathSpad" : PVSMathSpad ;
+	"Getting Help" : PVSHelp ;
+	"Editing PVS Files" : PVSEdit ;
+	"Parsing and Typechecking" : PVSParse ;
+	"Prover Invocation" : PVSProve ;
+	"Proof Editing" : PVSProofEdit ;
+	"Proof Information" : PVSProofInformation ;
+	"Adding and Modifying Declarations" : PVSDeclare ;
+	"Prettyprint" : PVSPrettyPrint ;
+	"Viewing TCCs" : PVSTCCs ;
+	"Files and Theories" : PVSFilesTheories ;
+	"Printing" : PVSPrint ;
+	"Display Commands" : PVSCommands ;
+	"Context" : PVSContext ;
+	"Browsing" : PVSBrows ;
+	"Status" : PVSStatus ;
+	"Environment" : PVSEnvironment ;
+	"report-pvs-bug" : pvs_send("(report-pvs-bug)");	
+	"Exiting" : PVSExit ;
+}

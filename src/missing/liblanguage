@@ -1,0 +1,52 @@
+
+
+Undefined symbols from language/.libs/liblanguage.so.0.0.0:
+
+    .umul
+    LocaletoUstr
+    Ustrcmp
+    Ustrcpy
+    Ustrdup
+    Ustrlen
+    UstrtoFilename
+    __ctype
+    __filbuf
+    __flsbuf
+    __iob
+    calloc
+    clear_keymap
+    define_keyrange
+    define_keysequence
+    dlclose
+    dlerror
+    dlopen
+    dlsym
+    exit
+    fclose
+    fopen
+    fprintf
+    free
+    fx_add
+    fx_clear
+    fx_copy
+    get_map
+    handle_key
+    int_cmp
+    malloc
+    memcpy
+    memset
+    myfree
+    mymalloc
+    myrealloc
+    parse_key
+    printf
+    push_keymap
+    realloc
+    set_translation
+    strcmp
+    strcpy
+    strlen
+    strncpy
+    strstr
+    strtol
+    toupper

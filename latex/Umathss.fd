@@ -1,0 +1,4 @@
+\ProvidesFile{Umathss.fd}[1994/10/24 Automatic Added Font mathss]
+\DeclareFontFamily{U}{mathss}{}
+\DeclareFontShape{U}{mathss}{m}{n}{ <-> mathss }{}
+\endinput

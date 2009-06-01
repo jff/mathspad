@@ -1,0 +1,28 @@
+% Macros for MathSpad manual.
+% Prints the version number and date at the foot of the page.
+% Head and foot material are separated from the text by a line.
+% To change the version number redefine mpVersionNo.
+
+\newlength{\widehead}\setlength{\widehead}{\textwidth}%
+\addtolength{\widehead}{-4pt}%%minus 2 times \mathsurround%
+\def\mpVersionNo{\strut\mplogo~~0.60}
+\def\ps@myheadings{%
+%\def\@oddfoot{$\overline{\makebox[\widehead]{\mpVersionNo\hfill\today}}$}%
+%\def\@evenfoot{$\overline{\makebox[\widehead]{\mpVersionNo\hfill\today}}$}%
+\def\@oddfoot{\parbox{\textwidth}{\hrulefill\\ \mpVersionNo\hfill\today}}%
+\def\@evenfoot{\parbox{\textwidth}{\hrulefill\\ \mpVersionNo\hfill\today}}%
+\def\@oddhead{\underline{\makebox[\textwidth]{\strut{\slshape\rightmark}\hfill\thepage}}}%
+\def\@evenhead{\underline{\makebox[\textwidth]{\strut\thepage\hfill\slshape\leftmark}}}%
+\let\@mkboth\@gobbletwo\let\chaptermark\@gobble\let\sectionmark\@gobble%
+}%
+\def\ps@plain%
+{\let\@mkboth\@gobbletwo%
+%\def\@oddfoot{$\overline{\makebox[\widehead]{\mpVersionNo\hfill\thepage\hfill\today}}$}%
+\def\@oddfoot{\parbox{\textwidth}{\hrulefill\\ \mpVersionNo\hfill\thepage\hfill\today}}%
+\let\@oddhead\@empty\let\@evenhead\@empty\let\@evenfoot\@oddfoot%
+}%
+
+% Put more space after section and subsection numbers in the contents
+\renewcommand{\l@section}{\@dottedtocline{1}{1.5em}{2.6em}}
+\renewcommand{\l@subsection}{\@dottedtocline{1}{4.1em}{3.2em}}
+

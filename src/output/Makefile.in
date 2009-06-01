@@ -1,0 +1,16 @@
+
+TOPSRCDIR = @top_srcdir@
+TOPOBJ    = .
+SRCDIR    = @srcdir@
+VPATH     = @srcdir@
+
+SOURCE = latexout.c 
+
+LIBRARIES = liboutput.la
+
+@MAKE_RULES@
+
+all:  liboutput.la
+
+liboutput.la: $(LTOBJECTS)
+	$(LINK) -o liboutput.la -rpath $(libdir) $(LTOBJECTS)

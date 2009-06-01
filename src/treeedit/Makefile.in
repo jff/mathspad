@@ -1,0 +1,20 @@
+
+TOPSRCDIR = @top_srcdir@
+TOPOBJ    = .
+SRCDIR    = @srcdir@
+VPATH     = @srcdir@
+
+SOURCEXX = editwindow.cc mark.cc marker.cc node.cc select.cc  editor.cc
+
+LIBRARIES = libtreeedit.la
+PROGRAMS = mathpad
+
+@MAKE_RULES@
+
+all: mathpad libtreeedit.la
+
+libtreeedit.la: $(LTOBJECTS)
+	$(LINKXX) -o libtreeedit.la -rpath $(libdir) $(LTOBJECTS)
+
+mathpad: libtreeedit.la mathpad.o
+	$(LINKXX) -o mathpad mathpad.o ../treeedit/libtreeedit.la ../windows/libwindows.la ../documents/libdocuments.la ../templates/libtemplates.la ../output/liboutput.la ../language/liblanguage.la ../keyboard/libkeyboard.la ../unicode/libunicode.la ../util/libutil.la $(XLIB)

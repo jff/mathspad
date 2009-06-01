@@ -1,0 +1,330 @@
+switch_textdots()	Toggle the dots around text place holders.
+insert_string(STR)	Insert the string argument at the cursor
+			position.
+set_message(STR)	Display a permanent message in the console window.
+insert_expression(N)	Insert an expression place holder. (N times)
+insert_display(N)	Insert a displayed expression place holder. (N times)
+insert_variable(N)	Insert a variable place holder. (N times)
+insert_identifier(N)	Insert an identifier place holder. (N times)
+insert_operator(N)	Insert an operator place holder (N times)
+insert_text(N)		Insert an text place holder. (N times)
+ungroup_region()	Ungroup the selected region, removing one structural
+			level.
+group_region()		Group the selected region, adding a structural level.
+rename_identifier()	Rename an identifier, respecting bounded variables.
+commute_expression()	Reverse the order of selected expressions and
+			operators.
+factorise_function()	Factorise a common function from the selected
+			expression.
+distribute_function()	Distribute a function over the selected expression.
+apply_function()	Apply a function to the selected expression.
+remove_parens()		Remove the parenthesis (does not include ungrouping)
+switch_parens()		Add or remove the parenthesis if it is save
+add_parens()		Add parenthesis around an expression (includes
+			grouping if necessary).
+copy_region()		Copy the selected region to the current position.
+swap_region()		Swap the two selected regions.
+remove_region()		Remove the selected region
+LaTeX_region(N)		Convert the selected region to LaTeX and make it
+			available to the window system.
+expression_up(N)	Move up in the expression tree
+expression_down(N)	Move down in the expression tree
+recenter()		Recenter the content of the window around the
+			current position.
+move_to_center()	Move the current position to the center of the window
+scroll_up(N)		Scroll the content one page up. (N times)
+scroll_down(N)		Scroll the content one page down. (N times)
+transpose_chars(N)	Interchange the character left of the cursor with
+			the character right of it and move the cursor one
+			position forward. (N times)
+transpose_words()	Interchange the word left of the cursor with the
+			word right of it and move the cursor one word
+			forward. (N times)
+goto_latex_line()	Go to a specific LaTeX line. (Prompts for the line
+			number in the console)
+beginning_of_line()	Go to the beginning of the current line.
+end_of_line()		Go to the end of the current line.
+previous_line(N)	Go to the end of the previous line. (N times)
+next_line(N)		Go to the beginning of the next line. (N times)
+backward_char(N)	Go one character backward. (N times)
+forward_char(N)		Go one character forward. (N times)
+beginning_of_buffer()	Go to the beginning of the document
+end_of_buffer()		Go to the end of the document
+forward_word(N)		Go one word forward. (N times)
+backward_word(N)	Go one word backward. (N times)
+delete_char(N)		Remove the character after the cursor, where
+			structures are treated as one character. (N times)
+backward_delete_char(N)	Remove the character before the cursor, where
+			structures are treated as one character. (N times)
+just_one_space()	Remove multiple occurances of characters if the
+			character to the left and right of the cursor
+			are equal.
+display_left(N)		Move a displayed expression to the left. (N times)
+display_right(N)	Move a displayed expression to the right. (N times)
+kill_line(N)		Remove everything after the cursor, up to the end
+			of the line and add it to the kill buffer.
+			Structures are treated as line separators. If the
+			next character is a line separator, it will be
+			removed and added to the kill buffer. (N times)
+make_project()		Open the file selector to save the current project.
+backward_kill_line(N)	Remove everything before the cursor, up to the
+			beginning of the line and add it to the kill
+			buffer. Structures are treated as line separators.
+			If the previous character is a line separator, it
+			will be removed and added to the kill buffer. (N times)
+kill_word(N)		Remove the next word and add it to the kill
+			buffer. (N times)
+backward_kill_word(N)	Remove the previous word and add it to the kill
+			buffer. (N times)
+kill_region()		Remove the selected region and add it to the kill
+			buffer.
+yank()			Insert the content of the kill buffer at the cursor
+			position.
+append_next_kill()	Append additional content to the current kill buffer.
+soft_newline()	Move to the next empty place holder or first text position after the current structure.
+insert_rtab(N)		Insert a tab character. (N times)
+newline(N)		Insert a newline. (N times)
+increase_spacing(N)	Increase the spacing around the selected
+			operator. (N times)
+decrease_spacing(N)	Decrease the spacing around the selected
+			operator. (N times)
+set_index_nr(N)		Set the index number of a place holder to N
+			(in the find and replace window).
+reset_spacing()		Reset the spacing around the selected operator
+			to the default value.
+insert_template(STR)	Insert the template with the given name.
+insert_version(N)	Insert the version with the give unique number
+			(as string argument)
+insert_version_string(STR)	Insert the version with the given unique number
+			(as string argument)
+next_version()		Switch to the next version of the selected template
+insert_selection()	Insert the selection from the window system.
+selection_callback()	insert_selection sends a request to the window
+			system. Use this function to handle the answer
+			from the window system.
+symbol_click()		Insert the symbol selected from the symbol window.
+template_click()	Insert the template selected from the template window.
+apply_selected_template()	Insert the template selected by the source
+				selection.
+set_save_time()		Set the time between two automatic saves.
+query_replace()		Start a query replace function. It will ask for two
+			strings.
+self_insert(CHAR,N)	Insert the pressed key (N times)
+next_node_insert(CHAR,N)
+			Inside text, the first argument is inserted (N times).
+			Inside an expression, the selection will move to the
+			next empty place holder or text position and insert
+			the first argument if possible.
+insert_list_element(CHAR,N)
+			Inside text, the first argument is inserted (N times).
+			Inside an expression, the first argument is inserted
+			after the expression and a new expression is inserted.
+open_parenthesis(CHAR,N)
+			Inside text the first argument is inserted (N times).
+			Inside an expression, a pair of parenthesis is added
+			to the selected expression.
+close_parenthesis(CHAR,N)
+			Inside text the first argument is inserted (N times).
+			Inside an expression, the selection is expanded until
+			is contains the closing parenthesis. If no closing
+			parenthesis is found the closing parenthesis is
+			inserted into the text.
+insert_symbol(CHAR,N)	Insert the symbol with the given number (N times).
+isearch_forward()	Start the incremental forward search. A keyboard map
+			named "search" is required.
+isearch_backward()	Start the incremental backward search.
+use_map(STR)		Switch to a different keyboard map.
+use_map_temporary(STR,LAZY1,LAZY2)
+			Switch temporary to a different keyboard map.
+reset_map()		Return to the default map.
+search_next()		Search for the next occurence. (incremental search)
+search_previous()	Search for the previous occurence. (incremental search)
+search_self_insert(CHAR,N)
+			Insert the first argument in the search string and
+			search for the next or previous occurence.
+			(incremental search)
+search_newline()	In an incremental search session, the search is ended
+			and the selection is left as it is.  In a query
+			replace session, either the search value is closed
+			and the replace value is started, or the search and
+			replace session is started.
+search_tab()		Insert a tab character in the search string.
+search_symbol()		Insert the symbol from the symbol window in the
+			search string.
+search_template()	Search for the template from the stencil window.
+search_remove_char()	Remove a character from the search string and/or go
+			back to the previously found occurence
+search_cancel()		Stop the incremental search and restore the selection
+			to the original position.
+search_stop()		Stop the incremental search and keep the selection as
+			is it.
+answer_yes()		Replace one match, as answer to the query replace
+			question.
+answer_no()		Skip to the next match, as answer to the query replace
+			question.
+answer_stop()		Stop the query replace.
+answer_cancel()		Stop the query replace and restore the selection.
+answer_all()		Replace all matches.
+new_editwindow()	Open a new edit window.
+new_stencilwindow()	Open a new stencil window.
+new_symbolwindow()	Open a new symbol window.
+open_findwindow()	Open the find and replace window.
+open_bufferwindow()	Open the buffer window.
+open_propertieswindow()	Open the properties window.
+close_findwindow()	Close the find and replace window.
+close_bufferwindow()	Close the buffer window.
+close_propertieswindow()
+			Close the properties window.
+swap_selections(N1,N2)	Swap two selections (without swapping the content).
+unset_selection(N)	Remove a selection (without removing the content).
+join_selections(N1,N2)	Join two selections.
+word_wrap_region(N)	Wrap around words in a region.
+start_program(PROG,TITLE)
+			Start a program with the output redirected to an
+			edit window.
+execute(STR)		Execute a system command.
+open_message_window(TITLE)
+			Open an edit window for a catagory of messages.
+add_message(TITLE,MESSAGE)
+			Add a message to a given message window.
+open_helpfile(NAME)	Open a given help document at a certain section
+			(using the URL # syntax)
+send_string(STR,TITLE)	Send a (formatted) string to a running program.
+save_project(NAME)	Save the current state in a project file.
+exit_mathspad()		Exit mathspad with notifications for modified
+			documents.
+quick_exit_mathspad()	Exit mathspad without notifications for modified
+			documents.
+open_console(X,Y,W,H,ICON)
+			Open the console window and start a mathspad session.
+open_fileselector(COMMENT,DIR,MASK,FILE,LAZY)
+			Open the file selector to select a file and call a
+			function.
+replace_structure()	Replace the found occurence of the structure from
+			the find window with the structure from the replace
+			window.
+replace_all_structure()	Replace all occurences of the structure from the
+			find window with the structure from the replace
+			window.
+find_previous_item()	Select the previous find&replace item.
+find_next_on_stack()	Select the next find&replace item.
+find_new_item()		Create a new find&replace item.
+find_clear_items()	Find an occurence of the structure from the find
+			and replace window.
+change_font()		Change the attribute of a font.
+      PROINTREFSTRSTRARG },
+read_mpk_file(STR)	Read an mpk file to update menus, call functions or
+			adjust the keyboard.
+
+pvs_start(TITLE)	Start the PVS system.
+pvs_check_hint(N)	Check the selected hint with PVS.
+pvs_add_keyword(WORD,ACTION,N)
+			Add a keyword to the list of keywords recognized in
+			a hint.
+symbol_new_page(TITLE,W,H)
+			Define a new symbol page, with the given name and size.
+symbol_range(TITLE,S,E)	Add a range of characters to the symbol page with
+			the given name.
+symbol_skip(TITLE,N)	Leave a number of postions open the symbol page with
+			the given name.
+symbol_add_selected(TITLE)
+			Add the selected symbol to the given symbol page.
+symbol_page(TITLE)	Goto the symbol page with the given name.
+symbol_up(N)		Move the symbol selection N rows up.
+symbol_down(N)		Move the symbol selection N rows down.
+symbol_left(N)		Move the symbol selection N columns left.
+symbol_right(N)		Move the symbol selection N columns right.
+
+
+D_insert_selection()	Insert the selection from the window system.
+D_transpose_char()	Exchange the characters left and right of the
+			cursor and move the cursor forward. Due to the
+			nesting of the special mark up, the function
+			might behave strange near such mark up.
+D_backward_char(N)	Move the cursor backwards (N times).
+D_forward_char(N)	Move the cursor forward (N times).
+D_newline()		Insert an end of line.
+D_soft_newline()	Insert a soft end of line.
+D_backward_delete_char(N)
+			Remove the character before the cursor (N times).
+D_delete_char(N)	Remove the character after the cursor (N times).
+D_kill_line()		Remove all the character up to the next end of
+			line or special mark up.
+D_insert_tab(N)		Insert a tab character (N times).
+D_insert_backtab(N)	Insert the markup to tab backwards (N times).
+D_insert_settab(N)	Insert the markup to set a tab (N times).
+D_insert_expression(N)	Insert an expression place holder with index N.
+D_insert_operator(N)	Insert an operator place holder with index N.
+D_insert_identifier(N)	Insert an identifier place holder with index N.
+D_insert_text(N)	Insert an text place holder with index N.
+D_insert_variable(N)	Insert an variable place holder with index N.
+D_beginning_of_line()	Go to the beginning of the line.
+D_next_line(N)		Go to the next formatting string.
+D_previous_line(N)	Go to the previous formatting string.
+D_end_of_line()		Go to the end of the line.
+D_move_version_down()	Move the current version down.
+D_move_version_up()	Move the current version up.
+D_move_version_first()	Move the current version to the first position.
+D_move_version_last()	Move the current version to the last position
+D_move_template_left()	Move the selected template left or up (in the
+			stencil window).
+D_move_template_right()	Move the selected template right or down (in the
+			stencil window).
+D_move_template_begin()	Move the selected template to the first position
+			(in the stencil window).
+D_move_template_end()	Move the selected template to the last position
+			(in the stencil window).
+D_switch_tabmode()	Toggle the display mode: visible mark up codes
+			versus interpreted mark up codes.
+insert_selection()	Insert the selection from the window system.
+D_set_precedence(N)	Set the precedence for the current template.
+D_set_spacing(N)	Set the default spacing for the current template.
+D_set_kind(N)		Set the kind of operator for the current template.
+D_symbol_click()	Insert the symbol selected from the symbol window.
+D_insert_symbol(CHAR,N)	Insert the symbol with a given code (N times).
+D_insert_template(NAME)	Insert a version from a template with a given name.
+D_selected_template()	Insert the template selected from a document.
+D_template_click()	Insert the template selected form a stencil window.
+D_self_insert(CHAR,N)	Insert the given character (N times).
+D_insert_glue_space(N)	Insert the mark up for a stretching space (N times).
+D_insert_glue_line(N)	Insert the mark up for a stretching horizontal
+			line (N times).
+D_insert_glue_stipple(N)
+			Insert the mark up for a stretching stipple
+			line (N times).
+D_insert_font(N)	Insert the mark up for changing the font.
+D_insert_size(N)	Insert the mark up for changing to an absolute
+			fontsize.
+D_insert_relative_size(N)
+			Insert the mark up for changing the fontsize
+			relatively.
+D_insert_markup(BEFORE,AFTER)
+			Insert two markup strings, one before the cursor,
+			one after.
+D_clear_window()	Clear the define window.
+D_delete_version()	Remove the current version.
+D_toggle_latexmode()	Change the LaTeX mode to be used.
+D_automatic_output()	Restore the automatically generated output for the
+			current format.
+
+StringPasteSel()	To insert the selection from the window system in
+			the current string. It should be called after the
+			selection is requested from the window system.
+S_next_field()		Move to the next input field.
+S_prev_field()		Move to the previous input field.
+S_delete_char(N)	Remove the N characters after the cursor.
+S_kill_line()		Remove everything after the cursor.
+S_backward_delete_char(N)
+			Remove the N characters before the cursor.
+S_backward_kill_line()	Remove all the characters before the cursor.
+S_backward_char(N)	Move N characters backward.
+S_forward_char(N)	Move N characters forward.
+S_previous_line()	Move to the previous input field (with the cursor
+			at a simular position).
+S_next_line()		Move to the next input field (with the cursor at
+			a simular position).
+S_beginning_of_line()	Move to the start of the input field.
+S_end_of_line()		Move to the end of the input field.
+S_insert_selection()	Insert the selection from the window system.
+S_self_insert(CHAR,N)	Insert the pressed key N times.
+S_insert_symbol()	Insert the selected symbol.

@@ -1,0 +1,19 @@
+
+TOPSRCDIR = @top_srcdir@
+TOPOBJ    = .
+SRCDIR    = @srcdir@
+VPATH     = @srcdir@
+
+
+DATAFILES = ispellscript latexscript maplescript mapleshow \
+		previewscript printscript MAGscript MAGtest
+DATAMODE = -m 755
+
+datasubdir = /bin
+
+
+@MAKE_RULES@
+
+
+all: 
+

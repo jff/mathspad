@@ -1,0 +1,13 @@
+
+TOPSRCDIR = @top_srcdir@
+TOPOBJ    = .
+SRCDIR    = @srcdir@
+VPATH     = @srcdir@
+
+@MAKE_RULES@
+
+all: 
+	sed -e 's#@DATADIR@#$(datadir)#g' -e 's#@LIBDIR@#$(libdir)#g' < mpconfig.h.in > mpconfig.h
+
+mpconfig.h: mpconfig.h.in
+	sed -e 's#@DATADIR@#$(datadir)#g' -e 's#@LIBDIR@#$(libdir)#g' < mpconfig.h.in > mpconfig.h

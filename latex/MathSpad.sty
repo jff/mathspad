@@ -1,0 +1,795 @@
+%  File: MathSpad.sty
+%
+%  This file contains the display environment used when converting displayed 
+%  expressions in MathSpad to LaTeX. It also contains an environment for 
+%  setting tables in the MathSpad manual and default values for the output 
+%  produced by empty place holders.
+%
+%  The display environment is a modified tabbing environment with 4 arguments.
+%  The arguments have the following functions:
+%
+%  1:  unit size of a micro space, used for operators.
+%  2:  size of a fixed tab, used in a fixed tab.
+%  3:  size of the space between the lines.
+%  4:  number of tab positions forming the left margin.
+%
+%  The modifications to the standard LaTeX tabbing environment are:
+%  - The tab is replaced by a fixed tab. A fixed tab will check whether
+%    the next tab position is defined and perform a normal tab if it is.
+%    Otherwise a hskip and a settab are used.
+%  - The position to start the current line (\dimen\@curtabpos) is
+%    constantly saved in \@MPcurtabsave. This is done to make sure that
+%    the margin can be moved inside a pushtabs/poptabs combination in a safe
+%    way.
+%  - To ensure that \@curtab<=\@hightab poptab has been changed to check this.
+%  - To be able to continue to  use the standard LaTeX tabbing environment,
+%    the modified  pushtabs, poptabs and kill have been given the names push
+%    pop and MPkill.
+%   
+%
+%  Some commands had to be copied another name to add the changes.
+% 
+
+
+\newlength\@MPspace         %  micro space
+\newlength\@MPtabsize       %  fixed tab size
+\newlength\@MPaddedskip     %  size between two lines
+\newcount\@MPteller         %  counter to initiate the environment with tabs
+\newdimen\@MPcurtabsave     %  starting position of current line
+
+\newbox\@MPlabelsave
+\newif\if@MPlabelset
+\def\mplabel#1{\refstepcounter{equation}\label{#1}%
+\global\setbox\@MPlabelsave\hbox{\rm (\ref{#1})}\global\@MPlabelsettrue}
+\def\@MPstartline{\global\@curtabmar\@nxttabmar \relax
+    \global \@MPcurtabsave\dimen\@curtabmar     % added curtabsave
+    \global \@curtab\@curtabmar\global\setbox\@curline\hbox{}
+    \@startfield\strut}
+\def\@MPstopline{\unskip\@stopfield\if@MPlabelset{\global\@MPlabelsetfalse
+    \@tempdima\@MPcurtabsave
+    \advance\@tempdima -\wd\@MPlabelsave
+    \global\setbox\@curline\hbox{\unhbox\@MPlabelsave\hskip\@tempdima\unhbox\@curline}
+    \global\@MPcurtabsave\z@}\else\fi
+    \if@rjfield \global \@rjfieldfalse
+    \@tempdima\@totalleftmargin \advance\@tempdima\linewidth
+    \hbox to\@tempdima{\@itemfudge\hskip\@MPcurtabsave   % added curtabsave
+    \box\@curline\hfil\box\@curfield}\else\@addfield
+    \hbox{\@itemfudge\hskip\@MPcurtabsave\box\@curline}\fi}
+\def\@MPtabcr{\@MPstopline\@ifstar{\penalty \@M \@MPxtabcr}{\@MPxtabcr}}
+\def\@MPxtabcr{\@ifnextchar[{\@MPitabcr}{\@MPstartline\ignorespaces}}
+\def\@MPitabcr[#1]{\vskip #1\@MPstartline\ignorespaces}
+\def\MPkill{\@stopfield\@MPstartline\ignorespaces}
+\def\@MPrtab{\@stopfield\@addfield\ifnum \@curtab<\@hightab 
+    \global\advance\@curtab\@ne\else\@badtab\fi
+    \@tempdima\dimen\@curtab
+    \advance\@tempdima -\@MPcurtabsave                % added curtabsave
+    \advance\@tempdima -\wd\@curline
+    \global\setbox\@curline\hbox{\unhbox\@curline\hskip\@tempdima}
+    \@startfield\ignorespaces}
+\def\@MPsettab{\@stopfield\@addfield\ifnum \@curtab < \@maxtab
+    \global\advance\@curtab \@ne \else\@latexerr{Tab overflow}\@ehd\fi
+    \ifnum\@curtab > \@hightab
+    \@hightab\@curtab\fi
+    \dimen\@curtab\@MPcurtabsave                      % added curtabsave
+    \advance\dimen\@curtab \wd\@curline\@startfield\ignorespaces}
+\def\@MPltab{\@ifatmargin\ifnum\@curtabmar>\@firsttab
+    \global\advance\@curtab\m@ne \global\advance\@curtabmar\m@ne
+    \global\@MPcurtabsave\dimen\@curtabmar \else      % added curtabsave
+    \@badtab\fi\else
+    \@latexerr{\string\<\space in mid line}\@ehd\fi\ignorespaces}
+\def\@MPtab{\ifnum \@curtab<\@hightab \@MPrtab \else 
+    \hspace{\@MPtabsize}\@MPsettab \fi}       % fixed tab (tab or (move,set))
+\def\MPinitab#1{\ifnum \@MPteller<#1 \>\+\global\advance\@MPteller\@ne \MPinitab#1\fi}
+    % set #1 - \@MPteller  tab positions on a fixed position and move the
+    % left margin to the last tab.
+\def\pop{\@stopfield\@addfield\ifnum\@tabpush > \z@
+     \endgroup
+     \global\advance\@tabpush \m@ne
+     \ifnum\@curtab > \@hightab \global\@curtab\@hightab \else \fi \else
+     \@badpoptabs\fi\@contfield}               % \@curtab adjustment
+\def\push{\@stopfield\@addfield\global\advance\@tabpush \@ne \begingroup
+     \@contfield}
+\@definecounter{mathpadcount}
+%
+%  To add microspacing around operators. The current version does not
+%  work well in combination with size changes (subscripts, large, small)
+%  The alternative version uses mathchoice and is therefore very slow.
+%
+\def\ms#1{\hspace*{#1\@MPspace}}
+\def\setms#1{\global\setlength{\@MPspace}{#1}}
+%
+%  The alternative version for \ms and \setms. It uses a rather complicated
+%  way to enable things like \setms{0.15ex}, where the size depends on the
+%  place where \ms{i} is used.
+%
+%  \newlength\@MPspace       %  micro space
+%  \newlength\@MPmsdef
+%  \def\MPval{5pt}
+%  \def\ms#1{\setlength{\@MPmsdef}{\MPval}\ifmmode{\mathchoice{%
+%  \setlength{\@MPspace}{1.3\@MPmsdef}\hspace*{#1\@MPspace}}{%
+%  \setlength{\@MPspace}{\@MPmsdef}\hspace*{#1\@MPspace}}{%
+%  \setlength{\@MPspace}{0.7\@MPmsdef}\hspace*{#1\@MPspace}}{%
+%  \setlength{\@MPspace}{0.4\@MPmsdef}\hspace*{#1\@MPspace}}}%
+%  \else% in  textmode
+%  \setlength{\@MPspace}{\@MPmsdef}\hspace*{#1\@MPspace}%
+%  \fi}
+%  \def\setms#1{\def\MPval{#1}}
+%
+\def\mpdisplay#1#2#3#4{\def\next{#1}\ifx\next\empty\else
+        \def\MPval{#1} % if alternative microspacing is used
+        \setlength{\@MPspace}{#1}\fi\setlength{\@MPtabsize}{#2}
+        \global\setlength{\@MPaddedskip}{#3}
+        \vspace{-\@MPaddedskip}
+        \global\@MPteller\z@
+        \lineskip \z@\let\>\@MPtab\let\<\@MPltab\let\=\@MPsettab
+        \let\+\@tabplus\let\-\@tabminus\let\`\@tabrj\let\'\@tablab
+        \let\\=\@MPtabcr\let\pushtabs\push\let\poptabs\pop\let\kill\MPkill
+        \global\@hightab\@firsttab
+        \global\@nxttabmar\@firsttab
+        \dimen\@firsttab\@totalleftmargin
+        \global\@tabpush0 \global\@rjfieldfalse
+        \trivlist
+        \refstepcounter{mathpadcount}
+        \addtolength{\baselineskip}{\@MPaddedskip}
+        \item[]\if@minipage\else\vskip\parskip\fi
+        \setbox\@tabfbox\hbox{\rlap{\indent\hskip\@totalleftmargin
+        \the\everypar}}\def\@itemfudge{\box\@tabfbox}\@MPstartline\ignorespaces
+        \MPinitab#4\ignorespaces}
+       % \addtolength added after \trivlist to change the \baselineskip 
+       % without changing it outside the proof environment
+\def\endmpdisplay{\addtolength{\baselineskip}{-\@MPaddedskip}\@MPstopline
+        \ifnum\@tabpush > 0 \@badpoptabs \fi\endtrivlist}
+       %  \addtolength at to change it back  (inside mpdisplay)
+%
+% Define mptabbing in terms of mpdisplay to avoid the LaTeX tabbing bug, e.g.
+%
+% text \pushtabs\=\+New left margin\\
+%                   A second line\-\poptabs\\
+%
+% will look like                  instead of
+%
+% text New left margin            text New left margin
+% A second line                        A second line
+%
+\def\mptabbing{\mpdisplay{}{0pt}{0pt}{0}}
+\def\endmptabbing{\endmpdisplay}
+
+% The mantable environment. The argument specifies the width of the margin.
+% If the label gets to wide, the text will be placed on a new line. Otherwise
+% the text will start at the position where the margin is set.
+\def\mantablelabel#1{\setbox\@tempboxa\hbox{\bf #1}%
+  \ifdim \wd\@tempboxa>\labelwidth%
+    \hbox to \labelwidth{%
+      \vbox{%
+        \hbox to 0pt{\unhbox\@tempboxa\hss}%
+        \hbox to 0pt{\hfil}}%
+        \hfil}%
+    \else%
+      \unhbox\@tempboxa\hfil\relax
+  \fi}
+\def\mantable#1{\list{}{%
+    \leftmargin #1
+    \rightmargin 0pt
+    \labelwidth #1
+    \labelsep 0pt
+    \let\makelabel\mantablelabel}}
+\let\endmantable\endlist
+\let\endmantabel\endlist
+\let\mantabel\mantable
+\def\stillinput#1{\openin1 #1 \ifeof1 \typeout
+    {No file #1.}\else\closein1 \relax \input #1 \fi}
+%
+%
+%  Default output produced by empty place holders.  
+%
+\def\mpT{{\mbox{\bfseries T}}}
+\def\mpE{{\mbox{\bfseries E}}}
+\def\mpV{{\mbox{\bfseries V}}}
+\def\mpI{{\mbox{\bfseries I}}}
+\def\mpO{{\mbox{\bfseries O}}}
+\def\mpD{{\mbox{\bfseries D}}}
+\def\mpN#1{{\mbox{\bfseries #1}}}
+%
+%
+%  Originally in mpmacros.tex.
+%
+% INDEX MACROS (5th April 1995)
+%
+% This is rather messy. \index can not be used as part of a command, so
+% \MPindex has the same restriction.
+%
+\newif\ifMPempty
+%
+% Define \mpTplain as the macro  \mpT
+%
+\def\mpTplain{\mpT }
+%
+%
+% \MPtest
+%         Test if #1 is equal to \mpT (the macro)
+%         \ifMPempty can be used to check the result .
+%
+\def\MPtest#1{\def\mpTtest{#1}\ifx\mpTtest\mpTplain\MPemptytrue\else%
+\MPemptyfalse\fi}
+%
+%
+% INDEX MACROS (release 0.51 onwards)
+%
+% \MPIndex has seven arguments. The arguments are parsed to make a correct
+% index entry.
+%
+% Arguments: sortkey, subsortkey, subsubsortkey,
+%            visualkey,pagerangestart (, pagenumberfont, pagerangeend )
+%
+\def\MPIndex#1#2#3#4#5#6#7{%
+\def\MParg{}%
+\MPtest{#7}\ifMPempty%
+  \MPtest{#5}\ifMPempty%
+    \MPtest{#6}\ifMPempty%
+      \def\MParg{}%
+    \else%
+      \def\MParg{|#6}%
+    \fi%
+  \else%
+    \MPtest{#6}\ifMPempty%
+      \def\MParg{|#5}%
+    \else%
+      \def\MParg{|#5#6}%
+    \fi%
+  \fi%
+\else%
+  \def\MParg{|#7}%
+\fi%
+\MPMakeEntry{#1}{#2}{#3}{#4}%
+}%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%****************************SEE OTHER ENTRY******************************
+%
+% \MPIndexSee has five arguments. The last argument should be the entry to
+% point to. The first four arguments have the same meaning as in \MPindexnew
+%
+%  Arguments: sortkey, subsortkey, subsubsortkey,
+%             visualkey,see other item.
+%
+\def\MPIndexSee#1#2#3#4#5{%
+\MPtest{#5}\ifMPempty%
+  \def\MParg{}%
+\else%
+  \def\MParg{|see{#5}}%
+\fi%
+\MPMakeEntry{#1}{#2}{#3}{#4}%
+}%
+%
+% Make an index entry with the four key arguments of \MPindex and \MPindexS
+% and add the \MParg value at the end.
+%
+%%%%%%%%%%%%% version from release 0.51 onwards
+\def\MPMakeEntry#1#2#3#4{%
+\MPtest{#4}\ifMPempty%
+  %no visualcode-----------------------------------------
+  \MPtest{#2}\ifMPempty%%
+    %no sublevel to entry and hence no subsublevel--encap?
+    \def\MPentry{#1}%
+  \else%
+    %sublevel to entry-----------------------------
+    \MPtest{#3}\ifMPempty%
+      %sub but no subsub level to entry--encap?
+      \def\MPentry{#1!#2}%
+    \else%
+      %sub and subsublevel to entry--encap?
+      \def\MPentry{#1!#2!#3}%
+    \fi%
+  \fi%
+\else%
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  %visualcode-----------------------------------------------
+  \MPtest{#2}\ifMPempty%
+    %no sublevel to sortcode and hence no subsublevel--encap?
+    \def\MPentry{#1@#4}%
+  \else%
+    %sublevel to sortcode------------------------------
+    \MPtest{#3}\ifMPempty%
+      %no subsublevel to sortcode--encap?
+      \def\MPentry{#1!#2@#4}%
+    \else%
+      %subsublevel to sortcode---encap?
+      \def\MPentry{#1!#2!#3@#4}%
+    \fi%
+  \fi%
+\fi%
+\edef\MPfentry{\expandafter\MPstrip\meaning\MPentry\expandafter\MPstrip\meaning\MParg}%
+\index{\MPfentry}%
+}%
+\def\MPstrip#1>{}
+%
+% Temporarily for old templates.
+%
+\let\mpindexnewS=\MPIndexSee
+\let\mpindexnew=\MPIndex
+%
+%
+%  For the old \mpindex macros, which use more arguments.
+%
+% \mpindex:
+%
+% Arguments: sortkey, subsortkey, subsubsortkey,
+%            visualkey, visualsubkey, visualsubsubkey,
+%            pagerangestart (, pagenumberfont, pagerangeend )
+%
+\def\mpindex#1#2#3#4#5#6#7#8#9{
+\MPtest{#6}\ifMPempty%
+  \MPtest{#5}\ifMPempty%
+     \MPIndex{#1}{#2}{#3}{#4}{#7}{#8}{#9}
+  \else%
+     \MPIndex{#1}{#2}{#3}{#5}{#7}{#8}{#9}
+  \fi%
+\else%
+  \MPIndex{#1}{#2}{#3}{#6}{#7}{#8}{#9}
+\fi%
+}
+%
+% \mpindexS:
+%
+%  Arguments: sortkey, subsortkey, subsubsortkey,
+%             visualkey, visualsubkey, visualsubsubkey,
+%             see other item.
+%
+\def\mpindexS#1#2#3#4#5#6#7{
+\MPtest{#6}\ifMPempty%
+  \MPtest{#5}\ifMPempty%
+     \MPIndexSee{#1}{#2}{#3}{#4}{#7}
+  \else%
+     \MPIndexSee{#1}{#2}{#3}{#5}{#7}
+  \fi%
+\else%
+  \MPIndexSee{#1}{#2}{#3}{#6}{#7}
+\fi%
+}
+%
+% MISCELLANEOUS MACROS FOR SPEC STENCIL
+%
+\def\MPfillbreak{\hfil\break}
+\def\MPvskip[#1]{\ignorespaces}
+\def\MPvspace[#1]{\vspace{#1}\MPfillbreak\ignorespaces}
+\def\MPvs{%
+\ifx\MPmnllet[%
+   \ifvmode%
+      \let\MPmnllet=\MPvskip%
+   \else%
+      \let\MPmnllet=\MPvspace%
+   \fi%
+\else%
+   \ifvmode%
+      \let\MPmnllet=\empty%
+   \else%
+      \let\MPmnllet=\MPfillbreak%
+   \fi%
+\fi%
+\MPmnllet}
+\newcommand{\mnl}{\futurelet\MPmnllet\MPvs}
+\newcommand{\MPdstar}{{\star}}
+\newcommand{\MPraisebox}[2]{\mbox{\mathsurround=0pt\raisebox{#1}{#2}}}
+%\newcommand{\bigsqcap}{\MPraisebox{0pt}{\large $\sqcap$}}
+\newcommand{\MPsimulates}{\stackrel{>}{\sim}}
+\newcommand{\MPismodelof}{\stackrel{<}{\sim}}
+\newcommand{\MPplus}{{+}}
+\newcommand{\MPtimes}{{\times}}
+\newcommand{\MPsplit}{\MPraisebox{.3ex}{{$\scriptscriptstyle \bigtriangleup$}}}
+\newcommand{\MPcosplit}{\MPraisebox{.3ex}{{$\scriptscriptstyle \blacktriangle$}}}
+\newcommand{\MPjunc}{\MPraisebox{.3ex}{{$\scriptscriptstyle \bigtriangledown$}}}
+\newcommand{\MPcojunc}{\MPraisebox{.3ex}{{$\scriptscriptstyle \blacktriangledown$}}}
+\newcommand{\MPinl}{{\hookrightarrow}}
+\newcommand{\MPinr}{{\hookleftarrow}}
+\newcommand{\MPmedsim}{\mbox{\large $\sim$}}
+\newcommand{\MPlargesim}{\mbox{\Large $\sim$}}
+\newcommand{\MPnatsim}{\stackrel{.}{\sim}}
+\newcommand{\MPleftrel}{{\MPraisebox{.3ex}{{$\scriptscriptstyle <$}}\hspace*{-6.5pt}\sim}}
+\newcommand{\MPrightrel}{{\sim\hspace*{-6.5pt}\MPraisebox{.3ex}{{$\scriptscriptstyle >$}}}}
+\newcommand{\MPtransform}{\MPraisebox{.3ex}{$\scriptscriptstyle <$}\hspace*{-6.5pt}\sim\hspace*{-6.5pt}\MPraisebox{.3ex}{$\scriptscriptstyle >$}}
+\newcommand{\MPnatrightrel}{\stackrel{.}{\MPrightrel}}
+%\newcommand{\MPnatleftarrow}{\stackrel{.}{\leftarrow}}
+\newcommand{\MPnatleftright}{\stackrel{.}{\MPtransform}}
+\newcommand{\MPnatleftrel}{\stackrel{.}{\MPleftrel}}
+\newcommand{\MPdubarrow}{\mbox{\mathsurround=0pt$\rightarrow\!\!\!\!\!\rightarrow$}}
+\newcommand{\MPdublarrow}{\mbox{\mathsurround=0pt$\leftarrow\!\!\!\!\!\leftarrow$}}
+
+%
+% for spec stencil
+%
+\newcommand{\MPldomsym}{\MPraisebox{0.6mm}{$\scriptscriptstyle{<}$}}
+\newcommand{\MPrdomsym}{\MPraisebox{0.6mm}{$\scriptscriptstyle{>}$}}
+\newcommand{\MPldom}[1]{#1\MPldomsym}
+\newcommand{\MPrdom}[1]{#1\MPrdomsym}
+\newcommand{\MPrdomneg}{\MPrdomsym\hspace{-0.15em}\MPraisebox{.2ex}{${\scriptstyle\bullet}$}}
+\newcommand{\MPldomneg}{\MPraisebox{.2ex}{${\scriptstyle\bullet}$}\hspace{-0.15em}\MPldomsym}
+\newcommand{\MPleqdomsym}{\MPraisebox{0.6mm}{$\scriptscriptstyle{\ll}$}}
+\newcommand{\MPreqdomsym}{\MPraisebox{0.6mm}{$\scriptscriptstyle{\gg}$}}
+\newcommand{\MPleqdom}[1]{#1\MPleqdomsym}
+\newcommand{\MPreqdom}[1]{#1\MPreqdomsym}
+\newcommand{\MPcomp}{\MPraisebox{.2ex}{$\scriptstyle\circ$}}
+\newcommand{\MPfncomp}{\MPraisebox{0.5mm}{$\scriptstyle\bullet$}}
+\newcommand{\MPmedfncompose}{\MPraisebox{0.5mm}{$\:{\scriptstyle\bullet}\:$}}
+\newcommand{\MPlparbrack}{\MPhoml}
+\newcommand{\MPrparbrack}{\MPhomr}
+%\newcommand{\MPlparbrack}{\mathopen{( \mkern -4mu [}}
+%\newcommand{\MPrparbrack}{\mathclose{] \mkern -4mu )}}
+\def\MPlbrackpar{\mathopen{{{\Overlay{\lfloor}{\lceil}}\mkern-5mu{(}}}}%   % [(
+\def\MPrbrackpar{\mathclose{{{)}\mkern-5mu{\Overlay{\rfloor}{\rceil}}}}}
+\newcommand{\MPCata}[2]{{\MPlparbrack {#1} ;~ {#2} \MPrparbrack}}
+\newcommand{\MPcata}[1]{{\MPlparbrack {#1} \MPrparbrack}} 
+\newcommand{\MPAna}[2]{{\MPlbrackpar {#1} ;~ {#2} \MPrbrackpar}} 
+\newcommand{\MPana}[1]{{\MPlbrackpar {#1} \MPrbrackpar}}
+\newcommand{\MPeqhat}{\widehat{=}}
+\newcommand{\MPappend}{\mathbin{+\!\!\!+}}
+
+\ifx\Theorem\undefined \newtheorem{Theorem}[equation]{Theorem} \fi
+\ifx\Definition\undefined \newtheorem{Definition}[equation]{Definition} \fi
+\ifx\Lemma\undefined \newtheorem{Lemma}[equation]{Lemma} \fi
+\ifx\Axiom\undefined \newtheorem{Axiom}[equation]{Axiom} \fi
+\ifx\Remark\undefined \newtheorem{Remark}[equation]{Remark} \fi
+\ifx\Corollary\undefined \newtheorem{Corollary}[equation]{Corollary} \fi
+\ifx\Exercise\undefined \newtheorem{Exercise}[equation]{Exercise} \fi
+\ifx\Example\undefined \newtheorem{Example}[equation]{Example} \fi
+\ifx\defi\undefined \newtheorem{defi}[equation]{} \fi
+
+\newcommand{\MPplatbottom}{\bot\hspace*{-4pt}\bot}
+\newcommand{\MPplattop}{\top\hspace*{-4pt}\top}
+\newcommand{\MPrev}{\MPraisebox{0.5mm}{$\scriptscriptstyle\cup$}}
+
+\newcommand{\MPdefeq}{\MPraisebox{.4ex}{$\scriptstyle\underline{\bigtriangleup}$}}
+\newcommand{\MPctilde}{\MPraisebox{-.6ex}{${\;\tilde{}\;}$}}
+\newcommand{\MPcross}{\mbox{\mathsurround=0pt\large $\times$}}
+\newcommand{\MPcbar}{\mbox{--}}
+\newcommand{\MPthinbox}{[\hspace{-1pt}]}
+\newcommand{\MPBool}{{\mathsf{I\!B}}}
+\newcommand{\MPInt}{{\mathsf{Z\hspace{-4pt}Z}}}
+\newcommand{\MPOne}{{\mathsf{1\!\!1}}}
+\newcommand{\MPReal}{{\mathsf{I\!R}}}
+\newcommand{\MPNat}{{\mathsf{I\! N}}}
+\newcommand{\MPparopen}{(\!|}
+\newcommand{\MPparclose}{|\!)}
+\newcommand{\MPdopen}{[\![}
+\newcommand{\MPdclose}{]\!]}
+\newcommand{\MPhoml}{\mbox{(\hspace*{-2.2pt}[}}
+\newcommand{\MPhomr}{\mbox{]\hspace*{-2.2pt})}}
+\newcommand{\MPsqopen}{|\hspace{-1pt}[}
+\newcommand{\MPsqclose}{]\hspace{-1pt}|}
+\newcommand{\MPlang}{\MPraisebox{.5ex}{\scriptsize${<}$}}
+\newcommand{\MPrang}{\MPraisebox{.5ex}{\scriptsize${>}$}}
+\newcommand{\MPfst}{\MPraisebox{.2ex}{\scriptsize${\ll}$}}
+\newcommand{\MPsnd}{\MPraisebox{.2ex}{\scriptsize${\gg}$}}
+\newcommand{\MPtherefore}{{\stackrel{\textstyle.}{{.}\,{.}}}}
+\newcommand{\MPrightstack}[1]{\stackrel{~#1~}{\mbox{\rightarrowfill}}}
+\newcommand{\MPleftstack}[1]{\stackrel{~#1~}{\mbox{\leftarrowfill}}}
+
+\newlength{\MPjojo}
+\newcommand{\MPOverlay}[2]{\mathsurround=0pt\settowidth{\MPjojo}{\mbox{$#1$}}
+\makebox[\MPjojo]{\makebox[0cm]{$#1$}\makebox[0cm]{$#2$}}}
+\def\MPlbrackpar{\mathopen{{{\MPOverlay{\lfloor}{\lceil}}\mkern-5mu{(}}}}%   % [(
+\def\MPrbrackpar{\mathclose{{{)}\mkern-5mu{\MPOverlay{\rfloor}{\rceil}}}}}
+%
+%  Item separation macros.  (6th December 1995)
+%
+% The following macros have been written so that users of MathSpad do not 
+% themselves have to separate items in a list by ``\\''.  The macro
+% \MPinsertsep does it automatically.  Specifically, in a list of items,
+% ``\\\empty''  (``\\'' --the TeX command for a new line-- followed by
+% ``\empty'' --the TeX command for an empty string, included in order to
+% avoid problems if the next line begins with ``[''-- )
+% is inserted *between* consecutive items.  See the
+% templates EqnArray, Tabbing, and Array for examples of their use.
+\def\MPnewitem{\empty}%
+\def\MPinsc{\ifx\MPinspar\MPnewitem%
+\let \MPsep=\\\empty \else \let\MPsep=\empty\fi%
+ \MPsep}%
+\def\MPinsertsep{\futurelet\MPinspar\MPinsc}%
+%
+%
+%  Define \Alpha, \Beta .. for missing macros as their roman equivalent
+%
+\def\MPdefgreek#1#2{%
+\ifx#1\undefined \def#1{{\mathrm{#2}}}\fi}
+\MPdefgreek{\Alpha}{A}
+\MPdefgreek{\Beta}{B}
+\MPdefgreek{\Chi}{X}
+\MPdefgreek{\Epsilon}{E}
+\MPdefgreek{\Eta}{H}
+\MPdefgreek{\Iota}{I}
+\MPdefgreek{\Kappa}{K}
+\MPdefgreek{\Mu}{M}
+\MPdefgreek{\Nu}{N}
+\MPdefgreek{\Omicron}{O}
+\MPdefgreek{\Rho}{P}
+\MPdefgreek{\Tau}{T}
+\MPdefgreek{\Zeta}{Z}
+%
+% General fallback macro for missing Unicode symbols.
+% It puts the hexadecimal number in a 2x2 matrix with a stackrel.
+% It is mode independent, so it should work always.
+%
+% Macros:
+% \MPUU combines four characters in a 2x2 matrix using stackrel.
+% \MPI converts one argument into four.
+% \MPU protects \MPI with a \protect.
+%
+% \MPU{06BD} is used in TeX files.
+% \MPI{06BD} will appear in aux files (when used in headers and alike)
+% \MPUU 06BD is used internally.
+%
+% Examples of usage:
+% \MPU{06AF} or \MPI{06AF} or \MPUU06AF  gives    06
+%                                                 AF
+% \MPU{F3C6} or \MPI{F3C6} or \MPUU F3C6 gives    F3
+%                                                 C6
+%
+\def\MPUU#1#2#3#4{\mbox{\mathsurround=0pt%
+    $\scriptstyle\stackrel{\mathtt{#1#2}}%
+    {\scriptscriptstyle\mathtt{#3#4}}$}}
+\def\MPI#1{\MPUU #1}
+\def\MPU{\protect\MPI}
+%
+%
+% Define font macros if not defined already.
+%
+\def\@tempa{LaTeX2e}
+\ifx\@tempa\fmtname%
+%
+% LaTeX2e.
+%
+% For some reason, \math?? is defined differently in LaTeX 2.09 mode:
+% $\math??{a+b}+c$    puts a, b and c in ?? font in LaTeX 2.09 mode.
+%                     puts a and b in ?? font in LaTeX2e mode.
+% ${\math?? a+b}+c$   puts a and b in ?? font in LaTeX 2.09 mode.
+%                     puts a in ?? font in LaTeX2e mode.
+% ${\math??{a+b}}+c$  puts a and b in ?? font in both modes.
+%
+% (of course you should not use \math?? in LaTeX 2.09 documents)
+% So, adjust \math?? if in compatibility mode by adding an extra pair of
+% { }.  I'm not sure whether this is the correct way to do it.
+%
+\if@compatibility%
+\let\oldmathbf=\mathbf
+\def\mathbf#1{{\oldmathbf {#1}}}
+\let\oldmathit=\mathit
+\def\mathit#1{{\oldmathit {#1}}}
+\let\oldmathsf=\mathsf
+\def\mathsf#1{{\oldmathsf {#1}}}
+\let\oldmathrm=\mathrm
+\def\mathrm#1{{\oldmathrm {#1}}}
+\let\oldmathtt=\mathtt
+\def\mathtt#1{{\oldmathtt {#1}}}
+\let\oldmathcal=\mathcal
+\def\mathcal#1{{\oldmathcal {#1}}}
+\fi%
+\else%
+%
+% LaTeX 2.09
+% Define most of LaTeX2e font commands (if not defined already).
+% Some fonts will not work correctly
+%
+\ifx\mathit\undefined \def\mathit#1{\mbox{\mathsurround=0pt\it $#1$\/}} \fi
+\ifx\mathsf\undefined \def\mathsf#1{\mbox{\mathsurround=0pt\sf $#1$\/}} \fi
+\ifx\mathbf\undefined \def\mathbf#1{\mbox{\mathsurround=0pt\bf $#1$\/}} \fi
+\ifx\mathrm\undefined \def\mathrm#1{\mbox{\mathsurround=0pt\rm $#1$\/}} \fi
+\ifx\mathtt\undefined \def\mathtt#1{\mbox{\mathsurround=0pt\tt $#1$\/}} \fi
+\ifx\mathcal\undefined \def\mathcal#1{\mbox{\mathsurround=0pt$\cal #1$\/}} \fi
+\ifx\textup\undefined \def\textup#1{{\rm #1}}\fi
+\ifx\textit\undefined \def\textit#1{{\it #1}}\fi
+\ifx\textsl\undefined \def\textsl#1{{\sl #1}}\fi
+\ifx\textsc\undefined \def\textsc#1{{\sc #1}}\fi
+\ifx\textmd\undefined \def\textmd#1{{\rm #1}}\fi
+\ifx\textbf\undefined \def\textbf#1{{\bf #1}}\fi
+\ifx\textrm\undefined \def\textrm#1{{\rm #1}}\fi
+\ifx\textsf\undefined \def\textsf#1{{\sf #1}}\fi
+\ifx\texttt\undefined \def\texttt#1{{\tt #1}}\fi
+\ifx\upshape\undefined \def\upshape{\rm}\fi
+\ifx\itshape\undefined \def\itshape{\it}\fi
+\ifx\slshape\undefined \def\slshape{\sl}\fi
+\ifx\scshape\undefined \def\scshape{\sc}\fi
+\ifx\mdseries\undefined \def\mdseries{\rm}\fi
+\ifx\bfseries\undefined \def\bfseries{\bf}\fi
+\ifx\rmfamily\undefined \def\rmfamily{\rm}\fi
+\ifx\sffamily\undefined \def\sffamily{\sf}\fi
+\ifx\ttfamily\undefined \def\ttfamily{\tt}\fi
+\fi
+%
+% Macros to add your own METAFONT fonts to LaTeX. This works
+% with both LaTeX2e and LaTeX 2.09 by examining \fmtname (just as
+% NeedsTeXFormat does). 
+%
+%
+% This package defines the macros
+% 
+%       \MPAddFont{DUMMNAME}{METAFONTFILE}{MACRO}
+%
+%       \MPAddFamily{FAMILY}{METAFONTFILE}{MACRO}
+%
+% which makes the font from METAFONTFILE available with macro MACRO.
+%
+%
+% The font added with \MPAddFont will be available at all sizes. So, you can
+% use it together with the size macros (\tiny ... \Huge).
+% The font added with \MPAddFamily will also be available in all math
+% styles (\scriptscriptstyle ... \displaystyle) at the correct size.
+%
+%
+% In LaTeX 2.09 the number of families is limited, so you should not
+% use \MPAddFamily if you don't use the font in scriptstyle.
+%
+% In LaTeX2e, \MPAddFont is equal to \MPAddFamily
+%
+% For example:
+%
+%    \MPAddFont{lasy}{lasy10}{\lasy}
+%
+%    Defines the macro \lasy to switch to the font from lasy10.mf
+%    \lasy should not be used in \scriptstyle.
+%
+%
+%    \MPAddFamily{lasy}{lasy10}{\lasy}
+%
+%    Defines the macro \lasy to switch to the font from lasy10.mf
+%    \lasy can also be used in \scriptstyle.
+%
+%
+\def\@tempa{LaTeX2e}
+\ifx\@tempa\fmtname
+%
+% LaTeX2e definitions.
+%
+% LaTeX2e uses .fd file to switch between sizes. If you have a new
+% font and don't have a .fd file, one will be made automatically.
+% If you already have a .fd file, make it available under the name U#1.fd ,
+% where #1 is the first argument of the \MPAddFamily macro 
+%
+%
+\newwrite\@MPautofontdef
+\def\MPAddFamily#1#2#3{
+\gdef#3{\fontencoding{U}\fontfamily{#1}\selectfont}
+\IfFileExists{U#1.fd}{}{\begingroup
+\immediate\openout\@MPautofontdef=U#1.fd
+\let\protect\@unexpandable@protect
+\immediate\write\@MPautofontdef{\string
+\ProvidesFile{U#1.fd}[1994/10/24 Automatic Added Font #1]}
+\immediate\write\@MPautofontdef{\string
+\DeclareFontFamily{U}{#1}{}}
+\immediate\write\@MPautofontdef{\string
+\DeclareFontShape{U}{#1}{m}{n}{ <-> #2  }{}}
+\immediate\write\@MPautofontdef{\string
+\endinput}
+\immediate\closeout\@MPautofontdef\endgroup}}
+\def\MPAddFont#1#2#3{\MPAddFamily{#1}{#2}{#3}}
+\else
+%
+% LaTeX 2.09 definitions.
+%
+% Adding a font in LaTeX 2.09 is rather difficult.
+%
+%
+% The macros \pointsize and \pointsizemult are to pointsize dependable
+% macros. They can be uses to make pointsize dependable boxes
+%
+%
+\newcount\pointsize
+\newdimen\pointsizemult
+\@addfontinfo\@vpt{\pointsize=5 \pointsizemult=0.5pt}
+\@addfontinfo\@vipt{\pointsize=6 \pointsizemult=0.6pt}
+\@addfontinfo\@viipt{\pointsize=7 \pointsizemult=0.7pt}
+\@addfontinfo\@viiipt{\pointsize=8 \pointsizemult=0.8pt}
+\@addfontinfo\@ixpt{\pointsize=9 \pointsizemult=0.9pt}
+\@addfontinfo\@xpt{\pointsize=10 \pointsizemult=1.0pt}
+\@addfontinfo\@xipt{\pointsize=11 \pointsizemult=1.0954pt}
+\@addfontinfo\@xiipt{\pointsize=12 \pointsizemult=1.2pt}
+\@addfontinfo\@xivpt{\pointsize=14 \pointsizemult=1.44pt}
+\@addfontinfo\@xviipt{\pointsize=17 \pointsizemult=1.728pt}
+\@addfontinfo\@xxpt{\pointsize=20 \pointsizemult=2.0736pt}
+\@addfontinfo\@xxvpt{\pointsize=25 \pointsizemult=2.48832pt}
+%
+% \MPextrafontadd{FONTNAME}{FILESCALED} :=
+%
+%               \font \FONTNAME = FILESCALED
+%
+\def\MPextrafontadd#1#2{%
+  \edef\MPextrafontdummy{\csname #1\endcsname}
+  \global\expandafter\font\MPextrafontdummy = #2}
+%
+% \MPextrafontaddall{SPEC}{FILENAME} :=
+%
+%               for size in (5,6,7,8,9,10,11,12,14,17,20,25)
+%                   \MPextrafontadd{str(size)SPEC}{FILENAME scaled(size)}
+%
+\def\MPextrafontaddall#1#2#3{%
+  \MPextrafontadd{fiv#1}{#2 \@ptscale5}
+  \MPextrafontadd{six#1}{#2 \@ptscale6}
+  \MPextrafontadd{sev#1}{#2 \@ptscale7}
+  \MPextrafontadd{egt#1}{#2 \@ptscale8}
+  \MPextrafontadd{nin#1}{#2 \@ptscale9}
+  \MPextrafontadd{ten#1}{#2}
+  \MPextrafontadd{elv#1}{#2 \@halfmag}
+  \MPextrafontadd{twl#1}{#2 \@magscale1}
+  \MPextrafontadd{frtn#1}{#2 \@magscale2}
+  \MPextrafontadd{svtn#1}{#2 \@magscale3}
+  \MPextrafontadd{twty#1}{#2 \@magscale4}
+  \MPextrafontadd{twfv#1}{#2 \@magscale5}
+  }
+%
+%  \MPextrafontaddinfo{FAMILY}{TEXTSIZE}{SCRIPTSIZE}{SCRIPTSCRIPTSIZE}
+%                     {SIZEMACRO}{FONTMACRO}
+%
+%      add to SIZEMACRO:
+%        \textfont FAMILYfam=TEXTSIZE-FAMILY
+%        \scriptfont FAMILYfam=SCRIPTSIZE-FAMILY
+%        \scriptscriptfont FAMILYfam=SCRIPTSCRIPTSIZE-FAMILY
+%        \def FONTMACRO{\fam FAMILYfam TEXTSIZE-FAMILY
+%
+\def\MPextrafontaddinfo#1#2#3#4#5#6{%
+  \edef\MPextrafontfam{\csname #1fam\endcsname}%
+  \@addfontinfo#5{%
+  \expandafter\textfont\MPextrafontfam=\csname #2#1\endcsname
+  \expandafter\scriptfont\MPextrafontfam=\csname #3#1\endcsname
+  \expandafter\scriptscriptfont\MPextrafontfam=\csname #4#1\endcsname
+  \def#6{\expandafter\fam\MPextrafontfam\csname #2#1\endcsname}}}
+%
+%
+%
+\def\MPAddFamily#1#2#3{%
+  \MPextrafontaddall{#1}{#2}{#3}%
+  \edef\MPextrafontfam{\csname #1fam\endcsname}%
+  \expandafter\newfam\MPextrafontfam%
+  \MPextrafontaddinfo{#1}{fiv}{fiv}{fiv}{\@vpt}{#3}%
+  \MPextrafontaddinfo{#1}{six}{six}{six}{\@vipt}{#3}%
+  \MPextrafontaddinfo{#1}{sev}{six}{fiv}{\@viipt}{#3}%
+  \MPextrafontaddinfo{#1}{egt}{six}{fiv}{\@viiipt}{#3}%
+  \MPextrafontaddinfo{#1}{nin}{six}{fiv}{\@ixpt}{#3}%
+  \MPextrafontaddinfo{#1}{ten}{sev}{fiv}{\@xpt}{#3}%
+  \MPextrafontaddinfo{#1}{elv}{egt}{six}{\@xipt}{#3}%
+  \MPextrafontaddinfo{#1}{twl}{egt}{six}{\@xiipt}{#3}%
+  \MPextrafontaddinfo{#1}{frtn}{ten}{sev}{\@xivpt}{#3}%
+  \MPextrafontaddinfo{#1}{svtn}{twl}{ten}{\@xviipt}{#3}%
+  \MPextrafontaddinfo{#1}{twty}{frtn}{twl}{\@xxpt}{#3}%
+  \MPextrafontaddinfo{#1}{twfv}{twty}{svtn}{\@xxvpt}{#3}%
+}
+\def\MPAddFont#1#2#3{%
+  \MPextrafontaddall{#1}{#2}{#3}
+  \@addfontinfo\@vpt{\def#3{\csname fiv#1\endcsname}}
+  \@addfontinfo\@vipt{\def#3{\csname six#1\endcsname}}
+  \@addfontinfo\@viipt{\def#3{\csname sev#1\endcsname}}
+  \@addfontinfo\@viiipt{\def#3{\csname egt#1\endcsname}}
+  \@addfontinfo\@ixpt{\def#3{\csname nin#1\endcsname}}
+  \@addfontinfo\@xpt{\def#3{\csname ten#1\endcsname}}
+  \@addfontinfo\@xipt{\def#3{\csname elv#1\endcsname}}
+  \@addfontinfo\@xiipt{\def#3{\csname twl#1\endcsname}}
+  \@addfontinfo\@xivpt{\def#3{\csname frtn#1\endcsname}}
+  \@addfontinfo\@xviipt{\def#3{\csname svtn#1\endcsname}}
+  \@addfontinfo\@xxpt{\def#3{\csname twty#1\endcsname}}
+  \@addfontinfo\@xxvpt{\def#3{\csname twfv#1\endcsname}}
+  }
+\fi
+%
+% Add font with MathSpad logo.
+%
+%
+% The MathSpad logo with a special font.
+%
+\MPAddFont{mathss}{mathss}{\MPmathss}
+\newcommand{\mplogo}{{{\sf Mat}{\MPmathss s}{\sf ad}}}
+%
+% The MathSpad logo without a special font.
+%
+\newbox\mpintbox%
+\newbox\mptmpbox%
+\newdimen\mpintdim%
+\newcommand{\mplogoint}{%
+\global\setbox\mpintbox\hbox{$\smallint$}%
+\mpintdim0pt%
+\advance\mpintdim -0.5\wd\mpintbox%
+\global\setbox\mptmpbox\hbox to 0.3ex{%
+\hfil\hskip\mpintdim\box\mpintbox\hskip\mpintdim\hfil}%
+\mbox{{\sffamily Math}\box\mptmpbox{\sffamily pad}}}
+%
+%  Define macro for using Adobe Symbol font symbols.
+%
+\def\tsym#1{{\fontencoding{OT1}\fontfamily{psy}\selectfont\char"#1}}
+
+\endinput

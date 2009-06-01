@@ -1,0 +1,98 @@
+This is the README file for MathSpad 0.80 .
+
+Installation
+------------
+
+To install MathSpad, you can run the Install script. It will look
+for a C and C++ compiler, compile the system, check if errors occurred
+and install it. Afterwards (with your consent) an email message is sent to 
+Eindhoven in order to keep track of the level of interested, the systems
+it compiles on and any installation problems.
+
+To install the program execute the command:
+
+	./Install
+
+It will install the system in the /usr/local directory if you have the
+permission to do that. Otherwise the system will be installed in the
+current directory. You can specify the full path as an argument if
+you want to use a different location.
+
+If you don't want the message to be sent or you are more familiar
+with the GNU configure scripts, you can use the usual sequence:
+
+	./configure
+	make all
+	make install
+
+
+Testing
+-------
+
+After successfully installing the system, you can test if everything
+works (and if the system is useful for you). You can do this with the
+command
+
+	src/mathpad manual &
+
+The program will display a welcome document explaining what the system
+offers you and how to go further.
+
+(If you get the error message
+ `mathpad: Unable to find font information file fonts.mpt'
+ set the environment variable MATHPADHOME to "`pwd`/lib/mathpad.".)
+
+If the warning 'Unable to add fontpath.' or 'Cannot load font ...' occurs,
+you may need to do some extra work after you have decided to use the
+program. The main problem with the installation is letting the X server
+know where the extra fonts are located. MathSpad changes the font path
+of the Xserver (if needed) but this will not always work:
+
+  * The most general solution to the font problem would be to start
+    up your own font server and add that font server to the font path
+    of the X server.  This should work with local hosts, remote hosts,
+    X terminals and X emulators.  The fonts directory contains some
+    information on how to set up your own font server.
+    NOTE: Be careful with adding fonts to a font server.  The X server
+          and/or font server might crash with incorrect fonts. For
+          example,  PostScript Type 3 fonts are not supported.
+
+  * If you run MathSpad on a remote host, it will not know which
+    directory contains the fonts on your local host. You can use the
+    environment variable MATHPADFONTPATH to specify the correct
+    directory on your local host (where the X server is running).
+
+  * If you are using an X terminal, MathSpad is not able to change the
+    font path because it needs to add a font server to the font path.
+    You can set up your own font server or ask the system manager to
+    adjust the configuration of the standard font server. There is an
+    example configuration file for xfs in the fonts
+    directory.
+
+  * If you are using an X emulator (for MS Windows, for example), you need
+    to convert the BDF fonts to the correct format. The X emulator should
+    have a utility for this.
+
+
+Cleaning Up
+-----------
+
+Once everything is working satisfactorily you may clean up by removing a 
+number of files that are no longer necessary.  The procedure is very simple
+but depends on whether or not the directory in which you have installed 
+MathSpad is the same as the directory in which the Install program is located.
+If they are the same then run the CleanUp program. If they are not
+(for example, if you have installed MathSpad in /usr/local) then all you need 
+to do is to remove the directory containing the Install program (lock, stock 
+and barrel).
+
+
+Suggestions, comments, wishes, bugs
+-----------------------------------
+
+If you have suggestions, comments or wishes, or if you have found bugs,
+you can send them to mathpad@win.tue.nl and someone (I) will respond
+as soon as possible.
+
+
+Richard Verhoeven.

@@ -1,0 +1,15 @@
+Include "libint.so"
+Include "libreal.so"
+
+Var Real x;
+
+PrintInt("Test", 5);
+
+x:=4.8;
+x:=x^1.3;
+PrintReal("Test", x);
+PrintReal("Test", 0.8);
+PrintReal("Test", 3.5e6);
+PrintReal("Test", 8.123E-2);
+PrintReal("Test", 1.32412313);
+PrintReal("Test", 4.203043e-20);

@@ -1,0 +1,69 @@
+#!/bin/sh
+#
+# This script will compile the sources, convert the fonts and install it.
+# It will use /usr/local if it is writable by the user. Otherwise the
+# current directory is used.
+#
+# These scripts and MathSpad 0.80 are tested under
+#
+#  SunOS 5.5  (Solaris 2.5)
+#  SunOS 5.6  (Solaris 2.6)
+#  Linux (Slackware, SuSE 4.3, SuSE 5.3, RedHat 6.1)
+#
+if [ -w /usr/local ]
+then
+   prefix="/usr/local"
+else
+   prefix="`pwd`"
+fi
+opt_prev=
+makearg=
+for opt_arg
+do
+  if test -n "$opt_prev"; then
+    eval "$opt_prev=\$opt_arg"
+    opt_prev=
+    continue
+  fi
+  case "$opt_arg" in
+  -prefix | --prefix | --prefi | --pref | --pre | --pr | --p)
+    opt_prev=prefix ;;
+  -prefix=* | --prefix=* | --prefi=* | --pref=* | --pre=* | --pr=* | --p=*)
+    prefix="`echo "$opt_arg" | sed 's/[-a-z]*=//`" ;;
+  [A-Z]*=*)
+    makearg="$makearg $opt_arg" ;;
+  /*)
+    prefix=$opt_arg ;;
+  -*)
+    echo "Unknow option: $opt_arg" ;;
+  esac
+done
+MATHPADHOME=$prefix/share/MathSpad
+PREFIX=$prefix
+export PREFIX MATHPADHOME
+echo "This install script will build MathSpad and install it in the directory"
+echo
+echo "       $prefix"
+echo
+echo "The three subdirectories bin, lib/MathSpad and share/MathSpad are used"
+echo "for installing the binary code, the libraries and the system files."
+echo
+echo "If you want to use a different directory, say my.directory, you need"
+echo "to restart this script with the command"
+echo
+echo "     Install my.directory"
+echo
+./configure --prefix=$prefix
+make -k all 2>&1 | tee make.log
+./checkerrors
+if [ -f .errors ] && [ "`grep -c errors .errors`" = "1" ]
+then
+  echo "Not installing anything."
+else
+  echo "Installing program."
+  make -k install 2>&1 | tee makeinstall.log
+fi
+#
+# Send a message to Eindhoven.
+#
+./SendMessage

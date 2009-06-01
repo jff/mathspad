@@ -1,0 +1,191 @@
+%  File: mathpad.sty
+%
+%  This file contains the display environment used when converting displayed 
+%  expressions in MathSpad to LaTeX. It also contains an environment for 
+%  setting tables in the MathSpad manual and default values for the output 
+%  produced by empty place holders.
+%
+%  The display environment is a modified tabbing environment with 4 arguments.
+%  The arguments have the following functions:
+%
+%  1:  unit size of a micro space, used for operators.
+%  2:  size of a fixed tab, used in a fixed tab.
+%  3:  size of the space between the lines.
+%  4:  number of tab positions forming the left margin.
+%
+%  The modifications to the standard LaTeX tabbing environment are:
+%  - The tab is replaced by a fixed tab. A fixed tab will check whether
+%    the next tab position is defined and perform a normal tab if it is.
+%    Otherwise a hskip and a settab are used.
+%  - The position to start the current line (\dimen\@curtabpos) is
+%    constantly saved in \@curtabsave. This is done to make sure that
+%    the margin can be moved inside a pushtabs/poptabs combination in a safe
+%    way.
+%  - To ensure that \@curtab<=\@hightab poptab has been changed to check this.
+%  - To be able to continue to  use the standard LaTeX tabbing environment,
+%    the modified  pushtabs, poptabs and kill have been given the names push
+%    pop and mkill.
+%   
+%
+%  Some commands had to be copied another name to add the changes.
+% 
+
+
+\newlength\@myspace       %  micro space
+\newlength\@tabsize       %  fixed tab size
+\newlength\@addedskip     %  size between two lines
+\newcount\@teller         %  counter to initiate the environment with tabs
+\newdimen\@curtabsave     %  starting position of current line
+
+\newbox\@labelsave
+\newif\if@labelset
+\def\mplabel#1{\refstepcounter{equation}\label{#1}%
+\global\setbox\@labelsave\hbox{\rm (\ref{#1})}\global\@labelsettrue}
+\def\@mstartline{\global\@curtabmar\@nxttabmar \relax
+    \global \@curtabsave\dimen\@curtabmar                    % added curtabsave
+    \global \@curtab\@curtabmar\global\setbox\@curline\hbox{}
+    \@startfield\strut}
+\def\@mstopline{\unskip\@stopfield\if@labelset{\global\@labelsetfalse
+    \@tempdima\@curtabsave
+    \advance\@tempdima -\wd\@labelsave
+    \global\setbox\@curline\hbox{\unhbox\@labelsave\hskip\@tempdima\unhbox\@curline}
+    \global\@curtabsave\z@}\else\fi
+    \if@rjfield \global \@rjfieldfalse
+    \@tempdima\@totalleftmargin \advance\@tempdima\linewidth
+    \hbox to\@tempdima{\@itemfudge\hskip\@curtabsave        % added curtabsave
+    \box\@curline\hfil\box\@curfield}\else\@addfield
+    \hbox{\@itemfudge\hskip\@curtabsave\box\@curline}\fi}
+\def\@mtabcr{\@mstopline\@ifstar{\penalty \@M \@mxtabcr}{\@mxtabcr}}
+\def\@mxtabcr{\@ifnextchar[{\@mitabcr}{\@mstartline\ignorespaces}}
+\def\@mitabcr[#1]{\vskip #1\@mstartline\ignorespaces}
+\def\mkill{\@stopfield\@mstartline\ignorespaces}
+\def\@mrtab{\@stopfield\@addfield\ifnum \@curtab<\@hightab 
+    \global\advance\@curtab\@ne\else\@badtab\fi
+    \@tempdima\dimen\@curtab
+    \advance\@tempdima -\@curtabsave                        % added curtabsave
+    \advance\@tempdima -\wd\@curline
+    \global\setbox\@curline\hbox{\unhbox\@curline\hskip\@tempdima}
+    \@startfield\ignorespaces}
+\def\@msettab{\@stopfield\@addfield\ifnum \@curtab < \@maxtab
+    \global\advance\@curtab \@ne \else\@latexerr{Tab overflow}\@ehd\fi
+    \ifnum\@curtab > \@hightab
+    \@hightab\@curtab\fi
+    \dimen\@curtab\@curtabsave                              % added curtabsave
+    \advance\dimen\@curtab \wd\@curline\@startfield\ignorespaces}
+\def\@mltab{\@ifatmargin\ifnum\@curtabmar>\@firsttab
+    \global\advance\@curtab\m@ne \global\advance\@curtabmar\m@ne
+    \global\@curtabsave\dimen\@curtabmar \else              % added curtabsave
+    \@badtab\fi\else
+    \@latexerr{\string\<\space in mid line}\@ehd\fi\ignorespaces}
+\def\@mytab{\ifnum \@curtab<\@hightab \@mrtab \else 
+    \hspace{\@tabsize}\@msettab \fi}           % fixed tab (tab or (move,set))
+\def\initab#1{\ifnum \@teller<#1 \>\+\global\advance\@teller\@ne \initab#1\fi}
+    % set #1 - \@teller  tab positions on a fixed position and move the
+    % left margin to the last tab.
+\def\pop{\@stopfield\@addfield\ifnum\@tabpush > \z@
+     \endgroup
+     \global\advance\@tabpush \m@ne
+     \ifnum\@curtab > \@hightab \global\@curtab\@hightab \else \fi \else
+     \@badpoptabs\fi\@contfield}                % \@curtab adjustment
+\def\push{\@stopfield\@addfield\global\advance\@tabpush \@ne \begingroup
+     \@contfield}
+\@definecounter{mathpadcount}
+%
+%  To add microspacing around operators. The current version does not
+%  work well in combination with size changes (subscripts, large, small)
+%  The alternative version uses mathchoice and is therefore very slow.
+%
+\def\ms#1{\hspace*{#1\@myspace}}
+\def\setms#1{\global\setlength{\@myspace}{#1}}
+%
+%  The alternative version for \ms and \setms. It uses a rather complicated
+%  way to enable things like \setms{0.15ex}, where the size depends on the
+%  place where \ms{i} is used.
+%
+%  \newlength\@myspace       %  micro space
+%  \newlength\@msdef
+%  \def\msval{5pt}
+%  \def\ms#1{\setlength{\@msdef}{\msval}\ifmmode{\mathchoice{%
+%  \setlength{\@myspace}{1.3\@msdef}\hspace*{#1\@myspace}}{%
+%  \setlength{\@myspace}{\@msdef}\hspace*{#1\@myspace}}{%
+%  \setlength{\@myspace}{0.7\@msdef}\hspace*{#1\@myspace}}{%
+%  \setlength{\@myspace}{0.4\@msdef}\hspace*{#1\@myspace}}}%
+%  \else% in  textmode
+%  \setlength{\@myspace}{\msdef}\hspace*{#1\@myspace}%
+%  \fi}
+%  \def\setms#1{\def\msval{#1}}
+%
+\def\mpdisplay#1#2#3#4{\def\next{#1}\ifx\next\empty\else
+        \def\msval{#1} % if alternative microspacing is used
+        \setlength{\@myspace}{#1}\fi\setlength{\@tabsize}{#2}
+        \global\setlength{\@addedskip}{#3}
+        \vspace{-\@addedskip}
+        \global\@teller\z@
+        \lineskip \z@\let\>\@mytab\let\<\@mltab\let\=\@msettab
+        \let\+\@tabplus\let\-\@tabminus\let\`\@tabrj\let\'\@tablab
+        \let\\=\@mtabcr\let\pushtabs\push\let\poptabs\pop\let\kill\mkill
+        \global\@hightab\@firsttab
+        \global\@nxttabmar\@firsttab
+        \dimen\@firsttab\@totalleftmargin
+        \global\@tabpush0 \global\@rjfieldfalse
+        \trivlist
+        \refstepcounter{mathpadcount}
+        \addtolength{\baselineskip}{\@addedskip}
+        \item[]\if@minipage\else\vskip\parskip\fi
+        \setbox\@tabfbox\hbox{\rlap{\indent\hskip\@totalleftmargin
+        \the\everypar}}\def\@itemfudge{\box\@tabfbox}\@mstartline\ignorespaces
+        \initab#4\ignorespaces}
+       % \addtolength added after \trivlist to change the \baselineskip 
+       % without changing it outside the proof environment
+\def\endmpdisplay{\addtolength{\baselineskip}{-\@addedskip}\@mstopline
+        \ifnum\@tabpush > 0 \@badpoptabs \fi\endtrivlist}
+       %  \addtolength at to change it back  (inside mpdisplay)
+%
+% Define mptabbing in terms of mpdisplay to avoid the LaTeX tabbing bug, e.g.
+%
+% text \pushtabs\=\+New left margin\\
+%                   A second line\-\poptabs\\
+%
+% will look like                  instead of
+%
+% text New left margin            text New left margin
+% A second line                        A second line
+%
+\def\mptabbing{\mpdisplay{}{0pt}{0pt}{0}}
+\def\endmptabbing{\endmpdisplay}
+
+% The mantable environment. The argument specifies the width of the margin.
+% If the label gets to width, the text will be placed on a new line. Otherwise
+% the text will start at the position where the margin is set.
+\def\mantablelabel#1{\setbox\@tempboxa\hbox{\bf #1}%
+  \ifdim \wd\@tempboxa>\labelwidth%
+    \hbox to \labelwidth{%
+      \vbox{%
+        \hbox to 0pt{\unhbox\@tempboxa\hss}%
+        \hbox to 0pt{\hfil}}%
+        \hfil}%
+    \else%
+      \unhbox\@tempboxa\hfil\relax
+  \fi}
+\def\mantable#1{\list{}{%
+    \leftmargin #1
+    \rightmargin 0pt
+    \labelwidth #1
+    \labelsep 0pt
+    \let\makelabel\mantablelabel}}
+\let\endmantable\endlist
+\let\endmantabel\endlist
+\let\mantabel\mantable
+\def\stillinput#1{\openin1 #1 \ifeof1 \typeout
+    {No file #1.}\else\closein1 \relax \input #1 \fi}
+
+%
+%  Default output produced by empty place holders.  
+%
+\def\mpT{{\bf T}}
+\def\mpE{{\bf E}}
+\def\mpV{{\bf V}}
+\def\mpI{{\bf I}}
+\def\mpO{{\bf O}}
+\def\mpD{{\bf D}}
+\def\mpN#1{{\bf #1}}

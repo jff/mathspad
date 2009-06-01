@@ -1,0 +1,11 @@
+
+\newbox\mpintbox%
+\newbox\mptmpbox%
+\newdimen\mpintdim%
+\newcommand{\mplogo}{%
+\global\setbox\mpintbox\hbox{$\smallint$}%
+\mpintdim0pt%
+\advance\mpintdim -0.5\wd\mpintbox%
+\global\setbox\mptmpbox\hbox to 0.3ex{%
+\hfil\hskip\mpintdim\box\mpintbox\hskip\mpintdim\hfil}%
+\mbox{{\sffamily Math}\box\mptmpbox{\sffamily pad}}}

@@ -1,0 +1,125 @@
+[4mMathpad Document
+[0m2EN0E0
+\begin{center}
+8fPLN2A0ISe1e728dD   42HCFigure1ECLatex2eA#floatsHelpGVe1e728dE'!4KCbfOFiguredfO 
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Hfigure82I8bO
+82Hcaption82I8bN
+bfOEnd FiguredfO
+3JC80J\begin{figure}[8bL]80I8bO 80I\caption{8bN}\label{8bM}80I\end{figure}80I1LCfigure/caption/label/placeGVe1e728dF'!3GCbfOFiguredfO
+bfMLabeldfM 8bM
+82Hfigure82I8bO
+82Hcaption82I8bN
+bfOEnd FiguredfO
+3GC80J\begin{figure}80I8bO 80I\caption{8bN}\label{8bM}80I\end{figure}80I1FCfigure/caption/labelGVe1e728dG'!3PCbfOFiguredfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Hfigure82I8bO
+82Hcaption82I8bN
+bfOEnd FiguredfO
+3AC80J\begin{figure}[8bL]80I8bO 80I\caption{8bN}80I\end{figure}80I1FCfigure/caption/placeGVe1e728dH'!2MCbfOFiguredfO
+82Hfigure82I8bO
+82Hcaption82I8bN
+bfOEnd FiguredfO
+2NC80J\begin{figure}80I8bO 80I\caption{8bN}80I\end{figure}80IPCfigure/captionGVe1e728dI'!3FCbfOFiguredfO 
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Hfigure82I8bO
+bfOEnd FiguredfO
+2EC80J\begin{figure}[8bL]80I8bO 80I\end{figure}80INCfigure/placeGVe1e728dJ'!2CCbfOFiguredfO 
+82Hfigure82I8bO
+bfOEnd FiguredfO
+2BC80J\begin{figure}80I8bO 80I\end{figure}80IHCfigureGVe1e728dK'!6DCbfOFiguredfO 
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Hfigure82I8bO
+82Hcaption82I8bN
+82HList of figures entry82I8bK
+bfOEnd FiguredfO
+3MC80J\begin{figure}[8bL]80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{figure}80I2FCfigure/caption+LOF entry/label/placeGVe1e728dL'!5ACbfOFiguredfO 
+bfMLabeldfM 8bM
+82Hfigure82I8bO
+82Hcaption82I8bN
+82HList of figures entry82I8bK
+bfOEnd FiguredfO
+3JC80J\begin{figure}80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{figure}80I1PCfigure/caption+LOF entry/labelGVe1e728dM'!5JCbfOFiguredfO 
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Hfigure82I8bO
+82Hcaption82I8bN
+82HList of figures entry82I8bK
+bfOEnd FiguredfO
+3DC80J\begin{figure}[8bL]80I8bO 80I\caption[8bK]{8bN}80I\end{figure}80I1PCfigure/caption+LOF entry/placeGVe1e728dN'!4GCbfOFiguredfO 
+82Hfigure82I8bO
+82Hcaption82I8bN
+82HList of figures entry82I8bK
+bfOEnd FiguredfO
+3AC80J\begin{figure}80I8bO 80I\caption[8bK]{8bN}80I\end{figure}80I1JCfigure/caption+LOF entryGVe1e7aaeC'!4MCbfOFigure*dfO 
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Hfigure82I8bO
+82Hcaption82I8bN
+bfOEnd Figure*dfO
+3LC80J\begin{figure*}[8bL]80I8bO 80I\caption{8bN}\label{8bM}80I\end{figure*}80I2DCfigure*(2-col)/caption/label/placeGVe1e7aaeL'!3ICbfOFigure*dfO
+bfMLabeldfM 8bM
+82Hfigure82I8bO
+82Hcaption82I8bN
+bfOEnd Figure*dfO
+3IC80J\begin{figure*}80I8bO 80I\caption{8bN}\label{8bM}80I\end{figure*}80I1NCfigure*(2-col)/caption/labelGVe1e7aafD'!4BCbfOFigure*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Hfigure82I8bO
+82Hcaption82I8bN
+bfOEnd Figure*dfO
+3CC80J\begin{figure*}[8bL]80I8bO 80I\caption{8bN}80I\end{figure*}80I1NCfigure*(2-col)/caption/placeGVe1e7aafH'!2OCbfOFigure*dfO
+82Hfigure82I8bO
+82Hcaption82I8bN
+bfOEnd Figure*dfO
+2PC80J\begin{figure*}80I8bO 80I\caption{8bN}80I\end{figure*}80I1HCfigure*(2-col)/captionGVe1e7aafN'!3HCbfOFigure*dfO 
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Hfigure82I8bO
+bfOEnd Figure*dfO
+2GC80J\begin{figure*}[8bL]80I8bO 80I\end{figure*}80I1FCfigure*(2-col)/placeGVe1e7ab0E'!2ECbfOFigure*dfO 
+82Hfigure82I8bO
+bfOEnd Figure*dfO
+2DC80J\begin{figure*}80I8bO 80I\end{figure*}80IPCfigure*(2-col)GVe1e7ab0M'!6FCbfOFigure*dfO 
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Hfigure82I8bO
+82Hcaption82I8bN
+82HList of figures entry82I8bK
+bfOEnd Figure*dfO
+3OC80J\begin{figure*}[8bL]80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{figure*}80I2NCfigure*(2-col)/caption+LOF entry/label/placeGVe1e7ab1B'!5CCbfOFigure*dfO 
+bfMLabeldfM 8bM
+82Hfigure82I8bO
+82Hcaption82I8bN
+82HList of figures entry82I8bK
+bfOEnd Figure*dfO
+3OC80J\begin{figure*}%80I8bO %80I\caption[8bK]{8bN}\label{8bM}%80I\end{figure*}80I2HCfigure*(2-col)/caption+LOF entry/labelGVe1e7ab1H'!5LCbfOFigure*dfO 
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Hfigure82I8bO
+82Hcaption82I8bN
+82HList of figures entry82I8bK
+bfOEnd Figure*dfO
+3GC80J\begin{figure*}[8bL]80I8bO %80I\caption[8bK]{8bN}80I\end{figure*}80I2HCfigure*(2-col)/caption+LOF entry/placeGVe1e7ab1L'!4ICbfOFigure*dfO 
+82Hfigure82I8bO
+82Hcaption82I8bN
+82HList of figures entry82I8bK
+bfOEnd Figure*dfO
+3DC80J\begin{figure*}80I8bO %80I\caption[8bK]{8bN}80I\end{figure*}80I2BCfigure*(2-col)/caption+LOF entry38bN2NN0E2A ``Master'' File Ready For Processing8bO3EN0E1\fbox{\begin{minipage}{3in}
+8fPIN2A0ISe196d18D   +2KCTextStyle1HCLatex2eA#TextStyleHelpGVe196d18N'!FC80JbfJ8bOdfJKC80J\emph{8bO}1CCbfMEmphasizeddfM textGVe196d18E'!DC80J8bOMC80J\textup{8bO}OCUpright shapeGVe196d18F'!FC80JbfM8bOdfMMC80J\textit{8bO}PCbfMItalicdfM shapeGVe196d18G'!FC80JbfJ8bOdfJMC80J\textsl{8bO}1ACbfJSlanteddfJ shapeGVe196d18H'!DC80J8bOMC80J\textsc{8bO}1FCSccBMALLcbPcbNCccBAPS cbNshapeGVe196d18I'!DC80J8bOMC80J\textmd{8bO}OCMedium seriesGVe196d18J'!FC80JbfO8bOdfOMC80J\textbf{8bO}OCbfOBolddfO seriesGVe196d18K'!DC80J8bOMC80J\textrm{8bO}NCRoman familyGVe196d18L'!FC80JbfI8bOdfIMC80J\textsf{8bO}1ECbfISans SerifdfI familyGVe196d18M'!FC80JbfH8bOdfHMC80J\texttt{8bO}1ECbfHTypewriterdfH familyGVe196d18O'!FC80JbfK8bOdfK1GC80J\textbf{80J\textit{8bO}}1NCbfKBolddfK series bfKItalicdfK shape58bO16NN0E18fPHN2A0ISe1d5142P   *2NCSpecialChars1JCLatex2e#SpecialCharsHelpGVe1d5143A#!CC#GC80J\#{}GVe1d5143B#!CC$GC80J\${}GVe1d5143C#!CC%GC80J\%{}GVe1d5143D#!CC&GC80J\&{}GVe1d5143E#"CC~HC{\sim}GVe1d5143F#!CC_GC80J\_{}GVe1d5143G#!DC80J^GC80J\^{}GVe1d5143H#"CC\NC{\backslash}GVe1d5143I#!CC{EC80J\{GVe1d5143J#!CC}EC80J\}Adocumentclass[12pt,draft]8fPHN2A0@book8fPHN2A0?
+8fPHN2A0Ausepackage8fPHN2A0@mathpad,makeidx,latexsym8fPHN2A0?
+8fPHN2A0Ainput mpmacros.tex
+8fPHN2A0Ausepackage8fPHN2A0@addfont,head8fPHN2A0?
+8fPHN2A0AMathSpadStyle
+%8fPHN2A0Aincludeonly8fPHN2A0@Welcome,Latexhelp8fPHN2A0?
+8fPHN2A0Aincludeonly{Latexhelp}
+8fPHN2A0Amakeindex
+8fPHN2A0Abegin8fPHN2A0@document8fPHN2A0?
+8fPHN2A0AMathSpadParameters
+8fPHN2A0Afrontmatter
+8fPHN2A0Atableofcontents
+8fPHN2A0Amainmatter
+8fPHN2A0Ainclude8fPHN2A0@Welcome8fPHN2A0?
+8fPHN2A0Ainclude8fPHN2A0@Latexhelp8fPHN2A0?
+8fPHN2A0Astillinput8fPHN2A0@8fPHN2A0Ajobname.ind8fPHN2A0?
+8fPHN2A0Aend8fPHN2A0@document8fPHN2A0?
+
+\end{minipage}}8bM1MN0E3fig:ExampleMasterFile8bLKN0E4htb\end{center}

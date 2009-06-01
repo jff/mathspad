@@ -1,0 +1,2 @@
+#!/bin/sh
+( echo '!';xpipeout -window $1) | ispell -a -m | ispellfilter | xpipein -window $1 &

@@ -1,0 +1,34 @@
+
+TOPSRCDIR = @top_srcdir@
+TOPOBJ    = .
+SRCDIR    = @srcdir@
+VPATH     = @srcdir@
+
+SOURCE = 
+
+PROGRAMS = ispellfilter pktobdf xpipein xpipeout xsetprid
+
+@MAKE_RULES@
+
+all: ispellfilter pktobdf xpipein xpipeout xsetprid
+
+ispellfilter: ispellfilter.o
+	$(LINK) -o ispellfilter ispellfilter.o
+
+load_and_save: load_and_save.o
+	$(LINK) -o load_and_save load_and_save.o ../documents/libdocuments.la ../treeedit/libtreeedit.la ../templates/libtemplates.la ../windows/libwindows.la ../output/liboutput.la ../documents/libdocuments.la ../language/liblanguage.la ../keyboard/libkeyboard.la ../unicode/libunicode.la ../util/libutil.la $(XLIB)
+
+mpd2tex: mpd2tex.o
+	$(LINK) -o mpd2tex mpd2tex.o ../documents/libdocuments.la ../output/liboutput.la ../treeedit/libtreeedit.la ../windows/libwindows.la ../templates/libtemplates.la ../documents/libdocuments.la ../language/liblanguage.la ../keyboard/libkeyboard.la ../unicode/libunicode.la ../util/libutil.la $(XLIB)
+
+pktobdf: pktobdf.o
+	$(CC) -o pktobdf pktobdf.o
+
+xpipein: xpipein.o
+	$(CC) -o xpipein xpipein.o $(XLIB)
+
+xpipeout: xpipeout.o
+	$(CC) -o xpipeout xpipeout.o $(XLIB)
+
+xsetprid: xsetprid.o
+	$(CC) -o xsetprid xsetprid.o $(XLIB)

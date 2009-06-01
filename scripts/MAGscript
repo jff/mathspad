@@ -1,0 +1,12 @@
+#!/bin/sh
+#
+# Called with one argument, the window-id of the MAG shell.
+#
+# xpipeout produces the commands that are sent to the MAG shell.
+# xpipein sends the output of the MAG system back to the MAG shell,
+# where it is parsed.
+# if the MAG shell disappears, both xpipe programs will terminate,
+# thereby closing the input of the MAG system.
+# 
+(echo "init"; xpipeout -window $1; echo "quit") | \
+MAGtest | xpipein -window $1 &

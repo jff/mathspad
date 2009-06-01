@@ -1,0 +1,56 @@
+
+
+keyboard/.libs/libkeyboard.so.0.0.0:
+
+[Index]   Value      Size    Type  Bind  Other Shndx   Name
+
+[93]	|      4692|     888|FUNC |GLOB |0    |7      |EventToKeyAndMode
+[71]	|      3752|     708|FUNC |GLOB |0    |7      |KeyToString
+[81]	|         0|       0|NOTY |GLOB |0    |UNDEF  |LocaletoUstr
+[117]	|      3244|     508|FUNC |GLOB |0    |7      |StringToKey
+[90]	|         0|       0|NOTY |GLOB |0    |UNDEF  |Ustrcmp
+[92]	|         0|       0|NOTY |GLOB |0    |UNDEF  |Ustrcpy
+[104]	|         0|       0|NOTY |GLOB |0    |UNDEF  |Ustrlen
+[113]	|         0|       0|NOTY |GLOB |0    |UNDEF  |Ustrncpy
+[107]	|         0|       0|NOTY |GLOB |0    |UNDEF  |XKeysymToString
+[86]	|         0|       0|NOTY |GLOB |0    |UNDEF  |XLookupString
+[109]	|         0|       0|NOTY |GLOB |0    |UNDEF  |XQueryPointer
+[97]	|         0|       0|NOTY |GLOB |0    |UNDEF  |XRefreshKeyboardMapping
+[83]	|         0|       0|NOTY |GLOB |0    |UNDEF  |XStringToKeysym
+[85]	|     74984|       0|OBJT |GLOB |0    |10     |_DYNAMIC
+[76]	|     74828|       0|OBJT |GLOB |0    |9      |_GLOBAL_OFFSET_TABLE_
+[102]	|     75096|       0|OBJT |GLOB |0    |11     |_PROCEDURE_LINKAGE_TABLE_
+[89]	|         0|       0|NOTY |GLOB |0    |UNDEF  |__iob
+[101]	|     75600|       0|OBJT |GLOB |0    |12     |_edata
+[70]	|     80056|       0|OBJT |GLOB |0    |13     |_end
+[106]	|      9289|       0|OBJT |GLOB |0    |8      |_etext
+[108]	|         0|       0|NOTY |GLOB |0    |UNDEF  |calculate_lazy_expression
+[75]	|      5816|       8|FUNC |GLOB |0    |7      |clear_keymap
+[99]	|      9000|      28|FUNC |GLOB |0    |7      |convert_event
+[105]	|     75508|       4|OBJT |GLOB |0    |12     |default_ignore
+[103]	|      6108|     176|FUNC |GLOB |0    |7      |define_key
+[82]	|      6328|      56|FUNC |GLOB |0    |7      |define_keyrange
+[91]	|      6384|     204|FUNC |GLOB |0    |7      |define_keysequence
+[114]	|         0|       0|NOTY |GLOB |0    |UNDEF  |eval_sequence
+[115]	|         0|       0|NOTY |GLOB |0    |UNDEF  |fprintf
+[68]	|      7992|      64|FUNC |GLOB |0    |7      |get_input_string
+[112]	|      5616|     200|FUNC |GLOB |0    |7      |get_map
+[78]	|      6940|     488|FUNC |GLOB |0    |7      |handle_key
+[74]	|      8152|       8|FUNC |GLOB |0    |7      |keyboard_init
+[111]	|      7756|     132|FUNC |GLOB |0    |7      |multi_drag
+[96]	|      7428|     212|FUNC |GLOB |0    |7      |multi_press
+[87]	|      7640|     116|FUNC |GLOB |0    |7      |multi_release
+[72]	|         0|       0|NOTY |GLOB |0    |UNDEF  |myfree
+[116]	|         0|       0|NOTY |GLOB |0    |UNDEF  |mymalloc
+[94]	|      8160|     416|FUNC |GLOB |0    |7      |parse_key
+[73]	|      6852|      88|FUNC |GLOB |0    |7      |pop_keymap
+[80]	|     75540|       4|OBJT |GLOB |0    |12     |pressedkey
+[84]	|      8576|     424|FUNC |GLOB |0    |7      |print_key
+[69]	|      6688|      92|FUNC |GLOB |0    |7      |push_keymap
+[100]	|      6780|      72|FUNC |GLOB |0    |7      |push_temporary_keymap
+[79]	|      7888|     104|FUNC |GLOB |0    |7      |set_input_string
+[95]	|      6284|      44|FUNC |GLOB |0    |7      |set_keymap_help
+[77]	|      8056|      96|FUNC |GLOB |0    |7      |set_window_position
+[98]	|         0|       0|NOTY |GLOB |0    |UNDEF  |strchr
+[88]	|         0|       0|NOTY |GLOB |0    |UNDEF  |strncmp
+[110]	|         0|       0|NOTY |GLOB |0    |UNDEF  |umap_load_file

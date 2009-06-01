@@ -1,0 +1,42 @@
+/* for linking without window interface */
+/* from message.h */
+void message(int lvl, char *text) { fprintf(stderr, "%s\n", text); }
+void message2(int lvl, char *text1, char *text2) { fprintf(stderr, "%s%s\n", text1, text2); } 
+
+
+/* from match.h */
+#define PARSERULES void
+int parse_use_rules(PARSERULES *set) { return 0; }
+int parse_add_rule(int group, Char *parsestring, int len, int temp,
+		   int prec)
+{ return 0; }
+int lex_add_string(char* item, int retval) { return 0; }
+
+/* from keymap.h */
+ Bool    interrupted(void) {return 0;}
+
+/* from buffer.h */
+void buffer_set_number_of_lines(void *data, int numlin) {;}
+
+/* from find.h */
+void find_set_number_of_lines(void *data, int numlin) {;}
+/* from edit.h */
+void edit_set_number_of_lines(void *data, int numlin) {;}
+
+#include "X11.def"
+#define FUNCTIONS void
+#define MAXWINDOWTYPE 25
+
+/* from sources.h */
+GC   get_GC(TextMode gcnr, int colortype) { return 0;}
+GC   get_GCXor(int colortype) { return 0;}
+int  must_underline(int colortype) { return 0;}
+GC   get_GC_font(TextMode gcnr, int colortype, int fontnr,int size) {return 0;}
+void undefined_font(TextMode gcnr) {;}
+FUNCTIONS *eventfunc[MAXWINDOWTYPE];
+Display *display=0;
+Window root_window=0;
+Bool output_mode=0;
+void make_defaults(int argc, char **argv) { ; }
+void call_layout_change(void) { ; }
+int get_window_type(Window w, Window *pwin, void **wdata) { return 0; }

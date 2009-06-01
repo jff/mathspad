@@ -1,0 +1,50 @@
+
+TOPSRCDIR = @top_srcdir@
+TOPOBJ    = .
+SRCDIR    = @srcdir@
+VPATH     = @srcdir@
+
+SOURCE = debug.c dynasize.c fifolist.c filefind.c flexarray.c fstate.c \
+	 funcs.c intstack.c leaftree.c memman.c reshuffle.c strerror.c \
+	 surrofilt.c translate.c refcounting.c
+
+LIBRARIES = libutil.la
+
+
+@MAKE_RULES@
+
+all: libutil.la
+
+libutil.la: $(LTOBJECTS)
+	$(LINK) -o libutil.la -rpath $(libdir) $(LTOBJECTS)
+
+fifolisttest: libutil.la fifolisttest.o
+	$(LINK) -o fifolisttest fifolisttest.o libutil.la
+
+gzsize: libutil.la gzsize.o
+	$(LINK) -o gzsize gzsize.o libutil.la
+
+memmantest: libutil.la memmantest.o
+	$(LINK) -o memmantest memmantest.o libutil.la
+
+memmantest2: libutil.la memmantest2.o
+	$(LINK) -o memmantest2 memmantest2.o libutil.la
+
+round: libutil.la round.o
+	$(LINK) -o round round.o libutil.a
+
+shuffle: libutil.la shuffle.o
+	$(LINK) -o shuffle shuffle.o libutil.la
+
+test: libutil.la test.o
+	$(LINK) -o test test.o libutil.la
+
+test2: libutil.la test2.o
+	$(LINK) -o test2 test2.o libutil.la
+
+test3: libutil.la test3.o
+	$(LINK) -o test3 test3.o libutil.la
+
+test4: libutil.la test4.o
+	$(LINK) -o test4 test4.o libutil.la
+

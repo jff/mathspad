@@ -1,0 +1,124 @@
+/*****************************************************************
+**
+** MathSpad 0.60
+**
+** Copyright 1996, Eindhoven University of Technology (EUT)
+** 
+** Permission to use, copy, modify and distribute this software
+** and its documentation for any purpose is hereby granted
+** without fee, provided that the above copyright notice appear
+** in all copies and that both that copyright notice and this
+** permission notice appear in supporting documentation, and
+** that the name of EUT not be used in advertising or publicity
+** pertaining to distribution of the software without specific,
+** written prior permission.  EUT makes no representations about
+** the suitability of this software for any purpose. It is provided
+** "as is" without express or implied warranty.
+** 
+** EUT DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS
+** SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF
+** MERCHANTABILITY AND FITNESS.  IN NO EVENT SHALL EUT
+** BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL
+** DAMAGES OR ANY DAMAGE WHATSOEVER RESULTING FROM
+** LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF
+** CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING
+** OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE
+** OF THIS SOFTWARE.
+** 
+** 
+** Roland Backhouse & Richard Verhoeven.
+** Department of Mathematics and Computing Science.
+** Eindhoven University of Technology.
+**
+********************************************************************/
+// mathpad.icc
+
+#include "mark.icc"
+#include "marker.icc"
+#include "select.icc"
+#include "editwindow.icc"
+
+#if !defined MATHPAD_ICC
+#define MATHPAD_ICC
+
+#undef Num
+#undef Ph
+#undef IsPh
+#undef PhNum2Char
+#undef Char2Node
+#undef Char2Ph
+#undef Opspace
+#undef IsOpspace
+#undef IsTab
+#undef IsNewline
+#undef IsExpr
+#undef IsOp
+#undef IsId
+#undef IsVar
+#undef IsText
+#undef IsDisp
+#undef IsDispOrExpr
+#undef IsOpCode
+#undef IsImportantOpen
+#undef IsImportantClose
+
+inline Char Num(Char c)
+    { return c & (Char)0xF; }
+inline Char Ph(Char c)
+    { return c & (Char)0xFFF0; }
+inline char Ph2char(Char c)
+    { return (char)((((c & (Char)0xFFF0) - (Char)0xF700) >> 4)+'A') ; }
+inline Char char2Ph(char c)
+    { return (Char)((((Char)c-'A')<<4)+(Char)0xF700); }
+inline Bool codedPh(Char c)
+    { return ('A'<=c && c<='G'); }
+inline Bool IsPh(Char c)
+    { return (Char)NodeCode<=c && c<(Char)TabCodes; }
+inline Char PhNum2Char(Char p, Char n)
+    { return p | n; }
+inline Char Char2Node(Char c)
+    { return IsPh(c) ? (Char)NodeCode : c; }
+inline Char Char2Ph(Char c)
+    { return IsPh(c) ? Ph(c) : c; }
+inline Char Opspace(Char c)
+    {  return c | (Char)SpaceCode; }
+inline Bool IsOpspace(Char c)
+    { return (c & SpaceCode) == SpaceCode; }
+inline Bool IsExpr(Char c)
+    { return Ph(c) == MP_Expr; }
+inline Bool IsDispOrExpr(Char c)
+    { return Ph(c) == MP_Expr || Ph(c) == MP_Disp; }
+inline Bool IsText(Char c)
+    { return Ph(c) == MP_Text; }
+inline Bool IsOp(Char c)
+    { return Ph(c) == MP_Op; }
+inline Bool IsDisp(Char c)
+    { return Ph(c) == MP_Disp; }
+inline Bool IsTab(Char c)
+    { return SoftNewline <= c; }
+inline Bool IsId(Char c)
+    { return Ph(c) == MP_Id; }
+inline Bool IsVar(Char c)
+    { return Ph(c) == MP_Var; }
+inline Bool IsNewline(Char c)
+    { return c == Newline || c == SoftNewline; }
+inline Bool IsTabOpen(Char c)
+    { return c == TabOpen || c == DisplayOpen; }
+inline Bool IsTabClose(Char c)
+    { return c == TabClose || c == DisplayClose; }
+inline Bool Important(Char c)
+    { return (c>=CloseGap && c<=CloseStack) || (c>=EndHide && c<=StackB) ||
+      (c>>8)==StackFont || (c>>8)==FontFont || (c>>8)==SizeFont ||
+      (c>>8)==PopFont || (c>>8)==AttribFont || (c>>8)==AttrPopFont ||
+	c==PlName || c==PlNameEnd || c==ColorStart || c==ColorSep ||
+	c==ColorEnd; }
+inline Bool FromWord(Char c)
+    { return ('0'<=c && c<='9') || ('a'<=c && c<='z') || ('A'<=c && c<='Z'); }
+inline Bool IsOpCode(Char c)
+    { return FirstOpCode<=c && c<=LastOpCode; }
+inline Bool IsImportantOpen(Char c)
+    { return c==ColorStart || c==PlName; }
+inline Bool IsImportantClose(Char c)
+    { return c==ColorSep || c==PlNameEnd; }
+
+#endif

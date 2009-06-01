@@ -1,0 +1,80 @@
+#!/bin/sh
+cerror="0"
+ccerror="0"
+lderror="0"
+errors="0"
+missing="No"
+if [ -f "make.log" ]
+then
+  cerror="`grep -c '\\.c[^c].*[1-9][0-9]*:' make.log`"
+else
+  missing=$missing"-C"
+fi
+if [ -f "make.log" ]
+then
+  ccerror="`grep -c '\\.cc.*[1-9][0-9]*:' make.log`"
+else
+  missing=$missing"-C++"
+fi
+if [ -f "make.log" ]
+then
+  lderror="`egrep -c 'ld:|fail' make.log`"
+else
+  missing=$missing"-ld"
+fi
+echo "#C: $cerror, C++: $ccerror, ld: $lderror, missing: $missing" > error.log
+echo
+rm -f .errors
+errors="`expr $cerror + $ccerror + $lderror`"
+success="Y"
+if [ "`echo make*.log`" != "make*.log" ]
+then
+  if [ "$errors" = "0" ]
+  then
+    if [ -f make.log -a -x src/treeedit/mathpad ]
+    then
+      echo
+    else
+      echo "Sorry, something went wrong. Maybe the disk is full, you don't"
+      echo "have a C++ compiler or the compiler generates strange error"
+      echo "messages. If you have solved the problem, you can try again."
+      echo "Please report the problem by sending the *.log files."
+      echo
+      echo "errors" >> .errors
+      success="N"
+    fi
+  else
+    if [ -x src/treeedit/mathpad ]
+    then
+      echo "There seem to be warnings, but MathSpad should be able to run."
+      echo "Warnings: C   code  $cerror"
+      echo "          C++ code  $ccerror"
+      echo "          Linking   $lderror"
+      echo
+      echo "warnings" >> .errors
+    else
+      echo "There where some problems. MathSpad will not work."
+      echo "Errors:   C   code  $cerror"
+      echo "          C++ code  $ccerror"
+      echo "          Linking   $lderror"
+      echo
+      echo "Sorry that it doesn't work on your site. If you can solve"
+      echo "the problems yourself, would you be so kind as to mail your"
+      echo "solution to mathpad@win.tue.nl, so we can adjust the"
+      echo "program and the installation script. If you can't solve"
+      echo "the problems, you can mail the *.log files and somebody"
+      echo "will try to help you as soon as possible."
+      echo
+      echo "errors" >> .errors
+      success="N"
+    fi
+  fi
+  if [ "$success" = "Y" ]
+  then
+    echo "The installation is complete.  We recommend that you try running"
+    echo "MathSpad to see that all is well.  When you are confident that is"
+    echo "the case execute CleanUp in order to remove various unwanted files."
+    echo "(If you execute CleanUp now and have to recompile the system later"
+    echo "you may need to unpack the distribution once more.)"
+  fi
+fi

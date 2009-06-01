@@ -1,0 +1,1029 @@
+[4mMathpad Document
+[0m8efNN0E0
+8fPKN2A0ISe1d4f11P   +2PCSectionHeading2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f1aC'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+HC80J8bN{8bO}80IKC{heading}GVe1d4f20A'!3CC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80IPC[toc]{heading}GVe1d4f27D'!2MC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1CC[no no.]{heading}GVe1d4f2aE'!2NC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1AC80J8bN{8bO}\label{8bM}80IPC{heading}labelGVe1d4f2eB'!3LC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1EC[toc]{heading}labelGVe1d4f12M'!3FC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1BC80J8bN*{8bO}\label{8bM}80I1HC[no no.]{heading}labelGVe1d4f12H'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80I1EChide-[toc]{heading}GVe1d4f12I'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1IChide -[no no.]{heading}GVe1d4f12J'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1AC80J8bN{8bO}\label{8bM}80I1EChide-{heading}labelGVe1d4f12K'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1JChide-[toc]{heading}labelGVe1d4f12L'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1BC8bN80J*{8bO}\label{8bM}80I1MChide-[no no.]{heading}label"8bM2BN0E3Advice for non-LATEX Users8bO2AN0E1Advice for Newcomers to 8fPHN2A0ISe1cfa44M   %2GCLaTeX1CCLatex2e#LaTeXHelpGVe1cfa44N#!1FCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NXKC80J\LaTeX{}GVe1cfa44O#!MCT81K81L81K81L81ME81N81M81NXIC80J\TeX{}GVe1cfa45A#!1HCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NX23bF4AC80J{\mathsurround=0pt\LaTeX $2_80L{\textstyle 3bF}$\hspace{-0.4mm}}{}GVe1cfa45B#!1BCBccAIB80PT81K81L81K81L81ME81N81M81NX1FC80J80J\textsc{Bib}\TeX{}GVe1e4779B#!MCbfMMakeIndexdfMOCbfMMakeIndexdfM{}/8bNIN0E28fPHN2A0ISe1d4f86L   '21ACSectioningTypes2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f86M#!JCcbLbfKPartdfK80PHC80J\partGVe1d4f86N#!MCcbMbfKChapterdfK80PKC80J\chapterGVe1d4f86O'!MCcbNbfKSectiondfK80PKC80J\sectionMCcbObfKSectiondfKccAGVe1d4f86P#!PCcbObfKSubSectiondfK80PNC80J\subsectionGVe1d4f87A#!1ACbfKSubSubSectiondfK1AC80J\subsubsectionGVe1d4f87B#!MCbfKParagraphdfKMC80J\paragraphGVe1d4f87C#!PCbfKSubParagraphdfKPC80J\subparagraph5
+8fPJN2A0#8bO1KN0E1by Hilary Backhouse8bNIN0E28fPHN2A03
+Once you have completed writing a document using 8fPHN2A0ISafa0e17G   !0GVafa0e17F#!MC80JbfIMath222LpaddfILC80J\mplogo{}7 you will most certainly
+want to print the document on paper (get a ``hard copy'' in computer jargon). 
+8fPHN2A07 does not do this for you; instead, it can be made to create a file written in a
+mark-up language, which file is then processed by a computer program to produce the
+desired output.   
+
+Since the output of a 8fPHN2A07 document is processed by a computer program 
+the format and content of the  output file  must obey rigid restrictions. 
+Consequently,  in order to use 8fPHN2A07 successfully in this way, some knowledge of the
+mark-up language and ``printer'' program is essential.  
+
+In this chapter we give advice on preparing documents with 8fPHN2A07 for
+subsequent processing by 8fPHN2A0/. It is a basic guide and is primarily intended for 
+users with no experience of 8fPHN2A0/. Its aim is to enable such users to produce
+satisfactory output using existing templates. Users who  need to construct  their own
+templates to produce anything but simple 8fPHN2A0/ code will undoubtedly need to
+consult Leslie Lamport's 8fPHN2A0/  manual 8fPIN2A0ISd54e28aC   &1FCRef.GVd54e289P'!GC(bfI8bOdfI)LC80J(\ref{8bO})GC(Ref)GVd54e28aA'!JCbfI8bOdfI80Oref81OJC80J\ref{8bO}ECRefGVd54e28aB'!GC[bfI8bOdfI]KC80J\cite{8bO}FCCiteGVff37371C'!GC[8bO,8bN]NC80J\cite[8bN]{8bO}1CCCite[Ref,Comment]GVfeea542G'!GC[bfI8bOdfI]MC80J\nocite{8bO}HCNoCiteGVfeea545F'!GC[8bO,8bN]1AC80J80J\nocite[8bN]{8bO}1ECNoCite[Ref,Comment];8bOON0E1LaTeX2e for more details of the system.
+
+There are four sections.  In the first section the overall structure of a 8fPHN2A0/ file is discussed
+whilst the second section is concerned with more detailed issues.  In the third section we explain
+how to run the various programs that make up the 8fPHN2A0/ system.  In the final
+section it is explained how to interpret any warnings or other error messages that may arise. 
+(The use of 8fPHN2A07 helps to reduce the amount of error when using 8fPHN2A0/ but offers no
+guarantee against error.)  A more detailed description of error messages can be found in
+chapter~8 of Leslie Lamport's 8fPHN2A0/  manual.  
+
+It is useful to have the 8fPIN2A0ISe196d18D   +2KCTextStyle1HCLatex2eA#TextStyleHelpGVe196d18N'!FC80JbfJ8bOdfJKC80J\emph{8bO}1CCbfMEmphasizeddfM textGVe196d18E'!DC80J8bOMC80J\textup{8bO}OCUpright shapeGVe196d18F'!FC80JbfM8bOdfMMC80J\textit{8bO}PCbfMItalicdfM shapeGVe196d18G'!FC80JbfJ8bOdfJMC80J\textsl{8bO}1ACbfJSlanteddfJ shapeGVe196d18H'!DC80J8bOMC80J\textsc{8bO}1FCSccBMALLcbPcbNCccBAPS cbNshapeGVe196d18I'!DC80J8bOMC80J\textmd{8bO}OCMedium seriesGVe196d18J'!FC80JbfO8bOdfOMC80J\textbf{8bO}OCbfOBolddfO seriesGVe196d18K'!DC80J8bOMC80J\textrm{8bO}NCRoman familyGVe196d18L'!FC80JbfI8bOdfIMC80J\textsf{8bO}1ECbfISans SerifdfI familyGVe196d18M'!FC80JbfH8bOdfHMC80J\texttt{8bO}1ECbfHTypewriterdfH familyGVe196d18O'!FC80JbfK8bOdfK1GC80J\textbf{80J\textit{8bO}}1NCbfKBolddfK series bfKItalicdfK shapeB8bOON0E1latex2e stencil8fPON2A0ISe1ce08fJ   "2GCEntry1ECLatex2eC#MakeIndex GVe1ce08fK'!11IC80JbfKIndex EntrydfK
+bfMprimary sort key:dfM80C8bO
+bfMsub sort key:dfM80C8bN
+bfMsubsub sort keydfM80C8bM
+bfMvisual key if different from sort key:dfM80C80C8bL
+bfMif start of range of pages set holder to dfM ( 80C8bK
+bfMfont type for page nr. if non-standarddfM80C8bJ
+bfMif end of range of pages set holder to dfM ) 80C8bI
+bfKEnd of Index EntrydfK
+2EC80J\mpindexnew{8bO}{8bN}{8bM}{8bL}{8bK}{8bJ}{8bI}{}1CCenter index entryGVe1ce08fL'!KC80JbfK81Ji81L 81M81NdfK2EC80J\mpindexnew{8bO}{8bN}{8bM}{8bL}{8bK}{8bJ}{8bI}{}1EChide index commandsI8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2latex2e8bOON0E1stencil on your screen whilst reading this appendix since all
+the templates referred to can be found there.  Note that the latter stencil is rather large and
+what is described is but a very small selection thereof (the part that we feel will be relevant to
+all newcomers to 8fPHN2A0/).    Consult the  help file for the 8fPIN2A0B8bOON0E1latex2e stencil for more
+information.
+
+
+8fPKN2A0'8bM1ON0E3Format of Document File8bO1NN0E1Format of a 8fPHN2A0/ Document8bNIN0E28fPHN2A048fPON2A0I8bIHN0E78bJHN0E68bKIN0E5(8bL1BN0E48fPHN2A0/ document8bMHN0E38bNHN0E28bO1FN0E1LATEX document
+8fPJN2A0*8bO1DN0E1Basic Format8bNIN0E28fPHN2A03
+It is common when preparing a large document for processing by 8fPHN2A0/ to split it
+into several files.    One of these files  is the so-called 8fPIN2A0H8bOLN0E1root file8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1AN0E2root file8bO1FN0E1LATEX document that contains general
+instructions about how to process the document as well as calls to other files that
+make up the document.  We shall follow this practice in describing the format of a
+8fPHN2A0/ document.  
+
+An example of a  root file, prepared with 8fPHN2A07, is shown in figure
+8fPIN2A0<8bO1KN0E1fig:ExampleRootFile.   It is in fact a simplified version of the root file used to process this
+book, and in particular to process this appendix.  It illustrates the typical format of a file to be
+processed by 8fPHN2A0/.  
+8fPLN2A0ISfedd109J   #1NCFigure      GVfedd10aE'!LC
+80C8bM
+80C8bN: 8bO
+3EC80J\begin{figure}80I8bM80I\caption{8bO}\label{8bN}80I\end{figure}PCfig/capt/labelGVfedd122C'!1AC
+80C8bM
+80CFigure: 8bO
+2LC80J\begin{figure}80I8bM80I\caption{8bO}80I\end{figure}JCfig/captGVfedd19cM'!1AC
+80C8bM
+80C8bN:  8bO ccE8bL80P
+3HC80J\begin{figure}[8bL]80I8bM80I\caption{8bO}\label{8bN}80I\end{figure}1DCfig/capt/lab/placeK8bM10EN0E3\begin{center}\begin{tabular}{|l|}\hline\\[-3mm]\begin{minipage}{4in}
+8fPIN2A0F8bOLN0E1Book[12pt,8fPIN2A0F8bO1CN0E1DraftOutput]8fPHN2A0ISe1cfe05L   +2KCLineBreak1GCLatex2e#LineBreakHelpGVe1cfe05M'!NCbfMLineBreakdfM
+NC\linebreak 80ILCLine breakGVe1cfe05N'!1NCbfMLineBreakdfM[82H0,1,2,3 or 482I8bO]OC\linebreak[8bO]1MCLine break [ 0,1,2,3 or 4 ]GVe1cfe05O'!OCbfMNoLineBreakdfMNC\nolinebreakOCNo line breakGVe1cfe05P'!1PCbfMNoLineBreakdfM[82H0,1,2,3 or 482I8bO]1AC\nolinebreak[8bO]1OCNo line break [ 0,1,2,3 or 4]GVe1cfe06A'!LCbfMNewLinedfM
+LC\newline 80IJCNew lineGVe1cfe06B#!EC\\
+KC\\\empty80IGVe1cfe06C'!1AC\\[82Hlength82I8bO]
+
+HC\\[8bO]80ILC\\[length]GVe1d08b3I#!FC\\*
+LC\\*\empty80IGVe1d08b5E'!1BC\\*[82Hlength82I8bO]
+
+IC\\*[8bO]80IMC\\*[length]GVe1cfe06D'!GC   
+
+HC\\[8bO]80I1CC\\[length] (hide)GVe1cfe06E'!DC 
+KC\\\empty80IKC\\ (hide)N8fPIN2A0F8bOON0E1Package8fPHN2A0ISe1d5142P   *2NCSpecialChars1JCLatex2e#SpecialCharsHelpGVe1d5143A#!CC#GC80J\#{}GVe1d5143B#!CC$GC80J\${}GVe1d5143C#!CC%GC80J\%{}GVe1d5143D#!CC&GC80J\&{}GVe1d5143E#"CC~HC{\sim}GVe1d5143F#!CC_GC80J\_{}GVe1d5143G#!DC80J^GC80J\^{}GVe1d5143H#"CC\NC{\backslash}GVe1d5143I#!CC{EC80J\{GVe1d5143J#!CC}EC80J\}Zaddfont,head8fPHN2A0Y8fPHN2A0N8fPHN2A0[MathSpadStyle8fPHN2A0N8fPIN2A0F8bO1BN0E1Make index8fPHN2A0N8fPIN2A0>8bO1FN0E1Begin document8fPHN2A0N8fPIN2A0B8bONN0E1Title: Advice to Newcomers8fPHN2A0N8fPIN2A0B8bOON0E1Author: Hilary Backhouse8fPHN2A0N8fPHN2A0[MathSpadParameters8fPHN2A0N8fPIN2A0F8bO1DN0E1Front Matter8fPHN2A0N8fPIN2A0F8bO1IN0E1Table of Contents8fPHN2A0N8fPIN2A0F8bO1CN0E1Main Matter8fPHN2A0N8fPIN2A0F8bO1BN0E1Input File8fPHN2A0ZLatexhelp8fPHN2A0Y8fPHN2A0N8fPIN2A0F8bO1IN0E1Insert index here8fPHN2A0N8fPIN2A0>8bO1DN0E1End document\end{minipage}\\[-3mm]\\\hline\end{tabular}\end{center}8bN1KN0E2fig:ExampleRootFile8bLKN0E4htb8bO2LN0E1A ``Root'' File Ready For Processing
+
+The file begins with a so-called ``preamble'': all the lines from the first up to (but not
+including) ``8fPIN2A0>8bO1FN0E1Begin document''.  The document proper is placed  between  ``8fPIN2A0>8bO1FN0E1Begin
+document'' and ``8fPIN2A0>8bO1DN0E1End document''.  This  general structure ---first the preamble,
+then ``8fPIN2A0>8bO1FN0E1Begin document'',  then the document proper and finally ``8fPIN2A0>8bO1DN0E1End
+document''--- 8fPIN2A0H8bOLN0E1must be adhered to.  In addition there are rules governing what can be
+placed in the preamble and where, and similarly for the document proper.  These rules
+are given later.  For the moment we content  ourselves with an overview of what is required.
+
+The first line of our example root file tells the 8fPHN2A0/ system that the document is a book.  (It also gives
+some additional information about how to print the document that we will ignore.)  The effect of
+this command is to cause 8fPHN2A0/ to automatically
+add headings to each page and to number the pages in a certain way.   The command also
+has other implications some of which we will discuss later.
+
+The second line says that certain ``packages'' are needed to process the document.  The
+``addfont'' package is needed because the logo ``8fPHN2A07'' is not standard, and the
+``head'' package is needed because the page headings in this book are also not standard.  
+The details of the headings are specified by the call to the ``MathSpadStyle'' command
+that follows.  We won't go into the precise definition of this command at all; we include it
+only to give an example of where you should place instructions determining the
+ overall appearance of
+your document should you too wish to diverge from the 8fPHN2A0/ standard. 
+
+The next command 8fPIN2A0F8bO1BN0E1Make index instructs 8fPHN2A0/ to prepare an index.  Note that this
+command doesn't say where the index is to be placed.  This is done by the command
+``8fPIN2A0F8bO1IN0E1Insert index here'' in the document proper.  (8fPHN2A0/ does not create an index by
+default even when there are index entries in your document.)  
+
+As mentioned earlier, the document proper is bracketed by 
+8fPIN2A0>8bO1FN0E1Begin document and 8fPIN2A0>8bO1DN0E1End document. The title and author form part of the
+document proper.  In addition a date can be specified and an abstract can be added (but not 
+the latter in the case of books).
+
+Immediately following the title and author in our example root file there is a call to the 
+``MathSpadParameters'' command.  This too specifies style conventions peculiar to this book, just
+like the ``MathSpadStyle'' command, the details of which are not relevant.  What you do  need to
+know is that  8fPHN2A0/ allows you to customize your document to your own taste; some of the
+parameters used to do so must be specified in the preamble and some in the document proper. 
+(Again, the precise details are given later.) 
+
+A book generally contains ``front matter'', ``main matter'' and ``back matter''.  The ``front
+matter'' usually includes things like the preface and the list of contents and is recognisable by the
+fact that the page numbers are in Roman rather than Arabic numerals.  The two commands ``8fPIN2A0F8bO1DN0E1Front Matter''
+and ``8fPIN2A0F8bO1CN0E1Main Matter'' in our example root file specify where these two sections begin.  Thus the
+table of contents (whose position in the document is specified by the command ``8fPIN2A0F8bO1IN0E1Table of
+contents'' constitutes the front matter and the  8fPIN2A0?8bO1AN0E1Latexhelp  file constitutes
+the main matter.  (In this example there is no back matter.)
+
+The root file is terminated by the ``8fPIN2A0>8bO1DN0E1End document'' command.  Anything after this in the file will
+simply be ignored by 8fPHN2A0/.
+
+8fPLN2A0K8bM8EN0E3\begin{center}\begin{tabular}{|l|}\hline\\[-3mm]\begin{minipage}{4in}8fPIN2A0ISe1d5e5bI   &2JCVerbatim1FCLatex2e#VerbatimHelpGVe1d5e5bJ'!ECbfH8bOdfHKC80J\verb+8bO+1JCShort-No `+' in contentsGVe1d5e5bK'!ECbfH8bOdfHKC80J\verb?8bO?1JCShort-No `?' in contentsGVe1d5e5bM'!ECbfH8bOdfHLC80J\verb*+8bO+2ICShort-No `+' in contents, spaces as ccB229EcbNGVe1d5e8dO'!ECbfH8bOdfHLC80J\verb*?8bO?2ICShort-No `?' in contents, spaces as ccB229EcbNGVe1d5e5bL'!GC
+bfH8bOdfH
+2EC80J\begin{verbatim}80I8bO80I\end{verbatim}80I1ICLong-more than one lineGVe1d5f98F'!GC
+bfH8bOdfH
+2GC80J\begin{verbatim*}80I8bO80I\end{verbatim*}80I2HCLong-more than one line, spaces as ccB229EcbNd8bO24HN0E1\documentclass[12pt,draft]{book}
+\usepackage{mathpad,makeidx,latexsym}
+\input{mpmacros.tex}                  
+\usepackage{addfont,head}            
+\MathSpadStyle                       
+\makeindex
+\begin{document}                     
+\title{Advice to Newcomers}
+\author{Hilary Backhouse}                           
+\maketitle
+\MathSpadParameters                  
+\frontmatter                         
+\tableofcontents                     
+\mainmatter                          
+\input{Latexhelp}                  
+\printindex            
+\end{document}                       \end{minipage}\\[-3mm]\\\hline\end{tabular}\end{center}8bN2BN0E2fig:ExampleRootFileRawForm8bLKN0E4htb8bO2EN0E1The ``Root'' File in Raw Form
+
+If you are curious to know what you would have to enter if you were using raw 8fPHN2A0/ 
+take a look at figure 8fPIN2A0<8bO2BN0E1fig:ExampleRootFileRawForm.  Note that there are several additional lines
+taken care of by the definition of the templates that have been used.  More importantly, the use of
+the templates spares you the task of entering all those ``8fPIN2A0h8bOIN0E1\'', ``8fPIN2A0h8bOIN0E1{'' and ``8fPIN2A0h8bOIN0E1}''
+symbols, learning and remembering the precise syntax of each command,
+ and ensuring that each is correctly spelt!   
+
+
+This concludes our overview of the format of a 8fPHN2A0/ document.  In the following subsections
+we go into more details.
+
+8fPJN2A0*8bOPN0E1Preamble8bNIN0E28fPHN2A03
+Recall that every 8fPHN2A0/ document must begin with a 8fPIN2A0H8bOPN0E1preamble8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNPN0E2preamble8bO1FN0E1LATEX document.  The function of the
+preamble is to specify the basic style of the document.
+
+ The  first statement of the preamble 8fPIN2A0F8bOLN0E1must8fPIN2A0ISb85817fE   $1JCFootnoteGVb85817fA'!JCbfK81J·81L 81M81NdfK1AC80J\footnote{80O8bO}81OJCFootnoteGVb85817fB'!1ACbfKFootnote:dfK {8bO}OC80J\footnote{8bO}1DCFootnote(Editable)GVb85817fC'!ECbfKªdfKOC80J\thanks{80O8bO}81OHCThanksGVb85817fD'!MCbfKThanksdfK{8bO}OC80J\thanks{80O8bO}81O1BCThanks(Editable)l8bO4LN0E1(See sending documents 
+by email in the 8fPHN2A0/ manual for an exception.)
+ specify the class type of the document.8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1BN0E2class type8bO1FN0E1LATEX document This may
+be either 8fPIN2A0H8bOON0E1article8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMON0E3article8bN1BN0E2class type8bO1FN0E1LATEX document, 8fPIN2A0H8bOLN0E1book8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMLN0E3book8bN1BN0E2class type8bO1FN0E1LATEX document, 8fPIN2A0H8bONN0E1letter8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMNN0E3letter8bN1BN0E2class type8bO1FN0E1LATEX document, 8fPIN2A0H8bONN0E1report8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMNN0E3report8bN1BN0E2class type8bO1FN0E1LATEX document or 8fPIN2A0H8bONN0E1slides8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMNN0E3slides8bN1BN0E2class type8bO1FN0E1LATEX document. The default settings of various style
+parameters affecting the finished output are determined by the class type chosen. The
+template 8fPIN2A0@8bO1EN0E1DocumentClass is used to enter the class type.
+A brief description of the five document class types follows:
+
+8fPIN2A0ISa648bc4N   !0GVa648bc4P#!GCbfO8bOdfO  OC
+\noindentbfO8bOdfOm8bOON0E1Article8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMON0E3article8bN1BN0E2class type8bO1FN0E1LATEX document An article is usually a short document and has no chapters. By
+default, the title and abstract (if there is one) are not placed on separate pages. 
+
+8fPIN2A0m8bONN0E1Report8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMNN0E3report8bN1BN0E2class type8bO1FN0E1LATEX document This class is for longer documents and may have chapters. Both the
+title  and abstract (if present) are placed by default on a  separate page.
+
+8fPIN2A0m8bOLN0E1Book8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMLN0E3book8bN1BN0E2class type8bO1FN0E1LATEX document  A book is considered to consist of 8fPIN2A0H8bO1DN0E1front matter8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1DN0E2front matter8bO1FN0E1LATEX document, 8fPIN2A0H8bO1CN0E1main matter8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1CN0E2main matter8bO1FN0E1LATEX document and
+8fPIN2A0H8bO1CN0E1back matter8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1CN0E2back matter8bO1FN0E1LATEX document. The front matter may include such things as a copyright page, a
+foreword, a table of contents and so forth.  The back matter may include a bibliography
+and an index. The main matter is the  actual contents of the book. It is usual to
+number the pages of the front matter with Roman numerals and the main and back
+matter with Arabic numerals.  It is also usual to omit the word ``Chapter'' in chapter
+headings in the front and back matter. To indicate to 8fPHN2A0/ where each of these
+three parts  start, insert  versions 8fPIN2A0@8bO1CN0E1FrontMatter, 8fPIN2A0@8bO1BN0E1MainMatter and 8fPIN2A0@8bO1BN0E1BackMatter with  template
+8fPIN2A0@8bO1EN0E1Book-DocClass at the appropriate places. If they are omitted everything is assumed to be main
+matter.
+
+By default, the book document class will output  left and right-hand pages
+Right-hand pages have an odd page number, left-hand
+pages have an even page  number and chapters  begin on a right-hand page.  8fPHN2A0/
+assumes that this class  of document  does not have an abstract. Entering one into your
+document with the 8fPIN2A0@8bOPN0E1Abstract template will cause an error. The title is output  by
+default  on a separate page.
+
+8fPIN2A0m8bONN0E1Letter8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMNN0E3letter8bN1BN0E2class type8bO1FN0E1LATEX document  This class is used for correspondence and should be used in combination
+with the  8fPIN2A0@8bO1GN0E1Letter-DocClass template.  
+There are versions with which to enter the sender's name and address, the opening
+greeting and so on. 8fPJN2A0ISfea5c45H   ,1JCVerticalGVfea5c46E'!1GCVert. Space 8bO units 8bNMC\vspace{8bO8bN}OCspace{length}GVfea5c47P'!1GCVert. Space 8bO units 8bNNC\vspace*{8bO8bN}2GCspace{length} *also at start/end pageGVe13b95aM'!JC219D219DccDfill80PHC\vfill1ECfill out with spaceGVfea5c61D'!1KCAdd Vert. Space 8bO units 8bNPC\addvspace{8bO8bN}KCadd spaceGVfea5c77J'!FC219DccD8bO80PMC\vspace{8bO8bN}1DChide-space{length}GVe13b954J'!GC 219DccD8bO80PNC\vspace*{8bO8bN}1FChide-space{length} *GVe13b958H'!GC219D219DccD8bO80PPC\addvspace{8bO8bN}PChide-add spaceGVe13b960L'!FC219DccDs80PLC\smallskipMCSmall spaceGVe13b961C'!FC219DccDm80PJC\medskipNCMedium spaceGVe13b961I'!FC219DccDb80PJC\bigskipKCBig spaceGVe1d7c6eP'!HC\\[8bO]
+HC\\[8bO]80ILC\\[length]GVe1d7c71J'!IC\\*[8bO]
+IC\\*[8bO]80IMC\\*[length]y8bNJN0E2mm8bOIN0E15
+
+
+8fPIN2A0m8bONN0E1Slides8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMNN0E3slides8bN1BN0E2class type8bO1FN0E1LATEX document This is used when preparing slides. The fonts available are
+different and  larger than with the other document classes and are designed to be read
+from a distance.  Template 8fPIN2A0@8bO1GN0E1Slides-DocClass is specially for use with this document class.
+\bigskip
+
+
+
+The class is specified by template 8fPIN2A0@8bO1EN0E1DocumentClass and a version can be chosen
+with a place holder.  This place holder may be filled
+by a list of  one or more  options separated by commas available via template
+8fPIN2A0@8bO1DN0E1ClassOptions. Some of the more commonly used options  are: 
+8fPIN2A0ISd555ce5O   (1JCManTableGVd555ce5J'!1EC
+81PbfH          dfH80B
+8bO82A
+2JC80J\begin{mantable}{20mm}80I8bO80I\end{mantable}1ACManTable (20mm)GVd555ce5K'!1CC
+81PbfH        dfH80B
+8bO82A
+2JC80J\begin{mantable}{15mm}80I8bO80I\end{mantable}1ACManTable (15mm)GVd555ce5L'!PC
+81PbfH    dfH80B 
+8bO82A
+2IC80J\begin{mantable}{8mm}80I8bO80I\end{mantable}PCManTable (8mm)GVd555ce5M'!JCbfO8bOdfO80C80E8bN80F
+NC80J\item[8bO] 8bN80I1BCItem (same line)GVd555ce5N'!KCbfO8bOdfO
+80C80E8bN80F
+NC80J\item[8bO] 8bN80I1BCItem (next line)GVfdb41f4K'!1GC
+81PbfH            dfH80B
+8bO82A
+2JC80J\begin{mantable}{25mm}80I8bO80I\end{mantable}1ACManTable (25mm)GVfc4a6c3E'!1JC
+81PbfH               dfH80B
+8bO82A
+2JC80J\begin{mantable}{30mm}80I8bO80I\end{mantable}1ACManTable (30mm)GVe113ff5L'!1MC
+81PbfH                  dfH80B
+8bO82A
+2JC80J\begin{mantable}{35mm}80I8bO80I\end{mantable}1ACManTable (35mm)8B8bOPN0E18fPJN2A0~8bNeAN0E2The normal size of type in the finished document can be
+specified with one of these options. If none is selected then
+a ten-point size font will be used. These options are not
+available with the slides document class.8bO1HN0E110pt, 11pt, 12pt8fPJN2A0~8bN3DN0E2A page will consist of two columns of text. 8bO1AN0E1TwoColumn8fPJN2A0~8bNcPN0E2Left and right-hand pages of output are made with the
+left pages numbered with odd numbers. This option can
+not be used with the slides document class  and is the
+default with the book document class.8bOON0E1TwoSide8fPJN2A0~8bN6DN0E2All pages have the same format. This is the default for all
+except the book document class. 8bOON0E1OneSide8fPJN2A0~8bN7NN0E2By default equation numbers are placed on the right but if
+this option is chosen then they will be placed on the left.8bOMN0E1leqno8fPJN2A0~8bN11EN0E2When this option is selected, displayed formulae are
+aligned at the left-hand side  of the page instead of being
+centred. The distance at which they are aligned from the
+left margin is stored in the variable 8fPIN2A0?8bO1BN0E1mathindent.  A value
+can be assigned to this variable with template
+8fPIN2A0@8bO1HN0E1Parameters-OpsOn.8bOMN0E1fleqn8fPJN2A0~8bN13EN0E2If the 8fPIN2A0@8bO1AN0E1TitlePage option is selected then a title entered
+with the 8fPIN2A0@8bOMN0E1Title template and an abstract entered with the
+8fPIN2A0@8bOPN0E1Abstract template will be set on separate pages. This is
+the default for all except the article class whose default is
+the 8fPIN2A0@8bO1CN0E1NoTitlePage option. Note that the 8fPIN2A0@8bOPN0E1Abstract template
+should not be used with the book document class.8bO1NN0E1TitlePage, NoTitlePage8fPJN2A0~8bNbEN0E2The output will be formatted to fit A4 size pages, i.e.\ 
+210mm × 297mm. Note that the conventional
+area for the text on the page seems to differ between
+America and Europe.8bOON0E1A4paper 
+
+Following the class declaration, the preamble may contain a number of items. The  order of
+these is not usually relevant but it is advisable to include any packages as soon as posssible
+after the 8fPIN2A0@8bO1EN0E1DocumentClass command.  
+For example, it may be necessary to load a 8fPIN2A0H8bO1DN0E1command file (8fPIN2A0H8bO1BN0E1macro file in 8fPHN2A0. jargon)
+or one of the many 8fPIN2A0H8bOPN0E1packages that are
+available.   The need for command files  and/or packages when using 8fPHN2A0/ in combination with 
+8fPHN2A07 arises if a non-standard 8fPHN2A0/ command is used in the definition of a template.
+The command file 8fPIN2A0?8bO1DN0E1mpmacros.tex is an example: it is always needed if your 8fPHN2A07
+document contains displayed expressions.  It instructs 8fPHN2A0/ how to process such expressions
+in terms of the standard 8fPHN2A0/ commands.    To load a command file use the 8fPIN2A0@8bO1AN0E1InputFile template.
+
+Packages  are collections of commands designed to meet special-purpose needs.  There is a
+large number available8fPIN2A0k8bO3MN0E1For a thorough account of the use of packages see 
+ 8fPIN2A0ISe1d4818J   $2PCRef(other doc)1LCLatex2e#Ref(other doc)HelpGVe1d4818K'!1HCbfI[82Hdocument key(s)82I8bO]dfIKC80J\cite{8bO}PCCite[document]GVe1d4818L'!1PCbfI[82Hdocument key82I8bO,82Hcomment82I8bN]dfINC80J\cite[8bN]{8bO}1ICCite[document, comment]GVe1d4818M'!2ACbfMNoCitedfMbfI[82Hdocument key(s)82I8bO]dfI
+NC80J\nocite{8bO}80I2HCDocument not cited-but in bibliographyGVe1d4818N'!2JCbfMPut all references into bibliography.dfM
+OC80J80J\nocite{*}80I2CCPut all entries into bibliography8F8bO1FN0E1LaTeXCompanion.  Template
+8fPIN2A0@8bOPN0E1Packages enables you to include packages in your document. 
+
+If an index8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNMN0E2index8bO1FN0E1LATEX document is to be generated
+then this must be indicated in the preamble using template  8fPIN2A0@8bOPN0E1Commands from the group
+8fPIN2A0B8bO1AN0E1MakeIndex. The  more
+experienced 8fPHN2A0/ user may also wish to include in the preamble of a  document
+definitions of 8fPHN2A0/ commands and/or environments. These can appear directly in 
+the preamble or be read from another file. Use the 8fPIN2A0@8bO1DN0E1Input File 8fPIN2A0B8bOIN0E1T  version of template 
+8fPIN2A0@8bO1AN0E1InputFile for the latter operation.
+
+You  may wish to split your document up  into several files and then run 8fPHN2A0/
+on just a selection of the files. The files to be processed should be listed using  the
+8fPIN2A0@8bO1CN0E1IncludeOnly command which is to be found in the 8fPIN2A0@8bOPN0E1Preamble template. More details
+of the procedure for this can be found in 8fPJN2A0ISe04f743O   &1KCBook Ref.GVe04f743P#!1ICsection bfI8bOdfI in bfIfile:8bNdfI1DC80Jsection~\ref{8bN.8bO}GVe04f744A#!JCbfIfile:8bOdfI1GC80Jchapter~\ref{file:8bO}GVe04f744B#!MCsection bfI8bOdfI1DC80Jsection~\ref{8bN.8bO}GVe04f744C#!JCfig. bfI8bOdfI1DC80Jfig.\ \ref{fig:8bO}GVe04f744D#!KCtable bfI8bOdfI1FC80Jtable \ref{Table:8bO}GVe04f744E#!KCTable bfI8bOdfI1GC80J80JTable \ref{Table:8bO}8J8bN1AN0E2Latexhelp8bO1NN0E1Splitting the Document.
+
+Finally the preamble may include instructions about the style and layout of the
+document. For example whether running heads are required and where and in which
+style of numbering  the pages should  be numbered. Templates 8fPIN2A0@8bO1AN0E1PageStyle and
+8fPIN2A0@8bO1CN0E1StylePageNo are used for this.
+
+ A list of the templates or versions which you are most likely to  wish to use in the
+preamble is  given below. Those which may 8fPIN2A0F8bOLN0E1only be used in the preamble are marked
+with a ``8fPIN2A0B8bOIN0E1202A''.
+
+
+
+8fPIN2A0{8bOPN0E18fPJN2A0~8bNdLN0E2With this template a request to load one or more  packages  can be inserted
+into the preamble. Commands to load the 8fPIN2A0H8bOON0E1mathpad, 8fPIN2A0H8bOPN0E1latexsym, 8fPIN2A0H8bONN0E1ifthen and
+8fPIN2A0H8bOON0E1makeidx packages are not needed as these are automatically generated by
+the 8fPIN2A0@8bO1EN0E1DocumentClass template.   8bO1AN0E1Packages202A8fPJN2A0~8bN42BN0E2Each page consists of a header, the body of the page and the foot. With
+the 8fPIN2A0@8bO1AN0E1PageStyle  template the style of the header and foot can be altered.
+The first four versions of this template are called 8fPIN2A0@8bOMN0E1Plain, 8fPIN2A0@8bOMN0E1Empty,
+8fPIN2A0@8bOPN0E1Headings and 8fPIN2A0@8bO1BN0E1MyHeadings. 8fPIN2A0@8bOMN0E1Plain, which is the default,  has an empty
+head and the number centred at the foot of the page. With the 8fPIN2A0@8bOMN0E1Empty
+version both the head and foot of the page are left blank. If the 8fPIN2A0@8bOPN0E1Headings
+version is selected then the foot is empty and the head contains the page
+number and information determined by the document class. The user
+can specify the contents of the head and foot with the 8fPIN2A0@8bO1BN0E1MyHeadings
+version. This option is for experienced 8fPHN2A0/ users and is not described
+here. See instead the 8fPHN2A0/ manual.  The style of  a particular page
+can be specified by inserting a version whose name begins with 
+8fPIN2A0@8bOPN0E1ThisPage within the text of the appropriate page. Certain 8fPHN2A0/
+commands however,  such as those to make chapter headings, contain
+page style instructions. Thus if a 8fPIN2A0@8bO1DN0E1ThisPage ... version appears to have no
+effect, try repositioning it nearer the   bottom of the page  and after any
+sectioning commands.8bO1AN0E1PageStyle8fPJN2A0~8bNbGN0E2The style of the page number can be set with this template. The
+possibilities available are Arabic numerals, upper or lowercase Roman
+numerals, and upper or lowercase letters.8bO1CN0E1StylePageNo8fPJN2A0~8bN7EN0E2Version 8fPIN2A0@8bO1BN0E1Make Index8fPIN2A0B8bOIN0E1202A from template 8fPIN2A0@8bOPN0E1Commands
+in the group 8fPIN2A0B8bO1AN0E1MakeIndex must be included in the preamble  if an
+index8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNMN0E2index8bO1FN0E1LATEX document is to be  generated.8bOPN0E1Commands8fPJN2A0~8bN7DN0E2Use the  8fPIN2A0@8bO1DN0E1Input File 8fPIN2A0B8bOIN0E1T version to instruct
+8fPHN2A0/ to process  file 8fPIN2A0B8bOIN0E1T.  (The difference between 8fPIN2A0@8bO1DN0E1Input File 8fPIN2A0B8bOIN0E1T and 
+8fPIN2A0@8bO1FN0E1Include File 8fPIN2A0B8bOIN0E1T is explained in  8fPJN2A08J8bN1AN0E2Latexhelp8bO1NN0E1Splitting the Document.) 8bO1AN0E1InputFile8fPJN2A0~8bN53EN0E2Template 8fPIN2A0@8bOPN0E1Preamble includes versions for several commands one of
+which has the name 8fPIN2A0@8bO1CN0E1IncludeOnly202A. This command allows the user to
+instruct 8fPHN2A0/ to process just a part of a document. Only those files
+called with an 8fPIN2A0@8bOON0E1Include command whose  names appear in the  list
+entered with the 8fPIN2A0@8bO1CN0E1IncludeOnly command will be processed. This is
+described in more detail in 8fPJN2A08J8bN1AN0E2Latexhelp8bO1NN0E1Splitting the Document.
+
+Another version which is sometimes useful is called 8fPIN2A0@8bO2HN0E1No Auxiliary Files to be Written. 
+Normally two or possibly three runs of 8fPHN2A0/ on your document are
+necessary to obtain the required output if there are cross-references to
+be filled in  or such items as an index or table of contents are to be generated.
+During the first run  particulars of the document are written to 
+additional files and this information is used during the second pass to fill
+in cross-references,  generate the index and so on. If  version 8fPIN2A0@8bO1HN0E1No Files
+Written is included in the preamble of the document then 8fPHN2A0/ will
+not write to any intermediary files but will only create  new 8fPIN2A0?8bOKN0E1dvi and 
+8fPIN2A0?8bOKN0E1log files. The former file contains the output and the latter 8fPHN2A0/'s
+log of processing the document. Any existing intermediary files (8fPIN2A0?8bOKN0E1aux,
+8fPIN2A0?8bOKN0E1toc, 8fPIN2A0?8bOKN0E1idx, 8fPIN2A0?8bOKN0E1glo, 8fPIN2A0?8bOKN0E1lof and 8fPIN2A0?8bOKN0E1lot files) are left unchanged.  The
+advantage of using 8fPIN2A0@8bO2HN0E1No Auxiliary Files to be Written is that should a run of  8fPHN2A0/ be
+aborted then all the information accumulated during the first pass is not
+lost.   (Of course it also means that the information in the files may
+become inaccurate.)8bOPN0E1Preamble8fPJN2A0~8bN14IN0E2Several constraints on the layout of a page of output, such as the
+width and height of text on a page,  are determined by the style
+parameters.  The values assigned by default to them can be altered by
+using the 8fPIN2A0@8bO1HN0E1Parameters-OpsOn template in conjunction with this
+template.  See the
+on-line help file for the 8fPIN2A0B8bOON0E1latex2e stencil8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2latex2e8bOON0E1stencil for more details.8bO1BN0E1Parameters8fPJN2A0ISd555ce5I   "1MCDescriptionGVd555ce5G'!1CC
+81PbfH        dfH80B
+8bO82A
+2JC80J\begin{description}80I8bO80I\end{description}MCDescriptionGVd555ce5H'!KCbfO8bOdfO  80E8bN80F
+NC80J\item[8bO] 8bN80IFCItem8M8bN1bMN0E2This template has two versions, 8fPIN2A0@8bO1EN0E1Ragged Bottom and 8fPIN2A0@8bO1DN0E1Flush Bottom.
+8fPIN2A0@8bO1EN0E1Ragged Bottom   allows the amount of text on a page to vary slightly from
+page to page. This is the default  if  8fPHN2A0/ is formatting the output for
+printing on just one side of the page.  8fPIN2A0@8bO1DN0E1Flush Bottom  causes 8fPHN2A0/ to pad out
+the pages, if necessary, with extra vertical space so that the height of the text
+on each page is the same. This is the default  if  8fPHN2A0/ is formatting the
+output for printing left and right handed pages.8bO1CN0E1Page-Bottom
+
+8fPKN2A0'8bM2AN0E3Latexhelp.Document Proper8bO1GN0E1Document Proper8bNIN0E28fPHN2A03
+The document proper must be separated from the preamble by the command
+8fPIN2A0>8bO1FN0E1Begin document
+ which is entered with version 8fPIN2A0@8bOMN0E1Begin8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0@8bO1FN0E1Begin document8bMHN0E38bN1FN0E2Begin document8bO1FN0E1LATEX document from the
+8fPIN2A0@8bO1FN0E1Begin/End(doc) template. It must also be terminated by the  8fPIN2A0>8bO1DN0E1End document8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0@8bO1DN0E1End document8bMHN0E38bN1DN0E2End document8bO1FN0E1LATEX document command which is  to be found in the same
+template.  
+
+The user may make use of many of the templates provided in the 8fPIN2A0B8bOON0E1latex2e stencil 
+when preparing a document.8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2latex2e8bOON0E1stencil On-line help information is
+provided for each template  and so only a selection are discussed here. 
+8fPIN2A0z8bOON0E18fPJN2A0~8bNdFN0E2This template can be used to  enter the title, author(s) and
+date of the document. If the version of this template with
+which no date is set is used,  then the date is automatically set
+to the current date.8bOMN0E1Title8fPJN2A0~8bN16ON0E2An abstract can be entered with this template. However it
+should not  be used to enter an abstract with a book document
+class  as this will cause an error.  An abstract in an article
+document class will appear where it is positioned in the text 
+unless the 8fPIN2A0@8bO1AN0E1TitlePage option was inserted into the list of class
+options. In this case it will appear on a page by itself.8bOPN0E1Abstract8fPJN2A0~8bN1bPN0E2The 8fPIN2A0@8bO1DN0E1Input File 8fPIN2A0B8bOIN0E1T  or 8fPIN2A0@8bO1FN0E1Include File 8fPIN2A0B8bOIN0E1T  versions are used to
+enter the contents of file 8fPIN2A0B8bOIN0E1T into a document at the position of
+the command.  These commands are described in detail in
+8fPJN2A08J8bN1AN0E2Latexhelp8bO1NN0E1Splitting the Document.  If an 8fPIN2A0@8bO1CN0E1IncludeOnly command
+is present in the preamble, a file 8fPIN2A0B8bOIN0E1T that  is  called with the
+8fPIN2A0@8bO1FN0E1Include File 8fPIN2A0B8bOIN0E1T  version will only be processed if its name is
+present  in the  argument of the 8fPIN2A0@8bO1CN0E1IncludeOnly command.  In
+addition an 8fPIN2A0@8bO1FN0E1Include File 8fPIN2A0B8bOIN0E1T  command may not appear in
+the preamble or in a file that is itself called by an  8fPIN2A0@8bOON0E1Include
+command.8bO1AN0E1InputFile8fPJN2A0~8bN10MN0E2The version 8fPIN2A0@8bO1GN0E1TableOfContents should be entered  at the
+position where a table of contents is required, version
+8fPIN2A0@8bO1EN0E1ListOfFigures where a list of figures is required and  version
+8fPIN2A0@8bO1DN0E1ListOfTables where a list of tables is required. A second run
+of 8fPHN2A0/ is needed in order to  produce these lists. See
+section~8fPIN2A0<8bOON0E1Running.8bO1DN0E1ContentsList8fPJN2A0~8bN41KN0E2Some of the versions of the sectioning commands that can be
+entered  via template 8fPIN2A0@8bO1FN0E1SectionHeading include an optional
+parameter for a label. It is then possible to refer to the section
+without knowing how it will be numbered in the printed output.
+To refer to such a section, select the 8fPIN2A0@8bO1GN0E1Ref(within doc) template  
+and enter the 
+label as the parameter to the
+8fPIN2A0@8bOKN0E1Ref or 8fPIN2A0@8bOMN0E1(Ref) version. (The latter parenthesises the label in
+the output.) 8fPHN2A0/ will substitute the actual number of the section 
+for the label in the output. 
+Note that two runs of 8fPHN2A0/ on your document are necessary 
+in order for 8fPHN2A0/ to be able to  do this.
+
+Other templates, such as 8fPIN2A0@8bONN0E1Figure, 8fPIN2A0@8bOMN0E1Table and
+8fPIN2A0@8bO1HN0E1Equation/Display, also contain versions with a place holder
+for a  label which can be used in the same way. Note that 8fPIN2A0@8bOKN0E1Ref
+and 8fPIN2A0@8bOMN0E1(Ref) only generate a number and if any text such as `section' or
+`equation' is needed then this must be entered by the user.
+
+A particular place in the book can be referenced by inserting a
+label  with the 8fPIN2A0@8bOMN0E1Label  version at the required point and
+referring to it by entering the label into the parameter of the
+8fPIN2A0@8bOON0E1PageRef  or (8fPIN2A0@8bOON0E1PageRef) versions.8bO1GN0E1Ref(within doc)8fPJN2A0~8bN4fHN0E2Every sectioning command has a type (8fPHN2A0ISe1ec753N   %2OCAbbreviations1LCLatex2eB#AbbreviationsHelpGVe1ec753O#!GCe.g. IC80Je.g.\ GVe1ec753P!!ICbfMetc. dfMGVe1ec754A#!GCi.e. IC80Ji.e.\ GVe1ec754B#!GCE.g. IC80JE.g.\ GVe1ec754C#!GCI.e. IC80JI.e.\ 9CChapter) and a
+heading.  The type can be entered with template
+8fPIN2A0@8bO1GN0E1SectioningTypes. Associated with each type is a depth and
+according to the value of its depth the sectioning command  is
+automatically numbered or not.  If a number is not required
+choose a non-numbering version from the template. Also,
+according to the depth of the type and whether a table of
+contents has been requested an entry will be written to a file
+with extension 8fPIN2A0?8bOKN0E1toc. By default the heading is used as the
+table of contents entry. If this is not suitable, select the
+appropriate  version from the template and enter a separate
+table of contents entry. Incidentally, if a table of contents
+entry is required but not generated, one can be made with
+version 8fPIN2A0@8bO1BN0E1AddLineTOC of template 8fPIN2A0@8bO1DN0E1ContentsList. Depending
+on the depth of the section type chosen and the page style set,
+the heading may also appear in the running head. Finally it is
+also possible to select versions  in which a label can be entered.
+This label can be used to refer to the section. Note that this
+label does not appear  in the output.
+
+The values assigned by default that control whether a sectioning
+command is numbered or not and other style parameters 
+can be changed with the 8fPIN2A0@8bO1HN0E1Parameters-OpsOn template in
+combination with the 8fPIN2A0@8bO1BN0E1Parameters template. 8bO1FN0E1SectionHeading8fPJN2A0~8bN5PN0E2Use this template to enter the type of sectioning command
+into the  chosen version of 8fPIN2A0@8bO1FN0E1SectionHeading.8bO1GN0E1SectioningTypes
+
+8fPKN2A0"8bM2HN0E3Latexhelp.Splitting the Document8bO1NN0E1Splitting the Document8bNIN0E28fPHN2A03
+When preparing a large document such as a book it is often convenient to split the text
+between several smaller files. The file containing the first instruction of the preamble is
+called the 8fPIN2A0H8bOLN0E1root file. The 8fPIN2A0@8bO1DN0E1Input File 8fPIN2A0B8bOIN0E1T  or 8fPIN2A0@8bO1FN0E1Include File 8fPIN2A0B8bOIN0E1T  commands from template
+ 8fPIN2A0@8bO1AN0E1InputFile can then be inserted into the root file at the place where the contents  of file
+8fPIN2A0B8bOIN0E1T are required. There are important differences between these two commands. An
+8fPIN2A0@8bO1DN0E1Input File 8fPIN2A0B8bOIN0E1T  command may appear in the preamble  and can also be placed within a
+file that is itself called by either an 8fPIN2A0@8bO1DN0E1Input File 8fPIN2A0B8bOIN0E1T  or 8fPIN2A0@8bO1FN0E1Include File 8fPIN2A0B8bOIN0E1T  command. An
+8fPIN2A0@8bO1FN0E1Include File 8fPIN2A0B8bOIN0E1T  command, however, may neither be placed in the preamble nor
+within a file that is called by an 8fPIN2A0@8bO1FN0E1Include File 8fPIN2A0B8bOIN0E1T  command. More importantly, the 
+text from a file 8fPIN2A0B8bOIN0E1T called with an 8fPIN2A0@8bO1FN0E1Include File 8fPIN2A0B8bOIN0E1T  command always begins on a new
+page and  the text following that in  file 8fPIN2A0B8bOIN0E1T will also start on a new page.  If the text in
+each of such files should begin on a new page, such as if each file contains a complete
+chapter, then this isn't a problem but otherwise it could be.
+
+The advantage of using an 8fPIN2A0@8bO1FN0E1Include File 8fPIN2A0B8bOIN0E1T  command is if you wish to run 8fPHN2A0/ on
+just a part of the document.  (This can save you a lot of time just waiting for the
+processing to complete.) This might be the case if a change has only been made to
+one  section for example.  To do so insert into the preamble the 8fPIN2A0@8bO1CN0E1IncludeOnly command
+(which is a version of the 8fPIN2A0@8bOPN0E1Preamble template). Into  the placeholder of this command
+type the names of all of the files called with an 8fPIN2A0@8bO1FN0E1Include File 8fPIN2A0B8bOIN0E1T command that you wish
+to process.  If more than one name is to be entered,  separate  names from one another with
+ a comma.
+If the document is now processed by 8fPHN2A0/ then all files called with
+an 8fPIN2A0@8bO1FN0E1Include File 8fPIN2A0B8bOIN0E1T command that do not appear in the 8fPIN2A0@8bO1CN0E1IncludeOnly command will not
+be processed. Note that the rest of the document is processed as if these files had not
+been omitted.  Thus if a complete chapter is omitted, for example, the numbers of succeeding
+chapters do not alter. 8fPHN2A0/  does not read the omitted files but assumes that no
+changes have been made to them since the last time they were processed.
+
+
+8fPKN2A0"8bM1KN0E3Typing the Document8bO1KN0E1Typing the Document8bNIN0E28fPHN2A04
+Certain keyboard characters and combination of characters have a special meaning to
+8fPHN2A0/. Others are handled in a way that may be different from that which you are
+accustomed to. Thus, if 8fPHN2A07 is being used to generate  output for
+processing by 8fPHN2A0/, then the document must be typed according to 8fPHN2A0/'s
+conventions.
+
+8fPKN2A0"8bM1CN0E3White Space8bO1CN0E1White Space8bNIN0E28fPHN2A03
+8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1HN0E2horizontal space8bO1FN0E1LATEX document 8fPIN2A0m8bO1HN0E1Horizontal Space
+The  characters obtained by pressing the space bar or the  8fPIN2A0B8bONN0E1return key are  considered
+by 8fPHN2A0/ to be the same space character. Any  sequence of space characters is
+considered to be a sequence of just one space character. Thus if you wish to increase the
+space between two typed items it does not help to insert extra spaces with the space bar
+between them. The extra spaces will be shown on the screen but will be ignored by
+8fPHN2A0/ and so will not appear in the final output. To insert extra space use instead the
+template 8fPIN2A0@8bO1BN0E1Horizontal (from  group 8fPIN2A0B8bOON0E1Spacing) or the  raw 8fPHN2A0/ command  8fPHN2A0ISfea6afcJ   #1DC\\GVfea6afdD#!DC221G221G1HC{\mathsurround=0pt221G221G80K}GVfea6b5aN#!FC221GccB229E80PLC221G\verb*+ +GVfea6b6aE#!GC221G221GbfI8bOdfI1KC{\mathsurround=0pt221G221G80KbfI8bOdfI}9E  where 8fPIN2A0ISe196d0dO   *2JCTextSize1GCLatex2eA#TextSizeHelpGVe196d0dP%!FC80JccD8bO80PFCtinyGVe196d0eA%!FC80Jc4C8bO80PLCscriptsizeGVe196d0eB%!FC80Jc4B8bO80PNCfootnotesizeGVe196d0eC%!FC80Jc4A8bO80PGCsmallGVe196d0eD%!FC80Jc3P8bO80PLCnormalsizeGVe196d0eE%!FC80Jc3O8bO80PGClargeGVe196d0eF%!FC80Jc3N8bO80PGCLargeGVe196d0eG%!FC80Jc3M8bO80PGCLARGEGVe196d0eH%!FC80Jc3L8bO80PFChugeGVe196d0eI%!FC80Jc3K8bO80PFCHuge9M8bOIN0E1229E stands for the
+character obtained by pressing the space bar. The special symbol 8fPHN2A0^8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMIN0E38fPHN2A0^8bN1JN0E2special characters8bO1FN0E1LATEX document8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1KN0E2prohibit line break8bO1FN0E1LATEX document  is also  used to insert
+space but in places where it would be inappropriate to break the line. For example, I
+would input my name as H.8fPHN2A0^Backhouse so that the ``H.'' doesn't appear at the end of a
+line by itself.
+
+When  text is set in a  typewriter-like font  the inter word space is a fixed length causing
+a ragged right-hand or, less usually, left-hand margin. Except when such a font is
+specified or it has been instructed to set the typing with a  ragged margin, 8fPHN2A0/ will
+stretch or shrink the inter word space  on each line so that the right margin is straight.
+Thus inserting space by the methods mentioned in the previous paragraph may not
+have the desired effect. To insert an absolute length of space use instead versions
+8fPIN2A0@8bO1EN0E1space8fPHN2A0Zlength8fPHN2A0Y or 8fPIN2A0@8bO1FN0E1space8fPHN2A0Zlength8fPHN2A0Y* of template
+8fPIN2A0@8bO1BN0E1Horizontal and fill in the length required  (not forgetting the units). Version 
+8fPIN2A0@8bO1EN0E1space8fPHN2A0Zlength8fPHN2A0Y will not produce any space at the start or end of a line (of output)  but 
+version 8fPIN2A0@8bO1FN0E1space8fPHN2A0Zlength8fPHN2A0Y* will.
+
+
+
+8fPIN2A0m8bO1FN0E1Vertical Space8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1FN0E2vertical space8bO1FN0E1LATEX document A completely blank line in the text indicates to 8fPHN2A0/
+the end of a paragraph.  Multiple blank lines entered by means of the 8fPIN2A0B8bONN0E1return key are
+considered by 8fPHN2A0/ to be just one blank  line.  One or more blank lines immediately
+after a sectioning command such as chapter or section will  also be ignored. Note that a
+blank line appearing on the screen which has been generated by using a template may
+not necessarily  generate a blank line in the corresponding 8fPHN2A0/ code. 
+
+Extra vertical space can be added after a line break by using the 8fPIN2A09D8bOPN0E1[length]   version from
+template 8fPIN2A0@8bO1AN0E1LineBreak. Insert into the place holder the  length of the  extra vertical space
+required. (Don't forget the units of length.)
+
+It's also possible to add extra vertical space with template 8fPIN2A0@8bOPN0E1Vertical  (from  group 8fPIN2A0B8bOON0E1Spacing).
+If a version is inserted
+between paragraphs then the extra vertical space will appear there. If it is inserted in
+the middle of a line (of output) the extra space is added immediately after the end of
+that line of output.
+
+8fPJN2A0*8bONN0E1Dashes8bNIN0E28fPHN2A03
+8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNNN0E2dashes8bO1FN0E1LATEX document Typing one, two or three hyphens after
+each other will produce different lengths of dashes as follows: ``8fPIN2A0h8bOIN0E1-'' produces a hyphen as in
+X-ray,``8fPIN2A0h8bOJN0E1--'' produces an ``en-dash'' which is commonly used to separate numbers as in
+10--20,  and ``8fPIN2A0h8bOKN0E1---'' produces an ``em-dash'' ---which is used for a parenthetical or
+explanatory remark such as this one---.
+
+8fPJN2A0*8bO1BN0E1Full Stops8bNIN0E28fPHN2A03
+8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2periods8bO1FN0E1LATEX document It is usual to set some extra space after
+the full stop at the end of a sentence. To indicate to 8fPHN2A0/ that a full stop is at the end
+of a sentence follow it  either by a space or a 8fPIN2A0B8bONN0E1return   character. 8fPHN2A0/
+assumes that all full stops followed by a space mark the end of a sentence  unless they
+are preceded by an uppercase letter. To insert a period followed by a space in other
+situations such as the second period in the abbreviation ``i.e.''8fPHN2A0ISe1f47d6C   -22ECHorizontal                         1ICLatex2eB#HorizSpaceHelpGVe1f47d6D'!1FCbfMHSpacedfM {82Hlength82I8bO}LC\hspace{8bO}OCspace{length}GVe1f47d6E'!1HCbfMHspace*dfM {82Hlength82I8bO} MC\hspace*{8bO}2GCspace{length}* also at start/end lineGVe1f47d6F'!ICbfMHFilldfMHC\hfill1ECfill out with spaceGVe1f490cL'!JCbfMHFill*dfM1AC\hspace*{\fill}1FCfill out with space*GVe1f47d6G'!CC DC\,LCthin spaceGVe1f47d6H'!CC EC80J\ 1EC1 inter-word space*GVe1f47d6I'!DC  GC80J\ \ 1GC2  inter-word spaces*GVe1f47d6J'!GC     MC80J\ \ \ \ \ 1GC5  inter-word spaces*GVe1f47d6K'!LC          1GC80J\ \ \ \ \ \ \ \ \ \ 1GC10 inter-word spaces*GVe1f47d6L'!FC    LC\hspace{8bO}1DChide-space{length}GVe1f47d6M'!FC    MC\hspace*{8bO}1EChide-space{length}*GVe1f47d6N'!FC    HC\hfill1FChide-fill with spaceGVe1f4910N'!FC    1AC\hspace*{\fill}1KChide-fill out with space*§use the template
+8fPIN2A0@8bO1IN0E1Punctuation+Space.  Some of the more commonly used abbreviations, for example e.g., are to
+be found in the template 8fPIN2A0@8bO1EN0E1Abbreviations and can be entered into the document directly from
+there. Note  that this template adds a space after the abbreviation and so could not be
+used in the preceding sentence where ``e.g.''8fPHN2A0§is followed by a comma.
+
+Should a sentence end with an uppercase letter enter the period with the appropriate version
+of the template 8fPIN2A0@8bO1IN0E1Punctuation+Space.
+
+8fPJN2A0*8bO1JN0E1Special Characters8bNIN0E28fPHN2A03
+8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1JN0E2special characters8bO1FN0E1LATEX document The ten characters
+8fPIN2A0ISfe9c0daL   !1NCdisplay textGVfe9c0daO#!GC
+82B8bO82C
+EC82B8bO82C­8bO2EN0E18fPHN2A0`8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMIN0E38fPHN2A0`8bN1JN0E2special characters8bO1FN0E1LATEX document8fPHN2A0¦8fPHN2A0_8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMIN0E38fPHN2A0_8bN1JN0E2special characters8bO1FN0E1LATEX document8fPHN2A0¦8fPHN2A0^8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMIN0E38fPHN2A0^8bN1JN0E2special characters8bO1FN0E1LATEX document8fPHN2A0¦8fPHN2A0b8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMIN0E38fPHN2A0b8bN1JN0E2special characters8bO1FN0E1LATEX document8fPHN2A0¦8fPHN2A0a8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMIN0E38fPHN2A0a8bN1JN0E2special characters8bO1FN0E1LATEX document 8fPHN2A0[8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMIN0E38fPIN2A0?8bOIN0E18fPHN2A0[8bN1JN0E2special characters8bO1FN0E1LATEX document8fPHN2A0¦8fPHN2A0Z8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMIN0E38fPHN2A0Z8bN1JN0E2special characters8bO1FN0E1LATEX document8fPHN2A0¦8fPHN2A0Y8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMIN0E38fPHN2A0Y8bN1JN0E2special characters8bO1FN0E1LATEX document8fPHN2A0¦8fPHN2A0]8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMKN0E38fPHN2A0]\,8bN1JN0E2special characters8bO1FN0E1LATEX document8fPHN2A0¦8fPHN2A0\8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMIN0E38fPHN2A0\8bN1JN0E2special characters8bO1FN0E1LATEX document
+acquire special meanings in 8fPHN2A0/ and so cannot be entered directly from the
+keyboard. These must be entered instead with  template 8fPIN2A0@8bO1DN0E1SpecialChars. They will 
+probably all cause problems if they are  inadvertently inserted via the keyboard but
+some warrant a special mention.
+
+8fPIN2A08B8bOKN0E18fPJN2A0~8bNaON0E2This is used for adding comments. 8fPHN2A0/ will ignore the 8fPHN2A0`
+8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMIN0E38fPHN2A0`8bN1JN0E2special characters8bO1FN0E1LATEX document and all the
+following characters up to and including the character marking the end
+of the line (in the 8fPIN2A0?8bOKN0E1tex file).8bOIN0E18fPHN2A0`8fPJN2A0~8bN11JN0E2All 8fPHN2A0/ commands begin with this character which is called a 8fPIN2A0H8bO1AN0E1backslash8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMIN0E38fPIN2A0?8bOIN0E18fPHN2A0[8bN1JN0E2special characters8bO1FN0E1LATEX document. 
+Thus, if the backslash is
+followed by a sequence of characters that is not a defined 8fPHN2A0/
+command an error will be reported, but if followed by characters that do
+form a command then that command will be executed!8bOIN0E18fPHN2A0[8fPJN2A0~8bNfEN0E2A dollar sign8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMIN0E38fPHN2A0a8bN1JN0E2special characters8bO1FN0E1LATEX document changes the mode either out of or into math mode depending on
+whether 8fPHN2A0/ is or isn't currently in math mode. An unexpected
+change of font to italic type may be caused by the occurrence of a spurious
+dollar sign in the text.8bOIN0E18fPHN2A0a
+Certain non-alphanumeric symbols following a backslash are also 8fPHN2A0/ commands.  A few
+of these commands are listed in table~8fPIN2A0<8bO1AN0E1tab:Latex as an aid to debugging 8fPHN2A0/
+errors.
+
+8fPLN2A0ISfee4d45G   %1GCTableGVfee4d45J'!OC
+8bM
+8bN:  8bO ccE8bL80P
+3FC80J\begin{table}[8bL]80I8bM80I\caption{8bO}\label{8bN}80I\end{table}1FCtable/capt/lab/placeGVfee4d45H'!KC
+8bM
+8bN:  8bO
+3DC80J\begin{table}80I8bM80I\caption{8bO}80I\label{8bN}80I\end{table}1BCtable/capt/labelGVfee4d45I'!OC
+8bM
+Table:  8bO
+2JC80J\begin{table}80I8bM80I\caption{8bO}80I\end{table}LCtable/captGVfeefac8J'!GC
+8bM
+8bN
+2KC80J\begin{table}[8bL]80I8bM80I\label{8bN}80I\end{table}1ACtable/lab/placeGVfeefad5K'!KC
+8bM
+Table
+1NC80J\begin{table}80I8bM80I\end{table}GCtable²8bO1HN0E1Some 8fPHN2A0/ commands.8bMIN0E38fPIN2A0ISe1cfae7F   #2NCLayout-c,l,r1JCLatex2e#Layout-c,l,rHelpGVe1cfae7G'!GC
+82B8bO82C
+2BC80J80I\begin{center}80I8bO80I\end{center}80IHCCenterGVe1cfae7H'!GC
+82B8bO82C
+2HC80J80I\begin{flushleft}80I8bO80I\end{flushleft}80IKCFlushleftGVe1cfae7I'!GC
+82B8bO82C
+2JC80J80I\begin{flushright}80I8bO80I\end{flushright}80ILCFlushrightµ8bOIN0E18fPNN2A0ISd555ce4P   '11ACTabular        GVd555ce4I'!3HC81P80B81J 81H 81L1faP8bO80B82D 8bN80B82D 8bM80B82D 8bL80B1faP81M 81H 81NccE8bI80P
+8bJ81J81L80C 82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A4JC80J\begin{tabular}{8bI}\hline80I8bO & 8bN &  8bM & 8bL\\ \hline80I8bJ\hline80I\end{tabular}80IOC4 col. (edit)GVd555ce4J'!2IC81P80B81J 81H 81L1faP8bO80B82D 8bN80B1faP81M 81H 81N
+8bJ81J81L80C 82D80C82D80C 82D 81M 81H 81N82A4BC80J\begin{tabular}{8bI}\hline80I8bO & 8bN \\ \hline80I8bJ\hline80I\end{tabular}80IHC2 col.GVd555ce4K'!2OC81P80B81J 81H 81L1faP8bO80B82D 8bN80B82D 8bM80B1faP81M 81H 81N
+8bJ81J81L80C 82D80C82D80C82D80C 82D 81M 81H 81N82A4EC80J\begin{tabular}{8bI}\hline80I8bO & 8bN & 8bM\\ \hline80I8bJ\hline80I\end{tabular}80IHC3 col.GVd555ce4L'!3EC81P80B81J 81H 81L1faP8bO80B82D 8bN80B82D 8bM80B82D 8bL80B1faP81M 81H 81N
+8bJ81J81L80C 82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A4JC80J\begin{tabular}{8bI}\hline80I8bO & 8bN &  8bM & 8bL\\ \hline80I8bJ\hline80I\end{tabular}80IHC4 col.GVd555ce4M'!PC80C 82D 8bO80C82D 8bN80C 82D 
+LC80J8bO & 8bN \\80IGCRow 2GVd555ce4N'!1DC80C 82D 8bO80C82D 8bN80C82D 8bM80C 82D 
+PC80J8bO & 8bN & 8bM \\80IGCRow 3GVd555ce4O'!1HC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C 82D 
+1CC80J8bO & 8bN & 8bM & 8bL\\80IGCRow 4»8bJ1AN0E68fPJN2A0¸8bN1GN0E2Enter math mode8bOJN0E18fPHN2A0[(8fPJN2A0¸8bN1GN0E2Leave math mode8bOJN0E18fPHN2A0[)8fPJN2A0¸8bN2AN0E2Enter displayed math mode8bOJN0E18fPHN2A0[[8fPJN2A0¸8bN2AN0E2Leave displayed math mode8bOJN0E18fPHN2A0[]8fPJN2A0¸8bN1HN0E2Start a new line8bOIN0E18fPHN2A09F8fPJN2A0¸8bN3NN0E2Start a new line and insert vertical space of length 8fPIN2A0F8bOIN0E1l8bOIN0E18fPIN2A09D8bOIN0E18fPIN2A0F8bOIN0E1l8fPJN2A0¸8bN1EN0E2Enter a space8bOIN0E18fPHN2A09E8fPJN2A0¸8bN1JN0E28fPHN2A0/ tabbing commands8bO1DN0E18fPHN2A0[{>}8fPHN2A0¦8fPHN2A0[{<}8fPHN2A0¦8fPHN2A0[=8fPJN2A0¸8bN1JN0E28fPHN2A0/ tabbing commands8bO1EN0E18fPHN2A0[+8fPHN2A0¦8fPHN2A0[$-$8fPHN2A0¦8fPHN2A0[`8fPHN2A0¦8fPHN2A0['8bLHN0E48bMHN0E38bN6GN0E2Meaning                                                                                        8bO1GN0E1Symbols        8bIMN0E7|l|l|8bN1AN0E2tab:Latex8bLKN0E4htb
+8fPKN2A0"8bM1BN0E3Linebreaks8bO1BN0E1Linebreaks8bNIN0E28fPHN2A03
+8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1CN0E2line breaks8bO1FN0E1LATEX documentOne of the most important (and difficult) tasks undertaken by 8fPHN2A0/ (to be more precise
+8fPHN2A0.) is breaking the text
+into lines and into pages.  The difficulty of the task is evident from the fact that it often
+doesn't  succeed!
+
+ Bad line breaks  may be caused by the presence of a
+word which 8fPHN2A0/ won't or doesn't know how to hyphenate. In these cases use the
+8fPIN2A0@8bO1AN0E1Hyphenate template to give advice on hyphenation. 8fPHN2A0/ will only hyphenate an
+already hyphenated word at the existing hyphen which may result  in line breaking
+problems if such a word occurs at the end of a line. The only workable solution is to rewrite
+the offending sentence (or one in the immediate vicinity).
+
+In other cases the user can insert  the command 8fPIN2A0@8bO1AN0E1LineBreak from template  8fPIN2A0@8bO1AN0E1LineBreak
+into the text  forcing  8fPHN2A0/ to break the text at the points at which it is placed.
+Another version of the command has an argument  with can take the value  0, 1, 2,
+3 or 4. The value   given indicates how strongly you wish the text to be broken at the
+point in question. 8fPIN2A0@8bO1DN0E1LineBreak[4] forces a break whereas 8fPIN2A0@8bO1DN0E1LineBreak[0] indicates no
+particular wish for a break. The only difference that  the presence  of 8fPIN2A0@8bO1DN0E1LineBreak[0]
+makes is that a break can be made at the point even if it is not allowed in normal
+circumstances, for example in an already hyphenated word. 
+
+8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1KN0E2prohibit line break8bO1FN0E1LATEX documentThe commands 8fPIN2A0@8bO1CN0E1NoLineBreak and 8fPIN2A0@8bO1FN0E1NoLineBreak[8fPIN2A0B8bOIN0E1T] are similar.  Both
+8fPIN2A0@8bO1CN0E1NoLineBreak and 8fPIN2A0@8bO1FN0E1NoLineBreak[4]   prohibit a line break at the places at which they
+are placed, and a 8fPIN2A0@8bO1FN0E1NoLineBreak[0] is the same as 8fPIN2A0@8bO1DN0E1LineBreak[0].
+
+Line breaks can also be made with the commands 8fPHN2A09F and 8fPIN2A0@8bOON0E1NewLine from template
+8fPIN2A0@8bO1AN0E1LineBreak. These two commands, unlike the 8fPIN2A0@8bO1AN0E1LineBreak and 8fPIN2A0@8bO1DN0E1LineBreak[8fPIN2A0B8bOIN0E1T], do not
+force the line to be aligned  at the right with the right-hand margin.
+
+Occasionally  8fPHN2A0/ puts a line break somewhere where you don't want one,  for
+example, in the middle of a name. This can be prevented by entering the piece of text
+which mustn't be split, into the place holder  of template 8fPIN2A0@8bO1GN0E1UnbreakableText. 
+
+8fPKN2A0"8bM1BN0E3Pagebreaks8bO1BN0E1Pagebreaks8bNIN0E28fPHN2A038fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1CN0E2page breaks8bO1FN0E1LATEX document Similarly,  8fPHN2A0/ fails sometimes to 
+find a good place at which to split the text into pages. This usually results in an
+insufficiently full page and an ``8fPIN2A0h8bO1GN0E1Underfull \vbox'' warning message  being output. 
+In section~8fPIN2A0<8bO1HN0E1Warning Messages  there are some suggestions  on how this problem may
+be solved. If they fail you can insert the command  8fPIN2A0@8bO1CN0E1NoPageBreak  to (try to) prohibit a
+page break or 8fPIN2A0@8bO1AN0E1PageBreak to cause a page break. Both these commands are to be found
+ in the template 8fPIN2A0@8bO1AN0E1PageBreak. Like the commands 8fPIN2A0@8bO1CN0E1NoLineBreak and  8fPIN2A0@8bO1AN0E1LineBreak they
+may take an optional argument  to indicate the strength of the desire to break or
+not to break a page at this point. If the 8fPIN2A0@8bO1AN0E1PageBreak and 8fPIN2A0@8bO1CN0E1NoPageBreak are positioned
+between two paragraphs then they apply to that point. Otherwise they apply to the end
+of the  line in the 8fPHN2A0/ output in which they are placed.
+
+8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1KN0E2prohibit page break8bO1FN0E1LATEX documentAlternatively you can
+increase the height of text allowed on a page in order to put more text than is normal
+on the page. To do this, insert the  command 8fPIN2A0@8bO1BN0E1Enlarge[8fPIN2A0B8bOIN0E1T] from template
+8fPIN2A0@8bO1AN0E1PageBreak above the point where 8fPHN2A0/ starts a new page. Set 8fPIN2A0B8bOIN0E1T to a suitable
+length and then insert command 8fPIN2A0@8bO1AN0E1PageBreak at the point where you want a page break.
+Remember that texts on facing pages with two-sided printing are usually the same
+height.
+
+You can also cause a page break by inserting the command 8fPIN2A0@8bOON0E1NewPage from template 
+8fPIN2A0@8bO1AN0E1PageBreak. Unlike the 8fPIN2A0@8bO1AN0E1PageBreak command the 8fPIN2A0@8bOON0E1NewPage command will not
+cause the  text on the page to be spaced out to reach the bottom of the page.
+
+Fixing bad page breaks can be (very) time consuming so it's best to leave them until you are
+definitely preparing the final version of your document.
+
+8fPKN2A0"8bMMN0E3Index8bO1IN0E1Creating an Index8bNIN0E28fPHN2A03
+
+8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNMN0E2index8bO1FN0E1LATEX document8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bL1AN0E48fPIN2A0F8bO1AN0E1MakeIndex program8bMHN0E38bNHN0E28bO1IN0E1MakeIndex program There is a program 8fPHN2A0+ available which can be used in conjunction with 
+8fPHN2A0/ to produce an index. As this is a relatively simple way of producing
+an index we only discuss this method here. If you don't wish to  make use of
+the 8fPHN2A0+ program consult the  8fPHN2A0/ manual on how to generate an index yourself.
+
+In order to use the 8fPHN2A0+ program, packages
+8fPIN2A0F8bOON0E1makeidx and 8fPIN2A0F8bONN0E1ifthen must be loaded into the preamble of the document. If you have
+entered template 8fPIN2A0@8bO1EN0E1DocumentClass from the 8fPIN2A0B8bOON0E1latex2e stencil8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2latex2e8bOON0E1stencil into your document then
+these packages are automatically   included in your document. (If you didn't use 
+template  8fPIN2A0@8bO1EN0E1DocumentClass then insert template 8fPIN2A0@8bOPN0E1Packages into the preamble and
+enter 8fPIN2A0F8bO1GN0E1makeidx, ifthen into its place holder.)
+
+The templates needed for the compilation of an index can be found in the group 
+labelled  8fPIN2A0B8bO1AN0E1MakeIndex. To generate an index you must not only indicate the items in the
+document which are to be indexed but also  inform 8fPHN2A0/ that you wish to make an
+index and specify where in the document it is to appear. To do so, first enter version
+8fPIN2A0@8bO1BN0E1Make Index from template 8fPIN2A0@8bOPN0E1Commands  into the preamble of the document.  This
+instructs 8fPHN2A0/ to write details of the index entries in the document to a file with
+extension 8fPIN2A0?8bOKN0E1idx.    Then enter version 8fPIN2A0@8bO1DN0E1Insert Index from the same template at the
+place in the document at which you wish the index to appear.  This command instructs
+8fPHN2A0/ to process at  this point the file with extension 8fPIN2A0?8bOKN0E1ind of sorted index entries 
+(if it exists).
+
+We are now ready to discuss the generation of the index items themselves.
+This is done with  templates  8fPIN2A0@8bOMN0E1Entry and  8fPIN2A0@8bO1AN0E1SEE-Entry both of which have two versions.
+
+An index item may be a normal index entry with a page number or it may be an index
+entry which refers the reader to another index entry. The latter we call a ``SEE'' entry. 
+As the number of the page  in which  a ``SEE'' entry is inserted into the document is
+irrelevant, it is a good idea to put all ``SEE'' entries together
+ (for example in a separate file).  These are entered with
+version 8fPIN2A0@8bO1GN0E1enter SEE entry of template 8fPIN2A0@8bO1AN0E1SEE-Entry.  Once such an item has been entered
+use the 8fPIN2A0@8bOON0E1Version button on the console to change the version to 8fPIN2A0@8bO1KN0E1display SEE command.
+Only a selection of the index fields is then displayed in the document window improving
+the readability. Similarly  enter a standard index item with the 8fPIN2A0@8bO1HN0E1enter index item version
+from template 8fPIN2A0@8bOMN0E1Entry and then hide it to improve the appearance of your document on
+the screen by changing to version  8fPIN2A0@8bO1JN0E1hide index command.  
+
+
+  A detailed description of how to enter details into the  8fPIN2A0@8bO1GN0E1enter SEE entry and
+8fPIN2A0@8bO1HN0E1enter index item versions is given in the help file associated with the templates.
+
+After the document has been processed by 8fPHN2A0/, 8fPHN2A0+ is used to process the
+information in the 8fPIN2A0?8bOKN0E1idx file and write the sorted index entries to an 8fPIN2A0@8bOKN0E1ind file.  On
+subsequent runs of 8fPHN2A0/  the 8fPIN2A0@8bOKN0E1ind file is used to generate an index. More detailed
+instructions on this are given in section~8fPIN2A0<8bOPN0E1RunIndex.  
+
+8fPKN2A0'8bM1DN0E3Bibliography8bO1DN0E1Bibliography8bNIN0E28fPHN2A03
+8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1DN0E2bibliography8bO1FN0E1LATEX document8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bL1AN0E48fPHN2A0, program8bMHN0E38bNHN0E28bO1FN0E1BIBTEX programJust as there is a  program available to assist with the making
+of an index, so is there  a program, 8fPHN2A0,,  which can be used in conjunction with 
+8fPHN2A0/ to produce a bibliography. 
+We only discuss this method of producing a bibliography here.  
+The templates that you will need can be found in the group 
+labelled  8fPIN2A0B8bONN0E1BIBTEX.
+
+To use this program you must first enter all your book references into a database. 
+Although this is time consuming you can use the same database for other documents
+and share it with colleagues. 
+
+Use the  8fPIN2A0@8bOPN0E1DocTypes and  8fPIN2A0@8bO1AN0E1OptFields templates to
+enter your references into an 8fPIN2A0?8bOKN0E1mpd file. This entails inserting for each entry details
+such as the type of publication, the name of the author and so on together with a search
+key.  As this is quite complicated see the  help file for advice on how to do it.  When all
+the entries have been entered  into the database in the document window (8fPIN2A0?8bOKN0E1mpd file)
+you must generate the version of the database file which is to be processed by 
+8fPHN2A0,.  This must have a 8fPIN2A0?8bOKN0E1bib extension. Thus, after clicking on the
+8fPIN2A0@8bONN0E1Output button at the top of the document window  
+8fPIN2A0F8bO3FN0E1edit the selection in the file selector window to ensure that the extension
+of the file to which the 8fPHN2A0/ code is written is 8fPIN2A0?8bOKN0E1bib.
+
+The search key given to each  reference in the database must be unique.  Where you wish
+to cite a publication in the text of your document select 8fPIN2A0@8bOLN0E1Cite from template  8fPIN2A0@8bO1FN0E1Ref(other
+doc)8fPHN2A0§and insert  the search key of the required reference into the place holder.  If you
+wish to add a comment such as a  page number to the citation use  version
+8fPIN2A0@8bO1IN0E1Cite[Ref,Comment] instead. 
+
+At the point in the document where you wish the list of references to appear insert  
+command 8fPIN2A0@8bO1DN0E1Bibliography filling its place holder with the name(s) of your database(s).
+These are assumed to have a 8fPIN2A0?8bOKN0E1bib extension. Also insert  into your document file  a
+version from the  template 8fPIN2A0@8bO1IN0E1BibliographyStyle to indicate the style required for the list
+of references. This may be one of the following:
+
+8fPIN2A0|8bOLN0E18fPJN2A0~8bN4EN0E2Entries are sorted alphabetically and labelled with a number.8bOMN0E1Plain8fPJN2A0~8bN5HN0E2Entries are in the order they appear in the text and are labelled with a
+number.8bOMN0E1Unsrt8fPJN2A0~8bN7FN0E2Entries are sorted alphabetically but the label is formed from the
+author's name and  the year, e.g.\ [BAC95].8bOMN0E1Alpha8fPJN2A0~8bN4MN0E2The same as plain except that the entries contain more abbreviations.8bOMN0E1Abbrv
+
+The bibliography itself can now be generated. See
+section~8fPIN2A0<8bOON0E1Running on how to do this.
+8fPON2A0I8bIIN0E7)8bJHN0E68bKHN0E58bL1BN0E48fPHN2A0/ document8bMHN0E38bNHN0E28bO1FN0E1LATEX document
+
+8fPKN2A0'8bMON0E3Running8bO1AN0E1Running 8fPHN2A0/8bNIN0E28fPHN2A04
+8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1PN0E2processing document with8bOMN0E1LATEX In order to run 8fPHN2A0/ to produce
+your final output you must produce a 8fPIN2A0?8bOKN0E1tex file for each of your document (8fPIN2A0?8bOKN0E1mpd) files.
+As described more fully in 8fPJN2A08L8bN1EN0E2MoreOnWindows8bO1FN0E1DocumentWindow, a
+document's 8fPIN2A0?8bOKN0E1tex file is produced by selecting 8fPIN2A0@8bONN0E1Output at the top of the document
+window into which it has been loaded, specifying via  the file selector (if necessary) the
+directory to which it is to be written and then clicking on 8fPIN2A0@8bOJN0E1OK. Now you are ready to
+run 8fPHN2A0/.
+
+Move the cursor to a system window and ensure that the current directory is the
+directory containing your 8fPIN2A0?8bOKN0E1tex files. Suppose that 8fPIN2A0?8bOPN0E1Root.mpd is the 8fPHN2A07
+document file that contains the preamble. Then type the command
+8fPIN2A0­8bOIN0E18fPIN2A0?8bO1BN0E1latex Root
+and 8fPHN2A0/ should begin to process the file 8fPIN2A0?8bOPN0E1Root.tex. Various messages will appear
+on the screen indicating how 8fPHN2A0/ is progressing. An example of such messages is
+shown in table~8fPIN2A0<8bO1DN0E1tab:messages. In it the root document file is called 8fPIN2A0?8bOMN0E1Guide
+which contains a call to another document file, 8fPIN2A0?8bO1AN0E1Latexhelp. 8fPHN2A0/ begins
+processing 8fPIN2A0?8bO1AN0E1Guide.tex on line 2, it is reading the style file for a book on line 4 and  in
+lines 5--17 it  processes the  calls to  the other packages and style files that were
+specified in the preamble.  On line 18, 8fPHN2A0/  opens  file 8fPIN2A0?8bO1AN0E1Guide.idx to which index
+entries are to be written. On line 19, it is reading information from 8fPIN2A0?8bO1AN0E1Guide.aux and
+8fPIN2A0?8bO1EN0E1Latexhelp.aux which were output during a previous run of 8fPHN2A0/.  The 8fPIN2A0?8bOKN0E1aux
+files contain information that is needed for, among other  things, filling in
+cross-references. On line 21, it begins processing file 8fPIN2A0?8bO1EN0E1Latexhelp.tex where it
+encounters its first chapter command. The numbers between square braces are the
+numbers on pages that have  been output to 8fPIN2A0?8bO1AN0E1Guide.dvi and it can be seen from
+these that the warning that there is insufficient text  on a page  applies to page 3.   On
+line 25, the index items are read from file 8fPIN2A0?8bO1AN0E1Guide.ind  and new versions of the 8fPIN2A0?8bOKN0E1aux
+files written. Diagnostics are written to 8fPIN2A0?8bO1AN0E1Guide.log.
+
+Note that it is not necessary to instruct 8fPHN2A0/ to process anything other than the root
+file.
+
+8fPLN2A0²8bMIN0E38fPIN2A0µ8bOIN0E18fPLN2A0»8bJ2DN0E68fPJN2A0¸8bNIN0E218bO3CN0E1This is TeX, Version 3.1415 (C version 6.1)8fPJN2A0¸8bNIN0E228bO1BN0E1(Guide.tex8fPJN2A0¸8bNIN0E238bO2JN0E1LaTeX2e <1994/12/01> patch level 18fPJN2A0¸8bNIN0E248bO2PN0E1(/usr/TeX/lib/texmf/tex/latex2e/book.cls8fPJN2A0¸8bNIN0E258bO3DN0E1Standard Document Class `book' <1994/12/09>.8fPJN2A0¸8bNIN0E268bO3BN0E1(/usr/TeX/lib/texmf/tex/latex2e/bk12.clo))8fPJN2A0¸8bNIN0E278bO2MN0E1(/home/roland/tex/inputs/mathpad.sty)8fPJN2A0¸8bNIN0E288bO3EN0E1 (/usr/TeX/lib/texmf/tex/latex2e/makeidx.sty)8fPJN2A0¸8bNIN0E298bO3BN0E1(/usr/TeX/lib/texmf/tex/latex2e/ifthen.sty8fPJN2A0¸8bNJN0E2108bO3BN0E1Package: `ifthen' v0.1b <1993/12/17> (DPC)8fPJN2A0¸8bNJN0E2118bO3DN0E1English documentation     <1993/12/17> (DPC)8fPJN2A0¸8bNJN0E2128bO3FN0E1) (/usr/TeX/lib/texmf/tex/latex2e/latexsym.sty8fPJN2A0¸8bNJN0E2138bO3CN0E1Package: `latexsym' v2.1a  <93/12/06> (FMi)8fPJN2A0¸8bNJN0E2148bO3DN0E1English Documentation      <93/12/06> (FMi))8fPJN2A0¸8bNJN0E2158bO2NN0E1(/home/roland/tex/inputs/mpmacros.tex)8fPJN2A0¸8bNJN0E2168bO2MN0E1(/home/roland/tex/inputs/addfont.sty)8fPJN2A0¸8bNJN0E2178bO1CN0E1 (head.sty)8fPJN2A0¸8bNKN0E218 8bO2DN0E1Writing index file Guide.idx8fPJN2A0¸8bNJN0E2198bO2CN0E1(Guide.aux (Latexhelp.aux))8fPJN2A0¸8bNJN0E2208bO3BN0E1 (/usr/TeX/lib/texmf/tex/latex2e/Ulasy.fd)8fPJN2A0¸8bNJN0E2218bO1FN0E1(Latexhelp.tex8fPJN2A0¸8bNJN0E2228bO1BN0E1Chapter 1.8fPJN2A0¸8bNJN0E2238bO1MN0E1(Umathss.fd)  [1] [2]8fPJN2A0¸8bNJN0E2248bO4JN0E1Underfull vbox (badness 5607) has occurred while output is active 8fPJN2A0¸8bNJN0E2258bO4HN0E1~[3] [4] [5] [6]) [7]  (Guide.ind) (Guide.aux (Latexhelp.aux)) )8fPJN2A0¸8bNJN0E2268bO3LN0E1(see the transcript file for additional information)8fPJN2A0¸8bNJN0E2278bO3KN0E1Output written on Guide.dvi (7 pages, 20784 bytes).8fPJN2A0¸8bNJN0E2288bO2HN0E1Transcript written on Guide.log.8bNMN0E2 Line8bO5FN0E1     8fPIN2A0B8bO2CN0E1Messages sent to the screen                                                                        8bIMN0E7|l|r|8bN1DN0E2tab:messages8bLLN0E4htbp8bO1CN0E1A run of 8fPHN2A0/.%\clearpage
+
+As can be seen from table~8fPIN2A0<8bO1DN0E1tab:messages, 8fPHN2A0/ reads  from and writes to several other files when
+processing a document.  Providing a 8fPIN2A0@8bO2HN0E1No Auxiliary Files to be Written command has not been inserted into the
+preamble of your document, then for each 8fPIN2A0?8bOKN0E1mpd file an 8fPIN2A0?8bOKN0E1aux file is read (if it exists) and written to.
+Any other intermediary and diagnostic files that are used or created have the same name as the root 
+file but with a different extension. A list of  possible file extensions is given in table~8fPIN2A0<8bO1AN0E1tab:files. Note
+that some of these files are only generated if the necessary commands are present in the document's
+8fPIN2A0?8bOKN0E1tex files and some are generated by programs 8fPHN2A0+ and 8fPHN2A0,.   
+
+If information is written
+to a file which is processed on a subsequent run of 8fPHN2A0/, such as a table of contents,  then to obtain
+the complete output of your document it is necessary to run 8fPHN2A0/ twice and possibly three times
+in succession on your root file.  
+8fPLN2A0²8bMIN0E38fPIN2A0µ8bOIN0E18fPLN2A0»8bJ1KN0E68fPJN2A0¸8bN3JN0E28fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLMN0E48fPIN2A0?8bOKN0E1aux---8fPHN2A0/8bMHN0E38bNKN0E2aux8bOLN0E1fileAdditional information necessary for such things 8bOIN0E18fPIN2A0?8bOKN0E1aux8fPJN2A0¸8bN1MN0E2as cross-referencing.8bOIN0E1 8fPJN2A0¸8bN1ON0E28fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLMN0E48fPIN2A0?8bOKN0E1dvi---8fPHN2A0/8bMHN0E38bNKN0E2dvi8bOLN0E1fileOutput from 8fPHN2A0/ program.8bOIN0E18fPIN2A0?8bOKN0E1dvi8fPJN2A0¸8bN2DN0E28fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLMN0E48fPIN2A0?8bOKN0E1log---8fPHN2A0/8bMHN0E38bNKN0E2log8bOLN0E1fileDiagnostics from 8fPHN2A0/ program.8bOIN0E18fPIN2A0?8bOKN0E1log8fPJN2A0¸8bN4AN0E28fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLMN0E48fPIN2A0?8bOKN0E1toc---8fPHN2A0/8bMHN0E38bNKN0E2toc8bOLN0E1fileItems for table of contents.  Generated by a version of 8bOIN0E18fPIN2A0?8bOKN0E1toc8fPJN2A0¸8bN1CN0E2template 8fPIN2A0@8bO1DN0E1ContentsList.8bOIN0E1 8fPJN2A0¸8bN3ON0E28fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLMN0E48fPIN2A0?8bOKN0E1lof---8fPHN2A0/8bMHN0E38bNKN0E2lof8bOLN0E1fileList of figures. Generated by a version of template 8fPIN2A0@8bO1DN0E1ContentsList.8bOIN0E18fPIN2A0?8bOKN0E1lof8fPJN2A0¸8bN3NN0E28fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLMN0E48fPIN2A0?8bOKN0E1lot---8fPHN2A0/8bMHN0E38bNKN0E2lot8bOLN0E1fileList of tables. Generated by a version of template 8fPIN2A0@8bO1DN0E1ContentsList.8bOIN0E18fPIN2A0?8bOKN0E1lot8fPJN2A0¸8bN3HN0E28fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bL1DN0E48fPIN2A0?8bOKN0E1idx---8fPHN2A0/  and 8fPIN2A0F8bO1AN0E1MakeIndex8bMHN0E38bNKN0E2idx8bOLN0E1fileList of index8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNMN0E2index8bO1FN0E1LATEX document8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bL1AN0E48fPIN2A0F8bO1AN0E1MakeIndex program8bMHN0E38bNHN0E28bO1IN0E1MakeIndex program  items output if version 8fPIN2A0@8bO1BN0E1Make Index from8bOIN0E18fPIN2A0?8bOKN0E1idx8fPJN2A0¸8bN3BN0E2 template 8fPIN2A0@8bOPN0E1Commands (group 8fPIN2A0B8bO1AN0E1MakeIndex) is in the preamble. 8bOIN0E1 8fPJN2A0¸8bN3CN0E2The 8fPIN2A0?8bOKN0E1idx file must be processed by program 8fPHN2A0+8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bL1AN0E48fPIN2A0F8bO1AN0E1MakeIndex program8bMHN0E38bNHN0E28bO1IN0E1MakeIndex program.8bOIN0E1 8fPJN2A0¸8bN3IN0E28fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bL1DN0E48fPIN2A0?8bOKN0E1ind---8fPHN2A0/  and 8fPIN2A0F8bO1AN0E1MakeIndex8bMHN0E38bNKN0E2ind8bOLN0E1fileList of index items processed by 8fPHN2A0+ used by 8fPHN2A0/  to8bOIN0E18fPIN2A0?8bOKN0E1ind8fPJN2A0¸8bN3GN0E2make an index at the point where version 8fPIN2A0@8bO1DN0E1Insert Index from8bOIN0E1 8fPJN2A0¸8bN3BN0E2template  8fPIN2A0@8bOPN0E1Commands (group 8fPIN2A0B8bO1AN0E1MakeIndex) appears in document.8bOIN0E1 8fPJN2A0¸8bN2DN0E28fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLMN0E48fPIN2A0?8bOKN0E1ilg---8fPIN2A0F8bO1AN0E1MakeIndex8bMHN0E38bNKN0E2ilg8bOLN0E1fileDiagnostics from 8fPHN2A0+ program.8bOIN0E18fPIN2A0?8bOKN0E1ilg8fPJN2A0¸8bN1PN0E28fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLMN0E48fPIN2A0?8bOKN0E1glo---8fPHN2A0/8bMHN0E38bNKN0E2glo8bOLN0E1fileList of glossary items.8bOIN0E18fPIN2A0?8bOKN0E1glo8fPJN2A0¸8bN3AN0E28fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLNN0E48fPIN2A0?8bOKN0E1bib---8fPHN2A0, 8bMHN0E38bNKN0E2bib8bOLN0E1fileDatabase of references to be used by 8fPHN2A0,8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bL1AN0E48fPHN2A0, program8bMHN0E38bNHN0E28bO1FN0E1BIBTEX program.8bOIN0E18fPIN2A0?8bOKN0E1bib8fPJN2A0¸8bN4AN0E28fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0?8bOKN0E1bbl---8fPHN2A0/ and 8fPHN2A0,8bMHN0E38bNKN0E2bbl8bOLN0E1fileList of bibliography items8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1DN0E2bibliography8bO1FN0E1LATEX document8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bL1AN0E48fPHN2A0, program8bMHN0E38bNHN0E28bO1FN0E1BIBTEX program output by  8fPHN2A0, and read by 8fPHN2A0/.8bOIN0E18fPIN2A0?8bOKN0E1bbl8fPJN2A0¸8bN2DN0E28fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLNN0E48fPIN2A0?8bOKN0E1blg---8fPHN2A0, 8bMHN0E38bNKN0E2blg8bOLN0E1fileDiagnostics from 8fPHN2A0, program.8bOIN0E18fPIN2A0?8bOKN0E1blg8bN8EN0E2    8fPIN2A0B8bO1HN0E1Contents of file                                                                                                                        8bOIN0E18fPIN2A0B8bO1NN0E1Ext.                  8bIMN0E7|c|l|8bN1AN0E2tab:files8bLKN0E4htb8bO3NN0E1Extensions of files created and/or used by 8fPHN2A0/, 8fPHN2A0, and 8fPHN2A0+.
+If a 8fPHN2A0/ run is aborted for any reason then the contents of the files which it outputs
+in order  to read in again  on a subsequent run will have probably been lost.  Information that
+8fPHN2A0/ requires will be not available on the following run. This can result in, for
+example, an empty table of contents and many warning messages about missing
+references. This  is rectified by running 8fPHN2A0/ again on the root file.
+Alternatively  command 8fPIN2A0@8bO2HN0E1No Auxiliary Files to be Written can be entered into the preamble with the
+8fPIN2A0@8bOPN0E1Preamble template.  8fPHN2A0/ will then only write new versions of the 8fPIN2A0?8bOKN0E1dvi and 8fPIN2A0?8bOKN0E1log
+files. 
+
+8fPKN2A0'8bMPN0E3RunIndex8bOMN0E1Index8bNIN0E28fPHN2A03If an index8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNMN0E2index8bO1FN0E1LATEX document is to be produced with the aid of
+8fPHN2A0+8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bL1AN0E48fPIN2A0F8bO1AN0E1MakeIndex program8bMHN0E38bNHN0E28bO1IN0E1MakeIndex program begin as before by running 8fPHN2A0/
+on 8fPIN2A0?8bOLN0E1Root. A file 8fPIN2A0?8bOPN0E1Root.idx will be produced. Next run 8fPHN2A0+ by typing 
+8fPIN2A0­8bOIN0E18fPIN2A0?8bO1FN0E1makeindex Root
+This will generate a file, 8fPIN2A0?8bOPN0E1Root.ind, containing the sorted index entries. Any error or
+warning messages will be sent to the screen and also to file 8fPIN2A0?8bOPN0E1Root.ilg. Finally rerun
+8fPHN2A0/ on 8fPIN2A0?8bOLN0E1Root. 8fPHN2A0/ will read in and process file 8fPIN2A0?8bOPN0E1Root.ind and an index
+should now appear in your document. Unless there is a 8fPIN2A0@8bO2HN0E1No Auxiliary Files to be Written command in your
+preamble a new 8fPIN2A0?8bOPN0E1Root.idx will also have been generated. However, unless a change
+has been made to the document since the previous run, this file will have the same
+contents as before. Note that if ever a change is made to the document 
+ it is necessary to repeat the whole process to be sure that the
+index is correct. That is, run 8fPHN2A0/, then
+8fPIN2A0?8bO1AN0E1makeindex and finally 8fPHN2A0/ again on 8fPIN2A0?8bOLN0E1Root.
+
+8fPHN2A0/ will output the warning message ``8fPIN2A0?8bO1IN0E1No file Root.ind.''  if file
+8fPIN2A0?8bOPN0E1Root.ind does not exist.
+
+8fPKN2A0'8bM1GN0E3RunBibliography8bO1DN0E1Bibliography8bNIN0E28fPHN2A038fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1DN0E2bibliography8bO1FN0E1LATEX document8fPON2A0I8bIHN0E78bJHN0E68bKHN0E58bL1AN0E48fPHN2A0, program8bMHN0E38bNHN0E28bO1FN0E1BIBTEX programGeneration of a bibliography with 8fPHN2A0, is
+similar. First run  8fPHN2A0/ on your root file. This time however, the information to be
+processed is written to 8fPIN2A0?8bOPN0E1Root.aux and not to a special file.  Then execute 8fPHN2A0, with
+the command
+8fPIN2A0­8bOIN0E18fPIN2A0?8bO1CN0E1bibtex Root
+and file 8fPIN2A0?8bOPN0E1Root.bbl will be produced.  It is now necessary to run 8fPHN2A0/ 8fPIN2A0F8bOMN0E1twice more
+on 8fPIN2A0?8bOLN0E1Root to obtain a complete bibliography.
+
+8fPKN2A0'8bMNN0E3Output8bONN0E1Output8bNIN0E28fPHN2A03In order to display your output in 8fPIN2A0?8bOPN0E1Root.dvi on the screen or to send it to a printer 
+consult your local expert. The preview command which works on my machine is
+8fPIN2A0?8bO1AN0E1xdvi Root8fPHN2A0¦.
+
+ 
+
+
+8fPKN2A0'8bMPN0E3Messages8bOPN0E1Messages8bNIN0E28fPHN2A04
+
+
+In the course of execution, all three programs (8fPHN2A0/, 8fPHN2A0, and 8fPIN2A0H8bO1AN0E1MakeIndex) generate
+messages.  Some simply indicate what is happening, some are warnings and some are error
+messages.  Error messages suspend execution and require your intervention before
+processing can continue.  
+
+Wouldn't it be wonderful if we could say that using 8fPHN2A07 the error messages are a
+thing of the past!  Unfortunately that is not the case.  Some types of error messages that
+plague the conventional 8fPHN2A0/ user (such as unbalanced curly braces, spurious dollar
+signs and misspelt commands) are reduced very substantially in number but 
+you will inevitably be confronted with both warnings and error messages at some stage.  This
+section explains how to deal with the ones that are most likely to arise.  Messages not
+discussed here will probably have been caused by a badly defined template, your own use of
+raw 8fPHN2A0/  or some complex combination of
+circumstances that causes 8fPHN2A0/ to malfunction.
+
+8fPJN2A0*8bO1FN0E1Error Messages8bNIN0E28fPHN2A03
+
+8fPON2A0I8bIHN0E78bJHN0E68bKIN0E5(8bL1MN0E48fPHN2A0/ or 8fPHN2A0. error messages8bMHN0E38bNHN0E28bO2CN0E1Latex or Tex error messages8fPIN2A0d8bO4GN0E1! I can't find file `...' 
+Please type another input file name:
+
+If the extension of the file specified is 8fPIN2A0?8bOKN0E1cls or 8fPIN2A0?8bOKN0E1sty then 8fPHN2A0/ can't find either a
+style or package file. If this is not caused by a typing error ask advice from a colleague.
+If however the missing file has extension 8fPIN2A0?8bOKN0E1tex then the error was probably caused by 
+one of the following:
+
+8fPIN2A0ISe1dbb24P   "21OCItemize                      3BCLatex2eB#Description, Enumerate and Itemize HelpGVe1dbb25A'!2HC81PbfMItemdfM80BbfMizedfM
+82Hitems82I8bO82A bfMEnd ItemizedfM
+2DC80J\begin{itemize}80I8bO 80I\end{itemize}80IICItemizeGVe1dbb25B'!1DC   221J 80C80E{82Htext82I8bO}80F
+LC80J\item 8bO 80IFCItem¾8bOKN0E18fPIN2A0½8bO4LN0E1The file name was incorrectly typed. Retype it and press the 8fPIN2A0B8bONN0E1return key.
+8fPIN2A0½8bO2aIN0E1The required file is not in the current directory. Abort 8fPHN2A0/ by typing 8fPIN2A0B8bOKN0E1C-D. Move
+to the correct directory and try again. If you are in the correct directory but the file is
+not there then return to 8fPHN2A07 and repeat the output instruction for the required
+file. (That is click on 8fPIN2A0@8bONN0E1Output at the top of the document window.)  The directory to
+which the output file will be sent  is specified at the top of the file selector. If this is not
+the correct one  either edit it to the correct one and select 8fPIN2A0@8bOJN0E1OK, or select 8fPIN2A0@8bONN0E1Cancel, open
+the default window and specify the correct output directory and then  repeat the
+output instruction. You can then return to the prompt window and try running
+8fPHN2A0/ again.8fPIN2A0½8bOdDN0E1The 8fPIN2A0?8bOKN0E1tex file is not there because you forgot to instruct 8fPHN2A07 to make an output
+file. Return to 8fPHN2A07 and make one.
+
+Remember that if a file contains calls to other files an output file for each must be
+generated.
+
+
+ \smallskip
+8fPIN2A0h8bO2CN0E1! Missing \begin{document}..
+
+There is no 8fPIN2A0>8bO1FN0E1Begin document command in your document. This should be placed at the end of the
+preamble, immediately before the document proper.
+
+Alternatively there is an instruction in the preamble which may only be positioned in
+the document proper. Move the offending instruction to after the 8fPIN2A0>8bO1FN0E1Begin document statement.
+\smallskip
+
+8fPIN2A0?8bO2HN0E1 ! Can be used only in preamble.
+
+There is an instruction after the 8fPIN2A0>8bO1FN0E1Begin document statement which may only be used in the
+preamble. Move the offending instruction to before the 8fPIN2A0>8bO1FN0E1Begin document statement. \smallskip
+
+8fPIN2A0?8bO2FN0E1! There's no line here to end.
+
+8fPHN2A0/ has found a newline command (either 8fPIN2A0@8bOON0E1NewLine or 8fPHN2A09F from  template
+8fPIN2A0@8bO1AN0E1LineBreak or the 8fPHN2A0/ commands 8fPHN2A09F or 8fPIN2A0h8bOIN0E1\newline) at an incorrect position. Remove
+it. If you were trying to add extra vertical space see section~8fPIN2A0<8bO1CN0E1White Space on white
+space. \smallskip
+
+8fPIN2A0?8bO2ON0E1!Illegal unit of measure (pt inserted).8fPHN2A0N 8fPIN2A0?8bO2HN0E1!Missing number treated as zero.
+
+8fPHN2A0/ was expecting a length. You have probably forgotten to specify the units.
+\smallskip
+
+8fPIN2A0?8bO2DN0E1! Undefined control sequence 
+
+This has  almost certainly been caused by
+entering 8fPIN2A0h8bOIN0E1\ into your document via  the keyboard instead of via the template 8fPIN2A0@8bO1DN0E1SpecialChars.
+\medskip
+
+After 8fPHN2A0/ has detected an error it prompts the user with a ``?'' and waits for
+further instructions. It is often a good idea to instruct 8fPHN2A0/ to proceed in order to
+find as many errors as possible in one run. To proceed press the 8fPIN2A0B8bONN0E1return key. If you
+wish to stop 8fPHN2A0/ type 8fPIN2A0B8bONN0E1i8fPHN2A0[stop or 8fPIN2A0B8bOIN0E1x. The latter will stop 8fPHN2A0/  immediately
+whereas the former will output the last page of output up to the error.
+
+Sometimes 8fPHN2A0/ will output a ``*'' and stop without an error message.
+
+This is probably caused by a missing 8fPIN2A0>8bO1DN0E1End document in your 8fPHN2A07 document. Abort
+8fPHN2A0/ by typing 8fPIN2A0h8bOMN0E1\stop, return to 8fPHN2A07 and enter it from template
+8fPIN2A0@8bO1FN0E1Begin/End(doc). 8fPON2A0I8bIIN0E7)8bJHN0E68bKHN0E58bL1MN0E48fPHN2A0/ or 8fPHN2A0. error messages8bMHN0E38bNHN0E28bO2CN0E1Latex or Tex error messages
+
+8fPKN2A0"8bM1HN0E3Warning Messages8bO1HN0E1Warning Messages8bNIN0E28fPHN2A038fPON2A0I8bIHN0E78bJHN0E68bKIN0E5(8bL1ON0E48fPHN2A0/ or 8fPHN2A0. warning messages8bMHN0E38bNHN0E28bO2EN0E1Latex or Tex warning messages 8fPHN2A0/ may output many warning
+messages. These do not cause 8fPHN2A0/ to stop but indicate that there is something
+wrong with the output. Not only do the messages appear on the screen but they are also
+written to the file, 8fPIN2A0?8bO1DN0E1filename.log, where they can be studied at leisure. Most
+warnings are caused by missing cross-references or problems with the layout. 
+
+The first type of warning is usually easily fixed. It may just be necessary to rerun
+8fPHN2A0/ so that it has an up to date 8fPIN2A0?8bOKN0E1aux file that it can use. (See section~8fPIN2A0<8bOON0E1Running on
+running 8fPHN2A0/.) Alternatively a label may have been omitted or a label or the
+argument of a reference has been misspelt.
+
+A warning message will also appear if 8fPHN2A0/ has had to put too much or too little  on a
+line or a page. This can often be problematic. It may even result in having to rewrite
+bits of the text. If this is the case, do not do so until  preparing the final version of the
+document to avoid altering the text unnecessarily. \smallskip
+
+8fPIN2A0h8bO1JN0E1Overfull \hbox ...
+
+8fPHN2A0/ has put too much text on the line. (If  the option 8fPIN2A0@8bO1CN0E1DraftOutput has been entered
+into the class type command then the end of this line is marked with a black box.) This
+is often caused by problems with hyphenation. It could be that 8fPHN2A0/ does not know
+how to hyphenate something in the document. Use  template 8fPIN2A0@8bO1AN0E1Hyphenate to give
+instructions on hyphenation.  Also, 8fPHN2A0/ will only hyphenate a hyphenated word at
+the existing hyphen. Thus this warning can be caused by the presence of such a word
+at the end of a line. In this case  it's probably easiest just to rewrite the sentence.  
+
+See also section~8fPIN2A0<8bO1BN0E1Linebreaks  on linebreaks. \smallskip
+
+8fPIN2A0h8bO1KN0E1Underfull \hbox ...
+
+This has probably been caused by trying to insert vertical space into the page by
+outputting an empty line. It isn't a problem but is a nuisance if you have too many such
+warnings appearing on the screen --- you can miss seeing important warning
+messages. 
+
+The problem is usually caused by an extra 8fPIN2A0h8bOIN0E1\8fPIN2A0?8bOON0E1newline or 8fPHN2A09F  in your 8fPIN2A0?8bOKN0E1tex file. If you've
+entered two consecutive newline commands in your document, that is 8fPIN2A0@8bOON0E1NewLine or
+8fPHN2A09F from the template 8fPIN2A0@8bO1AN0E1LineBreak or the 8fPHN2A0/ commands 8fPHN2A09F or 8fPIN2A0h8bOIN0E1\8fPIN2A0?8bOON0E1newline, replace
+them by  the template version 8fPIN2A09D8bOPN0E1[length], a version from the 8fPIN2A0@8bOPN0E1Vertical 
+ (from  group 8fPIN2A0B8bOON0E1Spacing) template or by
+different  8fPHN2A0/ commands. (See section~8fPIN2A0<8bO1CN0E1White Space on vertical white space.) If
+the problem is caused by a template you will probably have to ask its  author to change
+it for you.
+
+See also section~8fPIN2A0<8bO1BN0E1Linebreaks on line breaks.
+
+\smallskip
+
+8fPIN2A0h8bO1KN0E1Underfull \vbox ...
+
+8fPHN2A0/ has had difficulty splitting the document into pages and has output a page with
+insufficient text on it. 8fPHN2A0/ will try to put the extra vertical space around displayed
+items and above and below sectioning commands so that in reality the page may be
+acceptable. Often however it is not. 
+
+It may be that you have a large item in your document which 8fPHN2A0/ is forbidden to
+split between pages such as text entered with the 8fPIN2A0@8bOON0E1Tabular template. One solution is to
+make the offending item into a so-called ``float'' with either the 8fPIN2A0@8bOMN0E1Table or 8fPIN2A0@8bONN0E1Figure templates. 
+Alternatively, use a template  which can be split between pages to enter the item. For
+example, use   the 8fPIN2A0@8bOON0E1Tabbing templates  in place of  the 8fPIN2A0@8bOON0E1Tabular ones.
+
+For more suggestions see section~8fPIN2A0<8bO1BN0E1Pagebreaks  on page breaking. \smallskip
+
+8fPIN2A0h8bO1JN0E1Overfull \vbox ...
+
+Again 8fPHN2A0/ has had difficulty splitting the document into pages but this time has put
+too much on a page.   The problem may be solved as for the previous warning by
+entering a large item, which may not be split between pages, 
+into the document in a different manner. 
+
+For more suggestions see the section on page breaking. 8fPON2A0I8bIIN0E7)8bJHN0E68bKHN0E58bL1ON0E48fPHN2A0/ or 8fPHN2A0. warning
+messages8bMHN0E38bNHN0E28bO2EN0E1Latex or Tex warning messages 
+
+

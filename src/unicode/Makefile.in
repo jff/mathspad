@@ -1,0 +1,65 @@
+
+TOPSRCDIR = @top_srcdir@
+TOPOBJ    = .
+SRCDIR    = @srcdir@
+VPATH     = @srcdir@
+
+SOURCE = uniconv.c unifont.c unimap.c unistring.c unitype.c 
+
+LIBRARIES = libunicode.la
+TESTPROGS = brows convert datatotable decomp fonttest printdecomp \
+		typetest unicode1to2 virtread
+
+PROGRAMS = strasciitomap maptoascii asciitomap
+
+DATAFILES = Baghdad.map CanComClass.map DeCompTag.map Decomposition.map \
+	GenClass.map ToDenum.map ToFinal.map ToHexValue.map ToInitial.map \
+	ToIsolated.map ToLower.map ToMedial.map ToMirror.map ToNoAccent.map \
+	ToNum.map ToSpacing.map ToTitle.map ToUpper.map Unicode-2.0.map \
+	X11keysym.map latexmath.map latextext.map mptouchar.map unicode1to2.map \
+	helvetica.ufont UniConvert.conv
+
+datasubdir = /map
+
+@MAKE_RULES@
+
+all: $(LIBRARIES) $(PROGRAMS)
+
+libunicode.la: $(LTOBJECTS)
+	$(LINK) -o libunicode.la -rpath $(libdir) $(LTOBJECTS) $(XLIB)
+
+asciitomap: libunicode.la asciitomap.o
+	$(LINK) -o asciitomap asciitomap.o libunicode.la ../util/libutil.la
+
+strasciitomap: libunicode.la strasciitomap.o
+	$(LINK) -o strasciitomap strasciitomap.o libunicode.la ../util/libutil.la
+
+maptoascii: libunicode.la maptoascii.o
+	$(LINK) -o maptoascii maptoascii.o libunicode.la ../util/libutil.la
+
+brows: libunicode.la brows.o drawstring.o
+	$(LINK) -o brows brows.o drawstring.o libunicode.la ../markup/libmarkup.la ../util/libutil.la $(XLIB)
+
+convert: libunicode.la convert.o
+	$(LINK) -o convert convert.o libunicode.la ../util/libutil.la
+
+datatotable: libunicode.la datatotable.o
+	$(LINK) -o datatotable datatotable.o libunicode.la ../util/libutil.la
+
+decomp: libunicode.la decomp.o
+	$(LINK) -o decomp decomp.o libunicode.la ../util/libutil.la
+
+fonttest: libunicode.la fonttest.o
+	$(LINK) -o fonttest fonttest.o libunicode.la ../util/libutil.la $(XLIB)
+
+printdecomp: libunicode.la printdecomp.o
+	$(LINK) -o printdecomp printdecomp.o libunicode.la ../util/libutil.la
+
+typetest: libunicode.la typetest.o
+	$(LINK) -o typetest typetest.o libunicode.la ../util/libutil.la
+
+unicode1to2: libunicode.la unicode1to2.o
+	$(LINK) -o unicode1to2 unicode1to2.o libunicode.la ../util/libutil.la
+
+virtread: libunicode.la virtread.o
+	$(LINK) -o virtread virtread.o libunicode.la ../util/libutil.la

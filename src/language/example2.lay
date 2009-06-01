@@ -1,0 +1,111 @@
+
+Include "libint.so"
+Include "libstring.so"
+
+Var Int reg1, reg2;
+
+Var String s1, s2;
+
+s1:="test";
+s2:="Test";
+
+PrintString(s1);
+PrintString(s2);
+reg1:=s1<s2;
+PrintInt("s1 < s2", reg1);
+s1:=s1+s2;
+PrintString("\n");
+PrintString(s1);
+
+Function fac(IntRef r, Int a)
+{
+	r:=1;
+	PrintInt("A:",a);
+	PrintInt("R:",r);
+	do (a>0)
+	    r:=r*a; a:=a-1;
+	    PrintInt("A:",a);
+	    PrintInt("R:",r);
+	od;
+	a:=IntMult(5,6);
+	PrintInt("A:",a);
+}
+
+Function CallFac()
+{
+	UpdateVar(reg1);
+	UpdateVar(reg2);
+	fac(reg1, reg1);
+	UpdateEdit(reg1);
+	reg1:=(reg1+reg2);
+}
+
+Var Int fa;
+fac(fa,10);
+
+Var Int current_key;
+current_key:=100;
+s1:="";
+
+Keyboard Emacs {
+	`A` ... `F` : s1:=s1+"A";
+	`a` ... `f` : s1:=s1+"a";
+	`0` ... `9` : s1:=s1+"0";
+	`p` : PrintString(s1+"\n");
+}
+
+Input { "Emacs" `0` `p` `c` `p` `C` `p` }
+
+Function FileSelector(String s, Lazy func)
+{
+}
+
+Var String selected_file;
+Var String current_document;
+Var Int current_mode;
+
+
+Function autoload(String s) { }
+Function SaveAs(String s, Int s) { }
+Function SaveDocument(String s) { }
+Function ReplaceDocument(String s, String t) { }
+Function CloseDocument(String s) { }
+Function Exit() { }
+
+
+Menu RecentFile {
+	Options Pin;
+	Title "Recent Files";
+	"Welcome" : autoload("$MATHPAD/Welcome.mpd");
+	"LaTeX"   : autoload("$MATHPAD/stencil/LaTeX.mps");
+}
+
+Menu File {
+   Options Pin;
+   Title "File";
+   Default "New" : FileSelector("New document", @autoload(selected_file));
+   "Load"        : FileSelector("Load document",
+				@ReplaceDocument(current_document, selected_file));
+   "Save"        : SaveDocument(current_document);
+   "Save As"     : FileSelector("Save document as",
+				@SaveAs(current_document, current_mode));
+   Separator;
+   "Recent"      : RecentFile;
+   Separator;
+   "Close"       : CloseDocument(current_document);
+   "Exit"        : Exit("Hallo");
+
+}
+
+TestVar:= "Hallo";
+
+PrintString("Dit is een testje\n");
+
+Assign(36,reg1);
+Assign(6,reg2);
+fac(reg1, reg2);
+PrintInt("Reg1:",reg1);
+PrintInt("Reg2:",reg2);
+IntMult(reg1,reg1,reg2);
+PrintInt("Reg1:",reg1);
+PrintInt("Reg2:",reg2);

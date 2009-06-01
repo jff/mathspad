@@ -1,0 +1,299 @@
+[4mMathpad Document
+[0m230HN0E08fPKN2A0ISe1d4f11P   +2PCSectionHeading2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f1aC'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+HC80J8bN{8bO}80IKC{heading}GVe1d4f20A'!3CC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80IPC[toc]{heading}GVe1d4f27D'!2MC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1CC[no no.]{heading}GVe1d4f2aE'!2NC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1AC80J8bN{8bO}\label{8bM}80IPC{heading}labelGVe1d4f2eB'!3LC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1EC[toc]{heading}labelGVe1d4f12M'!3FC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1BC80J8bN*{8bO}\label{8bM}80I1HC[no no.]{heading}labelGVe1d4f12H'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80I1EChide-[toc]{heading}GVe1d4f12I'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1IChide -[no no.]{heading}GVe1d4f12J'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1AC80J8bN{8bO}\label{8bM}80I1EChide-{heading}labelGVe1d4f12K'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1JChide-[toc]{heading}labelGVe1d4f12L'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1BC8bN80J*{8bO}\label{8bM}80I1MChide-[no no.]{heading}label'8bM1DN0E3file:Welcome8bOON0E1Welcome8bNIN0E28fPHN2A0ISe1d4f86L   '21ACSectioningTypes2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f86M#!JCcbLbfKPartdfK80PHC80J\partGVe1d4f86N#!MCcbMbfKChapterdfK80PKC80J\chapterGVe1d4f86O'!MCcbNbfKSectiondfK80PKC80J\sectionMCcbObfKSectiondfKccAGVe1d4f86P#!PCcbObfKSubSectiondfK80PNC80J\subsectionGVe1d4f87A#!1ACbfKSubSubSectiondfK1AC80J\subsubsectionGVe1d4f87B#!MCbfKParagraphdfKMC80J\paragraphGVe1d4f87C#!PCbfKSubParagraphdfKPC80J\subparagraph0
+
+Welcome to  8fPHN2A0ISafa0e17G   !0GVafa0e17F#!MC80JbfIMath222LpaddfILC80J\mplogo{}2.   This introductory  chapter has been written to help you
+assess whether 8fPHN2A02  could be a  useful tool to help you in your work.  It may be
+that you are already reading this document at your computer terminal.  If so, then all
+well and good. If not, i.e8fPHN2A0ISff9d826I   !1MCdot(abbrev)GVff9d827C#!DC. FC80J.\ 3 you are reading a printed copy of the manual,  it is
+recommended that  you do not read too far before obtaining a copy of the system and
+continuing your  reading on-line.  We promise  that your reading pleasure will not be
+severely impaired in so doing and  you will get a much more realistic impression of  the
+system's ergonomics.  Instructions for installing the system8fPON2A0ISe1ce08fJ   "2GCEntry1ECLatex2eC#MakeIndex GVe1ce08fK'!11IC80JbfKIndex EntrydfK
+bfMprimary sort key:dfM80C8bO
+bfMsub sort key:dfM80C8bN
+bfMsubsub sort keydfM80C8bM
+bfMvisual key if different from sort key:dfM80C80C8bL
+bfMif start of range of pages set holder to dfM ( 80C8bK
+bfMfont type for page nr. if non-standarddfM80C8bJ
+bfMif end of range of pages set holder to dfM ) 80C8bI
+bfKEnd of Index EntrydfK
+2EC80J\mpindexnew{8bO}{8bN}{8bM}{8bL}{8bK}{8bJ}{8bI}{}1CCenter index entryGVe1ce08fL'!KC80JbfK81Ji81L 81M81NdfK2EC80J\mpindexnew{8bO}{8bN}{8bM}{8bL}{8bK}{8bJ}{8bI}{}1EChide index commands48bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1DN0E1installation can be found in  the
+README file of the distribution.  If the system has already been installed at your site
+just type the command 
+89PIN2A0ISe196d18D   +2KCTextStyle1HCLatex2eA#TextStyleHelpGVe196d18N'!FC80JbfJ8bOdfJKC80J\emph{8bO}1CCbfMEmphasizeddfM textGVe196d18E'!DC80J8bOMC80J\textup{8bO}OCUpright shapeGVe196d18F'!FC80JbfM8bOdfMMC80J\textit{8bO}PCbfMItalicdfM shapeGVe196d18G'!FC80JbfJ8bOdfJMC80J\textsl{8bO}1ACbfJSlanteddfJ shapeGVe196d18H'!DC80J8bOMC80J\textsc{8bO}1FCSccBMALLcbPcbNCccBAPS cbNshapeGVe196d18I'!DC80J8bOMC80J\textmd{8bO}OCMedium seriesGVe196d18J'!FC80JbfO8bOdfOMC80J\textbf{8bO}OCbfOBolddfO seriesGVe196d18K'!DC80J8bOMC80J\textrm{8bO}NCRoman familyGVe196d18L'!FC80JbfI8bOdfIMC80J\textsf{8bO}1ECbfISans SerifdfI familyGVe196d18M'!FC80JbfH8bOdfHMC80J\texttt{8bO}1ECbfHTypewriterdfH familyGVe196d18O'!FC80JbfK8bOdfK1GC80J\textbf{80J\textit{8bO}}1NCbfKBolddfK series bfKItalicdfK shape78bO1IN0E1mathspad manual 8fPHN2A0ISe1d5142P   *2NCSpecialChars1JCLatex2e#SpecialCharsHelpGVe1d5143A#!CC#GC80J\#{}GVe1d5143B#!CC$GC80J\${}GVe1d5143C#!CC%GC80J\%{}GVe1d5143D#!CC&GC80J\&{}GVe1d5143E#"CC~HC{\sim}GVe1d5143F#!CC_GC80J\_{}GVe1d5143G#!DC80J^GC80J\^{}GVe1d5143H#"CC\NC{\backslash}GVe1d5143I#!CC{EC80J\{GVe1d5143J#!CC}EC80J\}G
+and this document will appear on your screen8fPIN2A0ISe1cf70aF   "2JCFootnote1FCLatex2e#FootnoteHelpGVe1cf70aG'!1ACbfMFootnote:dfM {8bO}OC80J\footnote{8bO}1DCFootnote(Editable)GVe1cf70aH#!JCbfK81Jf81L 81M81NdfK1AC80J\footnote{80O8bO}81OK8bO6NN0E1If that doesn't work try  
+8fPIN2A078bOON0E1mathpad, 8fPIN2A078bOON0E1Mathpad or 8fPIN2A078bOPN0E1MathSpad instead of 8fPIN2A078bOPN0E1mathspad.  If none of these
+work consult your system manager..  You may first wish to
+reposition  and/or resize the window (in the normal way) to your own liking
+following  which you can use the scroll bars at the side of the document to
+move through it.  
+
+8fPHN2A02 is a system for preparing documents (books, articles etc.) on a 
+computer.   The main strength of the system lies in the preparation of 
+documents of a mathematical nature, particularly in the case that the 
+mathematics is non-standard.  It builds upon the power of the 8fPHN2A0ISe1cfa44M   %2GCLaTeX1CCLatex2e#LaTeXHelpGVe1cfa44N#!1FCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NXKC80J\LaTeX{}GVe1cfa44O#!MCT81K81L81K81L81ME81N81M81NXIC80J\TeX{}GVe1cfa45A#!1HCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NX23bF4AC80J{\mathsurround=0pt\LaTeX $2_80L{\textstyle 3bF}$\hspace{-0.4mm}}{}GVe1cfa45B#!1BCBccAIB80PT81K81L81K81L81ME81N81M81NX1FC80J80J\textsc{Bib}\TeX{}GVe1e4779B#!MCbfMMakeIndexdfMOCbfMMakeIndexdfM{}P8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPHN2A0P8bMHN0E38bNHN0E28bOKN0E1TEX  and
+8fPHN2A0Q8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPHN2A0Q8bMHN0E38bNHN0E28bOMN0E1LATEX document preparation systems8fPIN2A0K8bO1EN0E1
+See 8fPIN2A0ISe1d4818J   $2PCRef(other doc)1LCLatex2e#Ref(other doc)HelpGVe1d4818K'!1HCbfI[82Hdocument key(s)82I8bO]dfIKC80J\cite{8bO}PCCite[document]GVe1d4818L'!1PCbfI[82Hdocument key82I8bO,82Hcomment82I8bN]dfINC80J\cite[8bN]{8bO}1ICCite[document, comment]GVe1d4818M'!2ACbfMNoCitedfMbfI[82Hdocument key(s)82I8bO]dfI
+NC80J\nocite{8bO}80I2HCDocument not cited-but in bibliographyGVe1d4818N'!2JCbfMPut all references into bibliography.dfM
+OC80J80J\nocite{*}80I2CCPut all entries into bibliographyU8bOKN0E1TeX and 8fPIN2A0U8bOON0E1LaTeX2e. by providing a mechanism for
+converting documents prepared  with the aid of the system into 8fPHN2A0Q
+documents.   The mechanism is extremely flexible in a very simple way so that
+8fPHN2A02 can equally well be used to create troff8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1FN0E1troff document documents or html8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1EN0E1html document
+documents, or, indeed, documents written according to any ascii-based
+mark-up language.    
+
+Like 8fPHN2A0P and 8fPHN2A0Q,  8fPHN2A02  emphasises  8fPIN2A0@8bO1FN0E1logical design rather than
+8fPIN2A0@8bO1EN0E1visual design and is not a WYSIWYG8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOON0E1WYSIWYG   (what you see is what you get) system. 
+Unlike 8fPHN2A0P and 8fPHN2A0Q,  however, 8fPHN2A02 provides an
+ergonomically-designed user interface  that allows you to create and
+manipulate mathematical formulae at your  computer terminal in a form
+whose readability approaches the high standard of graphics-based WYSIWYG
+systems.  
+
+8fPHN2A02 is of potential value to you if what you write typically contains lots
+of items of a mathematical nature, for example formulae like:
+
+89PKN0A08fPJN2A0ISe1ec6b2C   $2KCSummation1HCLatex2eB#SummationHelpGVe1ec6b2E'"1BC81JccA8fM80P81LcbL221B80P81MccA8fN80P81N  8fO1PC\displaystyle{\sum_{8fN}^{8fM}}\ 8fO1LCdisplaystyle-range at sideGVe1ec6b2F'"1CC221B81KccA8fM81G80P81L 81MccA8fN81G80P81N  8fO1MC\textstyle{\sum_{8fN}^{8fM}}\ 8fO1KCinlinestyle-range at sideGVe1ec6b2G'"OC81J81LcbL221B80P81MccA8fN80P81N  8fO1LC\displaystyle{\sum_{8fN}}\ 8fO1OCdisplaystyle-range underneathGVe1ec6b6G'"PC221B81K 81L 81MccA8fN81G80P81N  8fO1IC\textstyle{\sum_{8fN}}\ 8fO1NCinlinestyle-range underneathW8fOIN2A1ISe1dd083O   11NClarge parensGVe1dd083P#"EC230K8fO230LPC\left230K8fO\right230LGVe1dd084A#"EC230I8fO230JPC\left230I8fO\right230JGVe1dd084B#"EC{8fO}PC\left{8fO\right}GVe1dd084C#"EC222D8fO222DPC\left222D8fO\right222DGVe1dd084D#"EC232J8fO232KPC\left232J8fO\right232KGVe1dd084E!"EC1ffJ8fO1ffIGVe1dd084F#"EC[8fO]PC\left[8fO\right]GVe1dd084G!"EC1ffH8fO1ffGGVe1dd084H!"EC222F8fO222FGVe1dd084I#"1AC80G80B80E{   80B80E8fO80F
+}80F80H1CC80G80B80E{ \ \ 80B80E8fO80F
+}80F80HGVe1dd084J#"1AC80G80B80E232J   80B80E8fO80F
+232K80F80H1CC80G80B80E232J \ \ 80B80E8fO80F
+232K80F80HGVe1dd084K#"1AC80G80B80E1ffJ   80B80E8fO80F
+1ffI80F80H1CC80G80B80E1ffJ \ \ 80B80E8fO80F
+1ffI80F80HGVe1dd084L#"1AC80G80B80E1ffH   80B80E8fO80F
+1ffG80F80H1CC80G80B80E1ffH \ \ 80B80E8fO80F
+1ffG80F80HGVe1dd084M!"EC`8fO'GVe1dd084N!"EC(8fO)GVe1dd084O#"GC222D230K8fO230L222D1EC230K \! \!230K 8fO230L \! \! 230LGVe1dd084P#"GC222D230I8fO230J222D1DC230I \! \!230I8fO230J \! \! 230Jj8fOJN2A1ISe13cd3fG   #2KCFractions1HCLatex2eB#FractionsHelpGVe26e4f2H'"IC81K8fO81L81H81M8fN81NMC\frac{8fO}{8fN}1NCenvironment determines styleGVe13cd3fH'"IC81K8fO81L81H81M8fN81N1LC{\displaystyle\frac{8fO}{8fN}}NCDisplayStyleGVe1eb2b4O'"KCccA81K8fO81L81H81M8fN81N80P1IC{\textstyle\frac{8fO}{8fN}}MCInlineStylel8fOKN0A18fPJN2A0ISaf5cc71I   !0GVaf5cc71J!"DC8fO8fNn8fOIN0A1n8fNIN0A2k8ePHN2B0ISafa0e20I# -&0GVafa0e20C#"CC+IC{\plus}GVafa0e20D#"CC×EC{×}GVafa0e20E#"CC25bPGC\juncGVafa0e20F#"CC25bFHC\splitGVafa0e20G#"CC25bEJC\cosplitGVafa0e20H#"CC25bOIC\cojunct8fPIN0A0x8fNIN0A2m8fNMN0A28fPIN0A008ePHN2B0ISafa0e22B#!%.0GVafa0e21D!"CC229BGVafa0e21E!"CC229CGVafa0e21F!"CC228GGVafa0e21G!"CC228HGVafa0e21H!"CC22bEGVafa0e21I!"CC22bFGVafa0e21J!"CC226EGVafa0e21K!"CC226FGVafa0e21L!"CC<GVafa0e21M!"CC>GVafa0e21N!"CC227MGVafa0e21O!"CC227NGVafa0e21P!"CC227KGVafa0e22A!"CC227L|8fPIN0A0k8ePHN2B0z8fPIN0A0m8ePHN6B0BISafa0e22G# %$0GVafa0e22C!"CC=GVafa0e22D!"IC80G80F
+=80C80E80HGVafa0e22E!"CC226AGVafa0e22F!"DC:=8G8fPMN0A08fPJN2A0n8fOIN0A1d8fNIN2A2j8fOJN2A1l8fOIN0A1x8fNIN0A2d8ePHN6B0At8fPJN2A0n8fOJN2A1l8fOKN0A18fPIN0A0m8ePHN2B0ISe12fcdbL# -"0GVe12fcdbM#"CC+IC{\plus}GVe12fcdbN!"CC-8H8fPIN0A018fNIN0A228fNIN0A2n8ePHN6B0At8fPJN2A0l8fOKN0A18fPIN0A0d8ePHN2B08H8fPIN0A0m8fNIN0A22
+
+or computer programs (with or without  comments of a mathematical nature):
+89PKN6G0AISafa0e27N   !1ICProgramGVafa0e27M#!5BC80J
+81PbfOprogramdfO 82HNAME82I8fO ;
+82HDECLARATIONS82I8fN  ;
+bfObegindfO
+      80B80E82HSTATEMENT82I8fM80F
+bfOend.dfO82A
+2NC80J81PbfOprogramdfO 8fO;
+8fN\ ;
+bfObegindfO
+ ~~~80B80E8fM80F
+bfOend.dfO82A8J8fOON0A1example8fNIN2A2ISafa0e28E   &1ICDeclareGVafa0e27O'!1CC80JbfOvardfO
+80G    80B80E8fO80F80H1BC80JbfOvardfO
+80G~~~80B80E8fO80F80HJCVariableGVafa0e27P'!1DC80JbfOtypedfO
+80G    80B80E8fO80F80H1CC80JbfOtypedfO
+80G~~~80B80E8fO80F80HFCTypeGVafa0e28A'!1EC80JbfOconstdfO
+80G    80B80E8fO80F80H1DC80JbfOconstdfO
+80G~~~80B80E8fO80F80HJCConstantGVafa0e28B'!1EC80JbfOlabeldfO
+80G    80B80E8fO80F80H1DC80JbfOlabeldfO
+80G~~~80B80E8fO80F80HGCLabelGVafa0e28C'!3DC80JbfOproceduredfO 8fN;
+80G    80B80E8fM;
+bfObegindfO
+    80B80E8fO80F
+bfOenddfO80F80H3EC80JbfOproceduredfO 8fN;
+80G~~~80B80E8fM;
+bfNbfObegindfO
+    80B80E8fOdfN80F
+bfOenddfO80F80HKCProcedureGVafa0e28D'!3GC80JbfOfunctiondfO 8fN : 8fL;
+80G    80B80E8fM;
+bfObegindfO
+    80B80E8fO80F
+bfOenddfO80F80H3GC80JbfOfunctiondfO 8fN: 8fL;
+80G~~~80B80E8fM;
+bfNbfObegindfO
+    80B80E8fOdfN80F
+bfOenddfO80F80HJCFunction8P8fOKN0A18fPKN0A08fPKN0A08fPIN0A0k8ePHN2B0ISafa0e2eI#!#!0GVafa0e2eH!"CC,9A8fPIN0A0m8ePHN2B0ISafa0e2eD#""!0GVafa0e2eC!"CC:9B8fPHN2A0ISafa0e29A   +1FCTypeGVafa0e28F!!LC80JbfIintegerdfIGVafa0e28G!!MC80JbfIshortintdfIGVafa0e28H!!IC80JbfIbytedfIGVafa0e28I!!IC80JbfIworddfIGVafa0e28J!!LC80JbfIlongintdfIGVafa0e28K!!LC80JbfIbooleandfIGVafa0e28L!!IC80JbfIchardfIGVafa0e28M!!IC80JbfIrealdfIGVafa0e28N!!KC80JbfIstringdfIGVafa0e28O!!NC80JbfIstring[8fO]dfIGVafa0e28P!!FC80JbfI8fOdfI9M8ePHN6B0?ISafa0e2eG#! "0GVafa0e2eE!"DC;
+GVafa0e2eF!"CC;9O8fPKN0A08fPKN0A08fPIN0A0x8ePHN2B09A8fPIN0A0y8ePHN2B09B8fPHN2A09F8fMJN2A3ISafa0e2bF   %1ICCommentGVafa0e2bA#!JC80J{ 8bO } 8fNLC80J\{ 8bO \} 8fNGVafa0e2bB#!JC80J8fN { 8bO }LC80J8fN \{ 8bO \}GVafa0e2bC#!OC80J80G{ 80B80E8bO80F }
+80H8fN1AC80J80G\{ 80B80E8bO80F \}
+80H8fNGVafa0e2bD#!OC80J8fN
+80G{ 80B80E8bO80F }80H1AC80J8fN
+80G\{ 80B80E8bO80F \}80HGVafa0e2bE#!KC80J{ 8bO } 
+8fNMC80J\{ 8bO \} 
+8fN¡8bOIN0E18fPKN0A08fPIN0A008ePHN2B0|8fPIN0A0m8fNMN0A28fPKN0A08fPIN0A0k8ePHN2B0ISafa0e2eB#!"!0GVafa0e2eA!"DC:=¤8fPIN0A0m8ePHN2B09N8fPKN0A08fPIN0A0y8ePHN2B0¤8fPIN0A018ePHN2B09O8fPJN2A0¡8bOON0E18fP1BNPA0!Invariant: 8fPKN0A08fPKN0A08fPIN0A0y8ePHN2B0ISafa0e2bP# /!0GVafa0e2bO!"CC*¥8fPJN2A0ISe1ec428P   &22MCScripts                                    1FCLatex2eB#ScriptsHelpGVe1ec429A'"PC8fOccA81K 81L81M82Hsub82I8fN81N80PGC8fO_{8fN}IC8fO ccAsubcbOGVe1ec429B'"1BC8fOccA81K82Hsuper82I8fN81L 81M81N80PGC8fO^{8fN}KC8fO ccAsupercbOGVe1ec429C'"1JC8fOccA81K82Hsuper82I8fN81G81L 81M82Hsub82I8fM81G81N80PKC8fO^{8fN}_{8fM}JC8fO ccAbothcbOGVe1ec429D'"PCccA81K 81L81M82Hsub82I8fN81N80P8fOIC{}_{8fN}8fOICccAsub cbO8fOGVe1ec429E'"1BCccA81K82Hsuper82I8fN81L 81M81N80P8fOIC{}^{8fN}8fOKCccAsupercbO 8fOGVe1ec429F'"1JCccA81K82Hsuper82I8fN81G81L 81M82Hsub82I8fM81G81N80P8fOMC{}^{8fN}_{8fM}8fOJCccAbothcbO 8fOª8fOIN0A1x8fNIN0A2k8ePHN6B0AISafa0e2dF# %!0GVafa0e2dE!"CC=¬8fPJN2A0ª8fOIN0A1x8fNIN0A2m
+8fPPNPA0!Variant: 8fPIN0A08fPIN0A0k8fNJN2A2 8fNJN2A2ISafa0e2aP   -1KCStatementGVafa0e2aC!!IC80J8fO := 8fNGVafa0e2aD%!1BC80JbfOifdfO 8fO bfOthendfO 8fNICif thenGVafa0e2aE%!1KC80JbfOifdfO 8fO bfOthendfO 8fN bfOelsedfO 8fMNCif then elseGVafa0e2aF'!2CC80J80G80B80EbfOcasedfO 8fO bfOofdfO
+    80B80E8fN80F
+bfOenddfO80H2BC80J80G80B80EbfOcasedfO 8fO bfOofdfO
+~~~80B80E8fN80F
+bfOenddfO80HFCcaseGVafa0e2aG'!3CC80J80G80B80EbfOcasedfO 8fO bfOofdfO
+    80B80E8fN80F
+bfOelsedfO
+    80B80E8fM80F
+bfOenddfO80H3AC80J80G80B80EbfOcasedfO 8fO bfOofdfO
+~~~80B80E8fN80F
+bfOelsedfO80I~~~80B80E8fM80F
+bfOenddfO80HKCcase elseGVafa0e2aH%!1HC80JbfOfordfO 8fO bfOtodfO 8fN bfOdodfO 8fMKCfor to doGVafa0e2aI%!1LC80JbfOfordfO 8fO bfOdowntodfO 8fN bfOdodfO 8fMOCfor downto doGVafa0e2aJ'!2BC80J80G80B80EbfOrepeatdfO
+    80B80E8fN80F
+bfOuntildfO 8fO80H2AC80J80G80B80EbfOrepeatdfO
+~~~80B80E8fN80F
+bfOuntildfO 8fO80HNCrepeat untilGVafa0e2aK%!1CC80JbfOwhiledfO 8fO bfOdodfO 8fNJCwhile doGVafa0e2aL'!1KC80J80GbfObegindfO
+    80B80E8fN80F
+bfOenddfO80H1JC80J80GbfObegindfO
+~~~80B80E8fN80F
+bfOenddfO80HKCbegin endGVafa0e2aM'!1MC80J80G
+bfObegindfO
+    80B80E8fN80F
+bfOenddfO
+80H1LC80J80G
+bfObegindfO
+~~~80B80E8fN80F
+bfOenddfO
+80HOC[ begin end ]GVafa0e2aN%!1BC80JbfOwithdfO 8fO bfOdodfO 8fNICwith doGVafa0e2aO%!IC80J8fO( 8fN )KCprocedure±8fOKN0A18fPIN0A0k8ePHN2B0ISafa0e2dD# %!0GVafa0e2dC!"DC<>º8fPIN0A008fNIN2A2°8fNKN0A28fPKN0A08fPIN0A0k8ePHN2B0¤8fPKN0A08fPIN0A0k8ePHN2B0ISafa0e2dB# *!0GVafa0e2dA!"CC-»8fPIN0A018ePHN2B09N8fPKN0A08fPIN0A0y8ePHN2B0¤8fPKN0A08fPIN0A0y8ePHN2B0¥8fPIN0A0x8bOIN0E18fPKN0A08fPIN0A0y8ePHN6B0A¬8fPJN2A0ª8fOIN0A1x8fNIN0A2m
+If, however, you restrict yourself to standard mathematical notation such as 
+taught up to, but not including, university level you will probably find that a
+software package that has been tailor-made to respect such standards is more
+suited to your purposes.  For instance, you will notice ---if you are reading this
+document on screen--- that in the mathematical formula above the 
+parentheses 230K and 230L (a standard notation for the floor function mapping reals to 
+integers) do not increase in size to accommodate the size of the argument.  
+8fPHN2A02 has no built-in ``knowledge'' of accepted notational conventions.
+This means that on-screen formulae may not be so readable as those produced
+by specialised systems.
+
+8fPHN2A02 begins to be an attractive alternative when you wish to deviate from
+accepted notation and invent your own.  You may prefer, for example, to write 
+the tautology
+
+89PKN0A08fPKN1A08fPKN1A08fPIN0A0p8ePHN2B0ISafa0e26K% !!0GVafa0e26J!"CC21dC¼8fPIN0A0q8ePHN2B0¼8fPIN0A0r8ePHN2B0¼8fPMN1A08fPIN0A0p8ePHN2B0¼8fPIN0A0q8ePHN2B0¼8fPIN0A0r
+
+using a two-dimensional turnstile notation as shown below:
+
+89PJN2G0ISafa0e1aB   !0GVafa0e1aA'!JC82D81K8fO81L81H81M8fN81N4DC80J{\fboxrule 0pt\fbox{ \begin{tabular}{|c}8fO\\\hline8fN\end{tabular}}}KCTurnstile½8fOJN2A1½8fOKN0A18fPIN0A0p8ePHN6B0AISafa0e1bG% #!0GVafa0e1bF!"CC22aC¾8fPIN0A0q8fNIN0A2r8fNJN2A2½8fOIN0A1p8fNKN0A28fPIN0A0q8ePHN6B0A¾8fPIN0A0r
+
+The most important component of the 8fPHN2A02 system is a
+``template8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOPN0E1template''- creation mechanism which allows you to design and use your
+own notation --- if  necessary on the fly during the preparation of a document. 
+ Included in this  mechanism is a method for specifying the  output that
+your notation should generate  thus ensuring a high-quality printed version of
+your document even if the screen version has some shortcomings.  
+
+Built into the system is an automatic mechanism for generating 8fPHN2A0Q output.
+In principle, it is thus the case that the user need have no knowledge of 8fPHN2A0Q
+to use the system. In practice, knowledge of 8fPHN2A0Q (or 8fPHN2A0P) is 
+required in order to  exercise one's right to override the decisions taken by the
+system.  This ability to override automatically generated output also enables
+one to create output suited to  other systems. It is possible, for example, to
+generate 8fPIN2A0@8bO1EN0E1from the same 8fPHN2A02 8fPIN2A0@8bOPN0E1document both 8fPHN2A0Q and  html output 
+(for use with internet). 
+
+The use of 8fPHN2A02 truly becomes worthwhile if the documents one writes 
+often contain symbolic calculations.    Symbolic calculations are very much like 
+the weather:  occasionally sudden changes take place, but most of the time the
+changes are gradual.  Below is an example of such a symbolic calculation.  
+Unless you belong to a particular group  you will not have any idea what it is
+about.  This is  an advantage since you  will then be able to view the calculation
+from a purely syntactic perspective.   What  you will observe is that there is only
+one sudden change in the calculation, that expressed in the first equation. 
+Following that the calculation consists of  various rearrangements of a small
+number of patterns.  You will note, for  example, that the pattern ``8fPJN0A08fPIN0A0f8ePHN2B0ISafa0e23J#!,+0GVafa0e22O#"CC221IGC\compGVafa0e22P#"IC80G80F
+221I80C80E80HMC80G80F
+\comp80C80E80HGVafa0e23A!"CC221JGVafa0e23B!"CC·GVafa0e23C!"CC;GVafa0e23D!"CC*GVafa0e23E#"CC°IC\fncompGVafa0e23F!"CC,GVafa0e23G#"CC221IGC\compGVafa0e23H#"IC80G80F
+221I80C80E80HMC80G80F
+\comp80C80E80HGVafa0e23I#"CC221JGC\cdotÉ'' is
+repeated without change, and that the  subexpression ``8fPJN2A0ISafa0e1bN   &0GVafa0e1bH#"EC1ffN8fN1ffMJC\cata{8fN}GVafa0e1bI#"HC1ffN8fO; 8fN1ffMMC\Cata{8fO}{8fN}GVafa0e1bJ#"1GC80G80B80E1ffN 80B80E8fO80F
+;  80C80E8fN 80F1ffM80F80H2AC80G80B80E\homl\ \ 80B80E8fO80F
+;80C80E8fN80F\ \homr80F80HGVafa0e1bK#"EC1ffP8fN1ffOIC\ana{8fN}GVafa0e1bL#"HC1ffP8fO; 8fN1ffOLC\Ana{8fO}{8fN}GVafa0e1bM#"1GC80G80B80E1ffP 80B80E8fO80F
+;  80C80E8fN 80F1ffO80F80H1IC80G80B80E1ffP\ \ 80B80E8fO80F
+;80C80E8fN80F\ 1ffO80F80HÎ8fOJN0A1GF8fNKN0A28fPIN0A0G8ePHN2B0ISafa0e26G% 2!0GVafa0e26F!"CC.Ð8fPIN0A0f'' is also copied
+repeatedly but in different positions in  the formula.  
+
+89P1CN0A08fPKN0A08fPIN0A03bC8ePHN2B0É8fPIN0A03bB8ePJN2B0ISafa0e24O#  (0GVafa0e24G#"1DC80G80F
+8eO80C80C{80C80E80E80E8bN80F80F }80H
+1KC80G80F
+8eO80C80C\{80C80E80E80E8bN80F80F~~~~~~\}80H
+GVafa0e24H#"1DC80G80F
+=80C80C{80C80E80E80E8bN80F80F }80H
+1KC80G80F
+=80C80C\{80C80E80E80E8bN80F80F~~~~~~\}80H
+GVafa0e24I#"1DC80G80F
+226B80C80C{80C80E80E80E8bN80F80F }80H
+1KC80G80F
+226B80C80C\{80C80E80E80E8bN80F80F~~~~~~\}80H
+GVafa0e24J#"1DC80G80F
+21dA80C80C{80C80E80E80E8bN80F80F }80H
+1KC80G80F
+21dA80C80C\{80C80E80E80E8bN80F80F~~~~~~\}80H
+GVafa0e24K#"1DC80G80F
+21dC80C80C{80C80E80E80E8bN80F80F }80H
+1KC80G80F
+21dC80C80C\{80C80E80E80E8bN80F80F~~~~~~\}80H
+GVafa0e24L#"1DC80G80F
+229B80C80C{80C80E80E80E8bN80F80F }80H
+1KC80G80F
+229B80C80C\{80C80E80E80E8bN80F80F~~~~~~\}80H
+GVafa0e24M#"1DC80G80F
+229C80C80C{80C80E80E80E8bN80F80F }80H
+1KC80G80F
+229C80C80C\{80C80E80E80E8bN80F80F~~~~~~\}80H
+GVafa0e24N'"LC8eO  {  8bN  }LC8eO\{~~8bN~~\}HCinlineØ8eOHN2B18G8bN1NN0E2definitions of 8fPIN0A03bC and 8fPIN0A03bB8fPMN0A08fPIN0A0f8ePHN2B0É8fPKN0A08fPIN0A0F8ePHN2B0Ð8fPJN2A0Î8fOJN0A1GF8fNKN0A28fPIN0A0G8ePHN2B0Ð8fPIN0A0f8ePHN2B0É8fPKN0A08fPIN0A0F8ePHN2B0Ð8fPJN2A0«8fOJNPA1'in8fNJN0A2GF8ePJN2B0Ø8eOHN2B18G8bN1FN0E28fPIN0A0F is a functor8fPKN0A08fPIN0A0f8ePHN2B0É8fPKN0A08fPIN0A0F8ePHN2B0Ð8fPKN1A08fPJN2A0Î8fOJN0A1GF8fNKN0A28fPIN0A0G8ePHN2B0Ð8fPIN0A0f8ePHN2B0É8fPJN2A0«8fOJNPA1'in8fNJN0A2GF8ePJN2B0Ø8eOHN2B18G8bNLN0E2SELF8fPKN0A08fPIN0A0f8ePHN2B0É8fPKN0A08fPIN0A0F8ePHN2B0Ð8fPKN1A08fPKN0A08fPIN0A0G8ePHN2B0Ð8fPIN0A0f8ePHN2B0É8fPMN0A08fPIN0A0G8ePHN2B0Ð8fPIN0A0F8ePHN2B0Ð8fPJN2A0Î8fOJN0A1GF8fNKN0A28fPIN0A0G8ePHN2B0Ð8fPIN0A0f8ePJN2B0Ø8eOHN2B18G8bN1FN0E28fPIN0A0G is a functor8fPKN0A08fPIN0A0f8ePHN2B0É8fPKN0A08fPIN0A0F8ePHN6B0?Ð8fPKN0A08fPIN0A0G8ePHN2B0Ð8fPKN1A08fPIN0A0f8ePHN2B0É8fPKN0A08fPIN0A0F8ePHN2B0Ð8fPJN2A0Î8fOJN0A1GF8fNKN0A28fPIN0A0G8ePHN2B0Ð8fPIN0A0f8ePJN2B0Ø8eOHN2B18G8bN1HN0E2definition of 8fPIN0A03bC 8fPIN2A0ISff2495bF   &0GVff2495bA'"EC 8fO EC~8fO~EC~8fO~GVff2495bB%"DC8fO8bNDC8fO8bOGVff2495bC'"FC8fO  ,FC8fO~~,DC8fO,GVff2495bD'"IC   8fO   GC~~8fO~~GC~~8fO~~GVff2495bE#"FC8fO  .FC8fO~~.GVffd7e2eF!"CC8bNÚ8fOKN0A18fPIN0A0f8ePHN2B0É8fPKN0A08fPIN0A0F8ePHN6B0?Ð8fPKN0A08fPIN0A0G8ePHN2B0Ð8fPIN0A03bC
+
+8fPHN2A02 is in fact just a tree editor, the structure of the trees one manipulates 
+being defined by the user.  Its strength lies in the flexibility with which one can 
+define the logical structure of formulae and how they are to be laid out on the 
+screen, and in the ease with which one can select, copy and rearrange 
+subexpressions in a mathematical formula.
+
+In summary,  8fPHN2A02 has been designed as a hybrid between WYSIWYG
+and macro-based document preparation systems.   It will appeal to you if your
+work demands the  comprehensiveness, power and flexibility of a logical-design
+system like 8fPHN2A0P or 8fPHN2A0Q.   If you choose to use 8fPHN2A02 you will not be 
+sacrificing any of these advantages.  (Nor will you have to rewrite your old 
+documents: a 8fPHN2A02 document can include any amount of raw 8fPHN2A0P or 
+8fPHN2A0Q code.   No special conversion program is necessary.)  On the other hand, 
+you will gain the indispensable advantage of a visual design system so that you
+can read what you have written as you write.   
+
+8fPHN2A02 will not fulfil all your dreams.  It was developed as a research 
+project in the design of computer interfaces for the writing of mathematical 
+documents.  As such its capabilities for editing and viewing 8fPIN2A0@8bOMN0E1plain text are  not so
+comprehensive as  conventional editing systems.    Even for the input of
+mathematics its ergonomics is hampered by the inhuman nature of
+keyboard-mouse  input.   8fPHN2A02 is nevertheless intended as a practical,
+pleasant-to-use  system, as judged within the context of current technology,
+and one that will  have a place in the emerging generation of computer
+interfaces.   
+
+If you would like to know more about the philosophy behind the design of
+8fPHN2A02 then you  may continue by reading the chapter entitled ``The
+8fPHN2A02 Philosophy''.    To do so click on  8fPIN2A088bOLN0E1Load in the top-left corner of this
+window  (in other words move  the cursor so that it is pointing to the word
+8fPIN2A088bOLN0E1Load and then press and release any  one of your mouse buttons).   Then select 
+8fPIN2A078bO1FN0E1Philosophy.mpd  in the file selector window  that appears.   (Do so by
+pointing the mouse at the entry  8fPIN2A078bO1FN0E1Philosophy.mpd; then  double-click with
+any of the mouse buttons, or click once and then either click on the 8fPIN2A088bOJN0E1OK button
+or press on the 8fPIN2A088bOMN0E1Enter key on your keyboard.)  The contents of this window will
+then be replaced by that chapter and you can continue reading.  
+
+The tutorial chapter is a cross between an overview of the main elements of the
+system  and a short tutorial on its use.   To begin reading it, follow the
+instructions given  above for loading the ``Philosophy'' chapter replacing the
+latter everywhere by  ``Tutorial''.
+
+If you do not want to leave this chapter just yet you can bring up the tutorial
+chapter alongside this one.  Begin by clicking on 8fPIN2A088bONN0E1Window  in the 8fPHN2A02
+console at the top of  your screen.    A window similar to this one will appear and
+then you can follow  the instructions above, but,  instead of  beginning by clicking
+on 8fPIN2A088bOLN0E1Load in the  top-left corner of 8fPIN2A0@8bOLN0E1this window you should click  on 8fPIN2A088bOLN0E1Load in
+the top-left corner of the new window.  Subsequently, you can quit this
+welcoming chapter  by clicking  on 8fPIN2A088bOLN0E1Done  or by using the normal
+window-manager routine.
+
+Finally, if you just want to go it alone then there is a context-sensitive help8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1IN0E2context-sensitive8bOLN0E1help
+facility.  Position the mouse anywhere in one of the 8fPHN2A02 windows
+and press the ``Help'' button on your keyboard.  Part of the reference section of
+this manual will automatically appear on your screen and, at the head of the
+document, you will find some information related to the subwindow at which the
+mouse is pointing.  From there you can scroll through the rest of the document
+or chase the references in order to find the information you need.   (We
+recommend that you do read the tutorial at some stage.  Otherwise, you will never
+fully appreciate all the possibilities that the system offers.  If your keyboard
+doesn't have a ``Help'' key then you will have to consult 8fPJN2A0ISe04f743O   &1KCBook Ref.GVe04f743P#!1ICsection bfI8bOdfI in bfIfile:8bNdfI1DC80Jsection~\ref{8bN.8bO}GVe04f744A#!JCbfIfile:8bOdfI1GC80Jchapter~\ref{file:8bO}GVe04f744B#!MCsection bfI8bOdfI1DC80Jsection~\ref{8bN.8bO}GVe04f744C#!JCfig. bfI8bOdfI1DC80Jfig.\ \ref{fig:8bO}GVe04f744D#!KCtable bfI8bOdfI1FC80Jtable \ref{Table:8bO}GVe04f744E#!KCTable bfI8bOdfI1GC80J80JTable \ref{Table:8bO}ã8bNHN@E2"8bO1LN0E1SystemAdministration
+or your local expert to see how to bind another key to the help function.)
+  

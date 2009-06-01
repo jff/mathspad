@@ -1,0 +1,25 @@
+
+TOPSRCDIR = @top_srcdir@
+TOPOBJ    = .
+SRCDIR    = @srcdir@
+VPATH     = @srcdir@
+
+
+DATAFILES = Basics.mpd ConsoleCommands.mpd Copyright.mpd Defaults.mpd \
+		FindAndReplace.mpd GriesSchneiderExample.mpd Guide.mpd \
+		IndexHelp.mpd Latex2e.mpd Latex2eA.mpd Latex2eB.mpd \
+		Latex2eC.mpd LatexDocument.mpd LatexHelp.mpd Manual.mpd \
+		MathSEditing.mpd MoreOnWindows.mpd Philosophy.mpd \
+		Preface.mpd StencilsandTemplates.mpd StructureEditing.mpd \
+		SystemAdministration.mpd TextEditing.mpd Tutorial.mpd \
+		VersionDefinition.mpd Welcome.mpd html.mpd manpage.mpd \
+		ozhelp.mpd colortest.mpd
+
+datasubdir = /help
+
+
+@MAKE_RULES@
+
+
+all: 
+

@@ -1,0 +1,485 @@
+[4mMathpad Document
+[0m3ccAN0E08fPKN2A0ISe1d4f11P   +2PCSectionHeading2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f1aC'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+HC80J8bN{8bO}80IKC{heading}GVe1d4f20A'!3CC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80IPC[toc]{heading}GVe1d4f27D'!2MC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1CC[no no.]{heading}GVe1d4f2aE'!2NC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1AC80J8bN{8bO}\label{8bM}80IPC{heading}labelGVe1d4f2eB'!3LC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1EC[toc]{heading}labelGVe1d4f12M'!3FC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1BC80J8bN*{8bO}\label{8bM}80I1HC[no no.]{heading}labelGVe1d4f12H'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80I1EChide-[toc]{heading}GVe1d4f12I'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1IChide -[no no.]{heading}GVe1d4f12J'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1AC80J8bN{8bO}\label{8bM}80I1EChide-{heading}labelGVe1d4f12K'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1JChide-[toc]{heading}labelGVe1d4f12L'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1BC8bN80J*{8bO}\label{8bM}80I1MChide-[no no.]{heading}label'8bM1IN0E3file:MathSEditing8bO1ON0E1Algebraic Manipulations8bNIN0E28fPHN2A0ISe1d4f86L   '21ACSectioningTypes2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f86M#!JCcbLbfKPartdfK80PHC80J\partGVe1d4f86N#!MCcbMbfKChapterdfK80PKC80J\chapterGVe1d4f86O'!MCcbNbfKSectiondfK80PKC80J\sectionMCcbObfKSectiondfKccAGVe1d4f86P#!PCcbObfKSubSectiondfK80PNC80J\subsectionGVe1d4f87A#!1ACbfKSubSubSectiondfK1AC80J\subsubsectionGVe1d4f87B#!MCbfKParagraphdfKMC80J\paragraphGVe1d4f87C#!PCbfKSubParagraphdfKPC80J\subparagraph0
+8fPHN2A0ISafa0e17G   !0GVafa0e17F#!MC80JbfIMath222LpaddfILC80J\mplogo{}2 is oriented to the creation of mathematical documents. Syntactic,
+algebraic manipulation of mathematical expressions is therefore a key
+component. 
+
+A feature of algebraic calculations is that the same (sub)expressions are used
+repeatedly in a calculation with relatively small changes in between. The copy
+and swap functions, as described in 
+8fPJN2A0ISe04f743O   &1KCBook Ref.GVe04f743P#!1ICsection bfI8bOdfI in bfIfile:8bNdfI1DC80Jsection~\ref{8bN.8bO}GVe04f744A#!JCbfIfile:8bOdfI1GC80Jchapter~\ref{file:8bO}GVe04f744B#!MCsection bfI8bOdfI1DC80Jsection~\ref{8bN.8bO}GVe04f744C#!JCfig. bfI8bOdfI1DC80Jfig.\ \ref{fig:8bO}GVe04f744D#!KCtable bfI8bOdfI1FC80Jtable \ref{Table:8bO}GVe04f744E#!KCTable bfI8bOdfI1GC80J80JTable \ref{Table:8bO}88bN1HN0E2StructureEditing8bO1EN0E1Copy and Swap, are thus the
+mathematician's favourite tools. In addition to copy and swap, the following 
+elementary operations form the basis of a large number of algebraic rules:
+8fPIN2A0ISe1dbb24P   "21OCItemize                      3BCLatex2eB#Description, Enumerate and Itemize HelpGVe1dbb25A'!2HC81PbfMItemdfM80BbfMizedfM
+82Hitems82I8bO82A bfMEnd ItemizedfM
+2DC80J\begin{itemize}80I8bO 80I\end{itemize}80IICItemizeGVe1dbb25B'!1DC   221J 80C80E{82Htext82I8bO}80F
+LC80J\item 8bO 80IFCItem:8bOMN0E18fPIN2A098bO3AN0E1Reversal (Commutation) of subexpressions.8fPIN2A098bO1LN0E1Identifier renaming.8fPIN2A098bO1KN0E1Applying functions.8fPIN2A098bO4CN0E1Distribution of a function over the terms of an expression.8fPIN2A098bO4FN0E1Factorisation of a function out of the terms of an expression.
+
+These structure editing operations are described in this chapter.  Additional
+structure editing operations described here are the addition and/or removal of
+parentheses, and grouping or ungrouping of subexpressions.  All are to be found
+under the 8fPIN2A0ISe196d18D   +2KCTextStyle1HCLatex2eA#TextStyleHelpGVe196d18N'!FC80JbfJ8bOdfJKC80J\emph{8bO}1CCbfMEmphasizeddfM textGVe196d18E'!DC80J8bOMC80J\textup{8bO}OCUpright shapeGVe196d18F'!FC80JbfM8bOdfMMC80J\textit{8bO}PCbfMItalicdfM shapeGVe196d18G'!FC80JbfJ8bOdfJMC80J\textsl{8bO}1ACbfJSlanteddfJ shapeGVe196d18H'!DC80J8bOMC80J\textsc{8bO}1FCSccBMALLcbPcbNCccBAPS cbNshapeGVe196d18I'!DC80J8bOMC80J\textmd{8bO}OCMedium seriesGVe196d18J'!FC80JbfO8bOdfOMC80J\textbf{8bO}OCbfOBolddfO seriesGVe196d18K'!DC80J8bOMC80J\textrm{8bO}NCRoman familyGVe196d18L'!FC80JbfI8bOdfIMC80J\textsf{8bO}1ECbfISans SerifdfI familyGVe196d18M'!FC80JbfH8bOdfHMC80J\texttt{8bO}1ECbfHTypewriterdfH familyGVe196d18O'!FC80JbfK8bOdfK1GC80J\textbf{80J\textit{8bO}}1NCbfKBolddfK series bfKItalicdfK shape=8bO1AN0E1Structure button on the console.
+
+Specific algebraic laws can be applied using the find-and-replace facility
+described in 8fPJN2A078bNHN@E2"8bO1FN0E1FindAndReplace.
+
+8fPKN2A0*8bMHN@E3"8bO2AN0E1Grouping  and Parentheses8bNIN0E28fPHN2A0/
+In 8fPHN2A02 8fPIN2A0E8bO1MN0E1continued expressions8fPON2A0ISe1ce08fJ   "2GCEntry1ECLatex2eC#MakeIndex GVe1ce08fK'!11IC80JbfKIndex EntrydfK
+bfMprimary sort key:dfM80C8bO
+bfMsub sort key:dfM80C8bN
+bfMsubsub sort keydfM80C8bM
+bfMvisual key if different from sort key:dfM80C80C8bL
+bfMif start of range of pages set holder to dfM ( 80C8bK
+bfMfont type for page nr. if non-standarddfM80C8bJ
+bfMif end of range of pages set holder to dfM ) 80C8bI
+bfKEnd of Index EntrydfK
+2EC80J\mpindexnew{8bO}{8bN}{8bM}{8bL}{8bK}{8bJ}{8bI}{}1CCenter index entryGVe1ce08fL'!KC80JbfK81Ji81L 81M81NdfK2EC80J\mpindexnew{8bO}{8bN}{8bM}{8bL}{8bK}{8bJ}{8bI}{}1EChide index commandsF8bIHN0E78bJHN0E68bKIN0E5(8bLHN0E48bMHN0E38bN1AN0E2continued8bO1BN0E1expression (operator-argument sequences such as  
+8fPMN0A08fPIN0A0a8ePHN2B0ISafa0e20I# -&0GVafa0e20C#"CC+IC{\plus}GVafa0e20D#"CC×EC{×}GVafa0e20E#"CC25bPGC\juncGVafa0e20F#"CC25bFHC\splitGVafa0e20G#"CC25bEJC\cosplitGVafa0e20H#"CC25bOIC\cojuncM8fPIN0A0b8ePHN2B0M8fPIN0A0c)  are made by selecting the same template repeatedly.  For example, 
+8fPMN0A08fPIN0A0a8ePHN2B0M8fPIN0A0b8ePHN2B0M8fPIN0A0c is  entered by selecting the 8ePHN2B0M template twice.  Continued expressions in
+which the operator is not constant but the operators are versions of the same
+template, like the sequence  8fPMN0A08fPIN0A008ePHN2B0ISafa0e22B#!%.0GVafa0e21D!"CC229BGVafa0e21E!"CC229CGVafa0e21F!"CC228GGVafa0e21G!"CC228HGVafa0e21H!"CC22bEGVafa0e21I!"CC22bFGVafa0e21J!"CC226EGVafa0e21K!"CC226FGVafa0e21L!"CC<GVafa0e21M!"CC>GVafa0e21N!"CC227MGVafa0e21O!"CC227NGVafa0e21P!"CC227KGVafa0e22A!"CC227LU8fPIN0A0i8ePHN2B0S8fPIN0A0N, are created  in the same way: (assuming the
+operators ``8fPHN2B0U''  and ``8fPHN2B0S''are both versions of an ordering relation template) insert
+an  expression, type 8fPIN0A00, click on the version ``8fPHN2B0U'' of the ordering relation template,
+type 8fPIN0A0i, click on the  version ``8fPHN2B0S'' of the ordering relation template and, finally, type
+8fPIN0A0N.   
+
+The  8fPIN2A0C8bOON0E1ungroup8fPON2A0F8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0=8bOON0E1Ungroup8bMON0E3Ungroup8bNON0E2editing8bOIN0E18bP1BN0E0expression operation is used when it is required to create a continued 
+expression in which the operators are not versions of the same template.  
+For example, the expression 8fPMN0A08fPIN0A008ePHN6B0BU8fPIN0A0i8ePHN2B0ISff2494fI#"%+0GVff2494fC!"CC=GVff2494fD%"IC80G80F
+=80C80E80HKC= (split)GVff2494fE!"CC226AGVff2494fF!"DC:=GVff2494fG!"CC224FGVff2494fH#"CC225JHC\eqhatGVffd7b1dO!"EC::=GVffd7c3dE#"CC224NMC\symventuriGVffd7c3dN#"CC219NJC\venturiGVb84e8f7C#"CC21bMLC\tuberightGVfffca6bK!"DC=:f8fPIN0A0N (in which the operators ``8fPHN2B0U'' and ``8fPHN2B0f''
+are versions of different templates but have the same precedence)  can be  
+constructed as follows: 
+8fPIN2A0:8bOKN0E18fPIN2A098bO2EN0E1Construct 8fPKN0A08fPIN0A008ePHN2B0U8fPKN1A08fPIN0A0i8ePHN6B0?f8fPIN0A0N in the usual way.8fPIN2A098bO2FN0E1Select 8fPKN0A08fPIN0A0i8ePHN6B0?f8fPIN0A0N by clicking on ``8fPHN2A0f''.8fPIN2A098bO7GN0E1Click on the 8fPIN2A0=8bOON0E1Ungroup button. The parentheses will now disappear and the
+structure of the expression will be  changed. 
+
+There is a restriction on the use of the ungroup button: all the operators in a
+continued expression must have the same precedence.
+
+The difference in structure between a continued expression like 8fPMN0A08fPIN0A008ePHN2B0U8fPIN0A0i8ePHN6B0?f8fPIN0A0N and
+a non-continued expression like 8fPKN0A08fPIN0A0a8ePHN2B0ISfe11f3bA# ("0GVfe11f3bD!"CC+GVfe11f3bN!"CC-h8fPKN0A08fPIN0A0b8ePHN2B0ISafa0e27D# *"1ECmulGVafa0e27B!"CC·GVafa0e27C!"CC÷j8fPIN0A0c is evident from the selections that can be
+made.  In the former case there are many subexpressions that can be selected
+---8fPKN0A08fPIN0A008ePHN2B0U8fPIN0A0i, 8fPKN0A08fPIN0A0i8ePHN6B0?f8fPIN0A0N, 8fPJN0A08fPIN0A008ePHN2B0U, 8fPLN0A08fPIN0A008ePHN2B0U8fPIN0A0i8ePHN6B0?f, 8fPKN0A08ePHN2B0U8fPIN0A0i8ePHN6B0?f, etc.---, in the latter case there are fewer selections
+possible ---it is not possible to select 8fPKN0A08fPIN0A0a8ePHN2B0M8fPIN0A0b as a subexpression, for example--- .
+This affects in turn the effect of a reverse, distribute or factorise operation, as
+well as the insertion of parentheses.  The ability to work directly with continued
+expressions is a significant contribution to 8fPHN2A02's handiness when
+performing algebraic calculations.
+
+The reverse action is also possible: a subsequence of a continued expression can be 
+made a proper subexpression of the expression. This is done with the  8fPIN2A0=8bOMN0E1Group
+button.  The effect of 8fPIN2A0=8bOMN0E1Group is normally visible by the spacing around the
+operators.   It does not cause parentheses to be inserted. 
+
+The 8fPIN2A0=8bO1EN0E1Insert/Rem () button has an action that is similar to but not the same as 
+8fPIN2A0=8bOMN0E1Group or 8fPIN2A0=8bOON0E1Ungroup.  The insertion of parentheses is commonly used when the
+writer wants to be more explicit about the structure of an expression.  For
+instance, one may want to parenthesise the expression 8fPKN0A08fPKN0A08fPIN0A0a8ePHN2B0ISe1f302dH#!$%0GVe1f302dJ!"CC<GVe1f302dK!"CC>GVe1f302dL!"CC=GVe1f302dM!"CC226EGVe1f302dN!"CC226Fm8fPIN0A0b8ePHN2B0ISafa0e08G# ""0GVafa0e08E!"CC222HGVafa0e08F!"CC222Iq8fPIN0A0c 
+to create 8fPKN0A08fPKN1A08fPIN0A0a8ePHN6B0?m8fPIN0A0b8ePHN2B0q8fPIN0A0c even though the precedence of the operators as defined in the
+stencil does not require it.  Removal of parentheses undoes such an action.  
+
+When parentheses are to be inserted around a subsequence of a continued
+expression the subsequence will first be grouped making it a subexpression of the
+entire expression.  Subsequent removal of the parentheses  is effected by
+8fPIN2A0=8bOON0E1Ungroup and not by 8fPIN2A0=8bO1EN0E1Insert/Rem (). 
+
+To illustrate the differences  consider the expression 8fPMN0A08fPIN0A0a8ePHN2B0m8fPIN0A0b8ePHN2B0m8fPIN0A0c.  Applying
+ 8fPIN2A0=8bO1EN0E1Insert/Rem () to target 8fPKN0A08fPIN0A0b8ePHN2B0m8fPIN0A0c will result in 8fPKN0A08fPIN0A0a8ePHN2B0m8fPKN1A08fPIN0A0b8ePHN2B0m8fPIN0A0c.  The parentheses are
+removed by applying 8fPIN2A0=8bOON0E1Ungroup to the target 8fPKN0A08fPIN0A0b8ePHN2B0m8fPIN0A0c.  Applying 8fPIN2A0=8bOMN0E1Group to the
+same target in the original expression creates 8fPKN0A08fPIN0A0a8ePHN6B0Am8fPKN0A08fPIN0A0b8ePHN2B0m8fPIN0A0c.  (Note that the spacing 
+around the first equals sign  is bigger than around the second.)  Selection of 
+8fPKN0A08fPIN0A0b8ePHN2B0m8fPIN0A0c again and applying 8fPIN2A0=8bOON0E1Ungroup returns the expression to its original form.
+
+The choice between insertion and removal of parentheses is dependent on
+whether or not the target expression is already parenthesised.
+If it is, an attempt is made to remove them; if not, parentheses are inserted. 
+Removal of parentheses will fail if the precedence rules do not allow it, as in 
+writing 8fPKN0A08fPIN0A0a8ePHN6B0>L8fPKN0A08fPIN0A0b8ePHN2B0M8fPIN0A0c when 8fPKN0A08fPIN0A0a8ePHN2B0L8fPKN1A08fPIN0A0b8ePHN2B0M8fPIN0A0c is meant.  You can insist on removal  by using the
+ 8fPIN2A0?8bOJN0E1F4 key.8fPON2A0F8bIIN0E7)8bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1AN0E2continued8bO1BN0E1expression
+
+
+8fPKN2A0*8bMHN@E3"8bO1FN0E1Using Versions8bNIN0E28fPHN2A0/
+8fPHN2A02 templates typically come in several versions.  This simple idea finds
+all sorts of uses: changing the layout of expressions, hiding information from a
+reader that is nevertheless needed by the writer, organising the contents of a
+stencil etc.  The use of versions of a template has already been discussed in the 
+context of continued expressions.  In this section we discuss some other uses of
+versions.
+
+8fPHN2A02 does no automatic layout formatting.   Formatting large
+expressions is notoriously difficult and there are lots of different conventions. 
+So, instead of providing a complicated automatic formatting feature with
+lots of options, an easy to use manual formatting feature is available, which
+works for every style of breaking up large expressions.
+
+The possibility to use templates with different versions enables you to divide
+an expression over multiple lines by changing to another version. Every
+layout style can be incorporated by defining the correct templates and versions.
+Define one version for the single line operator and another version for the
+multiple line operator and the layout of the operator can be changed.
+
+Changing between versions is very simple. Just set the 8fPIN2A0C8bOPN0E1operator or 8fPIN2A0C8bOPN0E1template 
+to the target selection.  Then clicking  on the 8fPIN2A0=8bOON0E1Version  button of the console will
+cycle through the different versions of the template.  
+
+8fPLN2A0ISe1e728fL   42GCTable1ECLatex2eA#floatsHelpGVe1e728fM'!4MCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+3HC80J\begin{table}[8bL]80I8bO 80I\caption{8bN}\label{8bM}80I\end{table}80I1HCtable/capt/label/placeGVe1e728fN'!3JCbfOBegin TabledfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+3FC80J\begin{table}80I8bO 80I\caption{8bN}\label{8bM}80I\end{table}%80I1BCtable/capt/labelGVe1e728fO'!4CCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+2OC80J\begin{table}[8bL]80I8bO 80I\caption{8bN}80I\end{table}80I1BCtable/capt/placeGVe1e728fP'!2PCbfOBegin TabledfO
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+2LC80J\begin{table}80I8bO 80I\caption{8bN}80I\end{table}80ILCtable/captGVe1e7290A'!3HCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+bfOEnd TabledfO
+2CC80J\begin{table}[8bL]80I8bO 80I\end{table}80IMCtable/placeGVe1e7290B'!2ECbfOBegin TabledfO
+82Htable82I8bO
+bfOEnd TabledfO
+1PC80J\begin{table}80I8bO 80I\end{table}80IGCtableGVe1e7290C'!6ECbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+3LC80J\begin{table}[8bL]80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table}%80I2BCtable/capt+LOT entry/label/placeGVe1e7290D'!5BCbfOBegin TabledfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+3HC80J\begin{table}80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table}80I1LCtable/capt+LOT entry/labelGVe1e7290E'!5KCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+3BC80J\begin{table}[8bL]80I8bO 80I\caption[8bK]{8bN}80I\end{table}80I1LCtable/capt+LOT entry/placeGVe1e7290F'!4HCbfOBegin TabledfO
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+2OC80J\begin{table}80I8bO 80I\caption[8bK]{8bN}80I\end{table}80I1FCtable/capt+LOT entryGVe1e7abcJ'!4OCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+3JC80J\begin{table*}[8bL]80I8bO 80I\caption{8bN}\label{8bM}80I\end{table*}80I1PCtable*(2-col)/capt/label/placeGVe1e7abdD'!3LCbfOBegin Table*dfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+3GC80J\begin{table*}80I8bO 80I\caption{8bN}\label{8bM}80I\end{table*}80I1JCtable*(2-col)/capt/labelGVe1e7abdK'!4ECbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+3AC80J\begin{table*}[8bL]80I8bO 80I\caption{8bN}80I\end{table*}80I1JCtable*(2-col)/capt/placeGVe1e7abeH'!3BCbfOBegin Table*dfO
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+2NC80J\begin{table*}80I8bO 80I\caption{8bN}80I\end{table*}80I1DCtable*(2-col)/captGVe1e7ac0F'!3JCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+bfOEnd Table*dfO
+2EC80J\begin{table*}[8bL]80I8bO 80I\end{table*}80I1ECtable*(2-col)/placeGVe1e7ac1D'!2GCbfOBegin Table*dfO
+82Htable82I8bO
+bfOEnd Table*dfO
+2BC80J\begin{table*}80I8bO 80I\end{table*}80IOCtable*(2-col)GVe1e7ac1L'!6GCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3MC80J\begin{table*}[8bL]80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table*}80I2JCtable*(2-col)/capt+LOT entry/label/placeGVe1e7ac5E'!5DCbfOBegin Table*dfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3JC80J\begin{table*}80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table*}80I2DCtable*(2-col)/capt+LOT entry/labelGVe1e7ac2I'!5MCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3DC80J\begin{table*}[8bL]80I8bO 80I\caption[8bK]{8bN}80I\end{table*}80I2DCtable*(2-col)/capt+LOT entry/placeGVe1e7ac3B'!4JCbfOBegin Table*dfO
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3AC80J\begin{table*}80I8bO 80I\caption[8bK]{8bN}80I\end{table*}80I1NCtable*(2-col)/capt+LOT entry8F8bN2BN0E2Example of a version menu.8bOIN0E18fPIN2A0ISe1cfae7F   #2NCLayout-c,l,r1JCLatex2e#Layout-c,l,rHelpGVe1cfae7G'!GC
+82B8bO82C
+2BC80J80I\begin{center}80I8bO80I\end{center}80IHCCenterGVe1cfae7H'!GC
+82B8bO82C
+2HC80J80I\begin{flushleft}80I8bO80I\end{flushleft}80IKCFlushleftGVe1cfae7I'!GC
+82B8bO82C
+2JC80J80I\begin{flushright}80I8bO80I\end{flushright}80ILCFlushright8I8bOIN0E18fPIN0A08fPKN2A0ISafa0e18B   !1HCPin-upGVafa0e18A'!1EC81J81H81L82D81JbfO8bMdfO81G81L81H81M8bN81N 82D81M81H81N4BC80J80I\begin{tabular}{|l|}\hline bfO8bMdfO\\\hline 8bN\\\hline\end{tabular}
+BC8J8bMON0E3Version8bOHN0E18bNIN0E28fPJN2A0ISafa0e18N   !1KCPopuplineGVafa0e18M#!JC81J8bO81G81L8bN81G81M81NHC80J8bO\\80I8bN8K8bOIN0E18fPJN2A08K8bOIN0E18fPJN2A08K8bOIN0E18fPJN2A08K8bOIN0E18fPJN2A08K8bOIN0E18fPJN2A08K8bOJN0E18fPHN2A0ISfe55814G   $1HCSpacesGVfe57c5cH'!DC  DC80J~CC1GVfe55816N'!DC  EC80J~~CC2GVfe55814N'!GC     HC80J~~~~~CC5GVfe55820H'!LC          MC80J~~~~~~~~~~DC108O8fPIN2A0=8bOLN0E1Bold8bNJN0E28fPHN2A08O8fPIN2A0=8bONN0E1Italic8bNJN0E28fPHN2A08O8fPIN2A0=8bO1CN0E1Bold italic8bNJN0E28fPHN2A08O8fPIN2A0=8bOON0E1Slanted8bNJN0E28fPHN2A08O8fPIN2A0=8bO1BN0E1Sans Serif8bNIN0E28fPIN2A0=8bO1BN0E1Typewriter8bNIN0E28fPIN2A0=8bOPN0E1Emphasis8bM1IN0E3Table:VersionMenu8bLKN0E4htb
+Alternatively, the required  version can be chosen directly. By clicking with the 
+far mouse button on the 8fPIN2A0=8bOON0E1Version
+button, a pin-up menu like the one shown in 8fPJN2A048bNHN@E2"8bO1CN0E1VersionMenu
+will appear with the available versions. The current version
+is the one pointed to  by the  mouse; by moving the mouse another version can be 
+selected.  
+
+The different versions can also be used to add or remove an argument
+to an operator or to change the layout  in another way. For example, a
+font-changing template can be used to set a portion of text in another font.
+After selecting the template, the version menu can be used to select another
+font (from 8fPIN2A0?8bOLN0E1bold to 8fPIN2A0=8bO1BN0E1typewriter, for example) or to  change 
+between, say,  8fPKN2A0ISe1ec6b2C   $2KCSummation1HCLatex2eB#SummationHelpGVe1ec6b2E'"1BC81JccA8fM80P81LcbL221B80P81MccA8fN80P81N  8fO1PC\displaystyle{\sum_{8fN}^{8fM}}\ 8fO1LCdisplaystyle-range at sideGVe1ec6b2F'"1CC221B81KccA8fM81G80P81L 81MccA8fN81G80P81N  8fO1MC\textstyle{\sum_{8fN}^{8fM}}\ 8fO1KCinlinestyle-range at sideGVe1ec6b2G'"OC81J81LcbL221B80P81MccA8fN80P81N  8fO1LC\displaystyle{\sum_{8fN}}\ 8fO1OCdisplaystyle-range underneathGVe1ec6b6G'"PC221B81K 81L 81MccA8fN81G80P81N  8fO1IC\textstyle{\sum_{8fN}}\ 8fO1NCinlinestyle-range underneath9B8fOIN0A1i8fNKN0A28fPIN0A0i8ePHN6B0>ISafa0e22G# %$0GVafa0e22C!"CC=GVafa0e22D!"IC80G80F
+=80C80E80HGVafa0e22E!"CC226AGVafa0e22F!"DC:=9G8fPIN0A008fMIN0A3N and 8fPKN2A09C8fOIN0A1i8fNKN0A28fPIN0A0i8ePHN6B0>9G8fPIN0A008fMIN0A3N.
+
+Note that different versions of a template may have different place holders.  
+This is useful to hide information.  For example, you may wish to produce two
+versions of a document, one including complete proofs of every 
+theorem, the other containing only selected proofs.  By including two versions of
+the ``theorem'' template, one which shows and one which doesn't show the proof,
+it is possible to quickly and accurately produce the two versions of your document.
+In switching to the version omitting the proof the contents of the ``proof'' place
+holder are not lost: switching back will restore the information in its entirety.
+
+The only requirement on versions of a template is that the first version should
+always contain all place holders.  Other versions may omit place holders.  For
+further details see 8fPJN2A078bNHN@E2"8bO1IN0E1VersionDefinition.
+
+8fPKN2A0'8bM1LN0E3MathSEditing.Spacing8bO1ON0E1Fine-Tuning the Spacing8bNIN0E28fPHN2A0/
+8fPHN2A02 uses the spacing around operators to display the structure of
+mathematical expressions. To this end so-called 8fPIN2A0E8bO1EN0E1elastic space8fPON2A0F8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2elastic8bOMN0E1space is
+placed between an operator and its arguments.  This space grows automatically as
+the complexity of the operands increases.  The expression below is an illustration.  8fPIN2A0ISe1ecc74K   &21GCEquation/Display     1PCLatex2eB#Equation/DisplayHelp GVe1ecc74L'!NC
+(bfMno.dfM)80C8fO
+
+2HC80J\begin{equation}80I80M8fO80K 80I\end{equation}80IMCEquation   GVe1ecc7aK'!1AC
+(82Hlabel82I8bN)80C8fO
+
+3AC80J\begin{equation}\label{8bN}80I80M8fO80K 80I\end{equation}80I1ECEquation -- bfMLabeldfMGVe1ecc77D'!2FC
+(bfMno.dfM)80C8fO  82Htext or punctuation82I8bM
+
+3EC80J\begin{equation}80I80M8fO\mbox{\ \ \ 80K8bM}80I\end{equation}80I1KCEquation followed by textGVe1ecc7eA'!2IC
+(82Hlabel82I8bN)80C8fO  82Htext or punctuation82I8bM
+
+3NC80J\begin{equation}\label{8bN}80I80M8fO\mbox{\ \ \ 80K8bM}80I\end{equation}80I2FCEquation followed by text -- bfMLabeldfMGVe1ecc75N'!GC
+80C8fO
+
+2MC80J\begin{displaymath}80I80M8fO 80I\end{displaymath}80I1FCDisplayed expressionGVe1ecc78N'!1OC
+80C8fO  82Htext or punctuation82I8bM
+
+3KC80J\begin{displaymath}80I80M8fO\mbox{\ \ \ 80K8bM}
+\end{displaymath}80I2GCDisplayed expression followed by text9I8fOKN0A18fPKN0A08fPKN0A08fPKN0A08fPIN0A0a8ePHN2B0M8fPKN0A08fPIN0A0b8ePHN2B0L8fPIN0A0b8ePHN2B0f8fPIN0A0c8ePHN2B0ISafa0e20N#!#$0GVafa0e20J%"CC222HDC222H GVafa0e20K%"IC80G80F
+222H80C80E80HKC222H (split)GVafa0e20L%"CC222IDC222I GVafa0e20M%"IC80G80F
+222I80C80E80HKC222I (split) 8fPKN0A08fPKN0A08fPIN0A0d8ePHN2B0ISb840295C# /"0GVb840295A!"CC221FGVb840295B#"DC-/JC\overbar¢8fPIN0A0e8ePHN2B0ISff204c2A#!%50GVff204c0M!"CC229BGVff204c0N!"CC229CGVff204c0O!"CC228GGVff204c0P!"CC228HGVff204c1A!"CC22bEGVff204c1B!"CC22bFGVff204c1C!"CC226EGVff204c1D!"CC226FGVff204c1E!"CC<GVff204c1F!"CC>GVff204c1G!"CC227MGVff204c1H#"CC227NIC\succeqGVff204c1I!"CC227KGVff204c1J!"CC227LGVff204c1K!"HC81J81L229B81M.81NGVff204c1L!"HC81J81L229C81M.81NGVff204c1M#"HC81J.81L229B81M81NIC\dot{229B}GVff204c1N#"HC81J.81L229C81M81NIC\dot{229C}GVff204c1O#"HC81J.81L227M81M81NIC\dot{227M}GVff204c1P#"HC81J.81L227N81M81NIC\dot{227N}GVaf2bab0B#"HC81J.81L226E81M81NIC\dot{226E}±8fPIN0A0f8ePHN2B0ISff204c3N#!!$0GVff204c3J!"CC226BGVff204c3K%"IC80G80F
+226B80C80E80HKC226B (split)GVff204c3L!"CC225JGVff204c3M!"CC21dE»8fPKN0A08fPKN0A08fPKN0A08fPIN0A0b8ePHN2B0M8fPKN0A08fPIN0A0a8ePHN2B0L8fPIN0A0b8ePHN2B0f8fPIN0A0c8ePHN2B0ISff204c5K# "$0GVff204c5I!"CC21dAGVff204c5J%"IC80G80F
+21dA80C80E80HKC21dA (split)GVfe2327bD!"CC21dCGVfe2327cB%"IC80G80F
+21dC80C80E80HKC21dC (split)½8fPKN0A08fPIN0A0d8ePHN2B0±8fPIN0A0eThe principal operator in the expression is ``8fPHN2B0»''; accordingly this operator has the most
+space around it.  The other two logical operators, ``8fPHN2B0 '' and ``8fPHN2B0½'' have the next lowest
+precedence; the amount of space around them is a little less than around the ``8fPHN2B0»''
+operator and a little more than around the ``8fPHN2B0f'' and ``8fPHN2B0±'' operators.  The operators that
+have the least space around them are the arithmetic operators, which have the
+highest precedence.  Unlike in 8fPHN2A0ISe1cfa44M   %2GCLaTeX1CCLatex2e#LaTeXHelpGVe1cfa44N#!1FCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NXKC80J\LaTeX{}GVe1cfa44O#!MCT81K81L81K81L81ME81N81M81NXIC80J\TeX{}GVe1cfa45A#!1HCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NX23bF4AC80J{\mathsurround=0pt\LaTeX $2_80L{\textstyle 3bF}$\hspace{-0.4mm}}{}GVe1cfa45B#!1BCBccAIB80PT81K81L81K81L81ME81N81M81NX1FC80J80J\textsc{Bib}\TeX{}GVe1e4779B#!MCbfMMakeIndexdfMOCbfMMakeIndexdfM{}Ã, the spacing around operators is computed 
+dynamically rather than being constant.  Compare the spacing around the  ``8fPHN2B0»''
+operator in the above expression to that around the same operator in the expression
+below.8fPIN2A09I8fOKN0A18fPIN0A0a8ePHN2B0»8fPIN0A0bAn algorithm to compute the desirable amount of space that works in all situations is
+impossible to construct ---what is acceptable to the human eye depends on a lot of factors
+including the size and shape of the operator symbols--- and so a facility is provided to
+change the spacing in situations where the calculated spacing is unsatisfactory. The
+following keys can be used for this:
+8fPLN2A08F8bN1LN0E2Fine-tuning spacing.8bOIN0E18fPIN2A08I8bOIN0E18fPLN2A0ISe1fd9e6J   &21DCTabular-Enter     1FCLatex2eB#TabularHelpGVe1fd9e6K'!7DCbfMTabular  ( alignment code: dfM82H|x|  where x=l, c or r for the col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col 82I8bO80B1faP81M 81H 81N
+8bH81J81L80C 82D80C 82D 81M 81H 81N82A
+4AC80J\begin{tabular}{8bI}\hline 80I8bO \\ \hline 80I8bH\hline 80I\end{tabular}80IHC1 col.GVe1fd9e6L'!8ECbfMTabular  ( alignment code: dfM82H|x|x| where x=l, c or r for each col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C 82D 81M 81H 81N82A
+4EC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN \\ \hline 80I8bH\hline 80I\end{tabular}80IHC2 col.GVe1fd9e6M'!9GCbfMTabular  ( alignment code: dfM82H|x|x|x| where x=l, c or r for each col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C 82D 81M 81H 81N82A
+4HC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN & 8bM\\ \hline 80I8bH\hline 80I\end{tabular}80IHC3 col.GVe1fd9e6N'!8MCbfMTabular  ( alignment code: dfM82He.g.|l|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+4MC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL\\ \hline 80I8bH\hline 80I\end{tabular}80IHC4 col.GVe1fd9e6O'!9OCbfMTabular  ( alignment code: dfM82He.g.|l|c|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B82D 82Hhead col82I8bK80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+5AC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL & 8bK\\ \hline 80I8bH\hline 80I\end{tabular}80IHC5 col.GVe1fd9e6P'!bACbfMTabular  ( alignment code: dfM82He.g.|l|c|c|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B82D 82Hhead col82I8bK80B82D 82Hhead col82I8bJ80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+5EC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL & 8bK & 8bJ\\ \hline 80I8bH\hline 80I\end{tabular}80IHC6 col.É8bHKN0E88fPJN2A0ISe1fd9e7H   &2MCTabular-Row1FCLatex2eB#TabularHelpGVe1fd9e7I'!KC80C 82D 8bO80C 82D
+HC80J8bO\\ 80IKCRow 1-colGVe1fd9e7J'!PC80C 82D 8bO80C82D 8bN80C 82D 
+MC80J8bO & 8bN \\ 80IKCRow 2-colGVe1fd9e7K'!1DC80C 82D 8bO80C82D 8bN80C82D 8bM80C 82D 
+1AC80J8bO & 8bN & 8bM \\ 80IKCRow 3-colGVe1fd9e7L'!1HC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C 82D 
+1DC80J8bO & 8bN & 8bM & 8bL\\ 80IKCRow 4-colGVe1fd9e7M'!1LC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C82D 8bK80C 82D 
+1JC80J8bO & 8bN & 8bM & 8bL  &  8bK\\ 80IKCRow 5-colGVe1fd9e7N'!2AC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C82D 8bK80C82D  8bJ80C 82D 
+1PC80J8bO & 8bN & 8bM & 8bL  &  8bK  &  8bJ\\ 80IKCRow 6-colÏ8bN1KN0E2Decrease the space.8bOJN0E18fPIN2A0?8bOJN0E1C-8fPHN2A0ISe04fcceO   !1GCminusGVe04fccfD#!CC-EC$-$Ñ8fPJN2A0Ï8bN1KN0E2Increase the space.8bOJN0E18fPIN2A0?8bOJN0E1C-+8fPJN2A0Ï8bN2HN0E2Reset the space to the default. 8bOON0E18fPIN2A0?8bOJN0E1C-= , 8fPIN2A0?8bOJN0E1C-08bN3PN0E2Action                                                  8bO1PN0E1Key                     8bIMN0E7|l|l|8bM1ON0E3Table:FineTuningSpacing8bLKN0E4htbThese changes are relative to the space  calculated automatically.
+This fine tuning is usually not needed until you have finished writing your
+document and are preparing the final output.
+
+8fPKN2A0*8bMHN@E3"8bOON0E1Reverse8bNIN0E28fPHN2A0/
+Often, the arguments of a continued expression8fPON2A0F8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1AN0E2continued8bO1BN0E1expression must be placed in a different order.
+This can be done with the functions copy and swap, but the 8fPIN2A0=8bOON0E1Reverse button or 8fPIN2A0?8bOJN0E1F9
+shortcut can be used to reverse the order of the expressions and operators of a
+continued expression in one go.  The longer the expression the more useful this function
+can be. The expression8fPIN2A09I8fOON0A18fPIN0A008ePHN2B0U8fPIN0A0i8ePHN2B0S8fPIN0A0j8ePHN2B0S8fPIN0A0Ncan be transformed into8fPIN2A09I8fOON0A18fPIN0A0N8ePHN2B0S8fPIN0A0j8ePHN2B0S8fPIN0A0i8ePHN2B0U8fPIN0A00by using three swap operations and six selections. Using the reverse
+button it can be done with one operation and one selection.
+
+As evident in this example, both the operators and the arguments appear in
+reverse order. This can be used to reverse a calculation or derivation, the
+comments remaining in the correct position. The example also shows that the
+operators are not replaced. The logical reversal would be 8fPON0A08fPIN0A0N8ePHN2B0R8fPIN0A0j8ePHN2B0R8fPIN0A0i8ePHN2B0T8fPIN0A00. The database
+needed to do this is not available. 
+
+When the target has no subexpressions it will
+be swapped with the expression immediately to its left  (right if left is not available).
+By default, 8fPHN2A02  uses the selected expression as first argument
+of the operator. The selection will be the other argument of the operator and
+the reverse function (8fPIN2A0?8bOJN0E1F9) can be used to switch the two arguments.
+
+
+8fPKN2A0'8bM2IN0E3MathSEditing.Renaming Identifiers8bO1LN0E1Renaming Identifiers8bNIN0E28fPHN2A0/
+Identifier renaming can be used to change all occurrences of an identifier
+in an expression at once. 
+The notions of variable place holder and identifier place holder give meaning to
+the rename operation. Specifically, all identifiers listed in a variable place holder
+of a template are bound to that place holder. For example, defining a quantifier
+template to have the form 8fPLN2A0ISafa0e1cJ   +1HCQuant.GVafa0e1bO#"LC220A(8cN: 8fM: 8fL)LC220A(8cN:~8fM:~8fL)GVafa0e1bP#"LC220D(8cN: 8fM: 8fL)LC220D(8cN:~8fM:~8fL)GVafa0e1cA#"MC229E.(8cN: 8fM: 8fL)OC{229E}.(8cN:~8fM:~8fL)GVafa0e1cB#"MC229D.(8cN: 8fM: 8fL)OC{229D}.(8cN:~8fM:~8fL)GVafa0e1cC#"LC8fO(8cN: 8fM: 8fL)LC8fO(8cN:~8fM:~8fL)GVafa0e1cD%"1KC80G8fO80B80E(80C80E8cN80F
+:80C80E8fM80F
+:80C80E8fL80F
+)80F80HMCMult. linesGVafa0e1cE#"JC220A(8cN:: 8fL)JC220A(8cN::~8fL)GVafa0e1cF#"JC220D(8cN:: 8fL)PC\exists(8cN::~8fL)GVafa0e1cG#"KC229D.(8cN:: 8fL)1BC{\sqcap}.(8cN::~8fL)GVafa0e1cH#"KC229E.(8cN:: 8fL)1BC{\sqcup}.(8cN::~8fL)GVafa0e1cI#"JC8fO(8cN:: 8fL)JC8fO(8cN::~8fL)Ø8fLHN0A48fMHN0A38cNHN0D28fOIN0A18ePHN0B0 (where 8fPIN2A0?8bOIN0E1O is an operator place holder,8fPIN2A0?8bOIN0E1V is a
+variable place holder and  8fPIN2A0?8bOIN0E1E is an expression place holder), will cause all
+occurrences of the identifiers 8dPIN0C0i and 8dPIN0C0j to be bound to the variable place holder in
+the expression 8fPLN6A0AØ8fLKN0A48fPJN0A08fPIN0A0i8ePHN2B0ISafa0e1aN" 4!0GVafa0e1aM#"IC81KccA280P81L81M81NFC{}^2Ý8ePHN2B0h8fPJN0A08fPIN0A0j8ePHN2B0Ý8fMON0A38fPIN0A008ePHN2B0l8fPIN0A0i8ePHN2B0o8fPIN0A0j8ePHN2B0o8fPIN0A0N8cNKN0D28dPIN0C0i,8dPIN0C0j8fOIN0A1221B. Renaming 8dPIN0C0i to 8dPIN0C0k results in the expression
+8fPLN2A0Ø8fLKN0A48fPJN0A08fPIN0A0k8ePHN2B0Ý8ePHN2B0h8fPJN0A08fPIN0A0j8ePHN2B0Ý8fMON0A38fPIN0A008ePHN2B0l8fPIN0A0k8ePHN2B0o8fPIN0A0j8ePHN2B0o8fPIN0A0N8cNKN0D28dPIN0C0k,8dPIN0C0j8fOIN0A1221B.
+
+To use the rename function, follow these steps:
+8fPIN2A0:8bOLN0E18fPIN2A098bO4MN0E1Select the identifier that must be renamed with the target
+selection.8fPIN2A098bObGN0E1Select the identifier that contains the new name with the source
+selection. (If the identifier doesn't occur in your text you may wish to insert
+it in, say, the buffer first.)8fPIN2A098bO4LN0E1Select the scope of the rename function with the argument selection.8fPIN2A098bO1NN0E1Click on the 8fPIN2A0=8bONN0E1Rename button.The identifiers within the scope are now renamed.
+
+The renaming function will check if an identifier is bound to a variable place
+holder in a subexpression.
+If so the template to which the variable place holder belongs will be skipped by the
+rename operation.  The renaming function does not check for so-called ``capture'' of 
+free variables.  For instance, renaming 8fPIN0A0i to 8fPIN0A0j in the expression 8fPLN2A0Ø8fLKN0A48fPJN0A08fPIN0A0i8ePHN2B0Ý8ePHN2B0h8fPJN0A08fPIN0A0j8ePHN2B0Ý8fMON0A38fPIN0A008ePHN2B0l8fPIN0A0i8ePHN2B0o8fPIN0A0j8ePHN2B0o8fPIN0A0N8cNIN0D28dPIN0C0i8fOIN0A1221B
+will capture 8fPIN0A0j.  The result is meaningful but probably not what is intended.  
+
+It is possible to use the rename function without a scope. If the identifier
+selected by the target selection is part of a variable list and the scope is
+empty, then all the identifiers bound to that identifier are renamed. If
+two normal identifiers are selected, the rename will perform a normal
+copy.
+
+In the following examples, the identifier 8fPIN0A0i is replaced by 8fPIN0A0k using the rename
+function.
+
+8fPLN2A08F8bN1KN0E2Effect of renaming.8bOIN0E18fPIN2A08I8bOIN0E18fPLN2A0É8bHKN0E88fPJN2A0Ï8bNIN0E28fPKN2A0Ü8cNIN0D28dPIN0C0k8fMIN0A38fPKN0A08fPIN0A0k8ePHN2B0ISe12fcf1I# *$0GVe12fcf1J!"CC220IGVe12fcf1K%"IC80G80F
+220I80C80E80HKC220I (split)GVe12fcf1L!"CC220LGVe12fcf1M!"CC220Já8fPIN0A0212E8fLKN0A48fPKN0A08fPJN0A08fPIN0A0k8ePHN2B0Ý8ePHN6B0?M8fPIN0A0k8ePHN6B0?R8fPIN0A0k8bOIN0E18fPKN2A0Ü8cNIN0D28dPIN0C0i8fMIN0A38fPKN0A08fPIN0A0i8ePHN2B0á8fPIN0A0212E8fLKN0A48fPKN0A08fPJN0A08fPIN0A0i8ePHN2B0Ý8ePHN6B0?M8fPIN0A0i8ePHN6B0?R8fPIN0A0k8fPJN2A0Ï8bNIN0E28fPKN0A08fPKN0A08fPIN0A0N8ePHN2B0R8fPIN0A0k8ePHN2B09O8fPKN2A0Û8cNIN0D28dPIN0C0i8fMMN0A38fPIN0A008ePHN2B0U8fPIN0A0i8ePHN2B0S8fPIN0A0N8fLKN0A48fPIN0A0P8ePHN2B0ISafa0e26G% 2!0GVafa0e26F!"CC.â8fPIN0A0i8bOIN0E18fPKN0A08fPKN0A08fPIN0A0N8ePHN2B0R8fPIN0A0i8ePHN2B09O8fPKN2A0Û8cNIN0D28dPIN0C0i8fMMN0A38fPIN0A008ePHN2B0U8fPIN0A0i8ePHN2B0S8fPIN0A0N8fLKN0A48fPIN0A0P8ePHN2B0â8fPIN0A0i8fPJN2A0Ï8bN1MN0E2For all positive 8cPIN0D08dPIN0C0k, 8fPKN0A08fPJN2A0ISe1ec428P   &22MCScripts                                    1FCLatex2eB#ScriptsHelpGVe1ec429A'"PC8fOccA81K 81L81M82Hsub82I8fN81N80PGC8fO_{8fN}IC8fO ccAsubcbOGVe1ec429B'"1BC8fOccA81K82Hsuper82I8fN81L 81M81N80PGC8fO^{8fN}KC8fO ccAsupercbOGVe1ec429C'"1JC8fOccA81K82Hsuper82I8fN81G81L 81M82Hsub82I8fM81G81N80PKC8fO^{8fN}_{8fM}JC8fO ccAbothcbOGVe1ec429D'"PCccA81K 81L81M82Hsub82I8fN81N80P8fOIC{}_{8fN}8fOICccAsub cbO8fOGVe1ec429E'"1BCccA81K82Hsuper82I8fN81L 81M81N80P8fOIC{}^{8fN}8fOKCccAsupercbO 8fOGVe1ec429F'"1JCccA81K82Hsuper82I8fN81G81L 81M82Hsub82I8fM81G81N80P8fOMC{}^{8fN}_{8fM}8fOJCccAbothcbO 8fOç8fOIN0A1k8fNIN0A238ePHN2B0R8fPIN0A008bO1MN0E1For all positive 8cPIN0D08dPIN0C0i, 8fPKN0A08fPJN2A0ç8fOIN0A1i8fNIN0A238ePHN2B0R8fPIN0A008bN2AN0E2Renaming 8fPIN0A0i with 8fPIN0A0k.       8bO3IN0E1Scope                                            8bIMN0E7|l|l|8bM2AN0E3Table:RenamingIdentifiers8bLKN0E4htb
+In the first example, every occurrence of 8fPIN0A0i is replaced by a 8fPIN0A0k. The 8fPIN0A0i is bound but
+the scope of the binding expression is equal to the scope of the rename.  Rename
+can be called in two different ways:  by setting the scope and selecting an
+arbitrary occurrence of   8fPIN0A0i and 8fPIN0A0k or by selecting the variable 8fPIN0A0i,  an arbitrary 8fPIN0A0k and
+no scope. After the rename the last 8fPIN0A0k  is also bound because an identifier is bound
+on base of name equivalence. 
+
+In the second example, only the first 8fPIN0A0i is not bound and the rename function
+will therefore only change the first 8fPIN0A0i. (In a well-written  document, this kind of 
+expression is usually avoided.)
+
+The last example looks like a normal rename but the function can be called in two
+ways. The first 8fPIN0A0i has  been inserted with the  8fPIN2A0=8bO1CN0E1Insert Var. command and is the only element
+of a variable list. All occurrences of the identifier 8dPIN0C0i throughout the document not
+bound to another variable place holder are thus bound to this variable.  Renaming 
+8fPIN0A0i will change all the 8fPIN0A0i's used in the text.
+
+8fPKN2A0*8bMHN@E3"8bO1KN0E1Selecting Functions8bNIN0E28fPHN2A0/
+In calculations functions are often used. In 8fPHN2A02, functions are used
+for application, distribution and factorisation. A function is selected
+as follows:
+8fPIN2A0:8bOJN0E18fPIN2A098bO3ON0E1Select the 8fPIN2A0C8bOLN0E1body of the function with the source selection.8fPIN2A098bO4AN0E1Select the 8fPIN2A0C8bOPN0E1argument of the function with the argument selection.The argument must be  a subexpression of the body and the argument selection is therefore
+part of the source selection. The  body of a function can be any expression
+and the argument does not need to be a place holder. So, the following expressions
+are all functions, where the argument is marked by ``8fPINPA0!A'':
+8fPIN2A09I8fOJN0A18ePHN2B0ISb84028cL! 4"0GVb84028cJ!"CC¬GVb84028cK!"CC223Mê8fPINPA0!A8fPIN2A09I8fOKN0A18fPJN0A08fPINPA0!A8ePHN2B0Ý8ePHN2B0M8fPIN0A058fPIN2A09I8fOKN2A19C8fOINPA1!A8fNKN0A28fPIN0A0i8ePHN6B0>9G8fPIN0A008fMIN0A3N8fPIN2A09I8fOKN2A1Ü8cNIN0D28dPIN0C0x8fMKN0A38fPIN0A0x8ePHN2B0á8fPIN0A0211N8fLINPA4!A
+The function can only have one argument. In some situations that is not
+enough. The copy and swap operations can be used in that situation or the
+find 8fPHN2A0ISe1d5142P   *2NCSpecialChars1JCLatex2e#SpecialCharsHelpGVe1d5143A#!CC#GC80J\#{}GVe1d5143B#!CC$GC80J\${}GVe1d5143C#!CC%GC80J\%{}GVe1d5143D#!CC&GC80J\&{}GVe1d5143E#"CC~HC{\sim}GVe1d5143F#!CC_GC80J\_{}GVe1d5143G#!DC80J^GC80J\^{}GVe1d5143H#"CC\NC{\backslash}GVe1d5143I#!CC{EC80J\{GVe1d5143J#!CC}EC80J\}ñ replace feature can be used.
+
+
+8fPKN2A0*8bMHN@E3"8bO1KN0E1Applying a Function8bNIN0E28fPHN2A0/
+A selected function can be applied to an existing expression. The expression
+is replaced by the function and the old expression is used as the argument
+of the function. This operation is a shortcut for a number of copy operations.
+
+After selecting the function with the source and argument selection, the function
+is applied to the target selection by selecting the 8fPIN2A0=8bOMN0E1Apply option in the 8fPIN2A0=8bO1AN0E1Structure menu.
+An example (the argument is given as 8fPINPA0!A) is shown in 8fPJN2A048bNHN@E2"8bO1KN0E1FunctionApplication:
+
+8fPLN2A08F8bN2JN0E2Effect of ``applying'' a function.8bOIN0E18fPIN2A08I8bOIN0E18fPMN2A0È8bHMN0E88fPKN2A0Î8bMIN0E38fPJN0A08ePHN2B0ê8fPMN1A08fPIN0A0a8ePHN2B0 8fPIN0A0b8ePHN2B0 8fPIN0A0c8bNIN0E28fPMN0A08fPIN0A0a8ePHN2B0 8fPIN0A0b8ePHN2B0 8fPIN0A0c8bOIN0E18fPJN0A08ePHN2B0ê8fPINPA0!A8fPKN2A0Î8bMIN0E38fPJN0A08fPLN1A08fPIN0A0s8ePHN2B0M8fPIN0A0t8ePHN2B0M8ePIN0B0272B8bNIN0E28fPLN0A08fPIN0A0s8ePHN2B0M8fPIN0A0t8ePHN2B0M8bOIN0E18fPJN0A08fPINPA0!A8ePIN0B0272B8fPKN2A0Î8bMIN0E38fPKN0A08fPKN1A08fPIN0A0P8ePHN2B0 8fPIN0A0Q8ePHN2B09O8fPIN0A0R8bNIN0E28fPKN0A08fPIN0A0P8ePHN2B0 8fPIN0A0Q8bOIN0E18fPKN0A08fPINPA0!A8ePHN2B09O8fPIN0A0R8fPKN2A0Î8bMIN0E38fPKN0A08fPIN0A0R8ePHN2B0 8fPKN2A0Ü8cNIN0D28dPIN0C0x8fMIN0A3P8fLIN0A4Q8bNIN0E28fPKN2A0Ü8cNIN0D28dPIN0C0x8fMIN0A3P8fLIN0A4Q8bOIN0E18fPKN0A08fPIN0A0R8ePHN2B0 8fPINPA0!A8fPKN2A0Î8bMIN0E38fPKN2A0Ü8cNIN0D28dPIN0C0i8fMKN0A38fPIN0A0i8ePHN2B0á8fPIN0A0212E8fLKN0A48fPJN2A0ç8fOIN0A1i8fNIN0A228ePHN2B0T8fPIN0A008bNIN0E28fPKN0A08fPJN2A0ç8fOIN0A1i8fNIN0A228ePHN2B0T8fPIN0A008bOIN0E18fPKN2A0Ü8cNIN0D28dPIN0C0i8fMKN0A38fPIN0A0i8ePHN2B0á8fPIN0A0212E8fLINPA4!A8bM1NN0E3     application      8bN1HN0E2   expression   8bO1GN0E1  function     8bION0E7|c|c|c|8bM2AN0E3Table:FunctionApplication8bLKN0E4htb
+The selected function will not be removed and can be a part of the selected
+expression. The expression8fPIN2A09I8fOKN0A18fPIN0A0a8ePHN2B0M8fPKN0A08fPIN0A0b8ePHN2B0L8fPIN0A0ccan be changed to8fPIN2A09I8fOKN0A18fPIN0A0a8ePHN2B0M8fPKN0A08fPIN0A0b8ePHN2B0L8fPKN1A08fPIN0A0a8ePHN2B0M8fPKN0A08fPIN0A0b8ePHN2B0L8fPIN0A0cby selecting 8fPKN0A08fPIN0A0a8ePHN2B0M8fPKN0A08fPIN0A0b8ePHN2B0L8fPINPA0!A as function and 8fPKN0A08fPIN0A0a8ePHN2B0M8fPKN0A08fPIN0A0b8ePHN2B0L8fPIN0A0c as target.
+
+
+
+8fPKN2A0*8bMHN@E3"8bO1DN0E1Distribution8bNIN0E28fPHN2A0/
+Distribution is one of the operations that is commonly used during the
+construction of a large expression with multiple repeating terms. For that
+reason a primitive distribution operation is available via the 8fPIN2A0=8bO1BN0E1Distribute
+option in the 8fPIN2A0=8bO1AN0E1Structure menu. To be able to distribute you must select a
+function and an operator sequence or template. When the distribution is
+performed the expressions in the root of the selected operator sequence or
+template are replaced by the selected function applied to these expressions.
+See 8fPJN2A048bNHN@E2"8bO1LN0E1FunctionDistribution for some examples.
+8fPLN2A08F8bN2JN0E2Examples of function distribution.8bOIN0E18fPIN2A08I8bOIN0E18fPMN2A0È8bHMN0E88fPKN2A0Î8bMIN0E38fPMN0A08fPJN0A08ePHN2B0ê8fPIN0A0a8ePHN2B0 8fPJN0A08ePHN2B0ê8fPIN0A0b8ePHN2B0 8fPJN0A08ePHN2B0ê8fPIN0A0c8bNIN0E28fPMN0A08fPIN0A0a8ePHN2B0 8fPIN0A0b8ePHN2B0 8fPIN0A0c8bOIN0E18fPJN0A08ePHN2B0ê8fPINPA0!A8fPKN2A0Î8bMIN0E38fPLN0A08fPJN0A08fPIN0A0s8ePIN0B0272B8ePHN2B0M8fPJN0A08fPIN0A0t8ePIN0B0272B8ePHN2B0M8bNIN0E28fPLN0A08fPIN0A0s8ePHN2B0M8fPIN0A0t8ePHN2B0M8bOIN0E18fPJN0A08fPINPA0!A8ePIN0B0272B8fPKN2A0Î8bMIN0E38fPKN0A08fPKN1A08fPIN0A0P8ePHN2B09O8fPIN0A0R8ePHN2B0 8fPKN1A08fPIN0A0Q8ePHN2B09O8fPIN0A0R8bNIN0E28fPKN0A08fPIN0A0P8ePHN2B0 8fPIN0A0Q8bOIN0E18fPKN0A08fPINPA0!A8ePHN2B09O8fPIN0A0R8fPKN2A0Î8bMIN0E38fPKN2A0Ü8cNIN0D28dPIN0C0x8fMKN0A38fPIN0A0R8ePHN2B0 8fPIN0A0P8fLKN0A48fPIN0A0R8ePHN2B0 8fPIN0A0Q8bNIN0E28fPKN2A0Ü8cNIN0D28dPIN0C0x8fMIN0A3P8fLIN0A4Q8bOIN0E18fPKN0A08fPIN0A0R8ePHN2B0 8fPINPA0!A8fPKN2A0Î8bMIN0E38fPKN0A08fPKN2A0Ü8cNIN0D28dPIN0C0i8fMKN0A38fPIN0A0i8ePHN2B0á8fPIN0A0212E8fLJN2A4ç8fOIN0A1i8fNIN0A228ePHN2B0T8fPKN2A0Ü8cNIN0D28dPIN0C0i8fMKN0A38fPIN0A0i8ePHN2B0á8fPIN0A0212E8fLIN0A408bNIN0E28fPKN0A08fPJN2A0ç8fOIN0A1i8fNIN0A228ePHN2B0T8fPIN0A008bOIN0E18fPKN2A0Ü8cNIN0D28dPIN0C0i8fMKN0A38fPIN0A0i8ePHN2B0á8fPIN0A0212E8fLINPA4!A8bM2PN0E3           distribution                 8bN1CN0E2expression 8bO1JN0E1    function      8bION0E7|c|c|c|8bM2BN0E3Table:FunctionDistribution8bLKN0E4htb
+The original function will be removed if you do not use the argument selection,
+but let the target selection be both ``victim'' and argument. Setting the 
+target to 8fPKN0A08fPIN0A0a8ePHN2B0L8fPKN1A08fPIN0A0b8ePHN2B0M8fPIN0A0c and source to the subexpression  8fPKN0A08fPIN0A0b8ePHN2B0M8fPIN0A0c and with no argument 
+selection, then the result of the distribution
+will be8fPIN2A09I8fOKN0A18fPKN0A08fPIN0A0a8ePHN2B0L8fPIN0A0b8ePHN2B0M8fPKN0A08fPIN0A0a8ePHN2B0L8fPIN0A0cjust as one would expect.
+
+When the selected operator sequence contains only one expression the result
+will be the function applied to the expression.
+  
+8fPKN2A0*8bMHN@E3"8bO1AN0E1Factorise8bNIN0E28fPHN2A0/
+Factorisation is the inverse of distribution and will factor out a common
+subterm from an  operator sequence or template. The operation is available 
+via the 8fPIN2A0=8bO1AN0E1Factorise option in the 8fPIN2A0=8bO1AN0E1Structure menu. To be able to factorise a function
+and operator sequence are needed. The function must be selected with the
+source and argument selection while the operator sequence is selected with the
+target selection. After clicking on the button the factorisation will be
+performed. Some examples are shown in 8fPJN2A048bNHN@E2"8bO1MN0E1FunctionFactorisation.
+8fPLN2A08F8bN2BN0E2Examples of factorisation.8bOIN0E18fPIN2A08I8bOIN0E18fPMN2A0È8bHLN0E88fPKN2A0Î8bMIN0E38fPJN0A08ePHN2B0ê8fPKN1A08fPIN0A0P8ePHN2B0 8fPIN0A0Q8bNIN0E28fPKN0A08fPJN0A08ePHN2B0ê8fPIN0A0P8ePHN2B0 8fPJN0A08ePHN2B0ê8fPIN0A0Q8bOIN0E18fPJN0A08ePHN2B0ê8fPINPA0!A8fPKN2A0Î8bMIN0E38fPJN0A08fPKN1A08fPIN0A0a8ePHN2B0L8fPIN0A0b8ePHN2B0Ý8bNIN0E28fPKN0A08fPJN0A08fPIN0A0a8ePHN2B0Ý8ePHN2B0L8fPJN0A08fPIN0A0b8ePHN2B0Ý8bOIN0E18fPJN0A08fPINPA0!A8ePHN2B0Ý8fPKN2A0Î8bMIN0E38fPKN0A08fPIN0A0P8ePHN2B09O8fPKN1A08fPIN0A0Q8ePHN2B0 8fPIN0A0R8bNIN0E28fPKN0A08fPKN1A08fPIN0A0P8ePHN2B09O8fPIN0A0Q8ePHN2B0 8fPKN1A08fPIN0A0P8ePHN2B09O8fPIN0A0R8bOIN0E18fPKN0A08fPIN0A0P8ePHN2B09O8fPINPA0!A8fPKN2A0Î8bMIN0E38fPKN0A08fPKN2A0Ü8cNIN0D28dPIN0C0x8fMKN0A38fPIN0A0P8ePHN2B0 8fPIN0A0S8fLIN0A4Q8ePHN2B0 8fPIN0A0R8bNIN0E28fPKN2A0Ü8cNIN0D28dPIN0C0x8fMKN0A38fPIN0A0P8ePHN2B0 8fPIN0A0S8fLKN0A48fPIN0A0Q8ePHN2B0 8fPIN0A0R8bOIN0E18fPKN0A08fPINPA0!A8ePHN2B0 8fPIN0A0R8bM2DN0E3      factorisation         8bN2EN0E2        expression           8bO1FN0E1    function  8bION0E7|c|c|c|8bM2CN0E3Table:FunctionFactorisation8bLKN0E4htb
+
+If the function is not found in a subexpression,the subexpression will not change. In the
+last example 8fPJN0A08ePHN6B0? 8fPIN0A0R is not found in the first expression (the expression 8fPKN0A08fPIN0A0P8ePHN2B0 8fPIN0A0S) and so the
+expression does not change. In the second expression it is found so it will be removed
+and applied to the selected template.  Distribution is therefore not the inverse  of 
+factorisation. 
+
+
+
+

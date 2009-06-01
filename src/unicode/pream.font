@@ -1,0 +1,73 @@
+ATTRIBUTE Family Roman SansSerif TypeWriter
+ATTRIBUTE Serie Medium Bold
+ATTRIBUTE Size Tiny Script Footnote Small Normal Large Larger Largest Huge Huger
+ATTRIBUTE Shape Upright Italic Slanted SmallCaps
+
+
+ALIAS Tiny 6 7
+ALIAS Script 8 9
+ALIAS Footnote 10 11
+ALIAS Small 12 13
+ALIAS Normal 14 15
+ALIAS Large 16 17 18
+ALIAS Larger 19 20 21
+ALIAS Largest 24 25 26
+ALIAS Huge  33 34
+ALIAS Huger 40
+ALIAS Serie Weight
+
+ALIAS Upright r
+ALIAS Italic i
+ALIAS Slanted o
+ALIAS Medium medium
+ALIAS Bold bold
+ALIAS Roman charter lucidabright "new century schoolbook" times utopia
+ALIAS SansSerif helvetica lucida
+ALIAS TypeWriter c m
+
+RANGE Upcase 'A'-'Z' 'À'-'Ö' 'Ø'-'Þ'
+RANGE lowcase 'a'-'z' 'à'-'ö' 'ø'-'ÿ'
+
+ENCODING KOI-8R
+ALIAS    KOI-8R koi8-r
+ENCODING ISO_8859-1:1987
+ALIAS    ISO_8859-1:1987 iso8859-1
+ENCODING ISO_8859-2:1987
+ALIAS    ISO_8859-2:1987 iso8859-2
+ENCODING ISO_8859-3:1988
+ALIAS    ISO_8859-3:1988 iso8859-3
+ENCODING ISO_8859-4:1988
+ALIAS    ISO_8859-4:1988 iso8859-4
+ENCODING ISO_8859-5:1988
+ALIAS    ISO_8859-5:1988 iso8859-5
+ENCODING ISO_8859-6:1987
+ALIAS    ISO_8859-6:1987 iso8859-6
+ENCODING ISO_8859-7:1987
+ALIAS    ISO_8859-7:1987 iso8859-7
+ENCODING ISO_8859-8:1988
+ALIAS    ISO_8859-8:1988 iso8859-8
+ENCODING ISO_8859-9:1989
+ALIAS    ISO_8859-9:1989 iso8859-9
+ENCODING SymbolEncoding
+ALIAS    SymbolEncoding symbol
+ENCODING MathSymbolEncoding
+ALIAS    MathSymbolEncoding mathsymbol
+ENCODING KS_C_5601-1987
+ALIAS    KS_C_5601-1987 ksc5601.1987
+ENCODING JIS0208
+ALIAS    JIS0208 jisx0208.1983
+ENCODING JIS0201
+ALIAS    JIS0201 jisx0201.1976
+ENCODING ISO_646.IRV:1983
+ALIAS    ISO_646.IRV:1983 iso646.1991
+ENCODING CMSYEncoding
+ALIAS    CMSYEncoding cmsy10
+ENCODING MSAMEncoding
+ALIAS    MSAMEncoding msam10
+ENCODING MSBMEncoding
+ALIAS    MSBMEncoding msbm10
+ENCODING Baghdad
+ALIAS    baghdad
+ALIAS    koi8-r koi-1
+ENCODING GB_2312-80
+ALIAS    GB_2312-80 gb2312.1980

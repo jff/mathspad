@@ -1,0 +1,17 @@
+
+TOPSRCDIR = @top_srcdir@
+TOPOBJ    = .
+SRCDIR    = @srcdir@
+VPATH     = @srcdir@
+
+SOURCE = fileread.c helpfile.c system.c 
+
+LIBRARIES = libdocuments.la
+
+
+@MAKE_RULES@
+
+all:  libdocuments.la
+
+libdocuments.la: $(LTOBJECTS)
+	$(LINK) -o libdocuments.la -rpath $(libdir) $(LTOBJECTS)

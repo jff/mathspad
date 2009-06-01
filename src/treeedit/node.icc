@@ -1,0 +1,62 @@
+/*****************************************************************
+**
+** MathSpad 0.60
+**
+** Copyright 1996, Eindhoven University of Technology (EUT)
+** 
+** Permission to use, copy, modify and distribute this software
+** and its documentation for any purpose is hereby granted
+** without fee, provided that the above copyright notice appear
+** in all copies and that both that copyright notice and this
+** permission notice appear in supporting documentation, and
+** that the name of EUT not be used in advertising or publicity
+** pertaining to distribution of the software without specific,
+** written prior permission.  EUT makes no representations about
+** the suitability of this software for any purpose. It is provided
+** "as is" without express or implied warranty.
+** 
+** EUT DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS
+** SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF
+** MERCHANTABILITY AND FITNESS.  IN NO EVENT SHALL EUT
+** BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL
+** DAMAGES OR ANY DAMAGE WHATSOEVER RESULTING FROM
+** LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF
+** CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING
+** OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE
+** OF THIS SOFTWARE.
+** 
+** 
+** Roland Backhouse & Richard Verhoeven.
+** Department of Mathematics and Computing Science.
+** Eindhoven University of Technology.
+**
+********************************************************************/
+ 
+#if defined NODE_HH && !defined NODE_ICC
+#define NODE_ICC
+
+inline Index Node::size() const
+    { return (stencil? stencil_size(innr):size1 + size2); }
+
+inline Char Node::kind() const
+    { return _kind; }
+
+inline Bool Node::parens() const
+    { return _parens; }
+
+inline void Node::set_parens(Bool b)
+    { _parens = b || min_preced() <= father->max_preced(); }
+
+inline void Node::clr_parens()
+    { _parens = MP_False; }
+
+inline Index Node::preced() const
+    { return _preced; }
+
+inline Opkind Node::opkind() const
+    { return _opkind; }
+
+inline Char& Node::operator [] (Index pos) const
+    { return *((stencil ? stencil_screen(innr):(pos<size1?p1:p2)) + pos); } 
+
+#endif

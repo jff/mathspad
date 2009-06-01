@@ -1,0 +1,426 @@
+[4mMathpad Document
+[0m176EN0E08fPKN2A0ISe1d4f11P   +2PCSectionHeading2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f1aC'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+HC80J8bN{8bO}80IKC{heading}GVe1d4f20A'!3CC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80IPC[toc]{heading}GVe1d4f27D'!2MC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1CC[no no.]{heading}GVe1d4f2aE'!2NC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1AC80J8bN{8bO}\label{8bM}80IPC{heading}labelGVe1d4f2eB'!3LC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1EC[toc]{heading}labelGVe1d4f12M'!3FC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1BC80J8bN*{8bO}\label{8bM}80I1HC[no no.]{heading}labelGVe1d4f12H'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80I1EChide-[toc]{heading}GVe1d4f12I'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1IChide -[no no.]{heading}GVe1d4f12J'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1AC80J8bN{8bO}\label{8bM}80I1EChide-{heading}labelGVe1d4f12K'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1JChide-[toc]{heading}labelGVe1d4f12L'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1BC8bN80J*{8bO}\label{8bM}80I1MChide-[no no.]{heading}label'8bM1LN0E3file:ConsoleCommands8bO1HN0E1Console Commands8bNIN0E28fPHN2A0ISe1d4f86L   '21ACSectioningTypes2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f86M#!JCcbLbfKPartdfK80PHC80J\partGVe1d4f86N#!MCcbMbfKChapterdfK80PKC80J\chapterGVe1d4f86O'!MCcbNbfKSectiondfK80PKC80J\sectionMCcbObfKSectiondfKccAGVe1d4f86P#!PCcbObfKSubSectiondfK80PNC80J\subsectionGVe1d4f87A#!1ACbfKSubSubSectiondfK1AC80J\subsubsectionGVe1d4f87B#!MCbfKParagraphdfKMC80J\paragraphGVe1d4f87C#!PCbfKSubParagraphdfKPC80J\subparagraph0
+This chapter summarises all commands executed via the console (see 
+figure8fPHN2A0ISfe55814G   $1HCSpacesGVfe57c5cH'!DC  DC80J~CC1GVfe55816N'!DC  EC80J~~CC2GVfe55814N'!GC     HC80J~~~~~CC5GVfe55820H'!LC          MC80J~~~~~~~~~~DC1058fPIN2A0ISe1d48b1L   %21DCRef(within doc)   1MCLatex2e#Ref(within doc)HelpGVe1d48b1M'!NC(bfI82Hlabel82I8bOdfI)LC80J(\ref{8bO})GC(Ref)GVe1d48b1N'!LCbfI82Hlabel82I8bOdfIJC80J\ref{8bO}ECRefGVe1d48c4C'#NC(bfI82Hlabel82I8bOdfI)1AC80J(\pageref{80K8bO})KC(PageRef)GVe1d48b1O'#LCbfI82Hlabel82I8bOdfIOC80J\pageref{80K8bO}ICPageRefGVe1d48b1P'!OC(bfMLabeldfM bfI8bOdfI)LC80J\label{8bO}GCLabel98bO1DN0E1fig:mainmenu).  The most frequently used console commands8fPON2A0ISe1ce08fJ   "2GCEntry1ECLatex2eC#MakeIndex GVe1ce08fK'!11IC80JbfKIndex EntrydfK
+bfMprimary sort key:dfM80C8bO
+bfMsub sort key:dfM80C8bN
+bfMsubsub sort keydfM80C8bM
+bfMvisual key if different from sort key:dfM80C80C8bL
+bfMif start of range of pages set holder to dfM ( 80C8bK
+bfMfont type for page nr. if non-standarddfM80C8bJ
+bfMif end of range of pages set holder to dfM ) 80C8bI
+bfKEnd of Index EntrydfK
+2EC80J\mpindexnew{8bO}{8bN}{8bM}{8bL}{8bK}{8bJ}{8bI}{}1CCenter index entryGVe1ce08fL'!KC80JbfK81Ji81L 81M81NdfK2EC80J\mpindexnew{8bO}{8bN}{8bM}{8bL}{8bK}{8bJ}{8bI}{}1EChide index commands;8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNPN0E2commands8bOON0E1console can also be
+executed  via the keyboard; the key-sequences needed to do so are
+listed.    The sections correspond to each of the buttons on the console.  Under
+each button is a menu.  To execute a command, select the appropriate menu
+item and then click.  In each case the default item chosen by clicking with the
+near mouse button on a console button is the first menu item.
+
+There is no undo8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNHN0E28bOLN0E1undo command.  In most cases, however, commands have obvious
+inverses and  can be manually undone.  Where the inverse is not obvious, but
+does exist, an explanation of how this is done is given.  When undoing a
+command may be problematic a warning is given.  Execution of such
+commands should, of course, be done with care!
+
+8fPIN2A0ISfe1c3a6C   "1FClinkGVfe1c3a6J'!DC80J BC1ACLink (editable)GVfe1c3b0O'!DC80J BCOCLink (hidden)=8bO1KN0E1help:Console.Window8fPIN2A0=8bO2AN0E1help:Console.Window.pinup8fPKN2A0*8bMHN@E3"8bONN0E1Window8bNIN0E28fPHN2A0/8fPON2A0;8bIHN0E78bJHN0E68bKIN0E5(8bLPN0E48fPIN2A0ISe196d18D   +2KCTextStyle1HCLatex2eA#TextStyleHelpGVe196d18N'!FC80JbfJ8bOdfJKC80J\emph{8bO}1CCbfMEmphasizeddfM textGVe196d18E'!DC80J8bOMC80J\textup{8bO}OCUpright shapeGVe196d18F'!FC80JbfM8bOdfMMC80J\textit{8bO}PCbfMItalicdfM shapeGVe196d18G'!FC80JbfJ8bOdfJMC80J\textsl{8bO}1ACbfJSlanteddfJ shapeGVe196d18H'!DC80J8bOMC80J\textsc{8bO}1FCSccBMALLcbPcbNCccBAPS cbNshapeGVe196d18I'!DC80J8bOMC80J\textmd{8bO}OCMedium seriesGVe196d18J'!FC80JbfO8bOdfOMC80J\textbf{8bO}OCbfOBolddfO seriesGVe196d18K'!DC80J8bOMC80J\textrm{8bO}NCRoman familyGVe196d18L'!FC80JbfI8bOdfIMC80J\textsf{8bO}1ECbfISans SerifdfI familyGVe196d18M'!FC80JbfH8bOdfHMC80J\texttt{8bO}1ECbfHTypewriterdfH familyGVe196d18O'!FC80JbfK8bOdfK1GC80J\textbf{80J\textit{8bO}}1NCbfKBolddfK series bfKItalicdfK shapeA8bONN0E1Window button8bMHN0E38bN1EN0E2Window button8bOON0E1console
+The 8fPIN2A0A8bONN0E1Window button is used to open  windows.  The different types of window are
+listed below.
+8fPIN2A0ISd555ce5O   (1JCManTableGVd555ce5J'!1EC
+81PbfH          dfH80B
+8bO82A
+2JC80J\begin{mantable}{20mm}80I8bO80I\end{mantable}1ACManTable (20mm)GVd555ce5K'!1CC
+81PbfH        dfH80B
+8bO82A
+2JC80J\begin{mantable}{15mm}80I8bO80I\end{mantable}1ACManTable (15mm)GVd555ce5L'!PC
+81PbfH    dfH80B 
+8bO82A
+2IC80J\begin{mantable}{8mm}80I8bO80I\end{mantable}PCManTable (8mm)GVd555ce5M'!JCbfO8bOdfO80C80E8bN80F
+NC80J\item[8bO] 8bN80I1BCItem (same line)GVd555ce5N'!KCbfO8bOdfO
+80C80E8bN80F
+NC80J\item[8bO] 8bN80I1BCItem (next line)GVfdb41f4K'!1GC
+81PbfH            dfH80B
+8bO82A
+2JC80J\begin{mantable}{25mm}80I8bO80I\end{mantable}1ACManTable (25mm)GVfc4a6c3E'!1JC
+81PbfH               dfH80B
+8bO82A
+2JC80J\begin{mantable}{30mm}80I8bO80I\end{mantable}1ACManTable (30mm)GVe113ff5L'!1MC
+81PbfH                  dfH80B
+8bO82A
+2JC80J\begin{mantable}{35mm}80I8bO80I\end{mantable}1ACManTable (35mm)L8bONN0E18fPJN2A0N8bNcON0E2Open a window in which to input a new or edit an existing 
+document.  The number of documents that are simultaneously
+open is, in principle, unlimited. See 
+8fPJN2A0ISe04f743O   &1KCBook Ref.GVe04f743P#!1ICsection bfI8bOdfI in bfIfile:8bNdfI1DC80Jsection~\ref{8bN.8bO}GVe04f744A#!JCbfIfile:8bOdfI1GC80Jchapter~\ref{file:8bO}GVe04f744B#!MCsection bfI8bOdfI1DC80Jsection~\ref{8bN.8bO}GVe04f744C#!JCfig. bfI8bOdfI1DC80Jfig.\ \ref{fig:8bO}GVe04f744D#!KCtable bfI8bOdfI1FC80Jtable \ref{Table:8bO}GVe04f744E#!KCTable bfI8bOdfI1GC80J80JTable \ref{Table:8bO}W8bN1EN0E2MoreOnWindows8bO1FN0E1DocumentWindow for further
+information about documents.8bOJN0E18fPIN2A0A8bOPN0E1Document8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0A8bOPN0E1Document menu item8bMHN0E38bNHN0E28bO1JN0E1Document menu item8fPJN2A0N8bN12HN0E2Open a stencil palette  in order to use and/or create  the
+templates of a stencil. A  click with the mouse on 8fPIN2A0A8bOON0E1Stencil 
+opens an empty stencil palette. A description of how to
+load an existing stencil into the window is given in 
+8fPJN2A0W8bN1EN0E2MoreOnWindows8bOPN0E1Stencils.  Information on creating
+new stencils can be found in 8fPJN2A0V8bNHN@E2"8bO1LN0E1StencilsandTemplates and
+8fPJN2A0V8bNHN@E2"8bO1IN0E1VersionDefinition.8bOJN0E18fPIN2A0A8bOON0E1Stencil8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0A8bOON0E1Stencil menu item8bMHN0E38bNHN0E28bO1IN0E1Stencil menu item8fPJN2A0N8bNcJN0E2Open a symbol palette to access special symbols. 
+The symbol palette contains several pages of symbols, and several
+copies of the palette may be open at any one time. For more
+information see 8fPJN2A0W8bN1EN0E2MoreOnWindows8bO1GN0E1Special Symbols.8bOJN0E18fPIN2A0A8bONN0E1Symbol8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0A8bONN0E1Symbol menu item8bMHN0E38bNHN0E28bO1HN0E1Symbol menu item8fPJN2A0N8bN8ON0E2Open the Find & Replace window in order  to find and (possibly)
+ replace structured expressions.  Use of this window is described
+in 8fPJN2A0V8bNHN@E2"8bO1FN0E1FindAndReplace.8bOJN0E18fPIN2A0A8bOLN0E1Find8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0A8bOLN0E1Find8bMLN0E3Find8bN1GN0E2edit operations8bO1BN0E1expression8fPJN2A0N8bN3PN0E2Open the  buffer window.  For further information see 
+8fPJN2A0W8bNNN0E2Basics8bO1DN0E1BufferWindow8bOJN0E18fPIN2A0A8bONN0E1Buffer8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0A8bONN0E1Buffer menu item8bMHN0E38bNHN0E28bO1HN0E1Buffer menu item8fPJN2A0N8bN3ON0E2Open the default window. See 8fPJN2A0V8bNHN@E2"8bOPN0E1Defaults for further
+information.8bOJN0E18fPIN2A0A8bOON0E1Default8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0A8bOON0E1Default menu item8bMHN0E38bNHN0E28bO1JN0E1Default  menu item
+There are no restrictions on opening documents.  In particular, the same
+document may be opened several times.  This is a useful option because of the
+convenience of being able to view different sections of a document at the
+same time.  The current implementation is, however, inadequate. The different 
+windows are not coupled to each other, each containing its own copy of the
+original document. Edit actions in one window will thus not change the copy in
+another window. Extreme care should therefore be taken when opening
+different windows on the same document.
+
+There are also no restrictions on opening stencils and the same stencil may be
+opened several times.  In contrast to documents, however, alterations to stencils
+take immediate effect in all windows displaying the stencil.  
+
+None of the above commands can be executed via the keyboard.8fPON2A0;8bIIN0E7)8bJHN0E68bKHN0E58bLPN0E48fPIN2A0A8bONN0E1Window button8bMHN0E38bN1EN0E2Window button8bOON0E1console
+
+8fPIN2A0=8bO1KN0E1help:Console.EditOp8fPIN2A0=8bO2AN0E1help:Console.EditOp.pinup8fPKN2A0*8bMHN@E3"8bONN0E1EditOp8bNIN0E28fPHN2A0/
+The 8fPIN2A0A8bONN0E1EditOp button8fPON2A0;8bIHN0E78bJHN0E68bKIN0E5(8bLPN0E48fPIN2A0A8bONN0E1EditOp button8bMHN0E38bN1EN0E2EditOp button8bOON0E1console gives access to the most frequently used general-purpose edit 
+operations on structured expressions8fPON2A0;8bIHN0E78bJHN0E68bKIN0E5(8bLHN0E48bMHN0E38bN1GN0E2edit operations8bO1BN0E1expression.
+
+8fPIN2A0L8bO1AN0E18fPJN2A0N8bN3LN0E2Insert a place holder for a mathematical expression.8bOJN0E18fPIN2A0A8bO1CN0E1Insert Expr8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0A8bO1CN0E1Insert Expr8bM1CN0E3Insert Expr8bNPN0E2entering8bO1DN0E1place holder8fPJN2A0N8bN3JN0E2Insert a place holder for a displayed  expression.8bOJN0E18fPIN2A0A8bO1CN0E1Insert Disp8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0A8bO1CN0E1Insert Disp8bM1CN0E3Insert Disp8bNPN0E2entering8bO1DN0E1place holder8fPJN2A0N8bNaLN0E2Replace the  target term  by a copy of the source term. Note
+that the original target term is placed in the buffer  and so can
+be restored from there if  necessary.8bOJN0E18fPIN2A0A8bOLN0E1Copy8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0A8bOLN0E1Copy8bMLN0E3Copy8bN1GN0E2edit operations8bO1BN0E1expression8fPJN2A0N8bN2PN0E2Interchange the target and source terms.8bOJN0E18fPIN2A0A8bOLN0E1Swap8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0A8bOLN0E1Swap8bMLN0E3Swap8bN1GN0E2edit operations8bO1BN0E1expression8fPJN2A0N8bN3HN0E2Erase the  target term and put it in the buffer.8bOJN0E18fPIN2A0A8bONN0E1Delete8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0A8bONN0E1Delete8bMNN0E3Delete8bN1GN0E2edit operations8bO1BN0E1expression8fPJN2A0N8bN2PN0E2Insert a place holder for an identifier.8bOJN0E18fPIN2A0A8bO1AN0E1Insert Id8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0A8bO1AN0E1Insert Id8bM1AN0E3Insert Id8bNPN0E2entering8bO1DN0E1place holder8fPJN2A0N8bN3JN0E2Insert a place holder for a mathematical operator.8bOJN0E18fPIN2A0A8bO1AN0E1Insert Op8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0A8bO1AN0E1Insert Op8bM1AN0E3Insert Op8bNPN0E2entering8bO1DN0E1place holder8fPJN2A0N8bN2GN0E2Insert a place holder for text.8bOJN0E18fPIN2A0A8bO1CN0E1Insert Text8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0A8bO1CN0E1Insert Text8bM1CN0E3Insert Text8bNPN0E2entering8bO1DN0E1place holder8fPJN2A0N8bN2MN0E2Insert a place holder for a variable.8bOJN0E18fPIN2A0A8bO1BN0E1Insert Var8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0A8bO1BN0E1Insert Var8bM1BN0E3Insert Var8bNPN0E2entering8bO1DN0E1place holder
+
+Note that the entries in this menu are ordered more according to frequency of use
+rather than being grouped by functionality.
+
+Place holders (for text, expressions, operators, variables and identifiers) are most
+often entered into a document via the selection of a template, and thus 8fPIN2A0I8bOKN0E1not via
+the 8fPIN2A0A8bONN0E1EditOp button.  The need does arise, nevertheless, to insert a placeholder on
+its own and it is for this purpose that the various ``Insert'' options are available.
+For example, in the text ``let 8fPIN0A0x denote 8fPHN2A0ISe1eb2a4M   %2NCDots        1CCLatex2eB#DotsHelpGVe1eb2a4N'"IC81K81L81M...81NHC\ldotsNClow ellipsisGVe1eb2a4O'"IC81K81L...81M81NHC\cdots1BCcentred ellipsisGVe1eb2a4P'"IC81K.81L.81M.81NHC\vdots1CCvertical ellipsisGVe1eb2a5A'"OC81K.  81L . 81M  .81NHC\ddots1CCdiagonal ellipsisGVe1eb2a5B'"GC81K81L.81M81NGC\cdotMCcentred dot\'' an expression or identifier
+placeholder is necessary before the ``8fPIN0A0x'' can be entered. In addition, displayed items are
+always entered in this way.   A placeholder for a  displayed expression is entered
+by selecting the  8fPIN2A0A8bO1CN0E1Insert Disp item. A placeholder for an in-line expression is
+entered by selecting the 8fPIN2A0A8bO1CN0E1Insert Expr item, and so on.   Inserting a text
+placeholder enables the use of a mixture of mathematics and prose in a
+mathematical expression.
+
+Because of the frequency with which the first four of these  operations are used,
+they are bound to both function keys and to 8fPIN2A0C8bOKN0E1CM-keyboard
+commands.  The other operations are bound to 8fPIN2A0C8bOKN0E1CM-keyboard
+commands  as given in   8fPJN2A0S8bNHN@E2"8bO1NN0E1ConsoleCommands.EditOp.
+8fPLN2A0ISe1e728fL   42GCTable1ECLatex2eA#floatsHelpGVe1e728fM'!4MCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+3HC80J\begin{table}[8bL]80I8bO 80I\caption{8bN}\label{8bM}80I\end{table}80I1HCtable/capt/label/placeGVe1e728fN'!3JCbfOBegin TabledfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+3FC80J\begin{table}80I8bO 80I\caption{8bN}\label{8bM}80I\end{table}%80I1BCtable/capt/labelGVe1e728fO'!4CCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+2OC80J\begin{table}[8bL]80I8bO 80I\caption{8bN}80I\end{table}80I1BCtable/capt/placeGVe1e728fP'!2PCbfOBegin TabledfO
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+2LC80J\begin{table}80I8bO 80I\caption{8bN}80I\end{table}80ILCtable/captGVe1e7290A'!3HCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+bfOEnd TabledfO
+2CC80J\begin{table}[8bL]80I8bO 80I\end{table}80IMCtable/placeGVe1e7290B'!2ECbfOBegin TabledfO
+82Htable82I8bO
+bfOEnd TabledfO
+1PC80J\begin{table}80I8bO 80I\end{table}80IGCtableGVe1e7290C'!6ECbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+3LC80J\begin{table}[8bL]80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table}%80I2BCtable/capt+LOT entry/label/placeGVe1e7290D'!5BCbfOBegin TabledfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+3HC80J\begin{table}80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table}80I1LCtable/capt+LOT entry/labelGVe1e7290E'!5KCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+3BC80J\begin{table}[8bL]80I8bO 80I\caption[8bK]{8bN}80I\end{table}80I1LCtable/capt+LOT entry/placeGVe1e7290F'!4HCbfOBegin TabledfO
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+2OC80J\begin{table}80I8bO 80I\caption[8bK]{8bN}80I\end{table}80I1FCtable/capt+LOT entryGVe1e7abcJ'!4OCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+3JC80J\begin{table*}[8bL]80I8bO 80I\caption{8bN}\label{8bM}80I\end{table*}80I1PCtable*(2-col)/capt/label/placeGVe1e7abdD'!3LCbfOBegin Table*dfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+3GC80J\begin{table*}80I8bO 80I\caption{8bN}\label{8bM}80I\end{table*}80I1JCtable*(2-col)/capt/labelGVe1e7abdK'!4ECbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+3AC80J\begin{table*}[8bL]80I8bO 80I\caption{8bN}80I\end{table*}80I1JCtable*(2-col)/capt/placeGVe1e7abeH'!3BCbfOBegin Table*dfO
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+2NC80J\begin{table*}80I8bO 80I\caption{8bN}80I\end{table*}80I1DCtable*(2-col)/captGVe1e7ac0F'!3JCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+bfOEnd Table*dfO
+2EC80J\begin{table*}[8bL]80I8bO 80I\end{table*}80I1ECtable*(2-col)/placeGVe1e7ac1D'!2GCbfOBegin Table*dfO
+82Htable82I8bO
+bfOEnd Table*dfO
+2BC80J\begin{table*}80I8bO 80I\end{table*}80IOCtable*(2-col)GVe1e7ac1L'!6GCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3MC80J\begin{table*}[8bL]80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table*}80I2JCtable*(2-col)/capt+LOT entry/label/placeGVe1e7ac5E'!5DCbfOBegin Table*dfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3JC80J\begin{table*}80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table*}80I2DCtable*(2-col)/capt+LOT entry/labelGVe1e7ac2I'!5MCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3DC80J\begin{table*}[8bL]80I8bO 80I\caption[8bK]{8bN}80I\end{table*}80I2DCtable*(2-col)/capt+LOT entry/placeGVe1e7ac3B'!4JCbfOBegin Table*dfO
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3AC80J\begin{table*}80I8bO 80I\caption[8bK]{8bN}80I\end{table*}80I1NCtable*(2-col)/capt+LOT entryp8bN2GN0E2Keys for basic edit operations.8bOIN0E18fPIN2A0ISe1cfae7F   #2NCLayout-c,l,r1JCLatex2e#Layout-c,l,rHelpGVe1cfae7G'!GC
+82B8bO82C
+2BC80J80I\begin{center}80I8bO80I\end{center}80IHCCenterGVe1cfae7H'!GC
+82B8bO82C
+2HC80J80I\begin{flushleft}80I8bO80I\end{flushleft}80IKCFlushleftGVe1cfae7I'!GC
+82B8bO82C
+2JC80J80I\begin{flushright}80I8bO80I\end{flushright}80ILCFlushrights8bOIN0E18fPMN2A0ISe1fd9e6J   &21DCTabular-Enter     1FCLatex2eB#TabularHelpGVe1fd9e6K'!7DCbfMTabular  ( alignment code: dfM82H|x|  where x=l, c or r for the col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col 82I8bO80B1faP81M 81H 81N
+8bH81J81L80C 82D80C 82D 81M 81H 81N82A
+4AC80J\begin{tabular}{8bI}\hline 80I8bO \\ \hline 80I8bH\hline 80I\end{tabular}80IHC1 col.GVe1fd9e6L'!8ECbfMTabular  ( alignment code: dfM82H|x|x| where x=l, c or r for each col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C 82D 81M 81H 81N82A
+4EC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN \\ \hline 80I8bH\hline 80I\end{tabular}80IHC2 col.GVe1fd9e6M'!9GCbfMTabular  ( alignment code: dfM82H|x|x|x| where x=l, c or r for each col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C 82D 81M 81H 81N82A
+4HC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN & 8bM\\ \hline 80I8bH\hline 80I\end{tabular}80IHC3 col.GVe1fd9e6N'!8MCbfMTabular  ( alignment code: dfM82He.g.|l|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+4MC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL\\ \hline 80I8bH\hline 80I\end{tabular}80IHC4 col.GVe1fd9e6O'!9OCbfMTabular  ( alignment code: dfM82He.g.|l|c|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B82D 82Hhead col82I8bK80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+5AC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL & 8bK\\ \hline 80I8bH\hline 80I\end{tabular}80IHC5 col.GVe1fd9e6P'!bACbfMTabular  ( alignment code: dfM82He.g.|l|c|c|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B82D 82Hhead col82I8bK80B82D 82Hhead col82I8bJ80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+5EC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL & 8bK & 8bJ\\ \hline 80I8bH\hline 80I\end{tabular}80IHC6 col.w8bHPN0E88fPKN2A0ISe1fd9e7H   &2MCTabular-Row1FCLatex2eB#TabularHelpGVe1fd9e7I'!KC80C 82D 8bO80C 82D
+HC80J8bO\\ 80IKCRow 1-colGVe1fd9e7J'!PC80C 82D 8bO80C82D 8bN80C 82D 
+MC80J8bO & 8bN \\ 80IKCRow 2-colGVe1fd9e7K'!1DC80C 82D 8bO80C82D 8bN80C82D 8bM80C 82D 
+1AC80J8bO & 8bN & 8bM \\ 80IKCRow 3-colGVe1fd9e7L'!1HC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C 82D 
+1DC80J8bO & 8bN & 8bM & 8bL\\ 80IKCRow 4-colGVe1fd9e7M'!1LC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C82D 8bK80C 82D 
+1JC80J8bO & 8bN & 8bM & 8bL  &  8bK\\ 80IKCRow 5-colGVe1fd9e7N'!2AC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C82D 8bK80C82D  8bJ80C 82D 
+1PC80J8bO & 8bN & 8bM & 8bL  &  8bK  &  8bJ\\ 80IKCRow 6-col}8bMIN0E38fPIN2A0C8bOLN0E1CM-E8bNIN0E28fPIN2A0C8bOJN0E1F58bOIN0E18fPIN2A0A8bO1BN0E1Insert Exp8fPKN2A0}8bMIN0E38fPIN2A0C8bOLN0E1CM-P8bNIN0E28fPIN2A0C8bOJN0E1F68bOIN0E18fPIN2A0A8bO1CN0E1Insert Disp8fPKN2A0}8bMIN0E38fPIN2A0C8bOLN0E1CM-C8bNIN0E28fPIN2A0C8bOJN0E1F78bOIN0E18fPIN2A0A8bOLN0E1Copy8fPKN2A0}8bMIN0E38fPIN2A0C8bOLN0E1CM-S8bNIN0E28fPIN2A0C8bOJN0E1F88bOIN0E18fPIN2A0A8bOLN0E1Swap8fPKN2A0}8bMIN0E38fPIN2A0C8bOLN0E1CM-I8bNIN0E28fPIN2A0C8bOIN0E1 8bOIN0E18fPIN2A0A8bO1AN0E1Insert Id8fPKN2A0}8bMIN0E38fPIN2A0C8bOLN0E1CM-O8bNIN0E28fPIN2A0C8bOIN0E1 8bOIN0E18fPIN2A0A8bO1AN0E1Insert Op8fPKN2A0}8bMIN0E38fPIN2A0C8bOLN0E1CM-T8bNIN0E28fPIN2A0C8bOIN0E1 8bOIN0E18fPIN2A0A8bO1CN0E1Insert Text8fPKN2A0}8bMIN0E38fPIN2A0C8bOLN0E1CM-V8bNIN0E28fPIN2A0C8bOIN0E1 8bOIN0E18fPIN2A0A8bO1BN0E1Insert Var8bM1GN0E3Key combination8bN1DN0E2Function key8bOON0E1Command8bION0E7|l|c|c|8bM2DN0E3Table:ConsoleCommands.EditOp8bLKN0E4htb
+
+
+The 8fPIN2A0A8bONN0E1Delete operation is executed from the keyboard by depressing the key
+labelled ``Backspace'', ``Delete'' or ``Del'' depending on your configuration.   
+Its function is to delete the target term. 8fPON2A0;8bIIN0E7)8bJHN0E68bKHN0E58bLPN0E48fPIN2A0A8bONN0E1EditOp button8bMHN0E38bN1EN0E2EditOp button8bOON0E1console 
+
+8fPIN2A0=8bO1NN0E1help:Console.Structure8fPIN2A0=8bO2DN0E1help:Console.Structure.pinup8fPKN2A0*8bMHN@E3"8bO1AN0E1Structure8bNIN0E28fPHN2A0/
+The 8fPIN2A0A8bO1AN0E1Structure button8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLPN0E48fPIN2A0A8bO1AN0E1Structure button8bMHN0E38bN1HN0E2Structure button8bOON0E1console provides editing operations that are typical of (but not
+necessarily confined to) mathematical calculations.  With the exception of
+8fPIN2A0A8bOMN0E1Apply and 8fPIN2A0A8bONN0E1Rename each operation has an obvious inverse and, thus, can
+easily be undone8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMLN0E3undo8bN1GN0E2edit operations8bO1BN0E1expression.  Undoing 8fPIN2A0A8bOMN0E1Apply is detailed below.   Undoing 8fPIN2A0A8bONN0E1Rename may
+be problematic; executing it should be done with care!
+
+
+8fPIN2A0L8bO1AN0E18fPJN2A0N8bN1bNN0E2Insert or remove parentheses around an expression.
+Parentheses are inserted if there are none already, otherwise
+they are removed.  Removal of parentheses is sometimes
+necessary because the system gets it wrong (after, say, a
+8fPIN2A0A8bO1BN0E1Distribute operation).  Parentheses are not removed if the
+operator precedence requires their presence.  To force their
+removal in such a case  you may use 8fPIN2A0A8bOON0E1Ungroup (described below).
+(Do so only if you know what you are doing!)8bOJN0E18fPIN2A0A8bO1BN0E1Add/Rem ()8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0A8bO1BN0E1Add/Rem ()8bM1BN0E3Add/Rem ()8bN1GN0E2edit operations8bO1BN0E1expression
+8fPJN2A0N8bN6ON0E2Reverse (i.e. commute) the order of the elements in a list of
+operands and associative infix operators.8bOJN0E18fPIN2A0A8bOON0E1Reverse8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0A8bOON0E1Reverse8bMON0E3Reverse8bN1GN0E2edit operations8bO1BN0E1expression8fPJN2A0N8bN7PN0E2Distribute the function determined  by the source  and argument
+selections over the expressions in the target selection.8bOJN0E18fPIN2A0A8bO1BN0E1Distribute8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0A8bO1BN0E1Distribute8bM1BN0E3Distribute8bN1GN0E2edit operations8bO1BN0E1expression8fPJN2A0N8bN9CN0E2The inverse of 8fPIN2A0A8bO1BN0E1distribute.  Factorise the function determined  by
+the source and argument selections from all expressions in the
+target selection.  8bOJN0E18fPIN2A0A8bO1AN0E1Factorise8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0A8bO1AN0E1Factorise8bM1AN0E3Factorise8bN1GN0E2edit operations8bO1BN0E1expression8fPJN2A0N8bN19ON0E2Apply the function determined by the difference between the 
+source and  argument  selections to the expression in the target
+ selection.  (The argument should therefore be a subexpression
+of the source expression.) For example, apply  `8fPJN0A08fPIN0A0a8ePHN2B0ISafa0e20I# -&0GVafa0e20C#"CC+IC{\plus}GVafa0e20D#"CC×EC{×}GVafa0e20E#"CC25bPGC\juncGVafa0e20F#"CC25bFHC\splitGVafa0e20G#"CC25bEJC\cosplitGVafa0e20H#"CC25bOIC\cojunc8F' to `8fPKN0A08fPIN0A0b8ePHN2B08E8fPIN0A0c'
+giving `8fPKN0A08fPIN0A0a8ePHN2B08F8fPKN0A08fPIN0A0b8ePHN2B08E8fPIN0A0c'. The resulting expression becomes the new
+target.  To undo this operation, set the source selection to 
+the original target selection and execute 8fPIN2A0A8bOLN0E1Copy. 8bOJN0E18fPIN2A0A8bOMN0E1Apply8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0A8bOMN0E1Apply8bMMN0E3Apply8bN1GN0E2edit operations8bO1BN0E1expression8fPJN2A0N8bN7PN0E2Alter the structure of the expression by making the target a 
+proper subexpression of the expression in which it occurs.8bOJN0E18fPIN2A0A8bOMN0E1Group8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0A8bOMN0E1Group8bMMN0E3Group8bN1GN0E2edit operations8bO1BN0E1expression8fPJN2A0N8bN7KN0E2Alter the structure of the expression by inserting  the selected 
+subexpression in the expression one level higher.8bOJN0E18fPIN2A0A8bOON0E1Ungroup8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0A8bOON0E1Ungroup8bMON0E3Ungroup8bN1GN0E2edit operations8bO1BN0E1expression8fPJN2A0N8bN13ON0E2Replace every occurrence of the target  by the  source in a range
+determined by the argument. Both the target and source
+selections should be identifiers.  The operation may sometimes
+be undone by simply interchanging the source and target
+8fPIN2A0I8bO1BN0E1selections (see 8fPJN2A0U8bN1GN0E2ConsoleCommands8bO1AN0E1Selection) and repeating the operation, but
+this is not always the case.8bOJN0E18fPIN2A0A8bONN0E1Rename8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0A8bONN0E1Rename8bMNN0E3Rename8bN1GN0E2edit operations8bO1BN0E1expression
+8fPLN2A0p8bN2ON0E2Keys for edit operations on structures.8bOIN0E18fPIN2A0s8bOIN0E18fPMN2A0w8bH1AN0E88fPKN2A0}8bMPN0E3(  ,8fPIN2A0C8bOKN0E1M-(, 8fPIN2A0C8bOKN0E1M-98bNIN0E28fPIN2A0C8bOJN0E1F48bOIN0E18fPIN2A0A8bONN0E1Add ()8fPKN2A0}8bMLN0E38fPIN2A0C8bOKN0E1C-(, 8fPIN2A0C8bOKN0E1C-98bNIN0E2 8bOIN0E18fPIN2A0A8bO1AN0E1Remove ()8fPKN2A0}8bMIN0E38fPIN2A0C8bOLN0E1CM-R8bNIN0E28fPIN2A0C8bOJN0E1F98bOIN0E18fPIN2A0A8bOON0E1Reverse8fPKN2A0}8bMIN0E38fPIN2A0C8bOLN0E1CM-D8bNIN0E28fPIN2A0C8bOIN0E1 8bOIN0E18fPIN2A0A8bO1BN0E1Distribute8fPKN2A0}8bMIN0E38fPIN2A0C8bOLN0E1CM-F8bNIN0E28fPIN2A0C8bOIN0E1 8bOIN0E18fPIN2A0A8bO1AN0E1Factorise8fPKN2A0}8bMIN0E38fPIN2A0C8bOLN0E1CM-A8bNIN0E28fPIN2A0C8bOIN0E1 8bOIN0E18fPIN2A0A8bOMN0E1Apply8fPKN2A0}8bMIN0E38fPIN2A0C8bOLN0E1CM-G8bNIN0E28fPIN2A0C8bOIN0E1 8bOIN0E18fPIN2A0A8bOMN0E1Group8fPKN2A0}8bMIN0E38fPIN2A0C8bOLN0E1CM-U8bNIN0E28fPIN2A0C8bOIN0E1 8bOIN0E18fPIN2A0A8bOON0E1Ungroup8fPKN2A0}8bMIN0E38fPIN2A0C8bOLN0E1CM-N8bNIN0E28fPIN2A0C8bOIN0E1 8bOIN0E18fPIN2A0A8bONN0E1Rename8bM1JN0E3Key combination(s)8bN1DN0E2Function key8bO1BN0E1Command   8bION0E7|l|c|c|8bM2GN0E3Table:ConsoleCommands.Structure8bLKN0E4htb
+
+
+
+8fPIN2A0C8bOMN0E1Note:  Typing an opening parenthesis ``('' will 8fPIN2A0I8bONN0E1insert opening and closing
+parentheses around the target term provided the target term is an expression.
+If the target is text then the opening parenthesis is inserted in the normal way.8fPON2A0;8bIIN0E7)8bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1GN0E2edit operations8bO1BN0E1expression
+
+
+8fPIN2A0=8bO1NN0E1help:Console.Selection8fPIN2A0=8bO2DN0E1help:Console.Selection.pinup8fPKN2A0'8bM2AN0E3ConsoleCommands.Selection8bO1AN0E1Selection8bNIN0E28fPHN2A0/
+The  8fPIN2A0A8bO1AN0E1Selection button8fPON2A0;8bIHN0E78bJHN0E68bKIN0E5(8bLPN0E48fPIN2A0A8bO1AN0E1Selection button8bMHN0E38bN1HN0E2Selection button8bOON0E1console gives access to functions that change the selections 
+8fPIN2A0I8bO3AN0E1but do not alter the edit document itself. 
+
+8fPIN2A0L8bOKN0E18fPJN2A0N8bN3EN0E2Interchange the target and source selections.8bOJN0E18fPIN2A0A8bOLN0E1Swap8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0A8bOLN0E1Swap8bMLN0E3Swap8bN1EN0E2operations on8bO1AN0E1selection8fPJN2A0N8bN5DN0E2Deselect a selection by clicking in the 8fPIN2A0A8bOMN0E1Clear button with
+the same mouse button.8bOJN0E18fPIN2A0A8bOMN0E1Clear8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0A8bOMN0E1Clear8bMMN0E3Clear8bN1EN0E2operations on8bO1AN0E1selection8fPJN2A0N8bN9MN0E2Combine the selection indicated by the mouse button with the
+third selection. If the third selection is not set, the whole document
+will be selected.8bOJN0E18fPIN2A0A8bOLN0E1Join8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0A8bOLN0E1Join8bMLN0E3Join8bN1EN0E2operations on8bO1AN0E1selection
+8fPIN2A0C8bOMN0E1Note:  Interchanging the target and source selections is not the same as
+interchanging the target and source terms.  The former has no effect on the
+document itself whereas the latter does.
+
+There are no keyboard shortcuts for these commands. 8fPON2A0;8bIIN0E7)8bJHN0E68bKHN0E58bLPN0E48fPIN2A0A8bO1AN0E1Selection button8bMHN0E38bN1HN0E2Selection button8bOON0E1console
+
+8fPIN2A0=8bO1JN0E1help:Console.Misc.8fPIN2A0=8bO1ON0E1help:Console.Misc.pinup8fPKN2A0*8bMHN@E3"8bOMN0E1Misc.8bNIN0E28fPHN2A0/
+The 8fPIN2A0A8bOMN0E1Misc8fPHN2A0ISff9d826I   !1MCdot(abbrev)GVff9d827C#!DC. FC80J.\ 8Gbutton8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLON0E48fPIN2A0A8bOMN0E1Misc8fPHN2A08Gbutton8bMHN0E38bN1DN0E2Misc8fPHN2A08G button8bOON0E1console gives access to a miscellaneous collection of commands.
+
+8fPIN2A0J8bO1CN0E18fPJN2A0N8bNcLN0E2Insert and remove line breaks throughout the target term so that
+all text fits neatly within the window.  There is no way of undoing
+this command but it has no effect on the  output produced by
+8fPHN2A0ISe1cfa44M   %2GCLaTeX1CCLatex2e#LaTeXHelpGVe1cfa44N#!1FCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NXKC80J\LaTeX{}GVe1cfa44O#!MCT81K81L81K81L81ME81N81M81NXIC80J\TeX{}GVe1cfa45A#!1HCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NX23bF4AC80J{\mathsurround=0pt\LaTeX $2_80L{\textstyle 3bF}$\hspace{-0.4mm}}{}GVe1cfa45B#!1BCBccAIB80PT81K81L81K81L81ME81N81M81NX1FC80J80J\textsc{Bib}\TeX{}GVe1e4779B#!MCbfMMakeIndexdfMOCbfMMakeIndexdfM{}8L.8bOJN0E18fPIN2A0A8bO1AN0E1Word Wrap8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0A8bO1AN0E1Word Wrap menu item8bMHN0E38bNHN0E28bO1KN0E1Word Wrap menu item8fPJN2A0N8bN30DN0E2Convert the target term to its output value. The output is stored  in
+the window system buffer and thus can be transported to (say) an
+email message or an Emacs document. This command has three
+options, namely 8fPIN2A0A8bOMN0E1LaTeX,  8fPIN2A0A8bOMN0E1Plain and 8fPIN2A0A8bOMN0E1Ascii.  8fPIN2A0A8bOMN0E1LaTeX  generates
+8fPHN2A08L  making use of the loaded stencils  together with built-in
+knowledge. 8fPIN2A0A8bOMN0E1Plain generates plain 8fPHN2A08L,  that is 8fPHN2A08L with no
+8fPIN2A0ISe1d5e5bI   &2JCVerbatim1FCLatex2e#VerbatimHelpGVe1d5e5bJ'!ECbfH8bOdfHKC80J\verb+8bO+1JCShort-No `+' in contentsGVe1d5e5bK'!ECbfH8bOdfHKC80J\verb?8bO?1JCShort-No `?' in contentsGVe1d5e5bM'!ECbfH8bOdfHLC80J\verb*+8bO+2ICShort-No `+' in contents, spaces as ccB229EcbNGVe1d5e8dO'!ECbfH8bOdfHLC80J\verb*?8bO?2ICShort-No `?' in contents, spaces as ccB229EcbNGVe1d5e5bL'!GC
+bfH8bOdfH
+2EC80J\begin{verbatim}80I8bO80I\end{verbatim}80I1ICLong-more than one lineGVe1d5f98F'!GC
+bfH8bOdfH
+2GC80J\begin{verbatim*}80I8bO80I\end{verbatim*}80I2HCLong-more than one line, spaces as ccB229EcbN9B8bOKN0E1\ms commands and no braces 8fPIN2A09B8bOJN0E1{} around the operators. 8fPIN2A0A8bOMN0E1Ascii
+generates output using 8fPIN2A0I8bO1AN0E1literally the information contained in the
+template definitions, and thus without special provision for 8fPHN2A08L. 
+The primary use of 8fPIN2A0A8bONN0E1Output is to debug the definition of templates.
+
+The buffer that is used is referred to as ``the selection'' on Sun
+systems.  This terminology would, however, be confusing in this
+context and we refer to it instead as the  8fPIN2A0I8bO1CN0E1window port8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNHN0E28bO1CN0E1window port. 8bOJN0E18fPIN2A0A8bONN0E1Output8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0A8bONN0E1Output menu item8bMHN0E38bNHN0E28bO1HN0E1Output menu item8fPJN2A0N8bNaON0E2Insert the contents of the window  port into the document.  This
+command allows you to import  information from other (non
+8fPHN2A0ISafa0e17G   !0GVafa0e17F#!MC80JbfIMath222LpaddfILC80J\mplogo{}9C) windows, or system-generated information.8bOJN0E18fPIN2A0A8bOMN0E1Paste8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0A8bOMN0E1Paste menu item8bMHN0E38bNHN0E28bO1GN0E1Paste menu item8fPJN2A0N8bNcCN0E2Go to specified output line.  Selection of this menu item will cause  a
+request for a line number to appear in the console.  Fill in the desired
+number and press return.  To abort type 8fPIN2A0C8bOKN0E1C-G.8bOJN0E18fPIN2A0A8bO1AN0E1Goto Line8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNHN0E28bO1IN0E1output line, goto8fPJN2A0N8bN5ON0E2Introduce ``dots'' delimiting text place holders.  (See below for
+further explanation).8bOJN0E18fPIN2A0A8bO1CN0E1Toggle Dots8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1ON0E2place holder delimiters8bOLN0E1text8fPJN2A0N8bN4GN0E2Move the display (selected as target) one tab stop to the left.8bOJN0E18fPIN2A0A8bO1DN0E1Display Left8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1EN0E3repositioning8bN1AN0E2displayed8bO1BN0E1expression8fPJN2A0N8bN4HN0E2Move the display (selected as target) one tab stop to the right.8bOJN0E18fPIN2A0A8bO1EN0E1Display Right8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1EN0E3repositioning8bN1AN0E2displayed8bO1BN0E1expression8fPJN2A0N8bNfEN0E2The three options increase, decrease or reset the elastic spacing in
+the target selection.  (``Elastic spacing'' is the spacing around
+mathematical operators and spacing specifically declared to be
+elastic in the template specification.)8bOJN0E18fPIN2A0A8bOON0E1Spacing8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2spacing8bO1BN0E1expression8fPJN2A0N8bNaDN0E2This entry gives access to a menu for coupling 8fPHN2A09C to the
+Ispell spelling checking program.  See below for a more detailed
+account of how this option is used.8bOJN0E18fPIN2A0A8bONN0E1Ispell8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNHN0E28bO1HN0E1spelling checker8fPJN2A0N8bN7GN0E2This entry gives access to a menu for coupling 8fPHN2A09C to
+Maple.   The feature is experimental and is not documented.8bOJN0E18fPIN2A0A8bOMN0E1Maple8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNHN0E28bOMN0E1Maple8fPJN2A0N8bN37LN0E2Selecting this entry will cause the last file that has been converted to
+ 8fPHN2A08L to be processed by 8fPHN2A08L.  A 8fPHN2A09C document
+window will be automatically opened and the progress messages
+from 8fPHN2A08L will be  sent to the window.   Note that the file must
+conform to the 8fPHN2A08L format requirements; in particular, it
+should begin with the appropriate preamble.  The automatically
+opened window is titled ``LaTeX Shell''.  During processing of the
+file, this title is followed by ``(running)''; once the process is complete,
+the message is changed to ``(done)''.  
+This feature is experimental.  Currently, the only means of
+interacting with the 8fPHN2A08L program is to remove the Shell
+window: this has the effect of aborting the process.  The document
+produced is a standard 8fPHN2A09C document.  This can be exploited
+by, for example, using the Find facility to search for the location of
+errors in the processed document.  8bOJN0E18fPIN2A0A8bO1GN0E1LaTeX Last File8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1PN0E2processing document with8bOMN0E1LATEX
+
+Keyboard commands corresponding to the 8fPIN2A0A8bOMN0E1Misc.8fPHN2A0ISe1f47d6C   -22ECHorizontal                         1ICLatex2eB#HorizSpaceHelpGVe1f47d6D'!1FCbfMHSpacedfM {82Hlength82I8bO}LC\hspace{8bO}OCspace{length}GVe1f47d6E'!1HCbfMHspace*dfM {82Hlength82I8bO} MC\hspace*{8bO}2GCspace{length}* also at start/end lineGVe1f47d6F'!ICbfMHFilldfMHC\hfill1ECfill out with spaceGVe1f490cL'!JCbfMHFill*dfM1AC\hspace*{\fill}1FCfill out with space*GVe1f47d6G'!CC DC\,LCthin spaceGVe1f47d6H'!CC EC80J\ 1EC1 inter-word space*GVe1f47d6I'!DC  GC80J\ \ 1GC2  inter-word spaces*GVe1f47d6J'!GC     MC80J\ \ \ \ \ 1GC5  inter-word spaces*GVe1f47d6K'!LC          1GC80J\ \ \ \ \ \ \ \ \ \ 1GC10 inter-word spaces*GVe1f47d6L'!FC    LC\hspace{8bO}1DChide-space{length}GVe1f47d6M'!FC    MC\hspace*{8bO}1EChide-space{length}*GVe1f47d6N'!FC    HC\hfill1FChide-fill with spaceGVe1f4910N'!FC    1AC\hspace*{\fill}1KChide-fill out with space*9Kmenu items are shown in
+8fPJN2A0S8bNHN@E2"8bO2NN0E1ConsoleCommands.MiscellaneousShortcuts.
+(Note: On a Sun keyboard the 8fPIN2A0C8bOKN0E1F18 key is labelled ``Paste''.)
+
+8fPLN2A0p8bN3GN0E2Keyboard commands for miscellaneous menu items.8bOIN0E18fPIN2A0s8bOIN0E18fPLN2A0x8bH1CN0E88fPJN2A0~8bNIN0E2 8bOIN0E18fPIN2A0A8bO1AN0E1Word Wrap8fPJN2A0~8bNIN0E28fPIN2A0C8bOKN0E1F108bOIN0E18fPIN2A0A8bONN0E1Output8fPJN2A0~8bNLN0E28fPIN2A0C8bOJN0E1F3, 8fPIN2A0C8bOKN0E1F188bOIN0E18fPIN2A0A8bOMN0E1Paste8fPJN2A0~8bNIN0E28fPIN2A0C8bOKN0E1M-L8bOIN0E18fPIN2A0A8bO1AN0E1Goto Line8fPJN2A0~8bNIN0E28fPIN2A0C8bOKN0E1C-.8bOIN0E18fPIN2A0A8bO1CN0E1Toggle Dots8fPJN2A0~8bNIN0E28fPIN2A0C8bOON0E1CM-Left8bOIN0E18fPIN2A0A8bO1DN0E1Display Left8fPJN2A0~8bNIN0E28fPIN2A0C8bOPN0E1CM-Right8bOIN0E18fPIN2A0A8bO1EN0E1Display Right8fPJN2A0~8bN1AN0E2See below8bOIN0E18fPIN2A0A8bOON0E1Spacing8fPJN2A0~8bNIN0E2 8bOIN0E18fPIN2A0A8bONN0E1Ispell8fPJN2A0~8bNIN0E2 8bOIN0E18fPIN2A0A8bOMN0E1Maple8fPJN2A0~8bNIN0E2 8bOIN0E18fPIN2A0A8bO1GN0E1LaTeX Last File8bN1LN0E2    Key             8bO1MN0E1Command              8bIMN0E7|l|c|8bM3DN0E3Table:ConsoleCommands.MiscellaneousShortcuts8bLKN0E4htb
+
+Elastic spacing can be increased by one unit at a time from the keyboard using
+either 8fPIN2A0C8bOKN0E1C-+ or (more conveniently, since it doesn't involve using the shift key)
+8fPIN2A0C8bOKN0E1C-=.  Decreasing elastic spacing is effected with 8fPIN2A0C8bOKN0E1C-221C (control-minus) and
+resetting with 8fPIN2A0C8bOKN0E1C-0.
+
+The result of an 8fPIN2A0A8bONN0E1Output  command (executed via the console) is inserted into the
+window port from where it can be pasted into another window, for  example an
+email message. In addition,  8fPIN2A0A8bONN0E1Output and 8fPIN2A0A8bOMN0E1Paste are often used in combination
+to check the 8fPHN2A08L output produced by a template:  Select an instance of the
+template in a document, select 8fPIN2A0A8bONN0E1Output , move the cursor to a suitable position
+(possibly in a scratch document or the buffer)
+ and select  8fPIN2A0A8bOMN0E1Paste.8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bL2EN0E48fPHN2A08L code --- produced by target8bMHN0E38bNHN0E28bO3AN0E1LATEX code --- check that from a template8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN2AN0E2checking 8fPHN2A08L code generated8bOPN0E1template
+The different output options can also be chosen using
+8fPIN2A0C8bOKN0E1C-U as follows.  (This possibility is normally used in combination with the
+8fPIN2A0C8bOKN0E1F10 function key but it is also possible to enter 8fPIN2A0C8bOKN0E1C-U followed by a number and
+then select the 8fPIN2A0A8bONN0E1Output command with the mouse.)
+8fPIN2A0Q8bOKN0E18fPJN2A0N8bN2DN0E2the default 8fPHN2A08L produced by 8fPHN2A09C.8bO1AN0E1C-U 1 F108fPJN2A0N8bN4NN0E2the default 8fPHN2A08L with no 8fPIN2A09B8bOKN0E1\ms commands and no
+braces 8fPIN2A09B8bOJN0E1{} around the operators.8bO1AN0E1C-U 2 F108fPJN2A0N8bN5NN0E2the output specified in the stencils literally interpreted (thus no 
+provision for 8fPHN2A08L) 8bO1AN0E1C-U 3 F10
+
+The 8fPIN2A0A8bO1CN0E1Toggle Dots option is used to introduce or remove dots delimiting text place
+holders.  The introduction of such dots is sometimes necessary during
+preparation of a document in order to determine the extent of a text place holder 
+or to ease moving the cursor to the beginning or end of a text place holder.  The
+effect is limited to what is shown on the screen; neither the contents of the
+document nor the output or affected by this action.
+
+
+8fPIN2A0=8bO1IN0E1help:Console.Quit8fPIN2A0=8bO1ON0E1help:Console.Quit.pinup8fPKN2A0*8bMHN@E3"8bOLN0E1Quit8bNIN0E28fPHN2A0/
+8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNHN0E28bOLN0E1exitThe 8fPIN2A0A8bOLN0E1Quit button8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bLPN0E48fPIN2A0A8bOLN0E1Quit button8bMHN0E38bN1CN0E2Quit button8bOON0E1console enables one to quit the current project and (possibly) start a
+new project.
+8fPJN2A0K8bNHN0E28bOLN0E18fPJN2A0N8bNcON0E2Quit the system.  A warning is given of each document
+or stencil that has been modified but not saved.  In addition, the
+project is saved if that is the chosen default. (This is not yet
+implemented.)8bOJN0E18fPIN2A0A8bOLN0E1Quit8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0A8bOLN0E1Quit menu item8bMHN0E38bNHN0E28bO1FN0E1Quit menu item8fPJN2A0N8bNdJN0E2Quit the system immediately.  No warnings are given and the
+project is not saved (independent of the chosen default).  Use only
+when you are absolutely sure of what you are doing.  The
+command cannot be undone.8bOJN0E18fPIN2A0A8bO1AN0E1Fast Quit8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0A8bO1AN0E1Fast Quit menu item8bMHN0E38bNHN0E28bO1KN0E1Fast Quit menu item8fPJN2A0N8bNbHN0E2Change project.  The file selector appears in order to facilitate
+selection of the new project.  If the name supplied does not already
+exist then a new project file is created.8bOJN0E18fPIN2A0A8bO1CN0E1New Project8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0A8bO1CN0E1New Project menu item8bMHN0E38bNHN0E28bO1MN0E1New Project menu item8fPJN2A0N8bN22BN0E2The status of all opened documents and stencils  (i.e. their
+position on the screen, whether iconicised 8fPIN2A0I8bOKN0E1etc.) is saved in a
+project file which is specified by means of the file selector. Also
+saved is the status of all auxiliary windows such as the
+buffer and default window regardless of  whether they are
+opened or not. The command can be undone if a new project
+name is entered every time the command is executed.  This is
+of course impractical but the procedure can be followed if you
+are not completely confident of what you are doing.8bOJN0E18fPIN2A0A8bO1DN0E1Save Project8fPON2A0;8bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0A8bO1DN0E1Save Project menu item8bMHN0E38bNHN0E28bO1NN0E1Save Project menu item
+
+
+For safety reasons, only the 8fPIN2A0A8bO1DN0E1Save Project command is available via the
+keyboard.  Typing 8fPIN2A0C8bOKN0E1M-P  causes the file selector to appear enabling the project
+name to be selected.
+

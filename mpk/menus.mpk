@@ -1,0 +1,254 @@
+Menu Window {
+	Options Pin;
+	Title "Window";
+Default "Document" : new_editwindow();
+	"Stencil"  : new_stencilwindow();
+	"Symbol"   : new_symbolwindow();
+	"Find&Replace" : open_findwindow();
+	"Scratch buffer" : open_bufferwindow();
+	"Properties"  : open_propertieswindow();
+}
+
+Var Int current_symbol;
+
+Menu Insert {
+	Options Pin;
+	Title "Insert";
+Default	"Expression" : insert_expression(1);
+	"Operator"   : insert_operator(1);
+	"Identifier" : insert_identifier(1);
+	"Variable"   : insert_variable(1);
+	"Text"	     : insert_text(1);
+	Separator;
+	"Symbol"     : insert_symbol(current_symbol, 1);
+	"Template"   : template_click();
+}
+
+Menu Structure {
+	Options Pin;
+	Title "Structure Edit";
+Default	"Add ()"	: add_parens();
+	"Remove ()"	: remove_parens();
+	"Reverse"	: commute_expression();
+	"Distribute"	: distribute_function();
+	"Factorise"	: factorise_function();
+	"Apply"		: apply_function();
+	"Group"		: group_region();
+	"Ungroup"	: ungroup_region();
+	"Rename"	: rename_identifier();
+}
+
+Menu EditOp {
+	Options Pin;
+	Title "Edit Operations";
+Default	"Copy"	: copy_region();
+	"Swap"	: swap_region();
+	"Delete" : remove_region();
+	"Word Wrap" : word_wrap_region(1);
+	"Insert" : Insert;
+	"Structural" : Structure;
+}
+
+Menu JoinSel {
+	Options Pin;
+	Title "Join";
+Default "T+A \u2192 T"	: join_selections(3,1);
+	"S+A \u2192 S"	: join_selections(3,2);
+	"A+S \u2192 A"	: join_selections(2,3);
+}
+
+Menu ClearSel {
+	Options Pin;
+	Title "Clear";
+Default "Target"    : unset_selection(1);
+	"Source"    : unset_selection(2);
+	"Argument"  : unset_selection(3);
+}
+
+Menu CopySel {
+	Options Pin;
+	Title "Copy";
+Default "A \u2192 T"	: copy_selections(3,1);
+	"A \u2192 S"	: copy_selections(3,2);
+	"S \u2192 A"	: copy_selections(2,3);
+}
+
+Menu SwapSel {
+	Options Pin;
+	Title "Swap";
+Default "S \u2194 T"	: swap_selections(1,2);
+	"S \u2194 A"	: join_selections(1,3);
+	"T \u2194 A"	: join_selections(2,3);
+}
+
+Menu Select {
+	Options Pin;
+	Title "Selections";
+Default	"Swap"		: SwapSel;
+	"Join"		: JoinSel;
+        "Copy"		: CopySel;
+	"Clear"		: ClearSel;
+}
+
+Menu CopyAs {
+Default	"LaTeX"		: LaTeX_region(1);
+	"Plain"		: LaTeX_region(2);
+	"Ascii"		: LaTeX_region(3);
+	"LaTeX ()"	: LaTeX_region(5);
+	"Plain ()"	: LaTeX_region(6);
+	"Ascii ()"	: LaTeX_region(7);
+}
+
+Menu SpellCheck {
+	Options Pin;
+	Title "Spell Check";
+Default	"Start"		: start_program("ispellscript %i &", "Spell Checker");
+	"Check Region"	: send_string("^%P^%T%1\n", "Spell Checker");
+	"Accept Word"	: send_string("@%P@%T%1\n", "Spell Checker");
+	"Add To Dictionary" : send_string("*%P*%T%1\n", "Spell Checker");
+	"TeX Mode"	: send_string("+\n", "Spell Checker");
+	"Normal Mode"	: send_string("-\n", "Spell Checker");
+	"Save Dictionary"   : send_string("#\n", "Spell Checker");
+}
+
+Menu LaTeX {
+	Options Pin;
+	Title "LaTeX";
+Default	"LaTeX"		: start_program("latexscript %i &", "LaTeX Output");
+	"Preview"	: execute("previewscript &");
+	"Print"		: execute("printscript &");
+}
+
+Menu Misc {
+	Options Pin;
+	Title "Miscellaneous";
+Default	"Copy as"	: CopyAs;
+	"Paste"		: insert_selection();
+	Separator;
+	"Goto Line"	: open_prompt("Enter the target LaTeX line:", "",
+				     "Goto Line", @goto_latex_line(prompt_int),
+				     "", @0);
+	"Spell Check"	: SpellCheck;
+	"LaTeX"		: LaTeX;
+}
+
+Menu IdentifierSelect {
+	Options Pin;
+	Title "Identifier";
+Default	"Default"	: set_identifier_font(0);
+	"Italic"	: set_identifier_font(3);
+	"Bold"		: set_identifier_font(1);
+	"Bold Italic"	: set_identifier_font(5);
+	"Slanted"	: set_identifier_font(6);
+	"Sans Serif"	: set_identifier_font(7);
+	"Type Writer"	: set_identifier_font(8);
+	"Calligraphic"	: set_identifier_font(50);
+}
+
+Menu Version {
+	Options Pin;
+	Title "Version";
+Default	"Next Version"	: next_version();
+	"Template"	: open_version_popup();
+	"Identifier"	: IdentifierSelect;
+}
+
+Menu Exit {
+Default	"Exit"		: exit_mathspad();
+	"Quick Exit"	: quick_exit_mathspad();
+	"Save Project"	: open_fileselector("Save the current state to a project file",
+					"$HOME/.mpprojects", "*.mpk", "", @save_project(selected_file));
+	"σαυε τεστ"	: open_fileselector("Save the current state to a project file",
+				"$HOME/.mpprojects", "π*.mpk", "π∈☎", @save_project(selected_file));
+
+}
+
+Function myfind()
+{
+	if (correct_find_term())
+		if (find_structure() != 0) set_message("Structure not found");
+		fi;
+	else set_message("Incorrect Find Structure");
+	fi
+}
+Function myreplace()
+{
+	if (correct_replace_term())  replace_structure();
+	else set_message("Incorrect Replace Structure");
+	fi
+}
+
+Function myreplacefind()
+{
+	Var Int result;
+	if (correct_replace_term())
+	     replace_structure();
+	     result:=find_structure();
+	     if (result != 0) set_message("Structure not found");
+	     fi;
+	else
+	     set_message("Incorrect Replace Structure");
+	fi;
+}
+
+Function myreplaceall()
+{
+	if (correct_replace_term())
+	     replace_all_structure();
+	else
+	     set_message("Incorrect Replace Structure");
+	fi;
+}
+
+Menu FindCommand {
+	Options Pin;
+	Title "Find & Replace";
+	"Find"		: myfind();
+	"Replace" 	: myreplace();
+	"Replace&Find"	: myreplacefind();
+	"Replace All"	: myreplaceall();
+}
+
+Menu FindStack {
+	Options Pin;
+	Title "Find Stack";
+	"Load"		:
+		open_fileselector("Load Find&Replace Stack:",
+				  document_dir, "*.mpr", "",
+				  @find_load_items(selected_file));
+	"Save"		:
+		open_fileselector("Save Find&Replace Stack:",
+				  document_dir, "*.mpr", "",
+				  @find_save_items(selected_file));
+	"Previous"	: find_previous_item();
+	"Next"		: find_next_item();
+	"New Item"	: find_new_item();
+	"Clear"		: find_clear_items();
+}
+
+Menu FontFiles {
+	"helvetica14"	: defarg:=1;
+	"helvetica18"	: defarg:=1;
+}
+
+Translation English {
+  "EditOpMenu"		: "EditOp";
+  "ExitMenu"		: "Exit";
+  "FindCommandMenu"	: "FindCommand";
+  "FindStackMenu"	: "FindStack";
+  "MiscMenu"		: "Misc";
+  "SelectionMenu"	: "Select";
+  "StructureMenu"	: "Structure";
+  "VersionMenu"		: "Version";
+  "WindowMenu"		: "Window";
+  "Kind:None"		: "None";
+  "Kind:Prefix"		: "Prefix";
+  "Kind:Postfix"	: "Postfix";
+  "Kind:Infix"		: "Infix";
+  "Kind:Left"		: "Left";
+  "Kind:Right"		: "Right";
+}
+
+Include "define.mpk"
+
+Include "symbols.mpk"

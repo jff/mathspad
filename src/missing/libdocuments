@@ -1,0 +1,30 @@
+
+
+Undefined symbols from documents/.libs/libdocuments.so.0.0.0:
+
+    FilenametoUstr
+    Ustrlen
+    UstrtoFilename
+    UstrtoLocale
+    concat
+    concat_in
+    fgetc
+    fputc
+    fputs
+    get_ascii_node
+    get_findrep
+    get_node
+    get_stencil
+    get_version
+    getenv
+    make_defaults
+    myfree
+    mymalloc
+    myrealloc
+    putenv
+    sprintf
+    strcat
+    strcpy
+    strlen
+    translate
+    umap_load_file

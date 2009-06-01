@@ -1,0 +1,12 @@
+
+
+Undefined symbols from language/.libs/libint.so.0.0.0:
+
+    .div
+    .rem
+    .umul
+    UstrtoLocale
+    define_function
+    define_operator
+    make_prototype
+    printf

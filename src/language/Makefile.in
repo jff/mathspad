@@ -1,0 +1,57 @@
+
+TOPSRCDIR = @top_srcdir@
+TOPOBJ    = .
+SRCDIR    = @srcdir@
+VPATH     = @srcdir@
+
+SOURCE = constant.c expression.c function.c \
+	leaftree.c loadlib.c parse.c \
+	popupmenu.c prototype.c sequence.c \
+	types.c userdef.c variable.c 
+
+LIBRARIES = liblanguage.la libint.la libstring.la libreal.la
+
+@MAKE_RULES@
+
+all: example liblanguage.la libint.la libstring.la libreal.la
+
+liblanguage.la: $(LTOBJECTS)
+	$(LINK) -o liblanguage.la -rpath $(libdir) $(LTOBJECTS) $(LEX_LIB) $(LIBS)
+
+parse.c:  parse.y parselex.c
+	$(YACC) parse.y
+	mv y.tab.c parse.c
+
+parselex.c: parse.lex
+	$(LEX) parse.lex
+	mv lex.yy.c parselex.c
+
+example: liblanguage.la example.o
+	$(LINK) -o example example.o liblanguage.la ../unicode/libunicode.la ../keyboard/libkeyboard.la ../util/libutil.la $(XLIB)
+
+ptest: liblanguage.la ptest.o
+	$(LINK) -o ptest ptest.o liblanguage.la $(XLIB) ../unicode/libunicode.la ../keyboard/libkeyboard.la ../util/libutil.la 
+
+test: liblanguage.la test.o
+	$(LINK) -o test test.o liblanguage.la ../unicode/libunicode.la ../util/libutil.la
+
+test2: liblanguage.la test2.o
+	$(LINK) -o test2 test2.o liblanguage.la ../unicode/libunicode.la ../util/libutil.la
+
+test3: liblanguage.la test3.o
+	$(LINK) -o test3 test3.o liblanguage.la ../unicode/libunicode.la ../util/libutil.la
+
+test4: liblanguage.la test4.o
+	$(LINK) -o test4 test4.o liblanguage.la ../unicode/libunicode.la ../util/libutil.la
+
+libstring.la: stringlib.lo
+	$(LINK) -o libstring.la -rpath $(libdir) stringlib.lo
+
+libint.la: intlib.lo
+	$(LINK) -o libint.la -rpath $(libdir) intlib.lo
+
+libreal.la: reallib.lo powfix.lo
+	$(LINK) -o libreal.la -rpath $(libdir) reallib.lo powfix.lo -lm $(LIBS)
+
+librubbish.la: typetest.lo
+	$(LINK) -o librubbish.la -rpath $(libdir) typetest.lo

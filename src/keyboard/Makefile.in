@@ -1,0 +1,25 @@
+
+TOPSRCDIR = @top_srcdir@
+TOPOBJ    = .
+SRCDIR    = @srcdir@
+VPATH     = @srcdir@
+
+SOURCE = X11syskeys.c keyboard.c keys.c 
+
+LIBRARIES = libkeyboard.la
+
+@MAKE_RULES@
+
+all: libkeyboard.la
+
+libkeyboard.la: $(LTOBJECTS)
+	$(LINK) -o libkeyboard.la -rpath $(libdir) $(LTOBJECTS) $(XLIB)
+
+test: libkeyboard.a test.o
+	$(LINK) -o test test.o libkeyboard.la  $(XLIB)
+
+testkeys: libkeyboard.la testkeys.o
+	$(LINK) -o testkeys testkeys.o libkeyboard.la ../unicode/libunicode.la $(XLIB)
+
+testkeys2: libkeyboard.la testkeys2.o
+	$(LINK) -o testkeys2 testkeys2.o libkeyboard.la ../unicode/libunicode.la $(XLIB)

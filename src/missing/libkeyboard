@@ -1,0 +1,23 @@
+
+
+Undefined symbols from keyboard/.libs/libkeyboard.so.0.0.0:
+
+    LocaletoUstr
+    Ustrcmp
+    Ustrcpy
+    Ustrlen
+    Ustrncpy
+    XKeysymToString
+    XLookupString
+    XQueryPointer
+    XRefreshKeyboardMapping
+    XStringToKeysym
+    __iob
+    calculate_lazy_expression
+    eval_sequence
+    fprintf
+    myfree
+    mymalloc
+    strchr
+    strncmp
+    umap_load_file

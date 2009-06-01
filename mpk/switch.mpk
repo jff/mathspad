@@ -1,0 +1,16 @@
+#(def-key: "Global":[backspace]:backward-delete-char(1));
+#(def-key: "Global":[DEL]:delete-char(1));
+#(def-key: "Define":[backspace]:D-backward-delete-char(1));
+#(def-key: "Define":[DEL]:D-delete-char(1));
+#(def-key: "String":[backspace]:S-backward-delete-char(1));
+#(def-key: "String":[DEL]:S-delete-char(1));
+(redef: [backspace]:[backspace]);
+(redef: [S-backspace]:[S-backspace]);
+(redef: [C-backspace]:[C-backspace]);
+(redef: [M-backspace]:[M-backspace]);
+(redef: [CM-backspace]:[CM-backspace]);
+(redef: [DEL]:[DEL]);
+(redef: [S-DEL]:[S-DEL]);
+(redef: [C-DEL]:[C-DEL]);
+(redef: [M-DEL]:[M-DEL]);
+(redef: [CM-DEL]:[CM-DEL]);

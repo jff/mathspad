@@ -1,0 +1,3 @@
+(def-map: "Global": [C-Q]: "ctrl-q");
+(def-key-range: "ctrl-q" : [C-A] : [C-?] : self-insert(1));
+

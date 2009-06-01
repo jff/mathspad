@@ -1,0 +1,265 @@
+[4mMathpad Document
+[0m27eCN0E08fPKN2A0ISe1d4f11P   +2PCSectionHeading2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f1aC'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+HC80J8bN{8bO}80IKC{heading}GVe1d4f20A'!3CC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80IPC[toc]{heading}GVe1d4f27D'!2MC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1CC[no no.]{heading}GVe1d4f2aE'!2NC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1AC80J8bN{8bO}\label{8bM}80IPC{heading}labelGVe1d4f2eB'!3LC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1EC[toc]{heading}labelGVe1d4f12M'!3FC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1BC80J8bN*{8bO}\label{8bM}80I1HC[no no.]{heading}labelGVe1d4f12H'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80I1EChide-[toc]{heading}GVe1d4f12I'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1IChide -[no no.]{heading}GVe1d4f12J'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1AC80J8bN{8bO}\label{8bM}80I1EChide-{heading}labelGVe1d4f12K'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1JChide-[toc]{heading}labelGVe1d4f12L'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1BC8bN80J*{8bO}\label{8bM}80I1MChide-[no no.]{heading}label'8bM1KN0E3file:FindAndReplace8bO1HN0E1Find and Replace8bNIN0E28fPHN2A0ISe1d4f86L   '21ACSectioningTypes2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f86M#!JCcbLbfKPartdfK80PHC80J\partGVe1d4f86N#!MCcbMbfKChapterdfK80PKC80J\chapterGVe1d4f86O'!MCcbNbfKSectiondfK80PKC80J\sectionMCcbObfKSectiondfKccAGVe1d4f86P#!PCcbObfKSubSectiondfK80PNC80J\subsectionGVe1d4f87A#!1ACbfKSubSubSectiondfK1AC80J\subsubsectionGVe1d4f87B#!MCbfKParagraphdfKMC80J\paragraphGVe1d4f87C#!PCbfKSubParagraphdfKPC80J\subparagraph08fPON2A0ISe1ce08fJ   "2GCEntry1ECLatex2eC#MakeIndex GVe1ce08fK'!11IC80JbfKIndex EntrydfK
+bfMprimary sort key:dfM80C8bO
+bfMsub sort key:dfM80C8bN
+bfMsubsub sort keydfM80C8bM
+bfMvisual key if different from sort key:dfM80C80C8bL
+bfMif start of range of pages set holder to dfM ( 80C8bK
+bfMfont type for page nr. if non-standarddfM80C8bJ
+bfMif end of range of pages set holder to dfM ) 80C8bI
+bfKEnd of Index EntrydfK
+2EC80J\mpindexnew{8bO}{8bN}{8bM}{8bL}{8bK}{8bJ}{8bI}{}1CCenter index entryGVe1ce08fL'!KC80JbfK81Ji81L 81M81NdfK2EC80J\mpindexnew{8bO}{8bN}{8bM}{8bL}{8bK}{8bJ}{8bI}{}1EChide index commands28bIHN0E78bJHN0E68bKIN0E5(8bLHN0E48bMHN0E38bNHN0E28bO1FN0E1find 8fPHN2A0ISe1d5142P   *2NCSpecialChars1JCLatex2e#SpecialCharsHelpGVe1d5143A#!CC#GC80J\#{}GVe1d5143B#!CC$GC80J\${}GVe1d5143C#!CC%GC80J\%{}GVe1d5143D#!CC&GC80J\&{}GVe1d5143E#"CC~HC{\sim}GVe1d5143F#!CC_GC80J\_{}GVe1d5143G#!DC80J^GC80J\^{}GVe1d5143H#"CC\NC{\backslash}GVe1d5143I#!CC{EC80J\{GVe1d5143J#!CC}EC80J\}: replace
+Every editor has a possibility to search for text and, usually, a replace function
+is also available. In 8fPHN2A0ISafa0e17G   !0GVafa0e17F#!MC80JbfIMath222LpaddfILC80J\mplogo{}> incremental search and
+query replace are available for both text and templates. These functions are
+based on those provided by Emacs. A special window, the find 8fPHN2A0: replace window,
+is provided for this purpose.
+8fPKN2A0*8bMHN@E3"8bO2AN0E1The Find 8fPHN2A0: Replace Window8bNIN0E28fPHN2A0/
+The find 8fPHN2A0: replace window, as shown in figure~8fPIN2A0ISe1d48b1L   %21DCRef(within doc)   1MCLatex2e#Ref(within doc)HelpGVe1d48b1M'!NC(bfI82Hlabel82I8bOdfI)LC80J(\ref{8bO})GC(Ref)GVe1d48b1N'!LCbfI82Hlabel82I8bOdfIJC80J\ref{8bO}ECRefGVe1d48c4C'#NC(bfI82Hlabel82I8bOdfI)1AC80J(\pageref{80K8bO})KC(PageRef)GVe1d48b1O'#LCbfI82Hlabel82I8bOdfIOC80J\pageref{80K8bO}ICPageRefGVe1d48b1P'!OC(bfMLabeldfM bfI8bOdfI)LC80J\label{8bO}GCLabelB8bOPN0E1fig:find,
+8fPLN2A0ISafa0e1aH   #1GCPSfigGVafa0e1aE'!2CC
+80C81J 81H 81L1faPccE(8bO,8bN)80P  8bM1faP81M 81H 81N
+8bK:  bfO8bLdfO
+5OC80J\begin{figure}80I\epsfxsize=8bO80I\epsfysize=8bN80I$$\epsffile{8bM}$$80I\caption{8bL}80I\label{8bK}80I\end{figure}1IC(x,y) [file] Name (Lab)GVafa0e1aF'!1IC
+80C81J 81H 81L1faP8bM1faP81M 81H 81N
+8bK: bfO8bLdfO
+5BC80J\begin{figure}80I\epsfxsize=8bO80I$$\epsffile{8bM}$$80I\caption{8bL}80I\label{8bK}80I\end{figure}1GC(x) [file] Name (Lab)GVafa0e1aG'!1IC
+80C81J 81H 81L1faP8bM1faP81M 81H 81N
+8bK: bfO8bLdfO
+5BC80J\begin{figure}80I\epsfysize=8bN80I$$\epsffile{8bM}$$80I\caption{8bL}80I\label{8bK}80I\end{figure}1GC(y) [file] Name (Lab)E8bO1BN0E1\textwidth8bM1BN0E3figfind.ps8bL2BN0E4The Find 8fPHN2A0: Replace Window.8bKPN0E5fig:find
+looks like a normal edit window, except that it has two equal-sized
+windowpanes. Each windowpane contains a separate document which is edited
+like a normal document. The upper pane contains the expression or text
+to search for, the lower one contains the replacement.  We call these the find and
+replacement expressions, respectively.  (Don't be confused by our use of the word
+``expression''.  Both ``expressions'' may well be just simple text.)
+
+At the top of the window, there are three buttons, 8fPIN2A0ISe196d18D   +2KCTextStyle1HCLatex2eA#TextStyleHelpGVe196d18N'!FC80JbfJ8bOdfJKC80J\emph{8bO}1CCbfMEmphasizeddfM textGVe196d18E'!DC80J8bOMC80J\textup{8bO}OCUpright shapeGVe196d18F'!FC80JbfM8bOdfMMC80J\textit{8bO}PCbfMItalicdfM shapeGVe196d18G'!FC80JbfJ8bOdfJMC80J\textsl{8bO}1ACbfJSlanteddfJ shapeGVe196d18H'!DC80J8bOMC80J\textsc{8bO}1FCSccBMALLcbPcbNCccBAPS cbNshapeGVe196d18I'!DC80J8bOMC80J\textmd{8bO}OCMedium seriesGVe196d18J'!FC80JbfO8bOdfOMC80J\textbf{8bO}OCbfOBolddfO seriesGVe196d18K'!DC80J8bOMC80J\textrm{8bO}NCRoman familyGVe196d18L'!FC80JbfI8bOdfIMC80J\textsf{8bO}1ECbfISans SerifdfI familyGVe196d18M'!FC80JbfH8bOdfHMC80J\texttt{8bO}1ECbfHTypewriterdfH familyGVe196d18O'!FC80JbfK8bOdfK1GC80J\textbf{80J\textit{8bO}}1NCbfKBolddfK series bfKItalicdfK shapeI8bOLN0E1Find8fPON2A028bIHN0E78bJHN0E68bKHN0E58bLPN0E48fPIN2A0I8bOLN0E1Find button8bMHN0E38bN1CN0E2Find button8bO1FN0E1find 8fPHN2A0: replace, 8fPIN2A0I8bOMN0E1Stack8fPON2A028bIHN0E78bJHN0E68bKHN0E58bLPN0E48fPIN2A0I8bOMN0E1Stack button8bMHN0E38bN1DN0E2Stack button8bO1FN0E1find 8fPHN2A0: replace and 8fPIN2A0I8bOLN0E1Done8fPON2A028bIHN0E78bJHN0E68bKHN0E58bLPN0E48fPIN2A0I8bOLN0E1Done button8bMHN0E38bN1CN0E2Done button8bO1FN0E1find 8fPHN2A0: replace.
+Under the 8fPIN2A0I8bOLN0E1Find button is a menu containing all the possible  search and/or 
+replacement  commands.
+Those available are:
+8fPIN2A0ISd555ce5O   (1JCManTableGVd555ce5J'!1EC
+81PbfH          dfH80B
+8bO82A
+2JC80J\begin{mantable}{20mm}80I8bO80I\end{mantable}1ACManTable (20mm)GVd555ce5K'!1CC
+81PbfH        dfH80B
+8bO82A
+2JC80J\begin{mantable}{15mm}80I8bO80I\end{mantable}1ACManTable (15mm)GVd555ce5L'!PC
+81PbfH    dfH80B 
+8bO82A
+2IC80J\begin{mantable}{8mm}80I8bO80I\end{mantable}PCManTable (8mm)GVd555ce5M'!JCbfO8bOdfO80C80E8bN80F
+NC80J\item[8bO] 8bN80I1BCItem (same line)GVd555ce5N'!KCbfO8bOdfO
+80C80E8bN80F
+NC80J\item[8bO] 8bN80I1BCItem (next line)GVfdb41f4K'!1GC
+81PbfH            dfH80B
+8bO82A
+2JC80J\begin{mantable}{25mm}80I8bO80I\end{mantable}1ACManTable (25mm)GVfc4a6c3E'!1JC
+81PbfH               dfH80B
+8bO82A
+2JC80J\begin{mantable}{30mm}80I8bO80I\end{mantable}1ACManTable (30mm)GVe113ff5L'!1MC
+81PbfH                  dfH80B
+8bO82A
+2JC80J\begin{mantable}{35mm}80I8bO80I\end{mantable}1ACManTable (35mm)S8bOLN0E18fPJN2A0V8bN7BN0E2Search for the expression in the upper pane starting from the position of the target
+selection or cursor. 8bOJN0E18fPIN2A0I8bOLN0E1Find8fPON2A028bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0I8bOLN0E1Find menu item8bMHN0E38bN1FN0E2Find menu item8bO1FN0E1find 8fPHN2A0: replace8fPJN2A0V8bN4KN0E2Replace the found expression with the expression in the lower pane.8bOJN0E18fPIN2A0I8bOON0E1Replace8fPON2A028bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0I8bOON0E1Replace menu item8bMHN0E38bN1IN0E2Replace menu item8bO1FN0E1find 8fPHN2A0: replace8fPJN2A0V8bN2BN0E2Perform a 8fPIN2A0I8bOON0E1Replace and then a  8fPIN2A0I8bOLN0E1Find.8bOJN0E18fPIN2A0I8bO1DN0E1Replace8fPHN2A0:Find8fPON2A028bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0I8bO1DN0E1Replace8fPHN2A0:Find menu item8bMHN0E38bN1NN0E2Replace8fPHN2A0:Find menu item8bO1FN0E1find 8fPHN2A0: replace8fPJN2A0V8bN8BN0E2Replace all occurrences of the upper expression from the current position of the
+target onwards with the lower expression.8bOJN0E18fPIN2A0I8bO1CN0E1Replace All8fPON2A028bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0I8bO1CN0E1Replace All menu item8bMHN0E38bN1MN0E2Replace All menu item8bO1FN0E1find 8fPHN2A0: replace
+
+Find 8fPHN2A0: replace actions may be parameterised by including place holders in the entered
+expressions.  (See 8fPIN2A0ISe04f743O   &1KCBook Ref.GVe04f743P#!1ICsection bfI8bOdfI in bfIfile:8bNdfI1DC80Jsection~\ref{8bN.8bO}GVe04f744A#!JCbfIfile:8bOdfI1GC80Jchapter~\ref{file:8bO}GVe04f744B#!MCsection bfI8bOdfI1DC80Jsection~\ref{8bN.8bO}GVe04f744C#!JCfig. bfI8bOdfI1DC80Jfig.\ \ref{fig:8bO}GVe04f744D#!KCtable bfI8bOdfI1FC80Jtable \ref{Table:8bO}GVe04f744E#!KCTable bfI8bOdfI1GC80J80JTable \ref{Table:8bO}\8bOLN0E1find.) Such place holders8fPON2A028bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2indexed8bO1DN0E1place holder are indexed, the indices being used in
+the obvious way to relate subexpressions in the find and replacement expressions.  
+
+The following checks are carried out before each find 8fPHN2A0: replace action.
+8fPIN2A0ISe1dbb24P   "21OCItemize                      3BCLatex2eB#Description, Enumerate and Itemize HelpGVe1dbb25A'!2HC81PbfMItemdfM80BbfMizedfM
+82Hitems82I8bO82A bfMEnd ItemizedfM
+2DC80J\begin{itemize}80I8bO 80I\end{itemize}80IICItemizeGVe1dbb25B'!1DC   221J 80C80E{82Htext82I8bO}80F
+LC80J\item 8bO 80IFCItema8bOJN0E18fPIN2A0`8bO4FN0E1Two place holders with the same index must have the same type.8fPIN2A0`8bO6JN0E1Each indexed place holder in the replace expression  occurs at least once in the 
+find expression.
+
+Both the replacement and the find expression can contain multiple copies of the same place holder.
+So, for example, you can search for  8fPMN0A08fPJN2A0ISe1ec428P   &22MCScripts                                    1FCLatex2eB#ScriptsHelpGVe1ec429A'"PC8fOccA81K 81L81M82Hsub82I8fN81N80PGC8fO_{8fN}IC8fO ccAsubcbOGVe1ec429B'"1BC8fOccA81K82Hsuper82I8fN81L 81M81N80PGC8fO^{8fN}KC8fO ccAsupercbOGVe1ec429C'"1JC8fOccA81K82Hsuper82I8fN81G81L 81M82Hsub82I8fM81G81N80PKC8fO^{8fN}_{8fM}JC8fO ccAbothcbOGVe1ec429D'"PCccA81K 81L81M82Hsub82I8fN81N80P8fOIC{}_{8fN}8fOICccAsub cbO8fOGVe1ec429E'"1BCccA81K82Hsuper82I8fN81L 81M81N80P8fOIC{}^{8fN}8fOKCccAsupercbO 8fOGVe1ec429F'"1JCccA81K82Hsuper82I8fN81G81L 81M82Hsub82I8fM81G81N80P8fOMC{}^{8fN}_{8fM}8fOJCccAbothcbO 8fOg8fOHN0A18fNIN0A218ePHN2B0ISafa0e20N#!#$0GVafa0e20J%"CC222HDC222H GVafa0e20K%"IC80G80F
+222H80C80E80HKC222H (split)GVafa0e20L%"CC222IDC222I GVafa0e20M%"IC80G80F
+222I80C80E80HKC222I (split)k8fPJN2A0g8fOHN0A18fNIN0A228ePHN2B0k8fPJN2A0g8fOHN0A18fNIN0A21 and replace it with 8fPMN0A08fPJN2A0g8fOHN0A18fNIN0A218ePHN2B0k8fPJN2A0g8fOHN0A18fNIN0A218ePHN2B0k8fPJN2A0g8fOHN0A18fNIN0A22 or
+8fPKN0A08fPJN2A0g8fOHN0A18fNIN0A218ePHN2B0k8fPJN2A0g8fOHN0A18fNIN0A22.
+
+A non-indexed place holder in the find expression matches an empty place holder in the 
+document being searched.  A non-indexed place holder in the replace  expression
+enters an empty place holder into the document when the replace action is executed.
+
+The rules for replacements are the same as the rules for copying: the type of the
+replacement  expression must be the same as or convertible to the type of the find
+expression. Thus, replacing text by an expression is possible, but the reverse isn't. In
+some situations the conversion is not correct, for example, replacing 8fPKN0A08fPIN0A0P8ePHN2B0i8fPIN0A0Q with
+8fPKN2A0ISafa0e1cJ   +1HCQuant.GVafa0e1bO#"LC220A(8cN: 8fM: 8fL)LC220A(8cN:~8fM:~8fL)GVafa0e1bP#"LC220D(8cN: 8fM: 8fL)LC220D(8cN:~8fM:~8fL)GVafa0e1cA#"MC229E.(8cN: 8fM: 8fL)OC{229E}.(8cN:~8fM:~8fL)GVafa0e1cB#"MC229D.(8cN: 8fM: 8fL)OC{229D}.(8cN:~8fM:~8fL)GVafa0e1cC#"LC8fO(8cN: 8fM: 8fL)LC8fO(8cN:~8fM:~8fL)GVafa0e1cD%"1KC80G8fO80B80E(80C80E8cN80F
+:80C80E8fM80F
+:80C80E8fL80F
+)80F80HMCMult. linesGVafa0e1cE#"JC220A(8cN:: 8fL)JC220A(8cN::~8fL)GVafa0e1cF#"JC220D(8cN:: 8fL)PC\exists(8cN::~8fL)GVafa0e1cG#"KC229D.(8cN:: 8fL)1BC{\sqcap}.(8cN::~8fL)GVafa0e1cH#"KC229E.(8cN:: 8fL)1BC{\sqcup}.(8cN::~8fL)GVafa0e1cI#"JC8fO(8cN:: 8fL)JC8fO(8cN::~8fL)v8cNHN0D28fMIN0A3P8fLKN0A48fPIN0A0P8ePHN2B0i8fPIN0A0Q in the sequence 8fPMN0A08fPIN0A0P8ePHN2B0i8fPIN0A0Q8ePHN2B0i8fPIN0A0R. This problem will be resolved in a future release. 
+
+The target after a 8fPIN2A0I8bOON0E1Replace is the replacement expression.  In other words, a 8fPIN2A0I8bOON0E1Replace
+does not have any side effect on the target selection such as moving it forward or
+backward in the document. This allows the possibility of a ``recursive'' replacement.  For
+example, suppose the expression in the upper pane is the text ``a'' and the replacement in
+the lower pane is ``bab''.  Then, a 8fPIN2A0I8bOLN0E1Find followed repeatedly by 8fPIN2A0I8bOON0E1Replace and 8fPIN2A0I8bOLN0E1Find (or
+equivalently 8fPIN2A0I8bO1DN0E1Replace8fPHN2A0:Find) will replace ``a'' successively by ``bab'', ``bbabb'', etc.   This
+can be useful when editing mathematical expressions but, more importantly, it means
+that 8fPIN2A0I8bO1CN0E1Replace All is 8fPIN2A0Q8bOKN0E1not the same as repeatedly executing 8fPIN2A0I8bOLN0E1Find followed by  8fPIN2A0I8bOON0E1Replace. 
+(It would otherwise be very easy to send the system into an endless loop.   The speed of
+conventional computers is also such that, even were we to provide a ``cancel'' button, the
+system would have exhausted all the available memory and crashed before the user had a
+chance to intervene!)  To guarantee termination at all times, 8fPIN2A0I8bO1CN0E1Replace All moves the
+target forward after each 8fPIN2A0I8bOON0E1Replace.   ``Replace all'' thus means ``replace all currently
+existing occurrences'' and does not mean that  there will be no remaining occurrences
+after completion of the action. 
+
+The 8fPIN2A0I8bOMN0E1Stack8fPON2A028bIHN0E78bJHN0E68bKHN0E58bLPN0E48fPIN2A0I8bOMN0E1Stack button8bMHN0E38bN1DN0E2Stack button8bO1FN0E1find 8fPHN2A0: replace button provides a primitive facility to record find 8fPHN2A0:
+replace actions.  These include saving find 8fPHN2A0: replace actions in a file, loading
+previously saved actions, and stacking  and retrieving actions within a session.
+The options listed are detailed below.
+8fPIN2A0S8bONN0E18fPJN2A0V8bN4MN0E2Load a set of find 8fPHN2A0: replace actions from a previously saved file.   8bOJN0E18fPIN2A0I8bOON0E1Load...8fPON2A028bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0I8bOON0E1Load... menu item8bMHN0E38bN1FN0E2load menu item8bO1FN0E1find 8fPHN2A0: replace8fPJN2A0V8bN3JN0E2Save a set of find 8fPHN2A0: replace actions in a file.   8bOJN0E18fPIN2A0I8bOON0E1Save...8fPON2A028bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0I8bOON0E1Save... menu item8bMHN0E38bN1FN0E2save menu item8bO1FN0E1find 8fPHN2A0: replace8fPJN2A0V8bN6IN0E2Replace the current find 8fPHN2A0: replace action by the one previous to
+the current action on the stack.8bOJN0E18fPIN2A0I8bOLN0E1Prev8fPON2A028bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0I8bOLN0E1Prev menu item8bMHN0E38bN1FN0E2prev menu item8bO1FN0E1find 8fPHN2A0: replace8fPJN2A0V8bN13LN0E2Replace the current find 8fPHN2A0: replace action by the next action on the 
+stack.  The current contents of the find 8fPHN2A0: replace window is
+simultaneously recorded in the stack, an empty entry causing the
+corresponding stack entry to be removed.  The find 8fPHN2A0: replace
+window will be cleared if there is no next action.  8bOJN0E18fPIN2A0I8bOLN0E1Next8fPON2A028bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0I8bOLN0E1Next menu item8bMHN0E38bN1FN0E2next menu item8bO1FN0E1find 8fPHN2A0: replace8fPJN2A0V8bN4MN0E2Clear the find 8fPHN2A0: replace window without recording the current
+action.8bOJN0E18fPIN2A0I8bOKN0E1New8fPON2A028bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0I8bOKN0E1New menu item8bMHN0E38bN1EN0E2new menu item8bO1FN0E1find 8fPHN2A0: replace8fPJN2A0V8bN3GN0E2Clear the contents of the find 8fPHN2A0: replace stack.8bOJN0E18fPIN2A0I8bOMN0E1Clear8fPON2A028bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0I8bOKN0E1New menu item8bMHN0E38bN1EN0E2new menu item8bO1FN0E1find 8fPHN2A0: replace
+The 8fPIN2A0I8bOON0E1Load... and 8fPIN2A0I8bOON0E1Save... open the file selector with the mask 
+set to 8fPIN2A0H8bOLN0E1.mpr8fPON2A028bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0H8bOKN0E1mpr8bMHN0E38bNKN0E2mpr8bOLN0E1file this being
+the standard extension for find 8fPHN2A0: replace action files. No warning is given if stacked
+actions have not been saved when exiting from the system.
+
+Repeated use of 8fPIN2A0I8bOLN0E1Next  will cause the stack to be built up.  Entries in the stack can be
+removed by returning to them with 8fPIN2A0I8bOLN0E1Prev, clearing the entry with  8fPIN2A0I8bOKN0E1New and then
+moving forward once more  with 8fPIN2A0I8bOLN0E1Next.
+
+ 
+A click on the 8fPIN2A0I8bOLN0E1Done8fPON2A028bIHN0E78bJHN0E68bKHN0E58bLPN0E48fPIN2A0I8bOLN0E1Done button8bMHN0E38bN1CN0E2Done button8bO1FN0E1find 8fPHN2A0: replace button will close the find 8fPHN2A0: replace window.
+
+Note that the find 8fPHN2A0: replace functions may be used with both text 
+and expressions.
+
+8fPKN2A0*8bMHN@E3"8bO2AN0E1Special Editing Functions8bNIN0E28fPHN2A0/
+The place holders in the find 8fPHN2A0: replace window may or may not have indices. 8fPON2A028bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1BN0E3with index8bN1DN0E2place holder8bO1FN0E1find 8fPHN2A0:
+replace(A place
+holder with no index8fPON2A028bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1EN0E3with no index8bN1DN0E2place holder8bO1FN0E1find 8fPHN2A0: replace will match only with an empty place holder.) Indices are used to
+make a connection between different arguments and are therefore very
+important.
+
+8fPHN2A0> will automatically number the indices. Each new place holder will
+get the first unused index. The indices will change while you are editing the
+expression, so change the indices only after you have finished the expression.
+You can remove an index8fPON2A028bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1KN0E3operations on index8bN1DN0E2place holder8bO1FN0E1find 8fPHN2A0: replace with the backspace or delete keys.
+
+The place holders are used like normal expressions. All the usual functions work
+also on place holders with indices. You can copy indexed place holders from one position
+to another, swap two (indexed) place holders, reverse a sequence of place holders or
+distribute an expression containing an indexed place holder over any sequence.
+
+If you wish to add an index to a non-indexed place holder, you can use the 8fPIN2A0K8bOKN0E1C-I key in
+combination with the universal argument. Thus to add index 4 to a place
+holder, select the place holder and type 8fPIN2A0K8bO1AN0E1C-U 4 C-I. You can also replace
+an existing index with a new one with the same function.
+
+
+8fPKN2A0*8bMHN@E3"8bO1EN0E1Some Examples8bNIN0E28fPHN2A0/
+The find 8fPHN2A0: replace window can be used for finding text, templates, identifiers, operators
+or parameterised expressions of a certain shape. In combination  with the replace
+function, spelling errors can be corrected and mathematical rules can be applied. The 
+find 8fPHN2A0: replace window is thus a powerful, general-purpose utility.  Just how versatile it is 
+is illustrated by a few representative examples.
+
+To search for normal text  just enter the text in the upper part of the window,
+place the cursor at the start position and click on the 8fPIN2A0I8bOLN0E1Find button. The first
+occurrence of the text after the cursor position is now highlighted. Another click
+on the 8fPIN2A0I8bOLN0E1Find button will move to the next occurrence. 
+
+If you want to replace a piece of text, just enter or copy the original text into the
+upper windowpane and the replacement text into the lower windowpane,  place the
+cursor at the start position and click on the 8fPIN2A0I8bOLN0E1Find button. The first occurrence is
+now highlighted and can be replaced by selecting the 8fPIN2A0I8bOON0E1Replace8fPON2A028bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0I8bOON0E1Replace menu item8bMHN0E38bN1IN0E2Replace menu item8bO1FN0E1find 8fPHN2A0: replace option  from the
+menu under the 8fPIN2A0I8bOLN0E1Find button. Alternatively, if after the replacement you wish to
+search for another occurrence of the text,  you could select the 8fPIN2A0I8bO1DN0E1Replace8fPHN2A0:Find8fPON2A028bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0I8bO1DN0E1Replace8fPHN2A0:Find menu item8bMHN0E38bN1NN0E2Replace8fPHN2A0:Find menu item8bO1FN0E1find 8fPHN2A0: replace
+menu option. 
+
+If several replacements are required you can  select the 
+8fPIN2A0I8bO1CN0E1Replace All8fPON2A028bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0I8bO1CN0E1Replace All menu item8bMHN0E38bN1MN0E2Replace All menu item8bO1FN0E1find 8fPHN2A0: replace menu option to replace all occurrences of the text without further
+ado. However,  this may not produce the result that is intended. For example,
+suppose you want to replace ``some'' with ``many'' and  enter ``some'' in the
+upper pane and ``many'' in the lower pane. The find function just
+searches for ``some'', which means that ``Some'' is not found while ``someone'' is.
+Thus replacing all occurrences is  a facility that should be used  cautiously.
+
+The keyboard functions, incremental-search and query-replace, can also be used for the
+same purpose. However, these functions can't be interrupted as easily as the find and
+replace functions.  This is awkward because, while you are searching or replacing text,
+you often want to edit something else, necessitating the use of the keyboard and
+demanding the cessation of the keyboard-initiated search operation.
+In contrast, because  the find-and-replace  functions
+use the cursor position and the expressions in the two parts of the window and not the
+keyboard, interruptions are permitted without requiring any special procedure
+whatsoever. So, you can always edit the document (or consult another document, or do
+anything you like) between two find or replace actions. After you have  finished editing,
+just reset the cursor to the position from which you want to continue searching and carry
+on with the find-and-replace action again. 
+
+Searching for and replacing operators is also possible. However, to find them
+all you have to search for them without their arguments. You can get an
+operator without arguments by copying only the operator, by clicking
+on the operator in a stencil palette and deleting the arguments or
+by using the 8fPIN2A0I8bO1BN0E1Insert Op. console command  and then clicking on the operator.
+
+You can use the replace function to change all the identifiers of a document. To replace
+every ``8fPIN0A0x'' in a document with a ``8fPIN0A0y'', enter ``8dPIN0C0x'' in the find window and ``8dPIN0C0y'' in the replace
+window.  Put the cursor at the beginning of the document and click on the 8fPIN2A0I8bO1CN0E1Replace
+All8fPON2A028bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0I8bO1CN0E1Replace All menu item8bMHN0E38bN1MN0E2Replace All menu item8bO1FN0E1find 8fPHN2A0: replace menu option. Now, every ``8fPIN0A0x'' is replaced by ``8fPIN0A0y''. The difference between this
+replace and the rename command is the fact that bound ``8fPIN0A0x'' 's are also renamed. The
+normal query-replace is different too because that command will also change the 
+``x'' 's in words like ``box'' or ``expression''. Thus, if you type ``8fPIN2A0ISe1d5e5bI   &2JCVerbatim1FCLatex2e#VerbatimHelpGVe1d5e5bJ'!ECbfH8bOdfHKC80J\verb+8bO+1JCShort-No `+' in contentsGVe1d5e5bK'!ECbfH8bOdfHKC80J\verb?8bO?1JCShort-No `?' in contentsGVe1d5e5bM'!ECbfH8bOdfHLC80J\verb*+8bO+2ICShort-No `+' in contents, spaces as ccB229EcbNGVe1d5e8dO'!ECbfH8bOdfHLC80J\verb*?8bO?2ICShort-No `?' in contents, spaces as ccB229EcbNGVe1d5e5bL'!GC
+bfH8bOdfH
+2EC80J\begin{verbatim}80I8bO80I\end{verbatim}80I1ICLong-more than one lineGVe1d5f98F'!GC
+bfH8bOdfH
+2GC80J\begin{verbatim*}80I8bO80I\end{verbatim*}80I2HCLong-more than one line, spaces as ccB229EcbN|8bOKN0E1$x$'' (the 8fPHN2A0ISe1cfa44M   %2GCLaTeX1CCLatex2e#LaTeXHelpGVe1cfa44N#!1FCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NXKC80J\LaTeX{}GVe1cfa44O#!MCT81K81L81K81L81ME81N81M81NXIC80J\TeX{}GVe1cfa45A#!1HCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NX23bF4AC80J{\mathsurround=0pt\LaTeX $2_80L{\textstyle 3bF}$\hspace{-0.4mm}}{}GVe1cfa45B#!1BCBccAIB80PT81K81L81K81L81ME81N81M81NX1FC80J80J\textsc{Bib}\TeX{}GVe1e4779B#!MCbfMMakeIndexdfMOCbfMMakeIndexdfM{}8A
+command for ``8fPIN0A0x''), the replace function will not rename such an ``8dPIN0C0x'', whereas the
+query-replace will.   (The situation is not likely to
+occur.  You will soon rid yourself of the habit of writing raw 8fPHN2A08A or 8fPHN2A08B!) 
+
+If you want to frequently change large expressions according to a particular rule, it is
+convenient to define the rule in the find-and-replace window, save it,
+and use it repeatedly. For instance, the rule8fPIN2A0ISe1ecc74K   &21GCEquation/Display     1PCLatex2eB#Equation/DisplayHelp GVe1ecc74L'!NC
+(bfMno.dfM)80C8fO
+
+2HC80J\begin{equation}80I80M8fO80K 80I\end{equation}80IMCEquation   GVe1ecc7aK'!1AC
+(82Hlabel82I8bN)80C8fO
+
+3AC80J\begin{equation}\label{8bN}80I80M8fO80K 80I\end{equation}80I1ECEquation -- bfMLabeldfMGVe1ecc77D'!2FC
+(bfMno.dfM)80C8fO  82Htext or punctuation82I8bM
+
+3EC80J\begin{equation}80I80M8fO\mbox{\ \ \ 80K8bM}80I\end{equation}80I1KCEquation followed by textGVe1ecc7eA'!2IC
+(82Hlabel82I8bN)80C8fO  82Htext or punctuation82I8bM
+
+3NC80J\begin{equation}\label{8bN}80I80M8fO\mbox{\ \ \ 80K8bM}80I\end{equation}80I2FCEquation followed by text -- bfMLabeldfMGVe1ecc75N'!GC
+80C8fO
+
+2MC80J\begin{displaymath}80I80M8fO 80I\end{displaymath}80I1FCDisplayed expressionGVe1ecc78N'!1OC
+80C8fO  82Htext or punctuation82I8bM
+
+3KC80J\begin{displaymath}80I80M8fO\mbox{\ \ \ 80K8bM}
+\end{displaymath}80I2GCDisplayed expression followed by text8D8fOKN0A18fPMN0A08fPKN0A08fPIN0A0a8ePHN6B0?ISafa0e1bC# .!0GVafa0e1bB!"CC·8I8fPJN0A08fPIN0A0x8ePHN2B0ISafa0e1aN" 4!0GVafa0e1aM#"IC81KccA280P81L81M81NFC{}^28J8ePHN2B0ISafa0e20I# -&0GVafa0e20C#"CC+IC{\plus}GVafa0e20D#"CC×EC{×}GVafa0e20E#"CC25bPGC\juncGVafa0e20F#"CC25bFHC\splitGVafa0e20G#"CC25bEJC\cosplitGVafa0e20H#"CC25bOIC\cojunc8P8fPKN0A08fPIN0A0b8ePHN2B08I8fPIN0A0x8ePHN2B08P8fPIN0A0c8ePHN2B0ISafa0e22G# %$0GVafa0e22C!"CC=GVafa0e22D!"IC80G80F
+=80C80E80HGVafa0e22E!"CC226AGVafa0e22F!"DC:=9D8fPMN0A08fPIN0A0a8ePHN6B0A8I8fPKN1A08fPIN0A0x8ePHN6B0A8P8fPJN2A0ISe13cd3fG   #2KCFractions1HCLatex2eB#FractionsHelpGVe26e4f2H'"IC81K8fO81L81H81M8fN81NMC\frac{8fO}{8fN}1NCenvironment determines styleGVe13cd3fH'"IC81K8fO81L81H81M8fN81N1LC{\displaystyle\frac{8fO}{8fN}}NCDisplayStyleGVe1eb2b4O'"KCccA81K8fO81L81H81M8fN81N80P1IC{\textstyle\frac{8fO}{8fN}}MCInlineStyle9F8fOKN0A18fPIN0A0b8ePHN2B08P8fPIN2A0ISe1eb5f7M   "2OCRoots        1CCLatex2eB#RootHelpGVe1eb5f7N'"MC81J   81H81L221K 8fO81M81NJC\sqrt{8fO}NCsquare root.GVe1eb5f7O'"1AC81JccB8fN80P81L81G221K81M81N81J81H81L8fO81M81NMC\sqrt[8fN]{8fO}LCn-th root.9I8fOKN0A18fPJN0A08fPIN0A0b8ePHN2B08J8ePHN2B0ISe12fcdbL# -"0GVe12fcdbM#"CC+IC{\plus}GVe12fcdbN!"CC-9J8fPMN0A08fPIN0A048ePHN2B08I8fPIN0A0a8ePHN2B08I8fPIN0A0c8fNKN0A28fPIN0A028ePHN2B08I8fPIN0A0a8ePHN6B0A8I8fPKN1A08fPIN0A0x8ePHN6B0A8P8fPJN2A09F8fOKN0A18fPIN0A0b8ePHN2B09J8fPIN2A09I8fOKN0A18fPJN0A08fPIN0A0b8ePHN2B08J8ePHN2B09J8fPMN0A08fPIN0A048ePHN2B08I8fPIN0A0a8ePHN2B08I8fPIN0A0c8fNKN0A28fPIN0A028ePHN2B08I8fPIN0A0acan be entered as a find-and-replace operation. The upper pane should be set to contain
+8fPIN2A08D8fOMN0A18fPKN0A08fPJN2A0g8fOHN0A18fNIN0A218ePHN6B0?8I8fPJN0A08fPJN2A0g8fOHN0A18fNIN0A248ePHN2B08J8ePHN2B08P8fPKN0A08fPJN2A0g8fOHN0A18fNIN0A228ePHN2B08I8fPJN2A0g8fOHN0A18fNIN0A248ePHN2B08P8fPJN2A0g8fOHN0A18fNIN0A23while the lower pane should contain8fPIN2A08D8fOMN0A18fPJN2A0g8fOHN0A18fNIN0A218ePHN6B0A8I8fPKN1A08fPJN2A0g8fOHN0A18fNIN0A248ePHN6B0A8P8fPJN2A09F8fOKN0A18fPJN2A0g8fOHN0A18fNIN0A228ePHN2B08P8fPIN2A09I8fOKN0A18fPJN0A08fPJN2A0g8fOHN0A18fNIN0A228ePHN2B08J8ePHN2B09J8fPMN0A08fPIN0A048ePHN2B08I8fPJN2A0g8fOHN0A18fNIN0A218ePHN2B08I8fPJN2A0g8fOHN0A18fNIN0A238fNKN0A28fPIN0A028ePHN2B08I8fPJN2A0g8fOHN0A18fNIN0A218ePHN6B0A8I8fPKN1A08fPJN2A0g8fOHN0A18fNIN0A248ePHN6B0A8P8fPJN2A09F8fOKN0A18fPJN2A0g8fOHN0A18fNIN0A228ePHN2B09J8fPIN2A09I8fOKN0A18fPJN0A08fPJN2A0g8fOHN0A18fNIN0A228ePHN2B08J8ePHN2B09J8fPMN0A08fPIN0A048ePHN2B08I8fPJN2A0g8fOHN0A18fNIN0A218ePHN2B08I8fPJN2A0g8fOHN0A18fNIN0A238fNKN0A28fPIN0A028ePHN2B08I8fPJN2A0g8fOHN0A18fNIN0A21Now, you can rewrite simple expressions:8fPIN2A08D8fOMN0A18fPKN0A08fPIN0A018ePHN2B08I8fPJN0A08fPIN0A0x8ePHN2B08J8ePHN2B08P8fPKN0A08fPJN0A08ePHN2B0ISafa0e1aL! 4!0GVafa0e1aK!"CC-9L8fPIN0A058ePHN2B08I8fPIN0A0x8ePHN2B08P8fPIN0A06becomes8fPIN2A08D8fOMN0A18fPIN0A018ePHN6B0A8I8fPKN1A08fPIN0A0x8ePHN6B0A8P8fPJN2A09F8fOKN0A18fPJN0A08ePHN2B09L8fPIN0A058ePHN2B08P8fPIN2A09I8fOKN0A18fPJN0A08fPJN1A08ePHN2B09L8fPIN0A058ePHN2B08J8ePHN2B09J8fPMN0A08fPIN0A048ePHN2B08I8fPIN0A018ePHN2B08I8fPIN0A068fNKN0A28fPIN0A028ePHN2B08I8fPIN0A018ePHN6B0A8I8fPKN1A08fPIN0A0x8ePHN6B0A8P8fPJN2A09F8fOKN0A18fPJN0A08ePHN2B09L8fPIN0A058ePHN2B09J8fPIN2A09I8fOKN0A18fPJN0A08fPJN1A08ePHN2B09L8fPIN0A058ePHN2B08J8ePHN2B09J8fPMN0A08fPIN0A048ePHN2B08I8fPIN0A018ePHN2B08I8fPIN0A068fNKN0A28fPIN0A028ePHN2B08I8fPIN0A01and8fPIN2A08D8fOMN0A18fPKN0A08fPKN1A08fPIN0A0x8ePHN2B08P8fPIN0A0y8ePHN2B08I8fPJN0A08fPIN0A0x8ePHN2B08J8ePHN2B08P8fPKN0A08fPIN0A0y8ePHN2B08I8fPIN0A0x8ePHN2B08P8fPIN0A0ybecomes8fPIN2A08D8fOMN0A18fPKN1A08fPIN0A0x8ePHN2B08P8fPIN0A0y8ePHN6B0A8I8fPKN1A08fPIN0A0x8ePHN6B0A8P8fPJN2A09F8fOKN0A18fPIN0A0y8ePHN2B08P8fPIN2A09I8fOKN0A18fPJN0A08fPIN0A0y8ePHN2B08J8ePHN2B09J8fPMN0A08fPIN0A048ePHN2B08I8fPKN1A08fPIN0A0x8ePHN2B08P8fPIN0A0y8ePHN2B08I8fPIN0A0y8fNKN0A28fPIN0A028ePHN2B08I8fPKN1A08fPIN0A0x8ePHN2B08P8fPIN0A0y8ePHN6B0A8I8fPKN1A08fPIN0A0x8ePHN6B0A8P8fPJN2A09F8fOKN0A18fPIN0A0y8ePHN2B09J8fPIN2A09I8fOKN0A18fPJN0A08fPIN0A0y8ePHN2B08J8ePHN2B09J8fPMN0A08fPIN0A048ePHN2B08I8fPKN1A08fPIN0A0x8ePHN2B08P8fPIN0A0y8ePHN2B08I8fPIN0A0y8fNKN0A28fPIN0A028ePHN2B08I8fPKN1A08fPIN0A0x8ePHN2B08P8fPIN0A0yAs illustrated by these examples, 8fPHN2A0> has to match every part of the expression.
+The expression 8fPKN0A08fPIN0A018ePHN2B08I8fPJN0A08fPIN0A0x8ePHN2B08J is completely different from 8fPJN0A08fPIN0A0x8ePHN2B08J, although it is mathematically equal.
+Also 8fPKN0A08fPJN0A08ePHN2B09L8fPIN0A058ePHN6B0?8I8fPIN0A0x differs from 8fPJN0A08ePHN6B0A9J8fPKN0A08fPIN0A058ePHN2B08I8fPIN0A0x (in the former 8fPIN0A05 is negated, in the latter  8fPKN0A08fPIN0A058ePHN2B08I8fPIN0A0x).   Such
+``knowledge'' of arithmetic is not built into 8fPHN2A0> making it sometimes seemingly 
+cumbersome to use in familiar areas of mathematics. Note, however, that   8fPHN2A0>
+can match subexpressions like 8fPKN0A08fPIN0A0x8ePHN2B08P8fPIN0A0y as arguments and that  parentheses and spacing are
+ignored in the matching process. When a replacement is made, the parentheses and
+spacing are added as specified in the replace expression. The find 8fPHN2A0: replace can
+therefore be used to remove parentheses or add spacing. 8fPON2A028bIIN0E7)8bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNHN0E28bO1FN0E1find 8fPHN2A0: replace  
+

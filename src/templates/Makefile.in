@@ -1,0 +1,19 @@
+
+TOPSRCDIR = @top_srcdir@
+TOPOBJ    = .
+SRCDIR    = @srcdir@
+VPATH     = @srcdir@
+
+SOURCE = notatype.c 
+
+LIBRARIES = libtemplates.la
+
+@MAKE_RULES@
+
+all: libtemplates.la
+
+libtemplates.la: $(LTOBJECTS)
+	$(LINK) -o libtemplates.la -rpath $(libdir) $(LTOBJECTS)
+
+match: libtemplates.la match.o
+	$(LINK) -o match match.o libtemplates.la ../util/libutil.la ../treeedit/libtreeedit.la

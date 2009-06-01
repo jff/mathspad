@@ -1,0 +1,115 @@
+#include <X11/Xlib.h>
+
+XClearArea(
+    Display*            display,
+    Window              w,
+    int                 x,
+    int                 y,
+    unsigned int        width,
+    unsigned int        height,
+    Bool                exposures
+) { return 0; }
+XClearWindow(
+    Display*            display,
+    Window              w
+) { return 0; }
+Window XCreateSimpleWindow(
+    Display*            display,
+    Window              parent,
+    int                 x,
+    int                 y,
+    unsigned int        width,
+    unsigned int        height,
+    unsigned int        border_width,
+    unsigned long       border,
+    unsigned long       background
+) { return 0; }
+XDrawLine(
+    Display*            display,
+    Drawable            d,
+    GC                  gc,
+    int                 x1,
+    int                 x2,
+    int                 y1,
+    int                 y2
+) { return 0; }
+
+XDrawLines(
+    Display*            display,
+    Drawable            d,
+    GC                  gc,
+    XPoint*             points,
+    int                 npoints,
+    int                 mode
+) { return 0; }
+
+XDrawString(
+    Display*            display,
+    Drawable            d,
+    GC                  gc,
+    int                 x,
+    int                 y,
+    _Xconst char*       string,
+    int                 length
+) { return 0; }
+XDrawText(
+    Display*            display,
+    Drawable            d,
+    GC                  gc,
+    int                 x,
+    int                 y,
+    XTextItem*          items,
+    int                 nitems
+) { return 0; }
+
+int XEventsQueued(
+    Display*            display,
+    int                 mode
+) { return 0; }
+XFillPolygon(
+    Display*            display,
+    Drawable            d,
+    GC                  gc,
+    XPoint*             points,
+    int                 npoints,
+    int                 shape,
+    int                 mode
+) { return 0; }
+
+XFillRectangle(
+    Display*            display,
+    Drawable            d,
+    GC                  gc,
+    int                 x,
+    int                 y,
+    unsigned int        width,
+    unsigned int        height
+) { return 0; }
+XFlush(
+    Display*            display
+) { return 0; }
+XFree(
+    void*               data
+) { return 0; }
+
+static XFontStruct fontstruct = {
+	0,1,0,0,0,0,256,1,32,0,0,{0,0,10,12,4},{0,0,10,12,4},0,12,4};
+XFontStruct *XLoadQueryFont(
+    Display*            display,
+    _Xconst char*       name
+) { return &fontstruct; }
+long XMaxRequestSize(
+    Display*            display
+) { return 0; }
+XNextEvent(
+    Display*            display,
+    XEvent*             event_return
+) { return 0; }
+XPeekEvent(
+    Display*            display,
+    XEvent*             event_return
+) { return 0; }
+XUnloadFont(
+    Display*            display,
+    Font                font
+) { return 0; }

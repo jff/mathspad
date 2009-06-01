@@ -1,0 +1,35 @@
+
+Include "libint.so"
+
+Var Int reg1, reg2
+
+Function fac(IntRef r, Int a)
+{
+	r:=1;
+	PrintInt("A:",a);
+	PrintInt("R:",r);
+	do (a>0)
+	    r:=r*a; a:=a-1;
+	    PrintInt("A:",a);
+	    PrintInt("R:",r);
+	od;
+	a:=IntMult(5,6);
+	PrintInt("A:",a);
+}
+
+Function CallFac()
+{
+	UpdateVar(reg1);
+	UpdateVar(reg2);
+	fac(reg1, reg1);
+	UpdateEdit(reg1);
+}
+
+Assign(36,reg1);
+Assign(6,reg2);
+fac(reg1, reg2);
+PrintInt("Reg1:",reg1);
+PrintInt("Reg2:",reg2);
+IntMult(reg1,reg1,reg2);
+PrintInt("Reg1:",reg1);
+PrintInt("Reg2:",reg2);

@@ -1,0 +1,1281 @@
+[4mMathpad Document
+[0m853NN0E08fPIN2A0ISfe1c3a6C   "1FClinkGVfe1c3a6J'!DC80J BC1ACLink (editable)GVfe1c3b0O'!DC80J BCOCLink (hidden) 8bO1KN0E1help:Define.Version8fPKN2A0ISe1d4f11P   +2PCSectionHeading2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f1aC'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+HC80J8bN{8bO}80IKC{heading}GVe1d4f20A'!3CC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80IPC[toc]{heading}GVe1d4f27D'!2MC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1CC[no no.]{heading}GVe1d4f2aE'!2NC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1AC80J8bN{8bO}\label{8bM}80IPC{heading}labelGVe1d4f2eB'!3LC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1EC[toc]{heading}labelGVe1d4f12M'!3FC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1BC80J8bN*{8bO}\label{8bM}80I1HC[no no.]{heading}labelGVe1d4f12H'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80I1EChide-[toc]{heading}GVe1d4f12I'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1IChide -[no no.]{heading}GVe1d4f12J'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1AC80J8bN{8bO}\label{8bM}80I1EChide-{heading}labelGVe1d4f12K'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1JChide-[toc]{heading}labelGVe1d4f12L'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1BC8bN80J*{8bO}\label{8bM}80I1MChide-[no no.]{heading}label)8bM1NN0E3file:VersionDefinition8bO1JN0E1Version Definition8bNIN0E28fPHN2A0ISe1d4f86L   '21ACSectioningTypes2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f86M#!JCcbLbfKPartdfK80PHC80J\partGVe1d4f86N#!MCcbMbfKChapterdfK80PKC80J\chapterGVe1d4f86O'!MCcbNbfKSectiondfK80PKC80J\sectionMCcbObfKSectiondfKccAGVe1d4f86P#!PCcbObfKSubSectiondfK80PNC80J\subsectionGVe1d4f87A#!1ACbfKSubSubSectiondfK1AC80J\subsubsectionGVe1d4f87B#!MCbfKParagraphdfKMC80J\paragraphGVe1d4f87C#!PCbfKSubParagraphdfKPC80J\subparagraph28fPKN2A0,8bMHN@E3"8bO1DN0E1Introduction8bNIN0E28fPHN2A01
+8fPON2A0ISe1ce08fJ   "2GCEntry1ECLatex2eC#MakeIndex GVe1ce08fK'!11IC80JbfKIndex EntrydfK
+bfMprimary sort key:dfM80C8bO
+bfMsub sort key:dfM80C8bN
+bfMsubsub sort keydfM80C8bM
+bfMvisual key if different from sort key:dfM80C80C8bL
+bfMif start of range of pages set holder to dfM ( 80C8bK
+bfMfont type for page nr. if non-standarddfM80C8bJ
+bfMif end of range of pages set holder to dfM ) 80C8bI
+bfKEnd of Index EntrydfK
+2EC80J\mpindexnew{8bO}{8bN}{8bM}{8bL}{8bK}{8bJ}{8bI}{}1CCenter index entryGVe1ce08fL'!KC80JbfK81Ji81L 81M81NdfK2EC80J\mpindexnew{8bO}{8bN}{8bM}{8bL}{8bK}{8bJ}{8bI}{}1EChide index commands48bIHN0E78bJHN0E68bKIN0E5(8bLHN0E48bMHN0E38bNHN0E28bO2EN0E1template specification window
+In this chapter we describe in detail how to define a version of a template.
+As mentioned in 8fPJN2A0ISe04f743O   &1KCBook Ref.GVe04f743P#!1ICsection bfI8bOdfI in bfIfile:8bNdfI1DC80Jsection~\ref{8bN.8bO}GVe04f744A#!JCbfIfile:8bOdfI1GC80Jchapter~\ref{file:8bO}GVe04f744B#!MCsection bfI8bOdfI1DC80Jsection~\ref{8bN.8bO}GVe04f744C#!JCfig. bfI8bOdfI1DC80Jfig.\ \ref{fig:8bO}GVe04f744D#!KCtable bfI8bOdfI1FC80Jtable \ref{Table:8bO}GVe04f744E#!KCTable bfI8bOdfI1GC80J80JTable \ref{Table:8bO};8bN1LN0E2StencilsandTemplates8bO2CN0E1TemplateSpecificationWindow
+this is done in a section of the define window's windowpane called a version
+specification8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1MN0E1version specification. Each version of the template has its own version specification section.
+
+The version specification has three fields. These are labelled ``Screen'', ``Output'' 
+and ``Name''. 
+The ``Name'' field is used in the pin-up menu that lists
+the versions of a template that are available and may be left blank. In this case
+8fPHN2A0ISafa0e17G   !0GVafa0e17F#!MC80JbfIMath222LpaddfILC80J\mplogo{}< will invent a name based on the screen format. This usually
+suffices for simple cases but quickly becomes inadequate.
+
+The ``Screen'' field normally displays a term in a screen format command
+language8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO2FN0E1screen format command language indicating how the version is to be displayed on the screen.   The ``Output'' field
+determines the output that is to be produced by 8fPHN2A0< when the 8fPIN2A0ISe196d18D   +2KCTextStyle1HCLatex2eA#TextStyleHelpGVe196d18N'!FC80JbfJ8bOdfJKC80J\emph{8bO}1CCbfMEmphasizeddfM textGVe196d18E'!DC80J8bOMC80J\textup{8bO}OCUpright shapeGVe196d18F'!FC80JbfM8bOdfMMC80J\textit{8bO}PCbfMItalicdfM shapeGVe196d18G'!FC80JbfJ8bOdfJMC80J\textsl{8bO}1ACbfJSlanteddfJ shapeGVe196d18H'!DC80J8bOMC80J\textsc{8bO}1FCSccBMALLcbPcbNCccBAPS cbNshapeGVe196d18I'!DC80J8bOMC80J\textmd{8bO}OCMedium seriesGVe196d18J'!FC80JbfO8bOdfOMC80J\textbf{8bO}OCbfOBolddfO seriesGVe196d18K'!DC80J8bOMC80J\textrm{8bO}NCRoman familyGVe196d18L'!FC80JbfI8bOdfIMC80J\textsf{8bO}1ECbfISans SerifdfI familyGVe196d18M'!FC80JbfH8bOdfHMC80J\texttt{8bO}1ECbfHTypewriterdfH familyGVe196d18O'!FC80JbfK8bOdfK1GC80J\textbf{80J\textit{8bO}}1NCbfKBolddfK series bfKItalicdfK shape?8bONN0E1Output button
+at the head of a document window is selected.  Built into 8fPHN2A0< is a
+mechanism for automatically generating  8fPHN2A0ISe1cfa44M   %2GCLaTeX1CCLatex2e#LaTeXHelpGVe1cfa44N#!1FCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NXKC80J\LaTeX{}GVe1cfa44O#!MCT81K81L81K81L81ME81N81M81NXIC80J\TeX{}GVe1cfa45A#!1HCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NX23bF4AC80J{\mathsurround=0pt\LaTeX $2_80L{\textstyle 3bF}$\hspace{-0.4mm}}{}GVe1cfa45B#!1BCBccAIB80PT81K81L81K81L81ME81N81M81NX1FC80J80J\textsc{Bib}\TeX{}GVe1e4779B#!MCbfMMakeIndexdfMOCbfMMakeIndexdfM{}L  code corresponding to the screen
+version but the user is free to override this mechanism so causing 8fPHN2A0< to
+generate code for any ascii-based markup language.  
+ 
+The screen format command language8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO2FN0E1screen format command language should be reasonably self-explanatory.
+Statements of this language are displayed in a small bold font whilst user input is
+displayed in the default font.  Most of the commands consist of a single token
+made up of the menu item used to enter the command bracketed by the symbols
+``8fPIN2A0ISafa0e19C   !0GVafa0e19B'!HC80Jc4AbfO8bOdfO80PHC80Jc4BbfO8bOdfO80PHCSymbolM8bOIN0E1['' and ``8fPIN2A0M8bOIN0E1]''.  Examples are 8fPIN2A0M8bOMN0E1[tab] and 8fPIN2A0M8bONN0E1[Line].  
+Table 8fPIN2A0ISe1d48b1L   %21DCRef(within doc)   1MCLatex2e#Ref(within doc)HelpGVe1d48b1M'!NC(bfI82Hlabel82I8bOdfI)LC80J(\ref{8bO})GC(Ref)GVe1d48b1N'!LCbfI82Hlabel82I8bOdfIJC80J\ref{8bO}ECRefGVe1d48c4C'#NC(bfI82Hlabel82I8bOdfI)1AC80J(\pageref{80K8bO})KC(PageRef)GVe1d48b1O'#LCbfI82Hlabel82I8bOdfIOC80J\pageref{80K8bO}ICPageRefGVe1d48b1P'!OC(bfMLabeldfM bfI8bOdfI)LC80J\label{8bO}GCLabelQ8bO1JN0E1tab:DefTemp.tokens lists the commands that use multiple tokens in order to define 
+their scope or to separate their fields.
+8fPLN2A0ISe1e728fL   42GCTable1ECLatex2eA#floatsHelpGVe1e728fM'!4MCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+3HC80J\begin{table}[8bL]80I8bO 80I\caption{8bN}\label{8bM}80I\end{table}80I1HCtable/capt/label/placeGVe1e728fN'!3JCbfOBegin TabledfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+3FC80J\begin{table}80I8bO 80I\caption{8bN}\label{8bM}80I\end{table}%80I1BCtable/capt/labelGVe1e728fO'!4CCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+2OC80J\begin{table}[8bL]80I8bO 80I\caption{8bN}80I\end{table}80I1BCtable/capt/placeGVe1e728fP'!2PCbfOBegin TabledfO
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+2LC80J\begin{table}80I8bO 80I\caption{8bN}80I\end{table}80ILCtable/captGVe1e7290A'!3HCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+bfOEnd TabledfO
+2CC80J\begin{table}[8bL]80I8bO 80I\end{table}80IMCtable/placeGVe1e7290B'!2ECbfOBegin TabledfO
+82Htable82I8bO
+bfOEnd TabledfO
+1PC80J\begin{table}80I8bO 80I\end{table}80IGCtableGVe1e7290C'!6ECbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+3LC80J\begin{table}[8bL]80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table}%80I2BCtable/capt+LOT entry/label/placeGVe1e7290D'!5BCbfOBegin TabledfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+3HC80J\begin{table}80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table}80I1LCtable/capt+LOT entry/labelGVe1e7290E'!5KCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+3BC80J\begin{table}[8bL]80I8bO 80I\caption[8bK]{8bN}80I\end{table}80I1LCtable/capt+LOT entry/placeGVe1e7290F'!4HCbfOBegin TabledfO
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+2OC80J\begin{table}80I8bO 80I\caption[8bK]{8bN}80I\end{table}80I1FCtable/capt+LOT entryGVe1e7abcJ'!4OCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+3JC80J\begin{table*}[8bL]80I8bO 80I\caption{8bN}\label{8bM}80I\end{table*}80I1PCtable*(2-col)/capt/label/placeGVe1e7abdD'!3LCbfOBegin Table*dfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+3GC80J\begin{table*}80I8bO 80I\caption{8bN}\label{8bM}80I\end{table*}80I1JCtable*(2-col)/capt/labelGVe1e7abdK'!4ECbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+3AC80J\begin{table*}[8bL]80I8bO 80I\caption{8bN}80I\end{table*}80I1JCtable*(2-col)/capt/placeGVe1e7abeH'!3BCbfOBegin Table*dfO
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+2NC80J\begin{table*}80I8bO 80I\caption{8bN}80I\end{table*}80I1DCtable*(2-col)/captGVe1e7ac0F'!3JCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+bfOEnd Table*dfO
+2EC80J\begin{table*}[8bL]80I8bO 80I\end{table*}80I1ECtable*(2-col)/placeGVe1e7ac1D'!2GCbfOBegin Table*dfO
+82Htable82I8bO
+bfOEnd Table*dfO
+2BC80J\begin{table*}80I8bO 80I\end{table*}80IOCtable*(2-col)GVe1e7ac1L'!6GCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3MC80J\begin{table*}[8bL]80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table*}80I2JCtable*(2-col)/capt+LOT entry/label/placeGVe1e7ac5E'!5DCbfOBegin Table*dfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3JC80J\begin{table*}80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table*}80I2DCtable*(2-col)/capt+LOT entry/labelGVe1e7ac2I'!5MCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3DC80J\begin{table*}[8bL]80I8bO 80I\caption[8bK]{8bN}80I\end{table*}80I2DCtable*(2-col)/capt+LOT entry/placeGVe1e7ac3B'!4JCbfOBegin Table*dfO
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3AC80J\begin{table*}80I8bO 80I\caption[8bK]{8bN}80I\end{table*}80I1NCtable*(2-col)/capt+LOT entryf8bN2NN0E2Multiple-token screen format commands.8bOIN0E18fPIN2A0ISe1cfae7F   #2NCLayout-c,l,r1JCLatex2e#Layout-c,l,rHelpGVe1cfae7G'!GC
+82B8bO82C
+2BC80J80I\begin{center}80I8bO80I\end{center}80IHCCenterGVe1cfae7H'!GC
+82B8bO82C
+2HC80J80I\begin{flushleft}80I8bO80I\end{flushleft}80IKCFlushleftGVe1cfae7I'!GC
+82B8bO82C
+2JC80J80I\begin{flushright}80I8bO80I\end{flushright}80ILCFlushrighti8bOIN0E18fPLN2A0ISe1fd9e6J   &21DCTabular-Enter     1FCLatex2eB#TabularHelpGVe1fd9e6K'!7DCbfMTabular  ( alignment code: dfM82H|x|  where x=l, c or r for the col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col 82I8bO80B1faP81M 81H 81N
+8bH81J81L80C 82D80C 82D 81M 81H 81N82A
+4AC80J\begin{tabular}{8bI}\hline 80I8bO \\ \hline 80I8bH\hline 80I\end{tabular}80IHC1 col.GVe1fd9e6L'!8ECbfMTabular  ( alignment code: dfM82H|x|x| where x=l, c or r for each col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C 82D 81M 81H 81N82A
+4EC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN \\ \hline 80I8bH\hline 80I\end{tabular}80IHC2 col.GVe1fd9e6M'!9GCbfMTabular  ( alignment code: dfM82H|x|x|x| where x=l, c or r for each col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C 82D 81M 81H 81N82A
+4HC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN & 8bM\\ \hline 80I8bH\hline 80I\end{tabular}80IHC3 col.GVe1fd9e6N'!8MCbfMTabular  ( alignment code: dfM82He.g.|l|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+4MC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL\\ \hline 80I8bH\hline 80I\end{tabular}80IHC4 col.GVe1fd9e6O'!9OCbfMTabular  ( alignment code: dfM82He.g.|l|c|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B82D 82Hhead col82I8bK80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+5AC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL & 8bK\\ \hline 80I8bH\hline 80I\end{tabular}80IHC5 col.GVe1fd9e6P'!bACbfMTabular  ( alignment code: dfM82He.g.|l|c|c|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B82D 82Hhead col82I8bK80B82D 82Hhead col82I8bJ80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+5EC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL & 8bK & 8bJ\\ \hline 80I8bH\hline 80I\end{tabular}80IHC6 col.n8bHPN0E88fPJN2A0ISe1fd9e7H   &2MCTabular-Row1FCLatex2eB#TabularHelpGVe1fd9e7I'!KC80C 82D 8bO80C 82D
+HC80J8bO\\ 80IKCRow 1-colGVe1fd9e7J'!PC80C 82D 8bO80C82D 8bN80C 82D 
+MC80J8bO & 8bN \\ 80IKCRow 2-colGVe1fd9e7K'!1DC80C 82D 8bO80C82D 8bN80C82D 8bM80C 82D 
+1AC80J8bO & 8bN & 8bM \\ 80IKCRow 3-colGVe1fd9e7L'!1HC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C 82D 
+1DC80J8bO & 8bN & 8bM & 8bL\\ 80IKCRow 4-colGVe1fd9e7M'!1LC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C82D 8bK80C 82D 
+1JC80J8bO & 8bN & 8bM & 8bL  &  8bK\\ 80IKCRow 5-colGVe1fd9e7N'!2AC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C82D 8bK80C82D  8bJ80C 82D 
+1PC80J8bO & 8bN & 8bM & 8bL  &  8bK  &  8bJ\\ 80IKCRow 6-colt8bN1LN0E28fPIN2A0M8bOKN0E1[8fPIN2A0E8bOLN0E1name:  8fPIN2A0M8bOIN0E1]  where 8fPIN2A0E8bOLN0E1name is the8bO1DN0E1Font8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0?8bOLN0E1Font8bMLN0E3Font8bN1DN0E2command menu8bO1EN0E1define window change8fPJN2A0t8bN1ON0E2 name of a loaded font.8bOIN0E1 8fPJN2A0t8bN1KN0E28fPIN2A0M8bOPN0E1[SizeR8fPIN2A0E8bOIN0E1n:  8fPIN2A0M8bOIN0E1] where 8fPIN2A0E8bOIN0E1n is the8bO1DN0E1Size8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0?8bOLN0E1Size8bMLN0E3Size8bN1DN0E2command menu8bO1EN0E1define window change8fPJN2A0t8bN1NN0E2 relative size change.8bOIN0E1 8fPJN2A0t8bN1BN0E28fPIN2A0M8bOPN0E1[StackB:  8fPIN2A0M8bOIN0E1:  8fPIN2A0M8bOIN0E1:  8fPIN2A0M8bOIN0E1]8bO1BN0E1Stack Base8fPJN2A0t8bN1BN0E28fPIN2A0M8bOPN0E1[StackC:  8fPIN2A0M8bOIN0E1:  8fPIN2A0M8bOIN0E1:  8fPIN2A0M8bOIN0E1]8bO1DN0E1Stack Centre8fPJN2A0t8bNLN0E28fPIN2A0M8bO1AN0E1[Tabbing:  8fPIN2A0M8bOIN0E1]8bOON0E1Tabbing8fPJN2A0t8bNLN0E28fPIN2A0M8bO1AN0E1[Display:  8fPIN2A0M8bOIN0E1]8bOON0E1Display8bN4FN0E2Tokens                                                        8bO2DN0E1Command                     8bIMN0E7|l|l|8bM1JN0E3tab:DefTemp.tokens8bLKN0E4htb
+
+Note that whereas the closing braces all look the same they are in fact different.
+8fPHN2A0< will ensure that the different braces are used in matching pairs and
+are nested correctly.  The ``8fPIN2A0M8bOIN0E1R'' in the size change command stands for
+``Relative''.  (An earlier implementation had an absolute size change command
+which may be reinstated sometime in the future.)
+%8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOIN0E18fPIN2A0A8bO2BN0E1Features to be implemented
+
+The  small bold font used in the ``Screen'' field is also used in the ``Output'' field to
+distinguish system commands from user input. 
+
+8fPKN2A0,8bMHN@E3"8bO1IN0E1Editing a Version8bNIN0E28fPHN2A018fPON2A048bIHN0E78bJHN0E68bKIN0E5(8bLHN0E48bMHN0E38bNON0E2editing8bOPN0E1template8fPON2A048bIHN0E78bJHN0E68bKIN0E5(8bLHN0E48bMHN0E38bN1GN0E2layout commands8bOPN0E1template
+Before one can amend an existing version of, or add a new version to, a template one must first open
+the define window and then either load the template or, in the case of a new template, set its 
+template-specific parameters. 
+(See 8fPJN2A0;8bN1LN0E2StencilsandTemplates8bO1IN0E1DefiningTemplates.)
+To edit a field of an existing version click in that field and change it as required.
+If a new version is to be added to a template click in the template specification
+window below the last version specification or anywhere in the windowpane if
+there are no existing versions. A copy of the first version
+specification, or if there is no existing version, an empty specification will be
+inserted. As many versions as you like may
+be added in this way.8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1FN0E3adding new one8bNON0E2version8bOPN0E1template
+
+A version can be removed8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMPN0E3removing8bNON0E2version8bOPN0E1template from a template by setting the cursor anywhere in the
+version and executing the keyboard command 8fPIN2A0A8bOMN0E1M-Del.  There is no menu item for
+this operation.
+
+A version specification is constructed by selecting entries from 
+the command
+menu at the head of the define window and by entering text from the keyboard.
+Typically, information will be entered simultaneously in both the ``Screen''
+and ``Output'' fields and two cursors will be visible.  To modify only the automatically
+generated 8fPHN2A0L  code click anywhere in the ``Output'' field.  The cursor in the
+``Screen'' field will disappear. Any text entered
+from the keyboard or command entered from the menu will then modify the
+``Output'' field but not alter the screen format.8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1EN0E3output format8bNON0E2editing8bOPN0E1template
+
+It is possible to edit the screen version in two 
+modes8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1MN0E2preview screen format8bO2FN0E1screen format command language. The first mode displays
+command tokens and does not interpret them. The second mode interprets the
+tokens making them no longer visible. That is, it shows the format of the version
+as it will actually appear on the screen. The first mode is used to edit the screen
+version whilst the second mode is used to preview the version. The 8fPIN2A0A8bOKN0E1M-T key
+switches between these two modes.8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1MN0E2preview screen format8bOPN0E1template  
+
+Several of the basic text editing commands (see 8fPJN2A0:8bNHN@E2"8bO1CN0E1TextEditing) are available  for use,
+although not all. (See the list of entries labelled ``Define'' in the 8fPIN2A0>8bOKN0E1mpk file8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0>8bOKN0E1mpk8bMHN0E38bNKN0E2mpk8bOLN0E1file that you are
+using for precise details.) Two that are available are 8fPIN2A0A8bOKN0E1C-A (move to the beginning of a line)
+and 8fPIN2A0A8bOKN0E1C-K (kill a line).  Our advice is to just try what you would normally do in a  
+document window. It may happen that nothing occurs but, in any case, no harm will
+be done.
+ 
+The multiple-token commands8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1EN0E3screen format8bNON0E2editing8bOPN0E1template get special treatment in order to ensure that
+braces remain properly matched.   In particular, if you remove one of the tokens
+of such a command8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO2FN0E1screen format command language all the other tokens are also removed. For example, if you
+have the construction ``8fPIN2A0M8bONN0E1[Bold:Section8fPIN2A0M8bOIN0E1]'' and you remove the ``8fPIN2A0M8bOIN0E1]'', you obtain
+``Section''. Similarly, removing a ``8fPIN2A0M8bOIN0E1:'' from  
+``8fPIN2A0M8bO1LN0E1[StackC:[Line]:[Bar]8fPHN2A0ISafa0e1aD   !1HCHyphenGVafa0e1aC#!CC·EC80J\-vBox8fPHN2A0v8fPIN2A0M8bO1EN0E1[Bar]:[Line]]''  results in 
+``8fPIN2A0M8bO1CN0E1[Line][Bar]Box8fPIN2A0M8bO1CN0E1[Bar][Line]''.
+
+The transpose function (8fPIN2A0A8bOKN0E1C-T) is particularly convenient for editing
+multiple-token commands8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO2FN0E1screen format command language.  It 
+works by moving  the tokens to the left and
+right  of the cursor according to the following rules (in the order given):
+8fPIN2A0ISe1dbb24P   "21OCItemize                      3BCLatex2eB#Description, Enumerate and Itemize HelpGVe1dbb25A'!2HC81PbfMItemdfM80BbfMizedfM
+82Hitems82I8bO82A bfMEnd ItemizedfM
+2DC80J\begin{itemize}80I8bO 80I\end{itemize}80IICItemizeGVe1dbb25B'!1DC   221J 80C80E{82Htext82I8bO}80F
+LC80J\item 8bO 80IFCItemx8bOLN0E18fPIN2A0w8bOcPN0E1If one of the two tokens adjacent to the cursor is not part of a multi-token
+command, the transpose will swap the two  tokens and move the cursor one
+position forward (just like the normal transpose).8fPIN2A0w8bO7HN0E1If the right token is an opening brace, the left token and cursor are
+moved to after the matching closing brace.8fPIN2A0w8bO6NN0E1If the left token is a closing brace, the right token will be moved before the
+matching opening brace.8fPIN2A0w8bO5DN0E1Otherwise, no tokens are moved and the cursor is moved one position
+forward.Table 8fPIN2A0Q8bO1IN0E1tab:DefTemp.Trans illustrates the use of transposition.  A small diamond is used in
+the table to show the position of the cursor.
+8fPLN2A0f8bN2BN0E2Examples of transposition.8bOIN0E18fPIN2A0i8bOIN0E18fPMN2A0m8bHNN0E88fPKN2A0s8bMIN0E318bNON0E28fPIN2A0M8bONN0E1[Bold:w8fPIN2A0M8bOIN0E1]8fPHN2A0ISafa0e19P   !1HCCursorGVafa0e19O#"IC81J81L81MccA22cE80P81NHC{}_{22cE}yord8bONN0E18fPIN2A0M8bOON0E1[Bold:]8fPHN2A0yword8fPKN2A0s8bMIN0E328bN1BN0E28fPIN2A0M8bO1FN0E1[SizeR1:[Bold:Section8fPIN2A0M8bOJN0E1]]8fPHN2A0y8bO1CN0E18fPIN2A0M8bO1AN0E1[SizeR1:]8fPHN2A0y8fPIN2A0M8bONN0E1[Bold:Section8fPIN2A0M8bOIN0E1]8fPKN2A0s8bMIN0E328bNPN0E28fPIN2A0M8bOPN0E1[StackB:-8fPIN2A0M8bOIN0E1:8fPIN2A0M8bOPN0E1[Italic:8fPJN2A0ISfee106aA   !1NCScreenscriptGVfee106bE!!HCbfO8bOdfOccB8bN80Pz8bNIN0E218bOIN0E1T8fPIN2A0M8bOJN0E1]:8fPHN2A0y8fPIN2A0M8bOIN0E1]8bOON0E18fPIN2A0M8bOPN0E1[StackB:-8fPIN2A0M8bOJN0E1::8fPHN2A0y8fPIN2A0M8bOPN0E1[Italic:8fPJN2A0z8bNIN0E218bOIN0E1T8fPIN2A0M8bOJN0E1]]8fPKN2A0s8bMIN0E328bNNN0E28fPIN2A0M8bO1BN0E1[StackC:::8fPJN2A0z8bNIN0E218bOIN0E1E8fPIN2A0M8bOIN0E1]8fPIN2A0M8bO1AN0E1[SizeR-1:8fPHN2A0y8fPIN2A0M8bOIN0E1]8bOMN0E18fPIN2A0M8bO1AN0E1[SizeR-1:8fPHN2A0y8fPIN2A0M8bO1BN0E1[StackC:::8fPJN2A0z8bNIN0E218bOIN0E1E8fPIN2A0M8bOJN0E1]]8fPKN2A0s8bMIN0E338bN1BN0E28fPIN2A0M8bO1GN0E1[SizeR1:][Bold:Section8fPIN2A0M8bOIN0E1]8fPHN2A0y8bO1CN0E18fPIN2A0M8bO1FN0E1[SizeR1:[Bold:Section8fPIN2A0M8bOIN0E1]8fPHN2A0y8fPIN2A0M8bOIN0E1]8fPKN2A0s8bMIN0E348bNLN0E28fPIN2A0M8bO1AN0E1[Italic:]8fPHN2A0yIt8bOMN0E18fPIN2A0M8bOPN0E1[Italic:8fPHN2A0y8fPIN2A0M8bOIN0E1]It8bMLN0E3Rule8bN3CN0E2After transposing                          8bO3MN0E1Before                                               8bION0E7|l|l|l|8bM1IN0E3tab:DefTemp.Trans8bLKN0E4htb8fPON2A048bIIN0E7)8bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2editing8bOPN0E1template8fPON2A048bIIN0E7)8bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1GN0E2layout commands8bOPN0E1template
+
+8fPIN2A0 8bO1IN0E1help:Define.Place8fPKN2A0)8bM2GN0E3VersionDefinition.Place Holders8bO1EN0E1Place Holders8bNIN0E28fPHN2A01
+When a version of a template is defined, 8fPIN2A0=8bO1EN0E1place holders8fPON2A048bIHN0E78bJHN0E68bKIN0E5(8bLHN0E48bMHN0E38bN1DN0E2place holder8bOPN0E1template  are used to show the positions
+of the arguments in the version.  (Remember that the place holders for the arguments of a
+unary or binary operator, one or two respectively,  are generated by the system  when
+such an operator is entered into an expression place holder in a document and should not
+be  added to the version specification.) 8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMPN0E3implicit8bN1DN0E2place holder8bOPN0E1templateTo enter a place holder into a version specification
+select the required type from the pin-up menu which appears when  8fPIN2A0?8bOMN0E1Place8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0?8bOMN0E1Place8bMMN0E3Place8bN1DN0E2command menu8bO1EN0E1define window at the top of
+the window is selected. The available options  are listed below together with the symbol
+used to represent them on the screen.8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1DN0E1place holder
+
+8fPIN2A0ISd555ce5O   (1JCManTableGVd555ce5J'!1EC
+81PbfH          dfH80B
+8bO82A
+2JC80J\begin{mantable}{20mm}80I8bO80I\end{mantable}1ACManTable (20mm)GVd555ce5K'!1CC
+81PbfH        dfH80B
+8bO82A
+2JC80J\begin{mantable}{15mm}80I8bO80I\end{mantable}1ACManTable (15mm)GVd555ce5L'!PC
+81PbfH    dfH80B 
+8bO82A
+2IC80J\begin{mantable}{8mm}80I8bO80I\end{mantable}PCManTable (8mm)GVd555ce5M'!JCbfO8bOdfO80C80E8bN80F
+NC80J\item[8bO] 8bN80I1BCItem (same line)GVd555ce5N'!KCbfO8bOdfO
+80C80E8bN80F
+NC80J\item[8bO] 8bN80I1BCItem (next line)GVfdb41f4K'!1GC
+81PbfH            dfH80B
+8bO82A
+2JC80J\begin{mantable}{25mm}80I8bO80I\end{mantable}1ACManTable (25mm)GVfc4a6c3E'!1JC
+81PbfH               dfH80B
+8bO82A
+2JC80J\begin{mantable}{30mm}80I8bO80I\end{mantable}1ACManTable (30mm)GVe113ff5L'!1MC
+81PbfH                  dfH80B
+8bO82A
+2JC80J\begin{mantable}{35mm}80I8bO80I\end{mantable}1ACManTable (35mm)8B8bONN0E18fPJN2A0~8bN8JN0E2An expression, replaceable by a template, an operator sequence or an
+identifier. The expression will be set in the math mode of 8fPHN2A0L.8bOMN0E1E,  8fPIN2A0?8bO1BN0E1expression8fPJN2A0~8bN10CN0E2An operator, replaceable by a template or an expression. An operator will
+be set in  math mode  unless the template specifies that it should be placed
+in text mode. The spacing that 8fPHN2A0K adds around operators is overridden
+by 8fPHN2A0<'s own spacing conventions.8bOLN0E1O, 8fPIN2A0?8bOPN0E1operator8fPJN2A0~8bN14EN0E2An identifier, which should not be too long and can only contain
+characters from the keyboard or the symbol palette. An identifier can't
+contain a space or a newline. By default, identifiers8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1DN0E2default
+font8bO1BN0E1identifier are set in  8fPHN2A0L's  math italic font.  (Users of 8fPHN2A0L
+version 2.09 should insert a suitable definition of 8fPHN2A0ISe1d5142P   *2NCSpecialChars1JCLatex2e#SpecialCharsHelpGVe1d5143A#!CC#GC80J\#{}GVe1d5143B#!CC$GC80J\${}GVe1d5143C#!CC%GC80J\%{}GVe1d5143D#!CC&GC80J\&{}GVe1d5143E#"CC~HC{\sim}GVe1d5143F#!CC_GC80J\_{}GVe1d5143G#!DC80J^GC80J\^{}GVe1d5143H#"CC\NC{\backslash}GVe1d5143I#!CC{EC80J\{GVe1d5143J#!CC}EC80J\}8F8fPIN2A0>8bONN0E1mathit in their
+macro file.) 8bOMN0E1I,  8fPIN2A0?8bO1BN0E1identifier8fPJN2A0~8bN11CN0E2A list of bound identifiers separated by commas. Variable place holders are
+used to specify the scope of  identifier renaming.  (See  8fPJN2A0;8bN1DN0E2MathSEditing8bO1LN0E1Renaming
+Identifiers.) Otherwise variables and identifiers are
+treated the same.  In particular, variables are also  set by default in math
+italic font.8bOMN0E1V,  8fPIN2A0?8bOPN0E1variable8fPJN2A0~8bNdMN0E2A text containing any combination of text and expressions. Text will be set
+in text mode and  8fPHN2A0L will handle the line and page breaks. However,
+line breaking inside the tabbing environment must be done by the user.8bOMN0E1T,  8fPIN2A0?8bOLN0E1text8fPJN2A0~8bN7NN0E2This option is not itself a place holder but is used to give a name to a place
+holder.  See below for further details.8bOLN0E1Name
+
+Place holders can be inserted by selecting them from the pin-up menu or by
+using the keyboard shortcuts (8fPIN2A0A8bOLN0E1CM-E, 8fPIN2A0A8bOLN0E1CM-O, 8fPIN2A0A8bOLN0E1CM-I, 8fPIN2A0A8bOLN0E1CM-Vand 8fPIN2A0A8bOLN0E1CM-T).
+
+The final entry in the 8fPIN2A0?8bOMN0E1Place8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNMN0E2named8bO1DN0E1place holder menu, ``8fPIN2A0A8bOLN0E1Name'', is used to label place holders.  In order to
+name a place holder,  the token 8fPIN2A0M8bOPN0E1[Name: ] should be entered into the version definition
+immediately to the left of the place holder to which it applies.  Then fill in the required
+name.  When an instance of the template is entered into a document, the default  name of
+the empty place holder (``8fPIN2A0A8bOIN0E1E'', ``8fPIN2A0A8bOIN0E1O'' etc., as the case may be) will be replaced by the chosen
+name.  The name given to a place holder in the screen section and the output section may differ.  
+This possibility is rarely used but can be useful in giving a default value to a place holder.
+
+The use of named placed holders does 8fPIN2A0G8bOKN0E1not place any additional restriction on the
+use of the place holder.  Naming a place holder ``Statement'', for example, will not mean
+that only versions of a 8fPIN2A0?8bO1AN0E1Statement  template may be entered into the place holder.
+
+The 8fPHN2A0L output that is produced by an empty place holder8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1LN0E2empty in output file8bO1DN0E1place holder in a document is the command  ``8fPIN2A0ISe1d5e5bI   &2JCVerbatim1FCLatex2e#VerbatimHelpGVe1d5e5bJ'!ECbfH8bOdfHKC80J\verb+8bO+1JCShort-No `+' in contentsGVe1d5e5bK'!ECbfH8bOdfHKC80J\verb?8bO?1JCShort-No `?' in contentsGVe1d5e5bM'!ECbfH8bOdfHLC80J\verb*+8bO+2ICShort-No `+' in contents, spaces as ccB229EcbNGVe1d5e8dO'!ECbfH8bOdfHLC80J\verb*?8bO?2ICShort-No `?' in contents, spaces as ccB229EcbNGVe1d5e5bL'!GC
+bfH8bOdfH
+2EC80J\begin{verbatim}80I8bO80I\end{verbatim}80I1ICLong-more than one lineGVe1d5f98F'!GC
+bfH8bOdfH
+2GC80J\begin{verbatim*}80I8bO80I\end{verbatim*}80I2HCLong-more than one line, spaces as ccB229EcbN9B8bOLN0E1\mpT''
+in the case of a text place holder, ``8fPIN2A09C8bOLN0E1\mpE'' in the case of an expression place
+holder, and so on.  In the case of a named place holder
+the command ``8fPIN2A09B8bOLN0E1\mpN'' is  followed by an argument which is the name given to the place holder. 
+For example,  an unfilled place holder named ``8fPIN2A0A8bOMN0E1color'' would cause ``8fPIN2A09B8bO1CN0E1\mpN{color}'' to be output.  
+These commands are defined in the
+ file 8fPIN2A0>8bO1CN0E1mathpad.sty8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0>8bO1CN0E1mathpad.sty8bMHN0E38bN1CN0E2mathpad.sty8bOLN0E1file distributed with the  system (so that they generate the same bold characters)
+and can be redefined to  meet your own requirements.
+
+Each place holder entered will be given a new index.  (But see below for how to
+stipulate which index should be used.) The maximum number of place holders
+allowed in any one template is fifteen.8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1FN0E3number allowed8bN1DN0E2place holder8bOPN0E1template
+The indices assigned to place holders  are used for the following purposes:
+8fPIN2A0ISe1dbb1aO   "2MCDescription3BCLatex2eB#Description, Enumerate and Itemize HelpGVe1dbb1aP'!2PC81PbfMDescripdfM80BbfMtiondfM
+82Hitems82I8bO82A bfMEnd descriptiondfM
+2LC80J\begin{description}80I8bO 80I\end{description}80IMCDescriptionGVe1dbb1bA'!1JCbfO82Hlabel82I8bNdfO  80E{82Htext82I8bO}80F
+NC80J\item[8bN]8bO 80IFCItem9E8bOKN0E18fPJN2A09D8bNKN0E2(a)8bO5CN0E1to identify the ``principal place holder8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1AN0E3principal8bN1DN0E2place holder8bOPN0E1template'' of a given type  in a template,8fPJN2A09D8bNKN0E2(b)8bO4DN0E1to relate place holders in different versions of a template,8fPJN2A09D8bNKN0E2(c)8bO5LN0E1to relate  the screen format and the 8fPHN2A0L output of individual versions 
+of a template.
+The principal place holder of a given type is used to determine which place holder
+is occupied by the target term when a template is selected.  For example, suppose
+ a ``quantifier'' template of the form 8fPKN6A0?ISff2494bK   21HCQuant.GVff2494aO#"LC220A(8cN:82E8fM:82E8fL)PC220A(8cN{:}82E8fM{:}82E8fL)GVff2494aP#"LC220D(8cN:82E8fM:82E8fL)PC220D(8cN{:}82E8fM{:}82E8fL)GVff2494bA#"MC229E.(8cN:82E8fM:82E8fL)1EC{229E}{.}(8cN{:}82E8fM{:}82E8fL)GVff2494bB#"MC229D.(8cN:82E8fM:82E8fL)1EC{229D}{.}(8cN{:}82E8fM{:}82E8fL)GVff2494bC#"LC8fO(8cN:82E8fM:82E8fL)PC8fO(8cN{:}82E8fM{:}82E8fL)GVff2494bD%"1KC80G8fO80B80E(80C80E8cN80F
+:80C80E8fM80F
+:80C80E8fL80F
+)80F80HMCMult. linesGVff2494bE#"JC220A(8cN::82E8fL)NC220A(8cN{:}{:}82E8fL)GVff2494bF#"JC220D(8cN::82E8fL)1DC\exists(8cN{:}{:}82E8fL)GVff2494bG#"KC229D.(8cN::82E8fL)1HC{\sqcap}{.}(8cN{:}{:}82E8fL)GVff2494bH#"KC229E.(8cN::82E8fL)1HC{\sqcup}{.}(8cN{:}{:}82E8fL)GVff2494bI#"JC8fO(8cN::82E8fL)NC8fO(8cN{:}{:}82E8fL)GVff2494bJ#"IC{8cN::82E8fL}MC{8cN{:}{:}82E8fL}GVff2db26F#"LC222K(8cN:82E8fM:82E8fL)PC222K(8cN{:}82E8fM{:}82E8fL)GVff2dce8M#"KC{8cN:82E8fM:82E8fL}OC{8cN{:}82E8fM{:}82E8fL}GVff2dd78H#"LC222J(8cN:82E8fM:82E8fL)PC222J(8cN{:}82E8fM{:}82E8fL)GVffd7c96B#"IC8cN:82E8fM:82E8fLMC8cN{:}82E8fM{:}82E8fLGVffd7ca3E#"GC8cN::82E8fLKC8cN{:}{:}82E8fLGVfffca2aP#"KC(8cN:82E8fM:82E8fL)OC(8cN{:}82E8fM{:}82E8fL)¦8fLHN0A48fMHN0A38cNHN0D2  is defined.  Suppose also that the
+target   is set to the expression 8fPKN0A08fPIN0A0x8ePHN2B0ISe1f302dH#!$%0GVe1f302dJ!"CC<GVe1f302dK!"CC>GVe1f302dL!"CC=GVe1f302dM!"CC226EGVe1f302dN!"CC226F©8fPIN0A0y.  Then, if the principal expression place holder
+is defined to be the rightmost place holder, clicking on the quantifier template
+will result in the expression 8fPKN2A0¦8fLKN0A48fPIN0A0x8ePHN2B0©8fPIN0A0y8fMHN0A38cNHN0D2.  If, on the other hand, the leftmost
+expression place holder is the principal place holder then the expression
+8fPKN2A0¦8fLHN0A48fMKN0A38fPIN0A0x8ePHN2B0©8fPIN0A0y8cNHN0D2 will  be the outcome.  
+
+The principal expression place holder of unary or binary operators (templates of
+kind other than 8fPIN2A0?8bOLN0E1None) is predetermined. For unary operators it is its argument
+and for binary operators it is the left argument. Otherwise the principal place holder 
+of a given type is the place holder of that type with the 
+lowest index.   The automatic mechanism for generating indices to place holders
+will  always result in the leftmost place holder (of a given type) becoming  the
+principal holder.  We describe shortly how to override this mechanism.
+
+The indices also determine the movement of the cursor once a place holder has been
+filled in. Specifically the cursor moves to the lowest numbered place holder not
+already filled.
+
+The screen format may not contain any place holder twice. This requirement is
+normally automatically fulfilled because the system generates a new index each
+time a place holder is inserted.  In the 8fPHN2A0L code, however, a place holder can
+be used several times.  This is useful at positions where output should be copied. 
+
+When switching between versions of a template the index information is used to
+determine how the place holders are to be filled in.  In this way the order of
+occurrence of arguments can vary from one version to another.  As an example
+one may wish to define a template with two versions, a ``let'' statement and a 
+``where'' statement,  both having two arguments.  Further it should be the 
+case that switching version from, say,
+89PKN2A0ISb9a0504D   "1ECletGVb9a0504E#!2MC80J81PbfOlet dfO 8fO bfO in dfO
+bfObegindfO
+      80B80E8fM80F
+bfOenddfO82A2HC80J81PbfOletdfO 8fObfO~indfO
+bfObegindfO
+ ~~~80B80E8fM80F
+bfOenddfO82AGVb9a0504F#!2HC80J81PbfObegindfO
+      80B80E8fM80F
+bfOenddfO82A
+bfOwhere dfO 8fO2EC80J81PbfObegindfO
+ ~~~80B80E8fM80F
+bfOenddfO
+bfOwhere~dfO8fO82A­8fMKN0A38fPIN0A0x8ePHN2B0ISafa0e2eB#!"!0GVafa0e2eA!"DC:=®8fPIN0A0a8fOKN0A18fPIN0A0a8ePHN2B0©8fPKN0A08fPIN0A0b8ePHN2B0ISafa0e2cP# *!0GVafa0e2cO!"CC+¯8fPIN0A0c8dLIN0C4a
+gives rise to
+89PIN2G0ISff2495bF   &0GVff2495bA'"EC 8fO EC~8fO~EC~8fO~GVff2495bB%"DC8fO8bNDC8fO8bOGVff2495bC'"FC8fO  ,FC8fO~~,DC8fO,GVff2495bD'"IC   8fO   GC~~8fO~~GC~~8fO~~GVff2495bE#"FC8fO  .FC8fO~~.GVffd7e2eF!"CC8bN±8fOKN2A1¬8fMKN0A38fPIN0A0x8ePHN2B0®8fPIN0A0a8fOKN0A18fPIN0A0a8ePHN2B0©8fPKN0A08fPIN0A0b8ePHN2B0¯8fPIN0A0c8dLIN0C4a
+This is easily achieved by stipulating that the first placeholder in a ``let''
+statement has index 1 whereas the place holder with index 1 in a ``where''
+statement is the second one.  Similarly, the second place holder in a ``let''
+statement is stipulated to have index 2 whereas the place holder with index 2 in a
+``where'' statement is the first one. 
+
+To stipulate the index to be assigned to a place holder  the 8fPIN2A0A8bOKN0E1C-U command
+should be used with the correct index.8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1EN0E3setting index8bN1DN0E2place holder8bOPN0E1template For example,8fPIN2A0i8bOMN0E18fPIN2A0A8bOKN0E1C-U 3 8fPIN2A0A8bOLN0E1CM-Ewill insert an expression place holder with index 3.  Such a command will always
+be successful if only applied to the 8fPHN2A0L output. However the stipulated index
+will be ignored and the automatic index generation invoked if the command would
+result in a duplicate of the place holder in the screen format. Note also that there
+is one index count used for all the different types of place holder.  Thus
+introduction of an expression place holder with index 3, say, will be refused if
+there is already a text place holder with index 3.  (This may alter in future
+versions of the system.)%8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOIN0E18fPIN2A0A8bO2BN0E1Features to be implemented
+8fPJN2A0ISfee6114C   (1ICExampleGVfee6114D'!1JC
+bfOExampledfO (8bO) [8bN]  8bM
+25aL
+4EC80J\begin{Example}[8bN]\label{8bO}{\rm \ \ \ 8bM}80I\mnl$\Box$80I\end{Example}80I1FCExample (Lab) [Name]GVfee6114E'!1FC
+bfOExampledfO (8bO)  8bM
+25aL
+4BC80J\begin{Example}\label{8bO}{\rm \ \ \ 8bM}80I\mnl$\Box$80I\end{Example}80IOCExample (Lab)GVfee6114F'!1FC
+bfOExampledfO [8bN]  8bM
+25aL
+3LC80J\begin{Example}[8bN]{\rm \ \ \ 8bM}80I\mnl$\Box$80I\end{Example}80IPCExample [Name]GVfee6114G'!1AC
+bfOExampledfO  8bM25aL
+3IC80J\begin{Example}{\rm \ \ \ 8bM}80I\mnl$\Box$80I\end{Example}80IICExampleGVfee6114H'!2FC
+bfOExampledfO (8bO) [8bN]  8bM
+
+bfOProofdfO  8bL
+25aL
+5CC80J\begin{Example}[8bN]\label{8bO}{\rm \ \ \ 8bM}80I\end{Example}80I{\bf Proof} ~~~8bL80I\mnl25aL\\80I1ICExample(Lab)[Name]ProofGVfee6114I'!2BC
+bfOExampledfO (8bO)  8bM
+
+bfOProofdfO  8bL
+25aL
+4OC80J\begin{Example}\label{8bO}{\rm \ \ \ 8bM}80I\end{Example}80I{\bf Proof}~~~8bL80I\mnl25aL\\80I1DCExample (Lab)ProofGVfee6114J'!2CC
+bfOExampledfO [8bN]  8bM
+
+bfOProofdfO  8bL
+25aL 
+4IC80J\begin{Example}[8bN]{\rm \ \ \ 8bM}80I\end{Example}80I{\bf Proof}~~~8bL80I\mnl25aL\\80I1ECExample [Name]ProofGVfee6114K'!1NC
+bfOExampledfO  8bM
+
+bfOProofdfO  8bL
+25aL
+4FC80J\begin{Example}{\rm \ \ \ 8bM}80I\end{Example}80I{\bf Proof}~~~8bL80I\mnl25aL\\80IOCExample Proofº8bM4eDN0E3Many 8fPHN2A0L documents start with very similar preambles.
+Often only the title and packages required are different. A simple template with place holders for
+the title and names of packages can be used to insert the complete preamble. For example:
+
+8fPKN2A0ISafa0e19A   "1JCTemplateGVafa0e18O'!3BC80J81PbfIScreen:dfI     80B80E8bN80F
+bfIOutput:dfI80C80E8bM80F
+bfIName:dfI80C80E8bO80F
+82A4PC80J{\setlength{\mathsurround}{0pt}81PbfIScreen:dfI~~~80B80E8bN80F
+bfIOutput:dfI80C80E8bM80F
+bfIName:dfI80C80E8bO80F80I82A}1DCTemplate (tabbing)GVafa0e18P'!3BC80J82BbfIScreen:dfI     80B80E8bN80F
+bfIOutput:dfI80C80E8bM80F
+bfIName:dfI80C80E8bO80F82C
+4PC80J{\setlength{\mathsurround}{0pt}82BbfIScreen:dfI~~~80B80E8bN80F
+bfIOutput:dfI80C80E8bM80F
+bfIName:dfI80C80E8bO80F80I82C}1DCTemplate (display)¾8bOPN0E1Preamble8bN2CN0E2Article Packages:8fPJN2A0z8bNIN0E228bOIN0E1T Title: 8fPJN2A0z8bNIN0E218bOIN0E1T8bM7KN0E38fPIN2A0M8bONN0E1[TEXT]8fPHN2A08Fdocumentclass8fPHN2A08Earticle8fPHN2A08D
+8fPHN2A08Fusepackage8fPHN2A08Emathpad,8fPJN2A0z8bNIN0E228bOIN0E1T8fPHN2A08D
+8fPHN2A08Finput8fPHN2A08Empmacros.tex8fPHN2A08D
+8fPHN2A08Ftitle8fPHN2A08E8fPJN2A0z8bNIN0E218bOIN0E1T8fPHN2A08D8fPHN2A08Fauthor8fPHN2A08E8fPIN2A0ISafa0e19E   !1EC<T>GVafa0e19D!"EC<8bO>À8bO1AN0E1Your name8fPHN2A08D
+8fPHN2A08Fmaketitle8fPHN2A08Fbegin8fPHN2A08Edocument8fPHN2A08DNote that the template has two text place holders the second  of which has  the lower index.  The
+second place holder is thus the principal place holder. Entering a text, for example ``My Latest
+Report'', making that text the target term and then selecting the template from the stencil window
+will enter the  text into the title place holder in the template.
+
+With the aid of features yet to be described, the title can be set on the screen in a large
+bold font.  A version can also be made in which the packages (entered in the
+field labelled ``Packages'') are not visible on the screen but are entered in the
+8fPHN2A0L output. Additional arguments can be added and versions can be made to
+switch between articles, reports, books and other styles. With such a template,
+the commands you would otherwise type or copy into  every document (your
+name, your address etc.) are now inserted by a simple click. The variable
+information is  directly visible  but other low-level ``noise'' (8fPHN2A0ISe1ec753N   %2OCAbbreviations1LCLatex2eB#AbbreviationsHelpGVe1ec753O#!GCe.g. IC80Je.g.\ GVe1ec753P!!ICbfMetc. dfMGVe1ec754A#!GCi.e. IC80Ji.e.\ GVe1ec754B#!GCE.g. IC80JE.g.\ GVe1ec754C#!GCI.e. IC80JI.e.\ Å the 8fPHN2A0L
+commands) is not.8bN1ON0E2a version specification
+8fPON2A048bIIN0E7)8bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1DN0E2place holder8bOPN0E1template
+
+
+8fPIN2A0 8bO1HN0E1help:Define.Mode8fPKN2A0)8bM1ON0E3VersionDefinition.Modes8bOMN0E1Modes8bNIN0E28fPHN2A018fPON2A048bIHN0E78bJHN0E68bKIN0E5(8bLHN0E48bMLN0E3mode8bN1GN0E2layout commands8bOPN0E1template
+The topic of this section is very specific to generating 8fPHN2A0L output.  If you are using
+8fPHN2A0< to generate terms in some other mark-up language8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1HN0E1mark-up
+language (for example html8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOLN0E1html) then there is just one
+thing you need to know and then you may ignore the rest of this section.  Users of
+8fPHN2A0< not generating 8fPHN2A0L output  must  ensure that the  ``Output'' field of
+each version specification  begins with the symbol  ``8fPIN2A0M8bONN0E1[TEXT]''.  This instructs the
+system to treat what follows in the  ``Output'' field  as plain text and not  to insert 
+``mode'' commands specific to 8fPHN2A0K and 8fPHN2A0L.  (In normal circumstances
+ensuring that this is so entails doing nothing.  If, however, you define the kind of a
+template to be anything other than 8fPIN2A0?8bOLN0E1None then the ``Output'' field of each version
+will by default begin with the symbol  ``8fPIN2A0M8bONN0E1[MATH]''.  In this case select ``8fPIN2A0?8bONN0E1Toggle''
+8fPON2A048bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0?8bONN0E1Toggle menu item8bM1HN0E3Toggle menu item8bN1DN0E2command menu8bO1EN0E1define windowunder the 8fPIN2A0?8bOLN0E1Mode button repeatedly until 
+the symbol  ``8fPIN2A0M8bONN0E1[TEXT]''  appears.)
+
+8fPHN2A0K uses  different modes to process the input.  The main modes are LR
+mode, paragraph mode and math mode. The first two modes are used for
+normal text while the math mode is used for mathematical expressions and
+symbols. In paragraph mode 8fPHN2A0K will automatically determine line and page
+breaks, in LR mode this action is turned off.
+
+The commands for changing mode in 8fPHN2A0K do not have a systematic structure
+causing some technical problems when using 8fPHN2A0<.  Normally, the 8fPIN2A09C8bOIN0E1$
+sign can be used to switch between text mode and math mode but some other
+commands can also be used.  Changing to math mode is compulsory for many
+symbols ---the so-called ``Mathematical symbols'' which includes Greek letters
+like ``3bB'' but not (for example) the symbol ``£''--- even when the symbol occurs
+on its own in plain text. The 8fPIN2A09C8bOMN0E1\mbox command is used to change to LR
+mode, regardless of the mode it is used in. The 8fPIN2A09C8bOJN0E1$$ command however will
+cause a change to displayed math mode if used in  text mode, will have no
+effect if used in math mode and will cause a change to  text mode if used in  displayed
+math mode. 
+
+8fPHN2A0< will insert mode changing commands as appropriate. To do this,  8fPIN2A09C8bOIN0E1$
+signs are used to switch between text mode and math mode while the 8fPIN2A09C8bOON0E1\mbox{}
+command is used to switch between displayed math mode and text mode. 
+
+The ``Output'' field8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1DN0E2Output field8bO1MN0E1version specification of each 
+version specification must begin with  one of the
+three output mode commands 8fPIN2A0?8bOLN0E1TEXT8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0?8bOLN0E1TEXT8bMHN0E38bNLN0E2TEXT8bOLN0E1mode, 8fPIN2A0?8bOLN0E1MATH
+8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0?8bOLN0E1MATH8bMHN0E38bNLN0E2MATH8bOLN0E1mode or 8fPIN2A0?8bOLN0E1BOTH8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0?8bOLN0E1BOTH8bMHN0E38bNLN0E2BOTH8bOLN0E1mode. 
+The command  cannot
+be removed or inserted at any other position. 8fPIN2A0?8bOLN0E1MATH directs 8fPHN2A0< to insert
+mode changing commands where necessary to ensure that the contents of the
+template version are set in math mode.   8fPIN2A0?8bOLN0E1TEXT behaves similarly.  8fPIN2A0?8bOLN0E1BOTH means
+that the template version may be used in either text or math mode so that mode
+switching commands are unnecessary.  
+
+Note that mode changing commands inserted by the user in a 8fPHN2A0< document can
+cause incorrect 8fPHN2A0L to be generated.  Care must be taken when mixing raw 8fPHN2A0L
+with 8fPHN2A0< templates in a document.  
+
+Built into 8fPHN2A0< is the assumption that templates of kind  8fPIN2A0?8bOLN0E1None will be set in 
+text  mode and all other templates  in math mode. Therefore  8fPIN2A0?8bOLN0E1TEXT is automatically 
+generated  for templates
+ of kind  8fPIN2A0?8bOLN0E1None and 8fPIN2A0?8bOLN0E1MATH for all other templates.
+The 8fPIN2A0?8bONN0E1Toggle8fPON2A048bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0?8bONN0E1Toggle menu item8bMHN0E38bN1HN0E2Toggle menu item8bOLN0E1mode
+option under  the 8fPIN2A0?8bOLN0E1Mode item allows you to override this assumption.
+
+It is sometimes desirable to define templates that themselves change the mode. 
+This can upset the automatic mode changing mechanism built into 
+8fPHN2A0< resulting in incorrect 8fPHN2A0L  code.  To remedy this, mode
+commands can be inserted into a template directing 8fPHN2A0< to use a
+particular mode rather than the mode that would automatically be chosen.
+The pin-up menu shown in table 8fPIN2A0Q8bO2BN0E1tab:VersionDefinition.Mode appears 
+when the 8fPIN2A0?8bOLN0E1Mode8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0?8bOLN0E1Mode8bMLN0E3Mode8bN1DN0E2command menu8bO1EN0E1define window item in the define window is 
+selected and is used to insert mode commands.
+The commands have the following definitions:
+8fPLN2A0f8bN1LN0E2The   8fPIN2A0?8bOLN0E1Mode pin-up menu.8bOIN0E18fPIN2A0i8bOIN0E18fPJN2A0ISafa0e18B   !1HCPin-upGVafa0e18A'!1EC81J81H81L82D81JbfO8bMdfO81G81L81H81M8bN81N 82D81M81H81N4BC80J80I\begin{tabular}{|l|}\hline bfO8bMdfO\\\hline 8bN\\\hline\end{tabular}
+BCÆ8bMLN0E3Mode8bNIN0E28fPJN2A0ISafa0e18N   !1KCPopuplineGVafa0e18M#!JC81J8bO81G81L8bN81G81M81NHC80J8bO\\80I8bNÇ8bOIN0E18fPJN2A0Ç8bOIN0E18fPJN2A0Ç8bOIN0E18fPIN2A0?8bONN0E1Toggle8bNIN0E28fPIN2A0?8bOLN0E1text8bNIN0E28fPIN2A0?8bOLN0E1math8bNIN0E28fPIN2A0?8bOON0E1display8bM2BN0E3tab:VersionDefinition.Mode8bLKN0E4htb8fPON2A048bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0?8bONN0E1Toggle menu item8bM1HN0E3Toggle menu item8bN1DN0E2command menu8bO1EN0E1define window8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0?8bOLN0E1TEXT8bMHN0E38bNLN0E2TEXT8bOLN0E1mode8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0?8bOLN0E1MATH8bMHN0E38bNLN0E2MATH8bOLN0E1mode8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0?8bOLN0E1BOTH8bMHN0E38bNLN0E2BOTH8bOLN0E1mode8fPON2A048bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0?8bOLN0E1text menu item8bMLN0E3text8bN1DN0E2command menu8bO1EN0E1define window8fPON2A048bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0?8bOLN0E1math menu item8bM1FN0E3math menu item8bN1DN0E2command menu8bO1EN0E1define window8fPON2A048bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0?8bOON0E1display menu item8bM1IN0E3display menu item8bN1DN0E2command menu8bO1EN0E1define window 8fPIN2A08C8bOLN0E18fPJN2A07P8bNaBN0E2This button is used to switch (``toggle'') between the three output modes: 8fPIN2A0?8bOLN0E1TEXT, 8fPIN2A0?8bOLN0E1MATH
+and 8fPIN2A0?8bOLN0E1BOTH.  Each ``Output'' field  must  begin with one of  these three modes.8bOIN0E18fPIN2A0?8bONN0E1Toggle8fPJN2A07P8bN4GN0E2Set what follows assuming that the current mode is text mode.  8bOIN0E18fPIN2A0?8bOLN0E1text8fPJN2A07P8bN4EN0E2Set what follows assuming that the current mode is math mode.8bOIN0E18fPIN2A0?8bOLN0E1math8fPJN2A07P8bNaNN0E2Set what follows assuming that the current mode is displayed math mode. Text entered
+in this mode will be put in an 8fPIN2A09C8bOON0E1\mbox{} command. The remainder will be set in math
+mode.8bOIN0E18fPIN2A0?8bOON0E1display
+ A mode command should not be used to remove the 8fPIN2A09C8bOIN0E1$ signs added automatically by 8fPHN2A0< 
+because such signs do not always appear in the 8fPHN2A0L output. The 8fPIN2A09C8bOIN0E1$ signs around a place holder
+will only be inserted where necessary.
+
+
+The need for mode commands is best explained with the aid of a number of
+examples.
+
+8fPKN2A0,8bMHN@E3"8bO1EN0E1Using 8fPIN2A0?8bOLN0E1TEXT and 8fPIN2A0?8bOLN0E1MATH8bNIN0E28fPHN2A008fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0?8bOLN0E1TEXT8bMHN0E38bNLN0E2TEXT8bOLN0E1mode
+8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0?8bOLN0E1MATH8bMHN0E38bNLN0E2MATH8bOLN0E1mode
+In 8fPHN2A0L the macro  8fPIN2A09C8bO1BN0E1\underline  causes its argument to be
+underlined.  The macro may be used in any mode and may therefore be used to
+underline both text  and mathematical expressions.  In order to underline text or
+expressions in 8fPHN2A0< the   ``stack'' construction is used (described
+in 8fPJN2A098bN1IN0E2VersionDefinition8bO1LN0E1SpecialConstructions).  The output that is  generated must however
+take account of whether the argument is text or an expression.  It is thus
+necessary to define a template with two versions as shown below.  In the first
+version the mode command 8fPIN2A0M8bONN0E1[TEXT]  indicates that no 8fPHN2A08L symbols should be generated by
+the system. 
+8fPKN2A0¾8bO1HN0E1underline (text)8bM1FN0E38fPIN2A0M8bONN0E1[TEXT]8fPHN2A08Funderline8fPHN2A08E8fPJN2A0z8bNIN0E218bOHN0E18fPHN2A08D8bNIN0E28fPIN2A0M8bO1JN0E1[StackB::8fPJN2A0z8bNIN0E218bOIN0E1T:[Line]](No special action is needed to insert ``8fPIN2A0M8bONN0E1[TEXT]'' in the ``8fPIN2A0?8bONN0E1Output'' field since this is the
+default when the kind of a template is 8fPIN2A0?8bOLN0E1None.)
+ 
+In the second version  8fPHN2A08L symbols should be generated (where necessary).  The mode is
+thus toggled to 8fPIN2A0?8bOLN0E1MATH  (indicated by the replacement of ``8fPIN2A0M8bONN0E1[TEXT]'' by ``8fPIN2A0M8bONN0E1[MATH]'' in
+the  8fPIN2A0?8bO1BN0E1``Output'' field.
+8fPKN2A0¾8bO1HN0E1underline (math)8bM1GN0E38fPIN2A0M8bOON0E1[MATH]8fPHN2A08L8fPHN2A08Funderline8fPHN2A08E8fPJN2A0z8bNIN0E228bOIN0E1E8fPHN2A08D8fPIN2A0M8bOIN0E18fPHN2A08L8bNIN0E28fPIN2A0M8bO1JN0E1[StackB::8fPJN2A0z8bNIN0E228bOIN0E1E:[Line]](Note that the (small, bold) 8fPIN2A0M8bOIN0E18fPHN2A08L symbols in the ``Output'' field are added automatically indicating to the
+user where 8fPHN2A0< will insert them if the version is used in inline text.  That they are small and bold
+indicates that they have been inserted automatically rather than by hand.)
+
+In principle only the first version is needed in 8fPHN2A0< since a text place holder
+can always be filled by an expression.  If this version is used to construct, say, the
+expression 8fPIN2A0i8bOIN0E18fPKN0A08fPIN2A0ISe1d5e40A   !2OCUnderlineText1KCLatex2e#UnderlineTextHelpGVe1d5e40B#!HC81J81L8bO81M81H81NPC80J\underline{8bO}È8bOIN0E18fPIN0A0A8ePHN2B0ISfe11f3bA# ("0GVfe11f3bD!"CC+GVfe11f3bN!"CC-Ê8fPIN2A0È8bOIN0E18fPIN0A0Bthen the 8fPHN2A0L that is generated by the system is as follows:8fPIN2A0i8bOIN0E18fPIN2A09B8bO2KN0E1\underline{$A$}${+}$\underline{$B$}If the second version is used  then the 8fPHN2A0L that is generated by the system is:8fPIN2A0i8bOIN0E18fPIN2A09B8bO2GN0E1$\underline{A}{+}\underline{B}$On screen 8fPKN0A08fPIN2A0È8bOIN0E18fPIN0A0A8ePHN2B0Ê8fPIN2A0È8bOIN0E18fPIN0A0B and 8fPKN0A08fPIN2A0ISe1eb5fbE   "2PCUnder/OverLine1MCLatex2eB#Under/OverlineHelpGVe1eb5fbF#"HC81J81L8fO81M81H81NPC80J\underline{8fO}GVe1eb5fbG#"HC81J81H81L8fO81M81NOC80J\overline{8fO}Ì8fOIN0A1A8ePHN2B0Ê8fPIN2A0Ì8fOIN0A1B  look identical.  In the printed text, however, they are
+different. In addition to underlining 8fPIN0A0A and 8fPIN0A0B, a small amount of space around
+these two symbols is underlined in the first expression.  The space around the
+addition operator is also larger in the first expression.  The underlined space is
+called the  ``mathsurround8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1DN0E1mathsurround'' and is introduced automatically by 8fPHN2A0K, the width
+being specified by  the variable 8fPIN2A09C8bO1EN0E1\mathsurround.   The signal to 8fPHN2A0K that space
+should be inserted is an opening or closing 8fPHN2A08L.  The default value of the 
+mathsurround is zero, so if you don't change it you won't experience this
+problem (but you may experience other problems of which we are unaware).  If
+you do want a non-zero mathsurround then the quick and  simple solution is
+thus to use the first version of the template for text arguments and the second
+for  expression arguments.
+
+8fPKN2A0,8bMHN@E3"8bO1EN0E1Using 8fPIN2A0?8bOLN0E1BOTH and 8fPIN2A0?8bOLN0E1text8bNIN0E28fPHN2A008fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0?8bOLN0E1BOTH8bMHN0E38bNLN0E2BOTH8bOLN0E1mode
+8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0?8bOLN0E1text8bMHN0E38bNLN0E2text8bOLN0E1mode
+The 8fPIN2A0?8bOLN0E1BOTH command is used in situations where 8fPHN2A0L macros that can be used in either math
+or paragraph mode replace the system generated output.   Typically, such commands 
+switch the mode to LR mode.  The box macros
+8fPIN2A09C8bOMN0E1\mbox and 8fPIN2A09C8bOMN0E1\fbox are examples.  
+
+Suppose  boxed items, such  as 8fPKN0A08fPIN2A0ISfec7d33L   "1ICMathBoxGVfec7d33M#"KC81J81H81L82D8fO82D81M81H81N1GC\fboxsep 1pt\fbox{80K8fO}GVfec7d33N#!OC81J 81H 81L|8fO|81M 81H 81N1HC80J\fboxsep 1pt\fbox{80K8fO}Î8fOIN0A1a8ePHN6B0AISb8a8386D$ *!0GVb8a8386C!"CC-Ï8fPIN2A0Î8fOKN0A18fPIN0A0b8ePHN2B0Ê8fPIN0A0c, are required in mathematical  expressions.  
+To enter such expressions, a template with one argument of type expression which
+frames the expression in a box is needed. 8fPHN2A0< does not have a boxing primitive
+but the effect can be simulated on screen using the 8fPIN2A0?8bOLN0E1Line and 8fPIN2A0?8bOKN0E1Bar primitives
+described in 8fPJN2A098bN1IN0E2VersionDefinition8bO1LN0E1SpecialConstructions.   8fPHN2A0L, on the other hand, does have a
+boxing primitive, namely 8fPIN2A09C8bOMN0E1\fbox.  Rather than use the 8fPHN2A0L code constructed by
+8fPHN2A0< it is preferable to edit the ``Output'' field by hand so that a call of  8fPIN2A09C8bOMN0E1\fbox
+is generated.   Since an fbox can be used in either math or paragraph mode the output
+mode should be toggled to 8fPIN2A0?8bOLN0E1BOTH.   In order to keep the output generation on the
+right track it is then necessary to inform 8fPHN2A0< that the argument of an
+8fPIN2A09C8bOMN0E1\fbox command  is processed by 8fPHN2A0L in LR mode.  This is done by adding the
+hint 8fPIN2A0?8bOLN0E1text immediately before the expression place holder in the ``Output'' field as
+shown below.  
+8fPKN2A0¾8bO1AN0E1math fbox8bM1CN0E38fPIN2A0M8bONN0E1[BOTH]8fPHN2A08Ffbox8fPHN2A08E8fPIN2A0M8bOON0E1[text]8fPHN2A08L8fPJN2A0z8bNIN0E218bOIN0E1E8fPJN2A0M8bOIN0E18fPHN2A08L8fOHN2A18L8fPHN2A08D8bNKN0E28fPIN2A0M8bO1LN0E1[StackB:[Line]:[Bar]8fPJN2A0z8bNIN0E218bOIN0E1E8fPIN2A0M8bO1EN0E1[Bar]:[Line]]In more detail the template is created as follows.8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1FN0E3output
+version8bNON0E2editing8bOPN0E1template  First the mode is toggled to 8fPIN2A0?8bOLN0E1BOTH.  Then the screen layout is created
+ using the line and
+bar features described in 8fPJN2A098bN1IN0E2VersionDefinition8bO1LN0E1SpecialConstructions.  Code will be
+automatically generated in the ``Output'' field
+but, on completing the description of the screen layout, this
+is erased by setting the cursor to the beginning of the ``Output'' field and
+killing the line (with 8fPIN2A0A8bOKN0E1C-K).  ``8fPHN2A08Ffbox8fPHN2A08E'' is then entered and the 
+8fPIN2A0?8bOLN0E1text entry in the 8fPIN2A0?8bOLN0E1Mode menu selected.  Next an expression place holder
+is chosen from the 8fPIN2A0?8bOMN0E1Place menu, and finally ``8fPHN2A08D''is entered. 
+8fPKN2A0,8bMHN@E3"8bOON0E1Using 8fPIN2A0?8bOLN0E1math8bNIN0E28fPHN2A008fPON2A048bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0?8bOLN0E1math menu item8bM1FN0E3math menu item8bN1DN0E2command menu8bO1EN0E1define window
+The math mode command has a similar function to the text mode command.  It
+is used in  situations where manually inserted 8fPHN2A0L macros that  switch the
+mode to expression mode are to be used in text.   
+
+A simple example would be if you want in-line mathematical expressions in
+your text to be parenthesised by ``8fPHN2A08F('' and ``8fPHN2A08F)'' rather than 8fPHN2A08L signs.  The following
+template definition can be used for that purpose.  The manually inserted ``Output''
+definition indicates that the argument is to be set in text mode but that following
+the ``8fPHN2A08F('' 8fPHN2A0L will have switched  to math mode.
+
+8fPKN2A0¾8bO1CN0E1inline math8bMON0E38fPIN2A0M8bONN0E1[TEXT]8fPHN2A08F(8fPIN2A0M8bONN0E1[math]8fPJN2A0z8bNIN0E218bOIN0E1E8fPHN2A08F)8bNIN0E28fPJN2A0z8bNIN0E218bOIN0E1E
+8fPKN2A0,8bMHN@E3"8bOON0E1Using 8fPIN2A0?8bOON0E1display8bNIN0E28fPHN2A008fPON2A048bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0?8bOON0E1display menu item8bM1IN0E3display menu item8bN1DN0E2command menu8bO1EN0E1define window
+The final option in the 8fPIN2A0?8bOLN0E1Mode menu is labelled 8fPIN2A0?8bOON0E1display.  Its function is almost
+identical to that of the 8fPIN2A0?8bOLN0E1math option.  It also indicates to 8fPHN2A0< that a  8fPHN2A0L
+macro which switches the mode to math mode has been manually inserted in the
+``Output'' field.  The 8fPIN2A0?8bOON0E1display option is used, however, in a math mode environment 
+in which the text to be included is to be set within a 8fPHN2A0L  mbox.  Here is an example.
+
+8fPKN2A0¾8bOON0E1Exp Txt8bM3AN0E38fPIN2A0M8bONN0E1[TEXT]8fPHN2A08Fbegin8fPHN2A08Eequation8fPHN2A08D
+8fPIN2A0M8bONN0E1[disp]8fPJN2A0z8bNIN0E218bOIN0E1E8fPHN2A08I8fPHN2A08I8fPHN2A08I8fPIN2A0M8bONN0E18fPHN2A08Fmbox8fPHN2A08E8fPJN2A0z8bNIN0E228bOIN0E1T8fPIN2A0M8bOIN0E18fPHN2A08D
+8fPHN2A08Fend8fPHN2A08Eequation8fPHN2A08D8bN1AN0E2
+8fPIN2A0M8bOMN0E1[tab] 8fPJN2A0z8bNIN0E218bOIN0E1E   8fPJN2A0z8bNIN0E228bOIN0E1T
+
+The purpose of the template is to create equations, each equation being
+concluded by text (perhaps a punctuation symbol like a period or a comma).
+The template must be set in text mode (hence the 8fPIN2A0M8bONN0E1[TEXT] command) but
+following the ``8fPHN2A08Fbegin8fPHN2A08Eequation8fPHN2A08D'' 8fPHN2A0L will have switched to math mode.  
+This is declared by the 8fPIN2A0M8bONN0E1[disp] command.  The effect of using  8fPIN2A0M8bONN0E1[disp] rather than
+8fPIN2A0M8bONN0E1[math] is that any text place holders are automatically parenthesised by the
+mbox macro as indicated by the (system inserted) ``8fPIN2A0M8bONN0E18fPHN2A08Fmbox8fPHN2A08E'' and ``8fPIN2A0M8bOIN0E18fPHN2A08D'' strings.
+(Had 8fPIN2A0M8bONN0E1[math] been used instead then a  8fPHN2A0ISafa0e19G   !0GVafa0e19F'!GCccAbfO$dfO80PIC80JccBbfO\$dfO80PCC$Ð sign is inserted by the system to indicate
+that this is how the math mode will be terminated.)  You are advised  to use the 8fPIN2A0?8bOON0E1display
+ option rather than the 8fPIN2A0?8bOLN0E1math option if your template contains text arguments.
+8fPON2A048bIIN0E7)8bJHN0E68bKHN0E58bLHN0E48bMLN0E3mode8bN1GN0E2layout commands8bOPN0E1template
+8fPKN2A0)8bM1ON0E3VersionDefinition.Fonts8bOMN0E1Fonts8bNIN0E28fPHN2A018fPON2A048bIHN0E78bJHN0E68bKIN0E5(8bLHN0E48bMLN0E3font8bN1GN0E2layout commands8bOPN0E1template
+Most texts use a wide variety of fonts --- bold fonts for headings, italic fonts for
+emphasis and so on. Mathematical texts tend to use more than their fair share
+because judicious use of fonts can considerably enhance readability.  (Unbridled
+use of different fonts can, however, be distracting.)  8fPHN2A0< allows unlimited
+use of different fonts both in text and in mathematical expressions.
+
+Which fonts are available depends on the local installation but users can
+add their own fonts. (For further information on how to do so see 
+8fPJN2A0:8bNHN@E2"8bO1LN0E1SystemAdministration.)  The file 8fPIN2A0>8bO1AN0E1fonts.mpt is loaded when 8fPHN2A0< is
+started and describes which fonts are available and how they should be
+converted to 8fPHN2A0L. These  fonts are listed in the pin-up menu that appears
+when the 8fPIN2A0?8bOLN0E1Font8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0?8bOLN0E1Font8bMLN0E3Font8bN1DN0E2command menu8bO1EN0E1define window item in the define window is selected. 
+The 8fPIN2A0>8bO1AN0E1fonts.mpt  file
+provided in the standard distribution causes the  pin-up menu shown in
+table 8fPIN2A0Q8bO2BN0E1tab:VersionDefinition.Font to be created.
+
+8fPLN2A0f8bN1JN0E2The 8fPIN2A0?8bOLN0E1Font pin-up menu.8bOIN0E18fPIN2A0i8bOIN0E18fPJN2A0Æ8bMLN0E3Font8bNIN0E28fPJN2A0Ç8bOIN0E18fPJN2A0Ç8bOIN0E18fPJN2A0Ç8bOIN0E18fPJN2A0Ç8bOIN0E18fPJN2A0Ç8bOIN0E18fPJN2A0Ç8bOIN0E18fPIN2A0?8bOMN0E1Roman8bNIN0E28fPIN2A0?8bOLN0E1Bold8bNIN0E28fPIN2A0?8bONN0E1Symbol8bNIN0E28fPIN2A0?8bONN0E1Italic8bNIN0E28fPIN2A0?8bO1BN0E1MathSymbol8bNIN0E28fPIN2A0?8bO1CN0E1Bold Italic8bNIN0E28fPJN2A0Ç8bOIN0E18fPJN2A0Ç8bOIN0E18fPJN2A0Ç8bOIN0E18fPIN2A0?8bOON0E1Slanted8bNIN0E28fPIN2A0?8bO1BN0E1Sans Serif8bNIN0E28fPIN2A0?8bO1BN0E1Typewriter8bNIN0E28fPIN2A0?8bOLN0E1CMSY8bM2BN0E3tab:VersionDefinition.Font8bLKN0E4htb
+A font is selected by clicking on it. Two special symbols are then entered at
+the position of the cursor: one to open the specific font and one to close it. For the
+italic font, these symbols are  8fPIN2A0M8bOPN0E1[Italic: and 8fPIN2A0M8bOIN0E1] in the screen format and
+8fPIN2A0ISe196d0dO   *2JCTextSize1GCLatex2eA#TextSizeHelpGVe196d0dP%!FC80JccD8bO80PFCtinyGVe196d0eA%!FC80Jc4C8bO80PLCscriptsizeGVe196d0eB%!FC80Jc4B8bO80PNCfootnotesizeGVe196d0eC%!FC80Jc4A8bO80PGCsmallGVe196d0eD%!FC80Jc3P8bO80PLCnormalsizeGVe196d0eE%!FC80Jc3O8bO80PGClargeGVe196d0eF%!FC80Jc3N8bO80PGCLargeGVe196d0eG%!FC80Jc3M8bO80PGCLARGEGVe196d0eH%!FC80Jc3L8bO80PFChugeGVe196d0eI%!FC80Jc3K8bO80PFCHuge×8bOIN0E18fPIN2A09C8bOLN0E1{\it and 8fPIN2A0×8bOIN0E18fPIN2A09C8bOKN0E1\/} in the 8fPHN2A0L code (as specified in the 8fPIN2A0?8bO1AN0E1fonts.mpt file).
+These two symbols are connected and can only be entered or removed as a pair.
+8fPJN2A0»8bM55DN0E3This example uses the typewriter font to
+simulate on screen 8fPHN2A0L's  verbatim environment. In this environment the
+output of 8fPHN2A0L will be literally (``verbatim'') the text that is entered and will
+be set in a monospaced typewriter-like font. 
+
+8fPKN2A0¾8bO1GN0E1Short verbatim+8bNKN0E28fPIN2A0M8bO1DN0E1[Typewriter:8fPJN2A0z8bNIN0E218bOIN0E1T8fPIN2A0M8bOIN0E1]8bM1AN0E38fPIN2A0M8bONN0E1[TEXT]8fPHN2A08Fverb+8fPJN2A0z8bNIN0E218bOIN0E1T+
+8fPKN2A0¾8bO1EN0E1Long verbatim8bNKN0E28fPIN2A0M8bO1DN0E1[Typewriter:8fPJN2A0z8bNIN0E218bOIN0E1T8fPIN2A0M8bOIN0E1]8bM2HN0E38fPIN2A0M8bONN0E1[TEXT]8fPHN2A08Fbegin8fPHN2A08Everbatim8fPHN2A08D8fPJN2A0z8bNIN0E218bOIN0E1T8fPHN2A08Fend8fPHN2A08Everbatim8fPHN2A08D
+The first version can be used to make a short  verbatim text, for example a
+8fPHN2A0L command. The text cannot contain a ``+'' because this symbol is used to
+mark the beginning and end of the verbatim text in the 8fPHN2A0L output. This
+restriction can be overcome (at the expense of replacing one  restriction by
+another)  by adding other versions where ``+'' has been suitably replaced. 
+
+The second version is used when a large text must be type set just as it is set on
+screen. Normally, 8fPHN2A0L will replace multiple spaces by one space and line
+breaks are placed at optimal places. In the verbatim environment, every space
+will be used and the line breaks are placed at the positions the user specified.
+
+8fPHN2A0< does not take account of the context in which a symbol is used. Thus, if  in one of
+the versions above, the text place holder, 8fPJN2A0z8bNIN0E218bOIN0E1T, contains a special symbol like 3cA,  then the
+symbol 3cA would appear in the screen version whereas  the printed output would
+contain  8fPIN2A09C8bOMN0E1$\pi$. This is a trick that can be used by authors of 8fPHN2A0L manuals
+to cause the 8fPHN2A0L code for a construction to appear in the printed document 
+without actually typing it. 
+8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1LN0E1verbatim environment8bN1LN0E2using a font command
+8fPON2A048bIIN0E7)8bJHN0E68bKHN0E58bLHN0E48bMLN0E3font8bN1GN0E2layout commands8bOPN0E1template
+
+8fPIN2A0 8bO1HN0E1help:Define.Size8fPKN2A0)8bM1ON0E3VersionDefinition.Sizes8bOMN0E1Sizes8bNIN0E28fPHN2A018fPON2A048bIHN0E78bJHN0E68bKIN0E5(8bLHN0E48bMLN0E3size8bN1GN0E2layout commands8bOPN0E1template
+Just as the use of fonts can enhance readability so can the use of different sizes of
+symbols.  (In mathematics it is common to use smaller symbols for sub and
+superscripts, of course.) The different sizes can be selected from the pin-up menu
+that appears when the 8fPIN2A0?8bOLN0E1Size8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0?8bOLN0E1Size8bMLN0E3Size8bN1DN0E2command menu8bO1EN0E1define window item is selected. The pin-up contains a range of
+numbers which indicate how large the new font should be relative to the
+current one in  the screen format.
+ Selecting a negative number will decrease the size of the font by a
+number of steps. A positive number will increase the size. 
+
+The use of relative rather than absolute sizes makes it is possible to nest
+size changes. This  is useful when the size of a font should depend on the
+level of the template.  For example, subscripts of subscripted expressions should
+be  yet smaller than plain subscripts.
+
+After a size change the default text font is used This behaviour is
+based on the way 8fPHN2A0L (version 2.09) combines size changes and font
+changes. So, if a small bold font is needed, you have to change the size to small
+first and then change the font to bold.
+8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNLN0E2font8bOPN0E1template  
+
+The special symbols which indicate the scope of a change of size  in the screen format 
+are 8fPIN2A0M8bOPN0E1[SizeR8fPIN2A0E8bOIN0E1n: and 8fPIN2A0M8bOIN0E1], the number 8fPIN2A0E8bOIN0E1n being
+the number that is selected from the pin-up menu. ``8fPIN2A0M8bOIN0E1R'' is a reminder that the
+size change is relative (and leaves open the possibility of including an absolute
+size change in future revisions). 
+
+Note that there is a potential discrepancy between the screen format and the
+automatically generated output since  size-change commands in 8fPHN2A0L (for
+example, 8fPIN2A0>8bONN0E18fPHN2A08Flarge and 8fPIN2A0>8bOMN0E18fPHN2A08Ftiny) are all absolute and not relative.   Special-purpose 
+8fPHN2A0L commands, such as the commands for subscripting and superscripting, do
+accommodate relative size changes but only to a limited extent.  (Subsubscripts and
+subsubsubscripts, for example, are always the same size.)  The problem is difficult to
+eliminate in all situations but in practice hand-editing of the ``Output'' field in the
+template  specification or adding additional versions usually suffices.
+8fPJN2A0»8bM18GN0E3A section header is type set in a larger font. In 8fPHN2A0<, this can be done with
+the following template.
+8fPKN2A0¾8bOON0E1Section8bN1EN0E2 Section 8fPIN2A0M8bO1FN0E1[SizeR2:[Bold:8fPJN2A0z8bNIN0E218bOIN0E1T8fPIN2A0M8bOJN0E1]] 8bM1EN0E38fPIN2A0M8bONN0E1[TEXT] 8fPHN2A08Fsection8fPHN2A08E8fPJN2A0z8bNIN0E218bOIN0E1T8fPHN2A08DThe template uses a size change in combination with a font change. A size
+change is used first because it will change the font to the default font as a side
+effect.  The system-generated output field, which would be  8fPIN2A0ISe1ecc74K   &21GCEquation/Display     1PCLatex2eB#Equation/DisplayHelp GVe1ecc74L'!NC
+(bfMno.dfM)80C8fO
+
+2HC80J\begin{equation}80I80M8fO80K 80I\end{equation}80IMCEquation   GVe1ecc7aK'!1AC
+(82Hlabel82I8bN)80C8fO
+
+3AC80J\begin{equation}\label{8bN}80I80M8fO80K 80I\end{equation}80I1ECEquation -- bfMLabeldfMGVe1ecc77D'!2FC
+(bfMno.dfM)80C8fO  82Htext or punctuation82I8bM
+
+3EC80J\begin{equation}80I80M8fO\mbox{\ \ \ 80K8bM}80I\end{equation}80I1KCEquation followed by textGVe1ecc7eA'!2IC
+(82Hlabel82I8bN)80C8fO  82Htext or punctuation82I8bM
+
+3NC80J\begin{equation}\label{8bN}80I80M8fO\mbox{\ \ \ 80K8bM}80I\end{equation}80I2FCEquation followed by text -- bfMLabeldfMGVe1ecc75N'!GC
+80C8fO
+
+2MC80J\begin{displaymath}80I80M8fO 80I\end{displaymath}80I1FCDisplayed expressionGVe1ecc78N'!1OC
+80C8fO  82Htext or punctuation82I8bM
+
+3KC80J\begin{displaymath}80I80M8fO\mbox{\ \ \ 80K8bM}
+\end{displaymath}80I2GCDisplayed expression followed by textÜ8fOIN2A1³8fOIN0A18bP1EN0E08fPIN2A0M8bONN0E1[TEXT] Section 8fPIN2A0M8bO1DN0E1{\Large {\bf8fPJN2A0z8bNIN0E218bOIN0E1T8fPIN2A0M8bOJN0E1}}has been hand-edited in order to produce the desired effect in 8fPHN2A0L.8bN2HN0E2specifying a change of font size8fPON2A048bIIN0E7)8bJHN0E68bKHN0E58bLHN0E48bMLN0E3size8bN1GN0E2layout commands8bOPN0E1template
+
+8fPIN2A0 8bO1HN0E1help:Define.Tabs8fPKN2A0)8bM2AN0E3VersionDefinition.Tabbing8bOON0E1Tabbing8bNIN0E28fPHN2A018fPON2A048bIHN0E78bJHN0E68bKIN0E5(8bLHN0E48bMON0E3tabbing8bN1GN0E2layout commands8bOPN0E1template
+8fPON2A048bIHN0E78bJHN0E68bKIN0E5(8bLHN0E48bMHN0E38bNHN0E28bO2FN0E1screen format command language
+8fPON2A048bIHN0E78bJHN0E68bKIN0E5(8bLHN0E48bMHN0E38bN1GN0E2layout commands8bOPN0E1template
+8fPKN2A0,8bMHN@E3"8bO2HN0E1Tabbing and Display Environments8bNIN0E28fPHN2A00
+For layout purposes both on the screen and in the output document a robust
+8fPIN2A0G8bOON0E1tabbing environment is often necessary.
+For example, when a number of items are to be listed the margin is moved to the right
+and a symbol used to indicate the different items as shown below:
+8fPIN2A0x8bOIN0E18fPIN2A0w8bO7JN0E1This is an item in a list (of one item!). The margin is positioned to the right
+of the dot, just before this text.
+
+The tabbing environment is used in a 8fPIN2A0?8bOON0E1Display  expression, available through the
+main menu.   Alternatively, a template (version) can be defined in such a way that a
+new tabbing environment is created by entering the template in a document.   The
+two  menu options  8fPIN2A0?8bOON0E1Tabbing and 8fPIN2A0?8bOON0E1Display from the 8fPIN2A0?8bOLN0E1Tabs pin-up menu at the head
+of the define window are used for this purpose.   (The difference between the two is
+explained below.) Inside a tabbing environment the margin can be moved to the right
+or left, and tab stops can be set.  8fPHN2A0< tabbing environments can be nested to
+any depth on screen.
+
+The 8fPHN2A0< (on-screen) tabbing environment is based on the 8fPHN2A0L 8fPIN2A0?8bOON0E1tabbing
+environment, the former's tabbing commands corresponding one-to-one with those
+of the latter. The 8fPHN2A0L 8fPIN2A0?8bOON0E1tabbing environment is, however, subject to a number of
+restrictions making its use sometimes undesirable. In many situations there is a
+special purpose environment available in 8fPHN2A0L which can be entered in the output
+by hand.  For example,  8fPHN2A0L tabbing environments cannot be nested but the
+``enumerate'' environment can (so that it is possible to construct numbered lists
+containing numbered sublists). The 8fPHN2A0< tabbing environment should
+therefore be used for approximating to the 8fPHN2A0L enumerate environment on
+screen  whereas  the appropriate 8fPHN2A0L code for the enumerate environment
+should be entered (by hand) in the output section.   
+
+Even in situations where the 8fPHN2A0L  tabbing environment,
+as described in appendix C.9.1 (pages 179--181) of the 8fPHN2A0L user's guide \&
+reference manual 8fPIN2A0ISe1d4818J   $2PCRef(other doc)1LCLatex2e#Ref(other doc)HelpGVe1d4818K'!1HCbfI[82Hdocument key(s)82I8bO]dfIKC80J\cite{8bO}PCCite[document]GVe1d4818L'!1PCbfI[82Hdocument key82I8bO,82Hcomment82I8bN]dfINC80J\cite[8bN]{8bO}1ICCite[document, comment]GVe1d4818M'!2ACbfMNoCitedfMbfI[82Hdocument key(s)82I8bO]dfI
+NC80J\nocite{8bO}80I2HCDocument not cited-but in bibliographyGVe1d4818N'!2JCbfMPut all references into bibliography.dfM
+OC80J80J\nocite{*}80I2CCPut all entries into bibliographyä8bOMN0E1LaTeX,  ought to be appropriate it was found to  be inadequate to the
+demands of automatic code generation and therefore a replacement has been
+developed for use with 8fPHN2A0<. The environment  is called the  8fPIN2A0G8bO1AN0E1mpdisplay
+environment8fPON2A048bIHN0E78bJHN0E68bKIN0E5(8bLHN0E48bMHN0E38bNHN0E28bO1MN0E1mpdisplay environment and is defined in the 8fPIN2A0>8bO1CN0E1mathpad.sty file (to be found in the 
+8fPIN2A0>8bOMN0E1latex subdirectory). The commands that are used are almost the same as
+those used by the standard tabbing environment. However the mpdisplay environment,
+has the following four additional arguments:  
+8fPIN2A0|8bOLN0E18fPJN2A07P8bN5DN0E28fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1NN0E2elastic space argument8bO1MN0E1mpdisplay environmentThe unit size of ``elastic'' space (as used also around  infix 
+operators).8bO1EN0E1Elastic space8fPJN2A07P8bNaEN0E28fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1IN0E2Tab size argument8bO1MN0E1mpdisplay environmentThe size of the space to be inserted after the current position of
+the cursor when a move to the next tab stop is to be executed
+but no tab stop is defined.8bOPN0E1Tab size8fPJN2A07P8bNbFN0E28fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1KN0E2Line space argument8bO1MN0E1mpdisplay environmentAdditional vertical space between two lines.  This amount of space is
+added to the normal interline spacing (as defined by the 8fPHN2A0K
+variable 8fPIN2A09C8bO1EN0E1\baselineskip) within an mpdisplay environment.8bO1BN0E1Line space8fPJN2A07P8bN5BN0E28fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1LN0E2Left margin argument8bO1MN0E1mpdisplay environmentThe size of the left margin measured in terms of the number
+of tab stops.8bO1CN0E1Left margin
+
+8fPHN2A0< will insert these arguments when the document is converted to
+8fPHN2A0L and they can be changed via the default window.   
+
+The mpdisplay environment is chosen by selecting 
+8fPIN2A0?8bOON0E1Display from the pin-up menu under 8fPIN2A0?8bOLN0E1Tabs in the define window. 
+Users not wishing to use the mpdisplay environment may 
+use the 8fPHN2A0L tabbing environment  by selecting  instead 8fPIN2A0?8bOON0E1Tabbing
+from the same pin-up menu.
+8fPON2A048bIIN0E7)8bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1MN0E1mpdisplay environment
+8fPKN2A0,8bMHN@E3"8bO1HN0E1Tabbing Commands8bNIN0E28fPHN2A00
+The tabbing commands can be selected from the pin-up menu 
+(shown in table 8fPIN2A0Q8bO2BN0E1tab:VersionDefinition.Tabs)
+that appears when the 8fPIN2A0?8bOLN0E1Tabs8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0?8bOLN0E1Tabs8bMLN0E3Tabs8bN1DN0E2command menu8bO1EN0E1define window item at 
+the top of the define window is selected.
+
+
+8fPLN2A0f8bN1JN0E2The 8fPIN2A0?8bOLN0E1Tabs pin-up menu.8bOIN0E18fPIN2A0i8bOIN0E18fPKN2G0Æ8bMLN0E3Tabs8bOHN0E18bNIN0E28fPJN2A0Ç8bNIN0E28fPIN2A0?8bONN0E1return8bOIN0E18fPJN2A0Ç8bNIN0E28fPIN2A0?8bOKN0E1pop8bOIN0E18fPJN2A0Ç8bOIN0E18fPJN2A0Ç8bOIN0E18fPJN2A0Ç8bOIN0E18fPJN2A0Ç8bOIN0E18fPJN2A0Ç8bOIN0E18fPJN2A0Ç8bOIN0E18fPJN2A0Ç8bOIN0E18fPIN2A0?8bOON0E1Tabbing8bNIN0E28fPIN2A0?8bOON0E1Display8bNIN0E28fPIN2A0?8bOIN0E18fPIN2A0?8bOKN0E1set8bNIN0E28fPIN2A0?8bOKN0E1tab8bNIN0E28fPIN2A0?8bOLN0E1back8bNIN0E28fPIN2A0?8bOLN0E1plus8bNIN0E28fPIN2A0?8bOMN0E1minus8bNIN0E28fPIN2A0?8bOLN0E1push8bM2BN0E3tab:VersionDefinition.Tabs8bLKN0E4htbA summary of these commands is given below.  With the exception of 8fPIN2A0?8bOON0E1Tabbing
+and 8fPIN2A0?8bOON0E1Display, the corresponding 8fPHN2A0L command is shown in parentheses.
+8fPIN2A08B8bO1BN0E18fPJN2A07P8bN1aCN0E2Insert two symbols to mark the opening and closing
+of the 8fPHN2A0L 8fPIN2A0?8bOON0E1tabbing environment.
+These are  8fPIN2A0M8bO1AN0E1[Tabbing: and 8fPIN2A0M8bOIN0E1] in the ``Screen'' field and the
+8fPHN2A0L code 8fPIN2A09C8bO1GN0E1\begin{tabbing} and 8fPIN2A09C8bO1EN0E1\end{tabbing}
+in the ``Output'' field.
+Between these two symbols tabbing commands, such as moving the
+margin and setting tab stops,  can be used.
+ The layout produced by the 
+8fPHN2A0L code may differ from that shown on the screen. This
+is  because 8fPHN2A0< uses the mpdisplay environment on screen.8bOIN0E18fPIN2A0?8bOON0E1Tabbing8fPJN2A07P8bN14GN0E2Insert two symbols to open and close the mpdisplay environment.
+This is similar to the 8fPIN2A0?8bOON0E1tabbing
+environment except for a few commands and the position of the
+margin. The  symbols used are 8fPIN2A0M8bO1AN0E1[Display: and 8fPIN2A0M8bOIN0E1] on screen and the
+8fPHN2A0L code will be 8fPIN2A09C8bO1IN0E1\begin{mpdisplay} and
+8fPIN2A09C8bO1GN0E1\end{mpdisplay}. Additional arguments specifying spacing
+are added when the actual 8fPHN2A0L file is constructed.8bOIN0E18fPIN2A0?8bOON0E1Display8fPJN2A07P8bN3CN0E2Set a tab stop at the current position (8fPIN2A09C8bOJN0E1\=).8bOIN0E18fPIN2A0?8bOKN0E1set8fPJN2A07P8bN12NN0E2Move to the next tab stop (8fPIN2A09C8bOJN0E1\>). If this tab stop is not defined a space
+will be inserted and then a tab stop  defined. The size of the space is
+given by the tab size  argument of the mpdisplay environment. (See
+above.) Under the same circumstances the standard 8fPHN2A0L  
+command would report an error.8bOIN0E18fPIN2A0?8bOKN0E1tab8fPJN2A07P8bN8PN0E2Move to the previous tab stop (8fPIN2A09C8bOJN0E1\<). This command can only be used
+at the beginning  of a line and may give strange results on the screen.8bOIN0E18fPIN2A0?8bOLN0E1back8fPJN2A07P8bN9LN0E2Move the left margin one tab stop to the right (8fPIN2A09B8bOJN0E1\+). This command
+has no effect on the current line and will be ended by the next
+matching 8fPIN2A0?8bOMN0E1minus command.8bOIN0E18fPIN2A0?8bOLN0E1plus8fPJN2A07P8bN6JN0E2Move the left margin one tab stop to the left (8fPIN2A09C8bOJN0E1\-). This command
+has no effect on the current line.8bOIN0E18fPIN2A0?8bOMN0E1minus8fPJN2A07P8bN12GN0E2Save the current positions of the tab stops (8fPIN2A09C8bOMN0E1\push). 8fPIN2A09C8bOMN0E1\push is the
+replacement for the  standard 8fPHN2A0L 8fPIN2A09C8bOPN0E1\pushtab command  which
+doesn't work reliably in combination with the 8fPIN2A0?8bOLN0E1plus and 8fPIN2A0?8bOMN0E1minus
+commands.  Several 8fPIN2A0?8bOLN0E1push commands can be nested. 8fPIN2A0?8bOLN0E1push and
+8fPIN2A0?8bOKN0E1pop commands must be used in matching pairs within the
+mpdisplay environment.8bOIN0E18fPIN2A0?8bOLN0E1push8fPJN2A07P8bN4ON0E2Restore the positions of the tab stops saved by the last 8fPIN2A0?8bOLN0E1push
+command (8fPIN2A09C8bOLN0E1\pop).8bOIN0E18fPIN2A0?8bOKN0E1pop8fPJN2A07P8bN13NN0E2Break the line in the 8fPHN2A0L file without breaking the line in the
+printed document. When a line in the 8fPHN2A0L code of a version gets
+very long and it is to be typeset in the tabbing environment, this
+return can be used to break the line. The normal newline will insert 
+8fPIN2A09C8bOJN0E1\\ when it is used within the tabbing environment.8bOIN0E18fPIN2A0?8bONN0E1return
+
+
+The 8fPHN2A0L tabbing commands that are not described here  can also be used in
+the mpdisplay environment although 8fPIN2A09C8bONN0E1\mkill should be used instead of 
+8fPIN2A09C8bOMN0E1\kill. A line in the mpdisplay environment can also be labelled with the
+8fPIN2A09C8bOPN0E1\mplabel command. Processing the 8fPHN2A0L file will cause the line to be numbered
+at the left with an equation number enclosed in parentheses.
+Each line can have at most one label.
+
+
+
+8fPKN2A0,8bMHN@E3"8bO2EN0E1Using the Tabbing Environment8bNIN0E28fPHN2A00
+This section contains a number of examples of the use of the tabbing commands. Care
+should be taken when using these commands  because templates  are often nested. By
+keeping to the following guidelines the risk of errors can be kept to a minimum.
+8fPIN2A0x8bOMN0E18fPIN2A0w8bOcPN0E1Use the 8fPIN2A0?8bOLN0E1push and 8fPIN2A0?8bOKN0E1pop commands in matching pairs. Every 8fPIN2A0?8bOLN0E1push
+should be followed by a 8fPIN2A0?8bOKN0E1pop within the same template version.  The use of 
+8fPIN2A0?8bOON0E1Tabbing or 8fPIN2A0?8bOON0E1Display in a nested environment is equivalent to a pair of 8fPIN2A0?8bOLN0E1push and
+8fPIN2A0?8bOKN0E1pop commands.8fPIN2A0w8bOcNN0E1Use the same number of 8fPIN2A0?8bOLN0E1plus and 8fPIN2A0?8bOMN0E1minus commands within a template version.
+It is not necessary to begin with a 8fPIN2A0?8bOLN0E1plus  command because the 
+mpdisplay environment initialises a number of predefined tab positions.8fPIN2A0w8bO15ON0E1Move the margin forward to a  place holder if the place holder is likely
+to be filled by something which extends over more than one line.  (Thus as a
+general rule you should always move the margin forward to text place
+holders unless you have specific reasons for not doing so.)  If this is not
+done then the layout could be badly compromised.8fPIN2A0w8bOfPN0E1Try to avoid using the 8fPIN2A0?8bOLN0E1back command. Usually the same effect can be
+achieved by using  instead a 8fPIN2A0?8bOLN0E1plus command in the line itself together with 
+a 8fPIN2A0?8bOMN0E1minus command in the previous line.
+ The 8fPIN2A0?8bOLN0E1back command can result in strange
+cursor reactions or strange selections.8fPIN2A0w8bO15PN0E1To be sure that the tab stops used in a template will not change the tab stops
+from other templates, a 8fPIN2A0?8bOLN0E1push and 8fPIN2A0?8bOKN0E1pop command should be added at the
+beginning and the end of each version with tabbing commands.  (This advice is
+relevant to the 8fPHN2A0L output only so can be ignored if a special-purpose
+environment replaces the automatically generated code.)
+8fPJN2A0»8bM4bIN0E3The 8fPHN2A0L itemize environment
+8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1KN0E1itemize environment is used to list a
+number of items, each item being marked by a bullet.  In addition, individual items
+are indented relative to the current text margin. (The text immediately preceding
+this example is an example of the use of the itemize environment.) Placing a bullet 
+and moving the margin  is  accomplished in 8fPHN2A0L by the 8fPIN2A09C8bOMN0E1\item command.  In
+8fPHN2A0< this environment can be made with the template
+8fPKN2A0¾8bOON0E1Itemize8bN1DN0E28fPIN2A0M8bO1AN0E1[Tabbing:Item8fPIN2A0M8bOMN0E1[set]ize 8fPLN2A0z8bNIN0E218bOIN0E1T8fNHN0A28fOIN0A1T8fPIN2A0M8bOIN0E1]8bM2HN0E38fPIN2A0M8bONN0E1[TEXT]8fPHN2A08Fbegin8fPHN2A08Eitemize8fPHN2A08D 8fPJN2A0z8bNIN0E218bOIN0E1T 8fPHN2A08Fend8fPHN2A08Eitemize8fPHN2A08Dto open and close the environment, and the template
+8fPKN2A0¾8bOLN0E1Item8bN1CN0E2    221J 8fPIN2A0M8bOMN0E1[tab]8fPIN2A0M8bONN0E1[plus]8fPJN2A0z8bNIN0E218bOIN0E1T8fPIN2A0M8bOON0E1[minus] 8bM1AN0E38fPIN2A0M8bONN0E1[TEXT]8fPHN2A08Fitem 8fPJN2A0z8bNIN0E218bOIN0E1T for each individual item.
+
+These templates should, of course, only be used in the correct combinations. In
+particular, the place holder in the first template should only contain a number of
+instances of the second template. The place holder of the second template can contain 
+everything, including the first template. It is possible in this way to nest any number
+of these itemize environments within 8fPHN2A0<;  8fPHN2A0L, on the other hand, may
+not be able to cope if the nesting becomes too deep.
+
+More versions can be added to be able to switch easily between the itemize, enumerate8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1MN0E1enumerate environment
+and description8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1ON0E1description environment environments. One version of the item template should then have an
+extra place holder in which to  enter the argument of the description item.  8bN1ON0E2the itemize environment
+The remaining examples illustrate the use of the tabbing command with elements of
+a simple programming language called the  ``Guarded Command Language''.  In
+this  language repetition of statement 8fPIN0A0S is indicated by writing 8fPIN2A0ISb8a8383O   "0GVb8a8383M'"OCbfIdodfI  8fO  bfIoddfI1EC{\sf do}~8fO~{\sf od}HCdo  odGVb8a8383N'"1CCbfIdodfI80G  80B80E8fO80F
+bfIoddfI80H1KC80G{\sf do}~~80B80E8fO80F
+{\sf od}80HICdo 202G odæ8fOIN0A1S.  Conditional
+terms take the form  8fPJN2A0ISafa0e19N   #0GVafa0e19K#"IC8fO  219C  8fNGC8fO~219C~8fNGVafa0e19L'"1BC80G8fO  219C 80B80E  80B80E8fN80F80F80H1BC80G8fO~~219C~~80B80E~80B80E8fN80F80F80HOCGuard (short)GVafa0e19M'"1HC80G8fO  219C
+      80B80E  80B80E8fN80F80F80H1EC80G8fO~~219C
+~~~~80B80E~80B80E8fN80F80F80HNCGuard (long)é8fOIN0A1b8fNIN0A2S  where 8fPIN0A0b is a Boolean expression and 8fPIN0A0S  is a statement.
+No knowledge of the meaning of the terms in the language is needed to 
+follow the discussion since our concern is only about the layout of terms in the 
+language.
+
+8fPJN2A0»8bM3dLN0E3The program construction 8fPIN2A0æ8fOIN2A1A8bOIN0E18fPIN0A0S (where 8fPIN2A0A8bOIN0E18fPIN0A0S stands for a statement) can be
+limited to one line if the statement 8fPIN2A0A8bOIN0E18fPIN0A0S is not too long. However, if the statement is
+long, it is normally set with  the 8fPIN2A0?8bOJN0E1od positioned exactly below the 8fPIN2A0?8bOJN0E1do.  Further, the
+statement 8fPIN2A0A8bOIN0E18fPIN0A0S  begins on the same line as the 8fPIN2A0?8bOJN0E1do; if it is itself a multi-line
+statement then all its components are indented. 
+
+In order to be able to display both long and short 8fPIN2A0?8bOJN0E1do--8fPIN2A0?8bOJN0E1od statements two
+versions of a 8fPIN2A0?8bOJN0E1do--8fPIN2A0?8bOJN0E1od template are created.  These are shown below.
+ 8fPKN2A0¾8bO1FN0E1do od (short) 8bN1CN0E28fPIN2A0M8bO1DN0E1[Sans Serif:do8fPIN2A0M8bOIN0E1] 8fPJN2A0z8bNIN0E218bOIN0E1E8fPIN2A0M8bO1EN0E1 [Sans Serif:od8fPIN2A0M8bOIN0E1] 8bM1EN0E38fPIN2A0M8bONN0E1[MATH]8fPIN2A0M8bO1AN0E18fPHN2A08L8fPHN2A08Fmathsf8fPHN2A08Edo8fPIN2A0M8bOIN0E18fPHN2A08D~8fPJN2A0z8bNIN0E218bOIN0E1E~8fPIN2A0M8bOPN0E18fPHN2A08Fmathsf8fPHN2A08Eod8fPIN2A0M8bOIN0E18fPHN2A08D8fPIN2A0M8bOIN0E18fPHN2A08L
+8fPKN2A0¾8bO1DN0E1do od (long)8bN1GN0E28fPIN2A0M8bO1JN0E1[push][Sans Serif:do8fPIN2A0M8bOIN0E1]  8fPIN2A0M8bO1CN0E1[set][plus]8fPJN2A0z8bNIN0E218bOIN0E1E8fPIN2A0M8bOON0E1[minus] 
+8fPIN2A0M8bO1DN0E1[Sans Serif:od8fPIN2A0M8bONN0E1][pop]8bM1FN0E38fPIN2A0M8bO1LN0E1[MATH]8fPHN2A08Fpush8fPHN2A08L8fPHN2A08Fmathsf8fPHN2A08Edo8fPIN2A0M8bOIN0E18fPHN2A08D8fPHN2A08I8fPHN2A08I8fPIN2A0M8bONN0E18fPHN2A08L8fPHN2A08F=8fPHN2A08F+8fPHN2A08L8fPJN2A0z8bNIN0E218bOIN0E1E8fPIN2A0M8bOMN0E18fPHN2A08L8fPHN2A08F8fPIN0A08ePHN2B0ISafa0e1aL! 4!0GVafa0e1aK!"CC-ê8fPHN2A08F8fPHN2A08F
+8fPIN2A0M8bO1AN0E18fPHN2A08L8fPHN2A08Fmathsf8fPHN2A08Eod8fPIN2A0M8bONN0E18fPHN2A08D8fPHN2A08L8fPHN2A08FpopThe first version is quite simple.  
+The second version is more complicated. The 8fPIN2A0M8bONN0E1[push] and 8fPIN2A0M8bOMN0E1[pop]
+are used to ensure that the tab position defined in the template will not change
+the tab positions used by other templates. The 8fPIN2A0M8bOMN0E1[set] command sets a tab stop a
+couple of spaces after the 8fPIN2A0?8bOJN0E1do.  The margin is then moved forward with the
+8fPIN2A0M8bONN0E1[plus] command and is moved back with the 8fPIN2A0M8bOON0E1[minus] command. The
+combination of these three commands  ensures that  any multi-line expression
+will be indented appropriately. 8bNIN0E28fPIN2A0æ8fOIN2A1A8bOIN0E18fPIN0A0S
+
+The  8fPIN2A0?8bOJN0E1do--8fPIN2A0?8bOJN0E1od template is used in combination with a guard of the form
+ 8fPJN2A0ISe1ec428P   &22MCScripts                                    1FCLatex2eB#ScriptsHelpGVe1ec429A'"PC8fOccA81K 81L81M82Hsub82I8fN81N80PGC8fO_{8fN}IC8fO ccAsubcbOGVe1ec429B'"1BC8fOccA81K82Hsuper82I8fN81L 81M81N80PGC8fO^{8fN}KC8fO ccAsupercbOGVe1ec429C'"1JC8fOccA81K82Hsuper82I8fN81G81L 81M82Hsub82I8fM81G81N80PKC8fO^{8fN}_{8fM}JC8fO ccAbothcbOGVe1ec429D'"PCccA81K 81L81M82Hsub82I8fN81N80P8fOIC{}_{8fN}8fOICccAsub cbO8fOGVe1ec429E'"1BCccA81K82Hsuper82I8fN81L 81M81N80P8fOIC{}^{8fN}8fOKCccAsupercbO 8fOGVe1ec429F'"1JCccA81K82Hsuper82I8fN81G81L 81M82Hsub82I8fM81G81N80P8fOMC{}^{8fN}_{8fM}8fOJCccAbothcbO 8fOð8fOIN2A1A8bOIN0E1E8fNIN0A21219C8fPJN2A0ð8fOIN2A1A8bOIN0E1E8fNIN0A22  and a guard separator (25aL). The positioning of the separator in the
+in-line version and in the multi-line version is illustrated by the following
+example:
+89PIN:G0?å8fOMN0A18fPJN6A0Bé8fOKN0A18fPIN0A0a8ePHN2B0ISafa0e20N#!#$0GVafa0e20J%"CC222HDC222H GVafa0e20K%"IC80G80F
+222H80C80E80HKC222H (split)GVafa0e20L%"CC222IDC222I GVafa0e20M%"IC80G80F
+222I80C80E80HKC222I (split)ô8fPIN0A0b8fNIN2A2æ8fOKN0A18fPJN2A0é8fOJN0A18ePHN2B0ISb84028cL! 4"0GVb84028cJ!"CC¬GVb84028cK!"CC223Mö8fPIN0A0b8fNKN0A28fPKN0A08fPIN0A0a8ePHN6B0?ISafa0e23J#!,+0GVafa0e22O#"CC221IGC\compGVafa0e22P#"IC80G80F
+221I80C80E80HMC80G80F
+\comp80C80E80HGVafa0e23A!"CC221JGVafa0e23B!"CC·GVafa0e23C!"CC;GVafa0e23D!"CC*GVafa0e23E#"CC°IC\fncompGVafa0e23F!"CC,GVafa0e23G#"CC221IGC\compGVafa0e23H#"IC80G80F
+221I80C80E80HMC80G80F
+\comp80C80E80HGVafa0e23I#"CC221JGC\cdotú8fPIN0A0b8ePHN2B0ISafa0e22G# %$0GVafa0e22C!"CC=GVafa0e22D!"IC80G80F
+=80C80E80HGVafa0e22E!"CC226AGVafa0e22F!"DC:=10C8fPKN0A08fPIN0A0b8ePHN6B0?ú8fPIN0A0a8ePHN6B0DISafa0e1bA#! "0GVafa0e1aO!"CC25aLGVafa0e1aP!"IC80G80F
+25aL80C80E80H10H8fPJN2A0é8fOIN0A1a8fNKN0A28fPIN0A0b8ePHN2B010C8fPJN0A08ePHN2B0ö8fPIN0A0b8ePHN2B010G8fPJN2A0é8fOKN0A18fPIN0A0a8ePHN2B0ò8fPIN0A0b8fNKN0A28fPIN0A0b8ePHN2B010C8fPIN0A0a8ePHN2B010G8fPJN2A0é8fNKN0A28fPIN0A0a8ePHN2B010C8fPIN0A0b8fOKN0A18fPJN0A08ePHN2B0ö8fPIN0A0a8ePHN2B0ò8fPJN0A08ePHN2B0ö8fPIN0A0b
+8fPJN2A0»8bM3fNN0E3The guard separator is defined to be an 
+infix operator with two versions as
+shown below.   
+8fPKN2A0¾8bO1IN0E1Separator (short)8bNIN0E225aL8bMLN0E38fPIN2A0M8bONN0E1[MATH]8fPHN2A0Ð8fPIN2A09C8bOLN0E1\Box8fPHN2A0Ð
+8fPKN2A0¾8bO1HN0E1Separator (long)8bNLN0E28fPIN2A0M8bO1EN0E1[push][minus]
+25aL8fPIN2A0M8bO1HN0E1[tab][plus][pop]8bMLN0E38fPIN2A0M8bONN0E1[MATH]8fPIN2A0M8bO1AN0E18fPHN2A08Fpush8fPHN2A08F8fPIN0A08ePHN2B0ê8fPHN2A08F8fPHN2A08F
+8fPIN2A0M8bO1FN0E18fPHN2A08L8fPHN2A08FBox8fPHN2A08L8fPHN2A08F>8fPHN2A08F+8fPHN2A08FpopAgain, the first version is straightforward. The second version uses the
+knowledge that the operator will be used in combination with the second version
+of the 8fPIN2A0?8bOJN0E1do--8fPIN2A0?8bOJN0E1od template which moves the margin forward. The operator first
+pushes the existing tab positions onto a stack and then moves the margin 
+backward. In this way, the box can be placed exactly below the associated  8fPIN2A0?8bOJN0E1do.
+The 8fPIN2A0M8bOMN0E1[tab] command moves the output to the old margin following which the
+8fPIN2A0M8bONN0E1[plus] moves the margin forward again in order to ensure that the separator's
+second argument has the same margin as its first argument. 
+
+Moving the margin backwards in this way works in combination with the
+8fPIN2A0?8bOJN0E1do--8fPIN2A0?8bOJN0E1od template but will produce strange effects in circumstances where
+moving the margin backwards is meaningless.
+
+Note that defining the guard separator as an infix operator allows the possibility
+of having an arbitrary number of guarded statements in a 8fPIN2A0?8bOJN0E1do--8fPIN2A0?8bOJN0E1od command.8bN1KN0E2the guard separator8fPJN2A0»8bM4cHN0E3The guard template should also have different versions, depending on the length
+of the two expressions. Two possibilities are:
+ 8fPKN2A0¿8bO1EN0E1Guard (short)8bN1CN0E28fPIN2A0M8bONN0E1[push]8fPJN2A0z8bNIN0E218bOIN0E1E8fPIN2A09B8bOIN0E1 219C 8fPIN2A09C8bOIN0E1 8fPIN2A0M8bO1DN0E1 [set][plus]8fPIN2A09C8bOIN0E1 8fPIN2A0M8bO1CN0E1[set][plus]8fPJN2A0z8bNIN0E228bOIN0E1E8fPIN2A0M8bO1KN0E1[minus][minus][pop]8bM1DN0E38fPIN2A0M8bO1DN0E1[MATH]8fPHN2A08Fpush8fPHN2A08L8fPJN2A0z8bNIN0E218bOIN0E1E8fPHN2A08I8fPHN2A08I8fPIN2A0M8bO1CN0E18fPHN2A08Frightarrow8fPHN2A08I~8fPIN2A0M8bONN0E18fPHN2A08L8fPHN2A08F=8fPHN2A08F+8fPHN2A08L8fPHN2A08I8fPIN2A0M8bONN0E18fPHN2A08L8fPHN2A08F=8fPHN2A08F+8fPHN2A08L8fPJN2A0z8bNIN0E228bOIN0E1E8fPIN2A0M8bO1AN0E18fPHN2A08L8fPHN2A08F8fPIN0A08ePHN2B0ê8fPHN2A08F8fPIN0A08ePHN2B0ê8fPHN2A08Fpop
+8fPKN2A0¿8bO1DN0E1Guard (long)8bN1EN0E28fPIN2A0M8bONN0E1[push]8fPJN2A0z8bNIN0E218bOIN0E1E8fPIN2A09C8bOIN0E1 219C 8fPIN2A09C8bOIN0E1 
+8fPIN2A09C8bOIN0E1 8fPIN2A0M8bO1CN0E1[set][plus]8fPIN2A09C8bOIN0E1 8fPIN2A0M8bO1CN0E1[set][plus]8fPJN2A0z8bNIN0E228bOIN0E1E8fPIN2A0M8bO1KN0E1[minus][minus][pop]8bM1HN0E38fPIN2A0M8bO1DN0E1[MATH]8fPHN2A08Fpush8fPHN2A08L8fPJN2A0z8bNIN0E218bOIN0E1E8fPHN2A08I8fPHN2A08I8fPIN2A0M8bO1FN0E18fPHN2A08Frightarrow8fPHN2A08L8fPHN2A08F8fPHN2A08F
+8fPIN2A0M8bOIN0E18fPHN2A08L8fPHN2A08I8fPHN2A08I8fPHN2A08I8fPHN2A08I8fPIN2A0M8bONN0E18fPHN2A08L8fPHN2A08F=8fPHN2A08F+8fPHN2A08L8fPHN2A08I8fPIN2A0M8bONN0E18fPHN2A08L8fPHN2A08F=8fPHN2A08F+8fPHN2A08L8fPJN2A0z8bNIN0E228bOIN0E1E8fPIN2A0M8bO1AN0E18fPHN2A08L8fPHN2A08F8fPIN0A08ePHN2B0ê8fPHN2A08F8fPIN0A08ePHN2B0ê8fPHN2A08FpopBoth versions set two tab positions: the first one determines where the statement
+separator (8fPIN2A09C8bOIN0E1;) should be placed, the second one is used to move the margin to the
+correct position. The definition of the statement separator would have the same
+form as the guard separator template discussed earlier.
+
+The first version will move the margin to after the arrow and should  only be
+used if
+the first expression is not very large. The second version will force the
+second expression to start on a new line and will indent a little to increase the
+readability. Another possibility would be to treat the arrow in the same way as the guard
+separator.
+
+The ``Output'' tabbing  information in the above examples is automatically
+generated by the system.  The ``8fPHN2A08I'' characters have to be inserted by hand,
+however, in order to circumvent  8fPHN2A0K's rules for eating up spaces.  (Each ``8fPHN2A08I'' in a
+8fPHN2A0K document produces an interword space.  Two other ways of entering spaces
+are to use ``8fPIN2A0>8bOIN0E18fPHN2A08F8fPIN2A09A8bOIN0E1 '', or 8fPIN2A0>8bOON0E18fPHN2A08Fhspace with an appropriate length argument, the latter
+being the most suitable for getting the fine detail right.8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2spacing8bOPN0E1template)8bN1AN0E2the guard
+8fPON2A048bIIN0E7)8bJHN0E68bKHN0E58bLHN0E48bMON0E3tabbing8bN1GN0E2layout commands8bOPN0E1template8fPON2A048bIIN0E7)8bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1GN0E2layout commands8bOPN0E1template8fPON2A048bIIN0E7)8bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO2FN0E1screen format command language
+8fPIN2A0 8bO1HN0E1help:Define.Misc8fPKN2A0)8bM2NN0E3VersionDefinition.SpecialConstructions8bO1MN0E1Special Constructions8bNIN0E28fPHN2A018fPON2A048bIHN0E78bJHN0E68bKIN0E5(8bLHN0E48bMHN0E38bN1GN0E2layout commands8bOPN0E1template
+A page that has been typeset by the 8fPHN2A0K system consists of  boxes that have been
+pasted together either vertically or horizontally.  The simplest boxes are  either
+character boxes or rule boxes, a ``rule'' being a  rectangle of  black ink.  Each box
+has a height, a width and a ``baseline8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOPN0E1baseline''.  When pasting boxes together
+horizontally the baselines are aligned.  In a line of text such as this one the
+baseline is an imaginary line on which each letter sits.  Thus, for letters with no
+descender like  ``a'', ``b'' and ``c'' the baseline is the base of the character; for
+letters with descender8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1AN0E1descender like ``p'' and ``q'' the baseline cuts through the character
+separating the descender from the rest of the character.
+
+Stacking boxes on top of each other to form a new box is a simple way of forming,
+for example, fractions  in mathematics.  Suitably defining the baseline of a stack
+of boxes provides a simple method of aligning their contents with other terms in
+an expression.  8fPHN2A0< has two forms of  stacking 
+operation ---8fPIN2A0?8bO1BN0E1Stack Base8fPON2A048bIHN0E78bJHN0E68bKHN0E58bL1DN0E48fPIN2A0?8bO1BN0E1Stack Base  menu item8bM1LN0E3Stack Base menu item8bN1DN0E2command menu8bO1EN0E1define window and
+ 8fPIN2A0?8bO1DN0E1Stack Centre8fPON2A048bIHN0E78bJHN0E68bKHN0E58bL1DN0E48fPIN2A0?8bO1DN0E1Stack Centre  menu item8bM1NN0E3Stack Centre menu item8bN1DN0E2command menu8bO1EN0E1define window--- which differ in the way
+that the baseline is defined.
+
+The special symbols used for these and other ``special'' constructions are available
+through the pin-up menu (shown in table 8fPIN2A0Q8bO2EN0E1tab:VersionDefinition.Special) which
+appears when the 8fPIN2A0?8bOON0E1Special 8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0?8bOON0E1Special8bMON0E3Special8bN1DN0E2command menu8bO1EN0E1define window item is selected at the top of the define window.
+
+8fPLN2A0f8bN1JN0E2The 8fPIN2A0?8bOON0E1Special pin-up menu.8bOIN0E18fPIN2A0i8bOIN0E18fPKN2A0Æ8bMON0E3Special8bOHN0E18bNIN0E28fPJN2A0Ç8bNIN0E28fPIN2A0?8bO1EN0E1Elastic Space8bOIN0E18fPJN2A0Ç8bOIN0E18fPJN2A0Ç8bOIN0E18fPJN2A0Ç8bOIN0E18fPJN2A0Ç8bOIN0E18fPJN2A0Ç8bOIN0E18fPIN2A0?8bO1BN0E1Stack Base8bNIN0E28fPIN2A0?8bO1DN0E1Stack Centre8bNIN0E28fPIN2A0?8bOLN0E1Line8bNIN0E28fPIN2A0?8bOLN0E1Fill8bNIN0E28fPIN2A0?8bOLN0E1Dots8bNIN0E28fPIN2A0?8bOKN0E1Bar8bM2EN0E3tab:VersionDefinition.Special8bLKN0E4hbt
+They are used as follows:
+8fPIN2A0|8bOON0E18fPJN2A07P8bN18BN0E2Insert a stack with three fields. The baseline of the stacked
+symbols will be the baseline of the middle field. The  Screen-field token
+is 8fPIN2A0M8bO1FN0E1[StackB: : : ], the colons acting as separators for  the
+three fields. The automatically generated 8fPHN2A0L will be
+8fPIN2A0×8bOON0E18fPIN2A09C8bO1BN0E1\stackrel{ 8fPIN2A09C8bO1DN0E1}{\stackrel{ 8fPIN2A09C8bOJN0E1}{ 8fPIN2A09C8bOJN0E1}}, which is almost never what it
+should be. Therefore, the 8fPHN2A0L code of a template which uses a 
+stack should normally be hand-coded  by the user.8bOJN0E18fPIN2A0?8bO1BN0E1Stack Base8fPON2A048bIHN0E78bJHN0E68bKHN0E58bL1DN0E48fPIN2A0?8bO1BN0E1Stack Base  menu item8bM1LN0E3Stack Base menu item8bN1DN0E2command menu8bO1EN0E1define window8fPJN2A07P8bNcPN0E2This stack is almost the same as the stack described above.
+The only difference is the position of the baseline, which is a
+half 8fPIN2A09C8bOJN0E1ex below the baseline of the middle field. The Screen-field token
+is  8fPIN2A0M8bO1FN0E1[StackC: : : ].8bOJN0E18fPIN2A0?8bO1DN0E1Stack Centre8fPON2A048bIHN0E78bJHN0E68bKHN0E58bL1DN0E48fPIN2A0?8bO1DN0E1Stack Centre  menu item8bM1NN0E3Stack Centre menu item8bN1DN0E2command menu8bO1EN0E1define window8fPJN2A07P8bN11JN0E2Fill the  (remainder of the) stack field with a horizontal line. The length of the line will
+depend on the width of the other fields. It can be used for boxes,
+fractions, underlining or overlining.  The  Screen-field token
+is 8fPIN2A0M8bONN0E1[Line] and the automatically generated  8fPHN2A0L code is
+ 8fPIN2A09C8bO1BN0E1\hrulefill.8bOJN0E18fPIN2A0?8bOLN0E1Line8fPON2A048bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0?8bOLN0E1Line menu item8bM1FN0E3Line menu item8bN1DN0E2command menu8bO1EN0E1define window8fPJN2A07P8bN18GN0E2Fill the (remainder of the) stack field with white space.
+Just like the line, the length  of the space will depend
+on the width of the other fields. Such a filler is used to
+align the different fields at the left or right.  To align to the left fill on
+the right, and to align to the right fill to the left. 8fPIN2A0M8bONN0E1[Fill] is inserted in the
+Screen field and 8fPIN2A09C8bONN0E1\hfill in the Output  field, respectively.8bOJN0E18fPIN2A0?8bOLN0E1Fill8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0?8bOLN0E1Fill8bMLN0E3Fill8bN1DN0E2command menu8bO1EN0E1define window8fPJN2A07P8bNdPN0E2Fill the (remainder of the) stack field with a dotted line.  
+The length of this horizontal line will depend on the width of the 
+other fields. The token used in the
+screen field is  8fPIN2A0M8bONN0E1[Dots]; the corresponding 8fPHN2A0L code is
+8fPIN2A09C8bOPN0E1\dotfill.8bOJN0E18fPIN2A0?8bOLN0E1Dots8fPON2A048bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0?8bOLN0E1Dots menu item8bM1FN0E3Dots menu item8bN1DN0E2command menu8bO1EN0E1define window8fPJN2A07P8bN12CN0E2Insert a variable length vertical line.
+Within a stack the length of the line will be
+the height of the field in which it is used. When the bar is  used outside
+of a stack the height of the line will be used. The Screen-field token is
+8fPIN2A0M8bOMN0E1[Bar]; the corresponding 8fPHN2A0L code is the ``8fPIN2A09C8bOIN0E1|'' symbol.8bOJN0E18fPIN2A0?8bOKN0E1Bar8fPON2A048bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0?8bOKN0E1Bar menu item8bM1EN0E3Bar menu item8bN1DN0E2command menu8bO1EN0E1define window8fPJN2A07P8bN1cAN0E28fPON2A048bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0?8bO1EN0E1Elastic Space menu item8bM1ON0E3Elastic Space menu item8bN1DN0E2command menu8bO1EN0E1define windowInsert elastic space.  
+The size of this  space will stretch as the
+size of the terms filling the place holders in an instance of the
+template grows.  The unit space is specified in the default window
+and is the same as the unit space around infix operators. The token
+used in the Screen field is 8fPIN2A0M8bOON0E1[Space]; the corresponding 8fPHN2A0L code is
+the macro 8fPIN2A09C8bOKN0E1\ms (defined in 8fPIN2A09C8bO1CN0E1mathpad.sty) together with a
+parameter giving the number of units of elastic space to be inserted.8bOIN0E18fPIN2A0?8bO1EN0E1Elastic Space
+Do not confuse elastic space with filler space.  Filler space is used only in stack
+constructs, elastic space may be used anywhere, and the rules governing their size are
+quite different.  Note also that bars are most often used in stack constructions but they
+may also be used elsewhere.
+8fPKN2A0)8bM2NN0E3VersionDefinition.Stacking Expressions8bO1MN0E1Stacking 
+Expressions8bNIN0E28fPHN2A008fPON2A048bIHN0E78bJHN0E68bKIN0E5(8bLHN0E48bMPN0E3stacking8bN1GN0E2layout commands8bOPN0E1template
+The two screen format stacking commands, Stack Base and Stack Centre,
+ are used to simulate on screen the various
+8fPHN2A0L commands for putting things above and below each other. Both  of these
+commands have three arguments the contents of which are to be stacked one above
+each other in a vertical column.
+
+Each argument defines a box with a 8fPIN2A0E8bOMN0E1width, 8fPIN2A0E8bONN0E1height, 8fPIN2A0E8bOPN0E1baseline8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOPN0E1baseline
+and 8fPIN2A0E8bO1AN0E1descender8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1AN0E1descender.  For example the left side of the expression8fPIN2A0Ü8fOKN2A1ISe1ec6b2C   $2KCSummation1HCLatex2eB#SummationHelpGVe1ec6b2E'"1BC81JccA8fM80P81LcbL221B80P81MccA8fN80P81N  8fO1PC\displaystyle{\sum_{8fN}^{8fM}}\ 8fO1LCdisplaystyle-range at sideGVe1ec6b2F'"1CC221B81KccA8fM81G80P81L 81MccA8fN81G80P81N  8fO1MC\textstyle{\sum_{8fN}^{8fM}}\ 8fO1KCinlinestyle-range at sideGVe1ec6b2G'"OC81J81LcbL221B80P81MccA8fN80P81N  8fO1LC\displaystyle{\sum_{8fN}}\ 8fO1OCdisplaystyle-range underneathGVe1ec6b6G'"PC221B81K 81L 81MccA8fN81G80P81N  8fO1IC\textstyle{\sum_{8fN}}\ 8fO1NCinlinestyle-range underneath10L8fOIN0A1i8fNKN0A28fPIN0A0i8ePHN6B0?10F8fPIN0A008fMIN0A3nis built with the following boxes:8fPIN2A0Ü8fOIN2A1ISafa0e18L   "1ICBaseboxGVafa0e18J#"1KC81J   81L81H81M81N81J81H81L82D8bO82D81M81H81N81J   81L81H81M81N4LC\fboxsep 0pt\rule[-0.4pt]{10pt}{0.4pt}\fbox{80K8bO}80L\rule[-0.4pt]{10pt}{0.4pt}GVafa0e18K#!1IC81J  81L81H81M81N81J81H81L82D8bO82D81M81H81N81J  81L81H81M81N4KC80J\fboxsep 0pt\rule[-0.4pt]{10pt}{0.4pt}\fbox{8bO}\rule[-0.4pt]{10pt}{0.4pt}10N8bOIN0E18fPIN2A0Ñ8bOIN0E18fPIN0A0n8fPIN2A0Ü8fOIN2A110M8bOIN0E18fPHN2A0ISafa0e18I   !0GVafa0e18H#!ECcbK221B80PJC80J\bigsum10O8fPIN2A0Ü8fOIN2A110N8bOIN0E18fPIN2A0Ñ8bOIN0E18fPKN0A08fPIN0A0i8ePHN6B0?10F8fPIN0A00
+The box parameters are determined as follows:.
+8fPIN2A0x8bOKN0E18fPIN2A0w8bO4BN0E1The 8fPIN2A0E8bOMN0E1width  of the box is the width of the text inside the box.8fPIN2A0w8bO10AN0E1The 8fPIN2A0E8bONN0E1height of the box is the distance from the baseline to the top of the box.  The
+8fPIN2A0E8bOPN0E1baseline of the box is indicated in the diagrams above by the lines protruding
+from the left and right sides.  The height is negative if the box is entirely below the
+baseline. 8fPIN2A0w8bOdEN0E1The 8fPIN2A0E8bO1AN0E1descender of the box is that part of the box from the baseline to the bottom
+of the box. The vertical size of the descender is called the 8fPIN2A0E8bOON0E1descent.  The descent is
+negative if the box is entirely above the baseline. With the stack construction  these three boxes can be put on top of each other.  The
+boxes will be centred unless specified otherwise. The three boxes form a new box with
+a new baseline:8fPIN2A0Ü8fOIN2A110N8bOIN0E18fPKN2A0ISafa0e18D   !1JCSigmaboxGVafa0e18C#!JC80J81J8bO81L8bN81M8bM81N4GC80J\begin{tabular}[c]{c}8bO\\8bN\\[2.5mm]\raisebox{-2.28mm}{8bM}\end{tabular}10P8bOIN0E18fPIN2A0Ñ8bOIN0E18fPIN0A0n8bNIN0E28fPHN2A010O8bMIN0E38fPIN2A0Ñ8bOIN0E18fPKN0A08fPIN0A0i8ePHN6B0?10F8fPIN0A00A number of 8fPHN2A0L constructions have a way to specify where the baseline should
+be placed This is usually done with an optional argument such as 8fPIN2A09C8bOKN0E1[t], 8fPIN2A09C8bOKN0E1[b] or
+8fPIN2A09C8bOKN0E1[c].  In 8fPHN2A0<, the  position of the baseline can also be changed. However  it
+can only be set to one of two positions:
+ 8fPIN2A0x8bOJN0E18fPIN2A0w8bO4MN0E1at the same position as the baseline of the middle box.  (Stack Base)8fPIN2A0w8bO6CN0E1a half 8fPIN2A09C8bOJN0E1ex below the baseline of the middle box where 8fPIN2A09C8bOJN0E1ex is the height of an x.
+(Stack Centre)The latter option makes it possible to create subscripts, superscripts and fractions
+as well as many other constructions.
+
+The length of a variable line or space will be the difference between the length of
+the longest field and the field in which the line or space is used. If multiple lines
+or spaces are used inside one field, the available length will be divided across the
+different lines and spaces. 
+
+8fPHN2A0< centres the three fields of a stack, which is equivalent  to adding  a space
+at the left and right of every field. If a field is to be left-aligned, a space should be
+added at the right side of the field. A right-aligned field can be made by adding a
+space at the left side of the field.
+
+Making a selection in a centred or right-aligned text may be a little difficult. The
+cursor can appear at the wrong position.  This will be solved as soon as
+possible.%8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOIN0E18fPIN2A0A8bO1IN0E1error to be fixed
+
+8fPKN2A0*8bMHN@E3"8bO2ON0E1Some examples using the 8fPIN2A0?8bOMN0E1Stack constructions8bNIN0E28fPHN2A0/
+Many difficult constructions of 
+8fPHN2A0L can be simulated with the two stacking commands. 
+Some examples are described here to illustrate their use. Each example starts
+with a template definition followed by an explanation of how to use it and what
+variations are possible.
+8fPJN2A0»8bM2cKN0E3
+8fPKN2A0¾8bO1AN0E1Subscript8bNON0E28fPJN2A0z8bNIN0E218bOIN0E1E8fPIN2A0M8bO1AN0E1[SizeR-1:8fPIN2A0M8bOPN0E1[StackC: 8fPIN2A0M8bOJN0E1::8fPJN2A0z8bNIN0E228bOIN0E1E8fPIN2A0M8bOJN0E1]]8bMON0E38fPIN2A0M8bOON0E1[MATH]8fPHN2A08L8fPJN2A0z8bNIN0E218bOIN0E1E8fPHN2A08H8fPHN2A08E8fPJN2A0z8bNIN0E228bOIN0E1E8fPHN2A08D8fPIN2A0M8bOIN0E18fPHN2A08LThis template can be used in math mode and the 8fPIN2A0M8bO1BN0E1[SizeR-1:] code is used to make the
+size of the subscript one size smaller.  In this way, it is possible to add  a subscript to a
+subscript.
+
+If the first expression is removed, the subscript can be used as a postfix operator. In
+this case  8fPIN2A09C8bOJN0E1{} should be added before the 8fPIN2A09C8bOIN0E1_ in the 8fPHN2A0L code.
+
+The space in the first field of the Stack Centre command has been entered in order
+that  the template can be selected with a single click. Clicking above the subscript will
+select the template, not the subscript. If the space is omitted, clicking above the
+subscript will select the subscript. The template can still be selected by dragging over
+the subscript and the expression.8bN1AN0E2subscript8fPJN2A0»8bM44FN0E3
+8fPKN2A0¾8bO1EN0E1Displayed sum8bN1BN0E28fPIN2A0M8bO1IN0E1[StackB:[SizeR-1:8fPJN2A0z8bNIN0E228bOIN0E1E8fPIN2A0M8bO1BN0E1]:[SizeR4:221B8fPIN2A0M8bO1CN0E1]:[SizeR-1:8fPJN2A0z8bNIN0E218bOIN0E1E8fPIN2A0M8bOJN0E1]]  8fPJN2A0z8bNIN0E238bOIN0E1E8bM2EN0E38fPIN2A0M8bOON0E1[MATH]8fPHN2A08L8fPHN2A08Fdisplaystyle8fPHN2A08E8fPIN2A0M8bOLN0E18fPHN2A08Fsum8fPHN2A08H8fPHN2A08E8fPJN2A0z8bNIN0E218bOIN0E1E8fPHN2A08D8fPHN2A08G8fPHN2A08E8fPJN2A0z8bNIN0E228bOIN0E1E8fPHN2A08D8fPHN2A08D8fPHN2A08F 8fPJN2A0z8bNIN0E238bOIN0E1E8fPIN2A0M8bOIN0E18fPHN2A08L8fPKN2A0¾8bO1BN0E1Inline sum8bN1CN0E2221B8fPIN2A0M8bO1IN0E1[StackC:[SizeR-1:8fPJN2A0z8bNIN0E228bOIN0E1E8fPIN2A0M8bOPN0E1[Fill]]: 8fPIN2A0M8bO1BN0E1:[SizeR-1:8fPJN2A0z8bNIN0E218bOIN0E1E8fPIN2A0M8bOPN0E1[Fill]]]  8fPJN2A0z8bNIN0E238bOIN0E1E8bM2BN0E38fPIN2A0M8bOON0E1[MATH]8fPHN2A08L8fPHN2A08Ftextstyle8fPHN2A08E8fPIN2A0M8bOLN0E18fPHN2A08Fsum8fPHN2A08H8fPHN2A08E8fPJN2A0z8bNIN0E218bOIN0E1E8fPHN2A08D8fPHN2A08G8fPHN2A08E8fPJN2A0z8bNIN0E228bOIN0E1E8fPHN2A08D8fPHN2A08D8fPHN2A08F 8fPJN2A0z8bNIN0E238bOIN0E1E8fPIN2A0M8bOIN0E18fPHN2A08LThese two versions of the sum template can be used to make 8fPKN2A010L8fOHN0A18fNHN0A28fMHN0A3 and 8fPKN2A010K8fOHN0A18fNHN0A28fMHN0A3. The
+first version uses a very large summation symbol and places two smaller
+arguments above and below it. The three fields of the stack are centred. The
+8fPHN2A0L code contains the 8fPIN2A09C8bO1EN0E1\displaystyle macro which is used to force
+8fPHN2A0L to place the two arguments above and below the sign instead of to the
+right. With 8fPHN2A0< it is possible to use a displayed summation as one of the
+arguments of another summation. The size of this summation will be smaller in
+8fPHN2A0< but 8fPHN2A0L provides no macros to do this.
+
+The second version places the two arguments at the right side of the summation
+symbol. The two arguments are placed above each other and are left aligned by
+adding the 8fPIN2A0M8bONN0E1[Fill] at the right side. The 8fPIN2A09C8bO1BN0E1\textstyle macro in the 8fPHN2A0L code
+has the same function as the style macro in the first version.
+
+The size of the arguments will decrease when the templates are nested.
+8fPHN2A0< does not check if 8fPHN2A0L will use the same size. Especially with
+subscripts, superscripts and constructions like the summation, 8fPHN2A0L has a
+limited depth of nesting with respect to the size of the argument.8bN1HN0E2summation symbol8fPJN2A0»8bM2fBN0E3
+8fPKN2A0¾8bO1FN0E1Underline text8bNKN0E28fPIN2A0M8bO1AN0E1[StackB::8fPJN2A0z8bNIN0E218bOIN0E1T8fPIN2A0M8bOPN0E1:[Line]]8bM1FN0E38fPIN2A0M8bONN0E1[TEXT]8fPHN2A08Funderline8fPHN2A08E8fPJN2A0z8bNIN0E218bOIN0E1T8fPHN2A08D8fPKN2A0¾8bO1LN0E1Underline expression8bNKN0E28fPIN2A0M8bO1AN0E1[StackB::8fPJN2A0z8bNIN0E228bOIN0E1E8fPIN2A0M8bOPN0E1:[Line]]8bM1GN0E38fPIN2A0M8bOON0E1[MATH]8fPHN2A08L8fPHN2A08Funderline8fPHN2A08E8fPJN2A0z8bNIN0E228bOIN0E1E8fPHN2A08D8fPIN2A0M8bOIN0E18fPHN2A08L8fPKN2A0¾8bOPN0E1Overline8bNKN0E28fPIN2A0M8bO1GN0E1[StackB:[Line]:8fPJN2A0z8bNIN0E228bOIN0E1E8fPIN2A0M8bOJN0E1:]8bM1FN0E38fPIN2A0M8bOON0E1[MATH]8fPHN2A08L8fPHN2A08Foverline8fPHN2A08E8fPJN2A0z8bNIN0E228bOIN0E1E8fPHN2A08D8fPIN2A0M8bOIN0E18fPHN2A08L8fPKN2A0¾8bO1FN0E1Underline both8bNLN0E28fPIN2A0M8bO1AN0E1[StackB::8fPJN2A0z8bNIN0E218bOIN0E1T8fPJN2A0z8bNIN0E228bOIN0E1E8fPIN2A0M8bOPN0E1:[Line]]8bM1IN0E38fPIN2A0M8bONN0E1[TEXT]8fPHN2A08Funderline8fPHN2A08E8fPJN2A0z8bNIN0E218bOIN0E1T8fPIN2A0M8bOIN0E18fPHN2A08L8fPJN2A0z8bNIN0E228bOIN0E1E8fPIN2A0M8bOIN0E18fPHN2A08L8fPHN2A08D
+The underline and overline template shows how the variable line can be used.
+The different versions make it possible to underline text and to overline
+expressions. The last version is needed to install the template: every template
+must have one version which contains all place holders.
+
+The text that is underlined should not be too long. 8fPHN2A0< will only underline
+the last line of the text. 8fPHN2A0L will not break the text at all.
+
+The position of the line depends on the largest descender, just like in 8fPHN2A0L. In
+some situations this is not what you want: compare 8fPIN2A0È8bOKN0E1the 8fPIN2A0È8bOPN0E1complete underline
+and 8fPIN2A0È8bOKN0E1the 8fPIN2A0È8bOJN0E1sep8fPIN2A0È8bONN0E1arated underline in this sentence. The separated underlining
+looks nicer  but more difficult to make with 8fPHN2A0L. With 8fPHN2A0<, just
+select the parts and use the underline template.8bN1CN0E2underlining8fPJN2A0»8bM3dNN0E3
+8fPKN2A0¾8bOKN0E1Box8bNMN0E28fPIN2A0M8bO1LN0E1[StackB:[Line]:[Bar] 8fPJN2A0z8bNIN0E218bOIN0E1T 8fPIN2A0M8bO1EN0E1[Bar]:[Line]]8bM1AN0E38fPIN2A0M8bONN0E1[TEXT]8fPHN2A08Ffbox8fPHN2A08E8fPJN2A0z8bNIN0E218bOIN0E1T8fPHN2A08D
+The box template adds a box around text.  The text should not contain multiple
+lines although the stack can be used in the text. The metrics of the box will match
+the metrics of the text.
+
+The two lines are used to over- and underline the text at the same time. The two
+bars will add the vertical lines of the box. They are placed inside the stack
+because the length of the bar should be the height of the text, not the height of the
+line that contains the box.
+
+Just like the underline, the box disables the line breaking routines of 8fPHN2A0L. So,
+the contents of a box should not be too large to ensure a correct 8fPHN2A0L output
+and a correct layout by 8fPHN2A0<.
+
+The template could be improved by adding the minipage and tabbing environments
+of 8fPHN2A0L. The layout of 8fPHN2A0L will then be correct in almost every case.
+8fPHN2A0< will still have some trouble displaying it correctly.
+
+The box will leave a little space between the text and the edges. This space can be
+removed by adding the code 8fPIN2A09C8bO1DN0E1\fboxsep 0pt before the 8fPIN2A09C8bOMN0E1\fbox command8bN1AN0E28fPIN2A0>8bOMN0E18fPHN2A08Ffbox command8fPJN2A0»8bM26EN0E3
+8fPKN2A0¾8bO1JN0E1Displayed fraction8bNMN0E28fPIN2A0M8bOPN0E1[StackC:8fPJN2A0z8bNIN0E218bOIN0E1E8fPIN2A0M8bOPN0E1:[Line]:8fPJN2A0z8bNIN0E228bOIN0E1E8fPIN2A0M8bOIN0E1]8bM2DN0E38fPIN2A0M8bOON0E1[MATH]8fPHN2A08L8fPHN2A08Fdisplaystyle8fPHN2A08E8fPHN2A08Ffrac8fPHN2A08E8fPJN2A0z8bNIN0E218bOIN0E1E8fPHN2A08D8fPHN2A08E8fPJN2A0z8bNIN0E228bOIN0E1E8fPHN2A08D8fPHN2A08D8fPIN2A0M8bOIN0E18fPHN2A08L8fPKN2A0¾8bO1GN0E1Inline fraction8bNMN0E28fPIN2A0M8bO1ON0E1[MATH][SizeR-2:[StackC:8fPJN2A0z8bNIN0E218bOIN0E1E8fPIN2A0M8bOPN0E1:[Line]:8fPJN2A0z8bNIN0E228bOIN0E1E8fPIN2A0M8bOJN0E1]]8bM2AN0E38fPIN2A0M8bOIN0E18fPHN2A08L8fPHN2A08Ftextstyle8fPHN2A08E8fPHN2A08Ffrac8fPHN2A08E8fPJN2A0z8bNIN0E218bOIN0E1E8fPHN2A08D8fPHN2A08E8fPJN2A0z8bNIN0E228bOIN0E1E8fPHN2A08D8fPHN2A08D8fPIN2A0M8bOIN0E18fPHN2A08L
+Fractions can be entered in both displayed and inline versions. Nesting of 
+fractions also poses no problems. A difficult fraction like8fPIN2A0Ü8fOMN0A18fPJN2A0ISe13cd3fG   #2KCFractions1HCLatex2eB#FractionsHelpGVe26e4f2H'"IC81K8fO81L81H81M8fN81NMC\frac{8fO}{8fN}1NCenvironment determines styleGVe13cd3fH'"IC81K8fO81L81H81M8fN81N1LC{\displaystyle\frac{8fO}{8fN}}NCDisplayStyleGVe1eb2b4O'"KCccA81K8fO81L81H81M8fN81N80P1IC{\textstyle\frac{8fO}{8fN}}MCInlineStyle11B8fOJN0A18ePHN2B0ISafa0e1aJ! 4!1DClnGVafa0e1aI#"ECln FC\ln 11D8fPKN1A08fPIN0A0n8ePHN2B0ISafa0e20I# -&0GVafa0e20C#"CC+IC{\plus}GVafa0e20D#"CC×EC{×}GVafa0e20E#"CC25bPGC\juncGVafa0e20F#"CC25bFHC\splitGVafa0e20G#"CC25bEJC\cosplitGVafa0e20H#"CC25bOIC\cojunc11J8fPIN0A018fNJN0A28ePHN2B011D8fPIN0A0n8ePHN6B0B10F8fPJN2A011B8fOKN0A18fPJN0A08ePHN2B011D8fPIN0A0n8ePHN2B011J8fPJN0A08ePHN2B011D8fPKN1A08fPIN0A018ePHN2B011J8fPJN2A011A8fOIN0A118fNIN0A2n8fNJN0A28ePHN2B011D8fPIN0A0n8ePHN6B0B10F8fPKN0A08fPIN0A018ePHN6B0A11J8fPJN2A011B8fOJN0A18ePHN2B011D8fPKN1A08fPIN0A018ePHN2B011J8fPJN2A011A8fOIN0A118fNIN0A2n8fNJN0A28ePHN2B011D8fPIN0A0nis easy to make with 8fPHN2A0<. As in the example,  inline and displayed fractions 
+can be mixed in an expression;  also, changing between the two versions is very simple. 
+Of course, 8fPHN2A0L has to support
+the construction you have made but it will never be much different from the
+expression that 8fPHN2A0< displays.
+
+In some situations the  8fPHN2A0L code produced is not optimal. The style commands
+are not always necessary but they ensure that the layout of 8fPHN2A0L will resemble
+the layout of 8fPHN2A0<.8bN1AN0E2fractions
+
+8fPJN2A0»8bMdEN0E3
+8fPKN2A0¾8bOLN0E1Root8bNMN0E28fPIN2A0M8bO1HN0E1[StackB:8fPIN2A09C8bOJN0E1  [Line]:221K 8fPJN2A0z8bNIN0E218bOIN0E1E8fPIN2A0M8bOIN0E1]8bM1BN0E38fPIN2A0M8bOON0E1[MATH]8fPHN2A08L8fPHN2A08Fsqrt8fPHN2A08E8fPJN2A0z8bNIN0E218bOIN0E1E8fPHN2A08D8fPIN2A0M8bOIN0E18fPHN2A08L8fPKN2A0¾8bO1AN0E1n-th root8bNON0E28fPIN2A0M8bO1IN0E1[StackB:[SizeR-2:8fPJN2A0z8bNIN0E228bOIN0E1E8fPIN2A0M8bOPN0E1]:[Fill]221K8fPIN2A0M8bO1IN0E1:][StackB:[Line]:8fPJN2A0z8bNIN0E218bOIN0E1E8fPIN2A0M8bOJN0E1:]8bM1EN0E38fPIN2A0M8bOON0E1[MATH]8fPHN2A08L8fPHN2A08Fsqrt[8fPJN2A0z8bNIN0E228bOIN0E1E]8fPHN2A08E8fPJN2A0z8bNIN0E218bOIN0E1E8fPHN2A08D8fPIN2A0M8bOIN0E18fPHN2A08LThe root template uses the line as a part of the root symbol. 8fPHN2A0L produces a
+much better root symbol but you can see directly what is meant by 8fPIN2A0Ü8fOKN0A18fPKN0A08fPIN2A0ISe1eb5f7M   "2OCRoots        1CCLatex2eB#RootHelpGVe1eb5f7N'"MC81J   81H81L221K 8fO81M81NJC\sqrt{8fO}NCsquare root.GVe1eb5f7O'"1AC81JccB8fN80P81L81G221K81M81N81J81H81L8fO81M81NMC\sqrt[8fN]{8fO}LCn-th root.11L8fOJN2A111B8fOIN0A1x8fNIN0A2y8ePHN2B010F8fPJN2A011B8fOIN2A111L8fOIN0A1x8fNIN2A211L8fOIN0A1y8ePHN6B0Cô8fPKN0A08fPJN2A011K8fNIN0A248fOIN0A1x8ePHN2B010F8fPIN2A011L8fOIN2A111L8fOIN0A1xalthough it does not look completely WYSIWYG on the screen. 8bNMN0E2roots8fPJN2A0»8bM19CN0E3
+8fPKN2A0¾8bONN0E1Vector8bNMN0E28fPIN2A0M8bOPN0E1[StackB:219C8fPIN2A0M8bOIN0E1:8fPJN2A0z8bNIN0E218bOIN0E1E8fPIN2A0M8bOJN0E1:]8bM1AN0E38fPIN2A0M8bOIN0E18fPHN2A08L8fPHN2A08Fvec8fPHN2A08E8fPJN2A0z8bNIN0E218bOIN0E1E8fPHN2A08D8fPIN2A0M8bOIN0E18fPHN2A08L8fPKN2A0¾8bO1CN0E1Long vector8bNMN0E28fPIN2A0M8bO1FN0E1[StackB:[line]219C8fPIN2A0M8bOIN0E1:8fPJN2A0z8bNIN0E218bOIN0E1E8fPIN2A0M8bOJN0E1:]8bM1LN0E38fPIN2A0M8bOON0E1[MATH]8fPHN2A08L8fPHN2A08Foverrightarrow8fPHN2A08E8fPJN2A0z8bNIN0E218bOIN0E1E8fPHN2A08D8fPIN2A0M8bOIN0E18fPHN2A08LThis template can be used to add an accent, in this case a vector. Every possible
+symbol can be used for this purpose because the stackrel and shortstack macros
+can be used to make a correct 8fPHN2A0L code.
+
+The second version uses the fact that a variable line will be placed centred with
+respect to the height. The line of the arrow is positioned in the middle,  so the line
+will enlarge the arrow.8bNON0E2vectors8fPON2A048bIIN0E7)8bJHN0E68bKHN0E58bLHN0E48bMPN0E3stacking8bN1GN0E2layout commands8bOPN0E1template
+8fPKN2A0,8bMHN@E3"8bO1AN0E1More on 8fPIN2A0?8bOKN0E1Bar8bNIN0E28fPHN2A0/
+8fPON2A048bIHN0E78bJHN0E68bKHN0E58bL1CN0E48fPIN2A0?8bOKN0E1Bar menu item8bM1EN0E3Bar menu item8bN1DN0E2command menu8bO1EN0E1define window
+
+A bar may be used on its own (thus not as part of a stack).  On screen the bar will have
+the same height as the template in which it appears.  For example, one can create a
+template with one text place holder of relative size +5 and parenthesised by bars.
+An instance of such a template is shown below.8fPIN2A0Ü8fOIN0A18bPIN0E08fPIN2A0ISfe934daK   !0GVfe934dbD'!GC82DcbK8bO80P82DKCcbK$82D$8bO$82D$80PICscratch11M8bOKN0E1xyzThe 8fPHN2A0L that is automatically generated in such circumstances may  8fPIN2A0G8bOKN0E1not be
+correct because in 8fPHN2A0L (and 8fPHN2A0K) a bar often has a special meaning and its use in 
+text is unreliable.  
+
+8fPKN2A0)8bM2FN0E3VersionDefinition.ElasticSpace8bO1EN0E1Elastic Space8bNIN0E28fPHN2A00
+8fPIN2A0G8bO1EN0E1Elastic space8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2elastic8bOMN0E1space is space in a template that grows with the complexity of the expressions
+occupying the template's place holders.  The use of elastic space is usually, but not 
+necessarily, confined to  mathematical structures.  It is automatically added around
+infix, prefix and postfix operators; for multifix operators its inclusion can be specified
+with the 8fPIN2A0?8bO1EN0E1Elastic Space menu item. As an example, suppose a notation is required for
+universal quantification of the form:8fPIN2A0Ü8fOIN2A1±8fOKN6A1?¦8fLHN0A48fMHN0A38cNHN0D2The  notation has a variable place holder and two expression place holders, the first for
+the domain of the quantification and the second for the term of the quantification as
+in, for example,8fPIN2A0Ü8fOIN2A1±8fOKN6A1A¦8fLKN0A48fPIN0A0p8ePHN2B0ISd54e29dE# 2"0GVd54e29dC!"CC.GVd54e29dD%"IC80G80F
+.80C80E80HKC. (split)11O8fPIN0A0x8fMKN0A38fPIN0A0x8ePHN2B0ISe12fcf1I# *$0GVe12fcf1J!"CC220IGVe12fcf1K%"IC80G80F
+220I80C80E80HKC220I (split)GVe12fcf1L!"CC220LGVe12fcf1M!"CC220J12C8fPIN0A0S8cNIN0D28dPIN0C0xThe parentheses and colons serve as delimiters.
+
+For such a notation it may be desirable to increase the spacing around the variables
+and the two expressions as their complexity increases.   This can be a significant help
+to a reader in recognizing the structure of the expression.  In the version specification
+below the two occurrences of ``8fPIN2A0M8bOON0E1[Space]'' specify that elastic space is to be inserted after
+each colon in the template.  They are entered simply by choosing the 8fPIN2A0?8bO1EN0E1Elastic Space 
+menu item in the define window.
+  8fPKN2A0¾8bOON0E1for all8bN1BN0E2220A(8fPJN2A0z8bNIN0E218bOIN0E1V:8fPIN2A0M8bOON0E1[Space]8fPJN2A0z8bNIN0E238bOIN0E1E:8fPIN2A0M8bOON0E1[Space]8fPJN2A0z8bNIN0E228bOIN0E1E)8bM1GN0E38fPIN2A0M8bO1FN0E1[MATH]8fPHN2A08L8fPHN2A08Fforall(8fPJN2A0z8bNIN0E218bOIN0E1V8fPHN2A08E:8fPHN2A08D8fPIN2A0M8bONN0E18fPHN2A08Fms8fPHN2A08E08fPHN2A08D8fPJN2A0z8bNIN0E238bOIN0E1E8fPHN2A08E:8fPHN2A08D8fPIN2A0M8bONN0E18fPHN2A08Fms8fPHN2A08E08fPHN2A08D8fPJN2A0z8bNIN0E228bOIN0E1E)8fPIN2A0M8bOIN0E18fPHN2A08LAs an example of the effect, compare the spacing around different subexpressions in
+the following expression.8fPIN2A0Ü8fOKN2A1¦8fLKN6A4?¦8fLIN0A4q8fMIN0A3p8cNIN0D28dPIN0C0y8fMKN6A3?¦8fLIN0A4q8fMIN0A3p8cNIN0D28dPIN0C0y8cNIN0D28dPIN0C0xCalls to the 8fPIN2A0>8bOJN0E1ms macro  are automatically removed in the output generated by any instance of the
+template for which the value of the parameter is zero (i.e. no elastic space is to be inserted).   Note also
+that the braces around the colons in the 8fPIN2A0?8bONN0E1Output section are necessary to prevent 8fPHN2A0L from
+imposing its own spacing conventions.  These are not automatically inserted.
+ 8fPKN2A0)8bM2HN0E3VersionDefinition.HintsonTesting8bO1HN0E1Hints on Testing8bNIN0E28fPHN2A01
+8fPIN2A0x8bOKN0E18fPIN2A0w8bO3eNN0E1A click on the 8fPIN2A0?8bONN0E1Update button in the define window causes the template in the
+stencil to be overwritten by the contents of the template specification
+windowpane. Thus, when experimenting with the definition of a
+template8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1JN0E2testing definition8bOPN0E1template, it may be advisable to click on
+8fPIN2A0?8bOKN0E1New to create a new template for testing purposes. When you are satisfied that
+the new definition is as you wish it to be, the following procedure can be used to
+update the original template.
+
+Firstly ensure that all files that use the existing template are loaded. Then make
+the old template identical to the new one by clearing the old definition and
+copying  across the new definition.   Install using the 8fPIN2A0?8bONN0E1Update button. This will
+have the effect of modifying accordingly all occurrences of the template in the
+loaded documents.  Your stencil will, however, contain two templates that are
+identical but for their code numbers.  Remove one of them by loading its
+definition into the define window and  clicking on 8fPIN2A0?8bONN0E1Double8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLPN0E48fPIN2A0?8bONN0E1Double
+button8bMHN0E38bN1EN0E2Double button8bO1EN0E1define window whilst holding the control key down. 8fPIN2A0w8bO14ON0E1The ``Screen'' field definition can be checked within the define window. The
+keyboard command  8fPIN2A0A8bOKN0E1M-T8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1MN0E2preview
+screen format8bO2FN0E1screen format command language8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1MN0E2preview screen format8bOPN0E1template causes
+the system to preview the actual screen format (thus the format of each version
+of the template as it will actually appear on the screen). Typing 8fPIN2A0A8bOKN0E1M-T again
+causes the system to toggle back to the command language format.   8fPIN2A0w8bO13ON0E18fPIN2A0?8bONN0E1Output and 8fPIN2A0?8bOMN0E1Paste under the 8fPIN2A0?8bOMN0E1Misc.button on the console can be used  in
+combination to check the 8fPHN2A0L code produced by the template.  Select with
+the left mouse button an instance of the template in a document, click on 
+8fPIN2A0?8bONN0E1Output, move the cursor to a suitable position (possibly in a scratch document or
+the buffer)  and click on 8fPIN2A0?8bOMN0E1Paste8fPON2A048bIHN0E78bJHN0E68bKHN0E58bL2EN0E48fPHN2A0L code --- produced by
+target8bMHN0E38bNHN0E28bO3AN0E1LATEX code --- check that from a template.8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN2AN0E2checking 8fPHN2A0L code generated8bOPN0E1template 
+8fPKN2A0,8bMHN@E3"8bO1JN0E1Keyboard Shortcuts8bNIN0E28fPHN2A01
+8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1LN0E3keyboard equivalents8bN1GN0E2layout commands8bOPN0E1templateThe most commonly used commands can also be entered from the keyboard
+using the  key sequences shown in 8fPIN2A078bO2BN0E1VersionDefinitionShortcuts. 
+
+8fPLN2A0f8bN3BN0E2Keyboard shortcuts for version definition.8bOIN0E18fPIN2A0i8bOIN0E18fPNN2A0l8bHON0E88fPLN2A0r8bLIN0E48fPIN2A0M8bO1CN0E1[Stack?:::]8bMIN0E38fPIN2A0A8bOKN0E1M-=8bNIN0E28fPIN2A0M8bOMN0E1[tab]8bOIN0E18fPIN2A0A8bOKN0E1Tab8fPLN2A0r8bLIN0E48fPJN2A0z8bNIN0E28fPIN2A0E8bOIN0E1n8bOIN0E1E8bMIN0E38fPIN2A0A8bOLN0E1CM-E8bNIN0E28fPIN2A0M8bONN0E1[back]8bOIN0E18fPIN2A0A8bOMN0E1S-Tab8fPLN2A0r8bLIN0E48fPJN2A0z8bNIN0E28fPIN2A0E8bOIN0E1n8bOIN0E1I8bMIN0E38fPIN2A0A8bOLN0E1CM-I8bNIN0E28fPIN2A0M8bOMN0E1[set]8bOIN0E18fPIN2A0A8bOMN0E1C-Tab8fPLN2A0r8bLIN0E48fPJN2A0z8bNIN0E28fPIN2A0E8bOIN0E1n8bOIN0E1O8bMIN0E38fPIN2A0A8bOLN0E1CM-O8bNIN0E28fPIN2A0M8bONN0E1[NwLn]8bOIN0E18fPIN2A0A8bOPN0E1C-Return8fPLN2A0r8bLIN0E48fPJN2A0z8bNIN0E28fPIN2A0E8bOIN0E1n8bOIN0E1T8bMIN0E38fPIN2A0A8bOLN0E1CM-T8bNIN0E28fPIN2A0M8bONN0E1[Line]8bOIN0E18fPIN2A0A8bOMN0E1M- --8fPLN2A0r8bLIN0E48fPJN2A0z8bNIN0E28fPIN2A0E8bOIN0E1n8bOIN0E1V8bMIN0E38fPIN2A0A8bOLN0E1CM-V8bNIN0E28fPIN2A0M8bONN0E1[Fill]8bOIN0E18fPIN2A0A8bOON0E1M-space8fPLN2A0r8bLIN0E4 8bMIN0E3 8bNIN0E28fPIN2A0M8bONN0E1[Dots]8bOIN0E18fPIN2A0A8bOKN0E1M-.8bL1EN0E4Token        8bM1EN0E3Key          8bN1CN0E2Token      8bO1NN0E1Key                   8bI1AN0E7|l|l|l|l|8bM2HN0E3Table:VersionDefinitionShortcuts8bLKN0E4htb
+In the case of a stack (8fPIN2A0A8bOKN0E1M-=) a prompt for the type of stack appears in the
+console.  The letter ``b'' for baseline stack or ``c'' for centred stack should be entered.
+The system will beep if neither of these is entered.)
+8fPON2A048bIIN0E7)8bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1GN0E2layout commands8bOPN0E1template
+8fPON2A048bIIN0E7)8bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO2EN0E1template specification window
+

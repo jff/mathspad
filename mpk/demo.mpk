@@ -1,0 +1,10 @@
+change_font(editfont, "Family", "Roman");
+change_font(editfont, "Serie", "Medium");
+change_font(editfont, "Size", "Larger");
+change_font(editfont, "Shape", "Upright");
+
+symbolfont:=editfont;
+change_font(symbolfont, "Size", "Large");
+
+stencilfont:=symbolfont;
+popupfont:=symbolfont;

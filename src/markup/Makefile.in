@@ -1,0 +1,14 @@
+
+TOPSRCDIR = @top_srcdir@
+TOPOBJ    = .
+SRCDIR    = @srcdir@
+VPATH     = @srcdir@
+
+SOURCE = box_markup.c color_markup.c font_markup.c lang_markup.c markup.c 
+
+@MAKE_RULES@
+
+all:  libmarkup.la
+
+libmarkup.la: $(LTOBJECTS)
+	$(LINK) -o libmarkup.la -rpath $(libdir) $(LTOBJECTS)

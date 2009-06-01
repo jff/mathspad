@@ -1,0 +1,10 @@
+(redef: [backspace]:[DEL]);
+(redef: [C-backspace]:[C-DEL]);
+(redef: [S-backspace]:[S-DEL]);
+(redef: [CM-backspace]:[CM-DEL]);
+(redef: [M-backspace]:[M-DEL]);
+(redef: [DEL]:[backspace]);
+(redef: [C-DEL]:[C-backspace]);
+(redef: [M-DEL]:[M-backspace]);
+(redef: [CM-DEL]:[CM-backspace]);
+(redef: [S-DEL]:[S-backspace]);

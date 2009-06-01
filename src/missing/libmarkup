@@ -1,0 +1,16 @@
+
+
+Undefined symbols from markup/.libs/libmarkup.so.0.0.0:
+
+    .div
+    .rem
+    UTFtoUstr
+    __iob
+    font_change_attribute
+    font_get_name
+    fprintf
+    mymalloc
+    set_string_size
+    sprintf
+    strlen
+    uctype

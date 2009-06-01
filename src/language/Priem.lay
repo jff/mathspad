@@ -1,0 +1,57 @@
+Include "libint.so"
+Include "libreal.so"
+
+
+Function hypothenusa(Real x, Real y, RealRef r)
+{
+	r := (x*x + y*y)^0.5;
+}
+
+Function deelt(Int i, Int n, IntRef r)
+{
+	r := (!(n%i));
+}
+
+Function isPriem(Int n, IntRef r)
+{
+	Var Int i;
+	r:=(n%2);
+	i:=3;
+	do (r && (i*i<=n)) {
+		r:=(n%i);
+		i:=i+2;
+	} od;
+}
+
+
+Function main(Int n) {
+	Var Int i;
+
+	i:=2;
+	if (n>1) {
+		PrintInt("",i);
+	} fi;
+	do (i<n) {
+		Var Int j;
+		isPriem(i,j);
+		if (j)
+			PrintInt("Priem",i);
+		fi;
+		i:=i+1;
+	} od;
+}
+
+Var Real x;
+
+x:=3.0;
+PrintReal("", x);
+
+x:=9.0+16.0;
+PrintReal("", x);
+
+x:=25.0^0.5;
+PrintReal("", x);
+
+hypothenusa(3.0,4.0,x);
+
+main(1000);

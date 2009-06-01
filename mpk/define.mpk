@@ -1,0 +1,143 @@
+Menu DefinePopupPrec {
+	Options Pin;
+	Title "Precedence";
+	"0"	: D_set_precedence(0);
+	"1"	: D_set_precedence(1);
+	"2"	: D_set_precedence(2);
+	"3"	: D_set_precedence(3);
+	"4"	: D_set_precedence(4);
+	"5"	: D_set_precedence(5);
+	"6"	: D_set_precedence(6);
+	"7"	: D_set_precedence(7);
+	"8"	: D_set_precedence(8);
+	"9"	: D_set_precedence(9);
+	"10"	: D_set_precedence(10);
+	"11"	: D_set_precedence(11);
+	"12"	: D_set_precedence(12);
+	"13"	: D_set_precedence(13);
+	"14"	: D_set_precedence(14);
+	"15"	: D_set_precedence(15);
+	"16"	: D_set_precedence(16);
+	"17"	: D_set_precedence(17);
+	"18"	: D_set_precedence(18);
+	"19"	: D_set_precedence(19);
+	"20"	: D_set_precedence(20);
+}
+
+Menu DefinePopupKind {
+	Options Pin;
+	Title "Kind";
+	"None"	  : D_set_kind(0);
+	"Prefix"  : D_set_kind(1);
+	"Postfix" : D_set_kind(2);
+	"Infix"	  : D_set_kind(3);
+	"Left"	  : D_set_kind(4);
+	"Right"	  : D_set_kind(5);
+}
+
+Menu DefinePopupSpace {
+	Options Pin;
+	Title "Space";
+	"0"	: D_set_spacing(0);
+	"1"	: D_set_spacing(1);
+	"2"	: D_set_spacing(2);
+	"3"	: D_set_spacing(3);
+	"4"	: D_set_spacing(4);
+	"5"	: D_set_spacing(5);
+	"6"	: D_set_spacing(6);
+	"7"	: D_set_spacing(7);
+	"8"	: D_set_spacing(8);
+	"9"	: D_set_spacing(9);
+	"10"	: D_set_spacing(10);
+	"11"	: D_set_spacing(11);
+	"12"	: D_set_spacing(12);
+	"13"	: D_set_spacing(13);
+	"14"	: D_set_spacing(14);
+	"15"	: D_set_spacing(15);
+	"16"	: D_set_spacing(16);
+	"17"	: D_set_spacing(17);
+	"18"	: D_set_spacing(18);
+	"19"	: D_set_spacing(19);
+	"20"	: D_set_spacing(20);
+}
+
+Menu DefinePopupPlace {
+	Options Pin;
+	Title "Place Holder";
+	"Expression"	: D_insert_expression(defarg);
+	"Operator"	: D_insert_operator(defarg);
+	"Identifier"	: D_insert_identifier(defarg);
+	"Variable"	: D_insert_variable(defarg);
+	"Text"		: D_insert_text(defarg);
+	"Name"		: D_insert_markup("", "");
+}
+
+
+Menu DefinePopupMode {
+	Options Pin;
+	Title "Mode";
+	"Toggle"	: D_toggle_latexmode();
+	"text"		: D_self_insert(0xf7f5, defarg);
+	"math"		: D_self_insert(0xf7f4, defarg);
+	"display"	: D_self_insert(0xf7f3, defarg);
+}
+
+Menu DefinePopupFont {
+	Options Pin;
+	Title "Font";
+	"Roman"		: D_insert_markup("", "");
+	"Sans Serif"	: D_insert_markup("", "");
+	"Type Writer"	: D_insert_markup("", "");
+	Separator;
+	"Medium"	: D_insert_markup("", "");
+	"Bold"		: D_insert_markup("", "");
+	Separator;
+	"Upright"	: D_insert_markup("", "");
+	"Italic"	: D_insert_markup("", "");
+	"Slanted"	: D_insert_markup("", "");
+	"Small Caps"	: D_insert_markup("", "");
+}
+
+Menu DefinePopupSize {
+	Options Pin;
+	Title "Size";
+	"Tiny"		: D_insert_markup("", "");
+	"Script"	: D_insert_markup("", "");
+	"Footnote"	: D_insert_markup("", "");
+	"Small"		: D_insert_markup("", "");
+	"Normal"	: D_insert_markup("", "");
+	"Large"		: D_insert_markup("", "");
+	"Larger"	: D_insert_markup("", "");
+	"Largest"	: D_insert_markup("", "");
+	"Huge"		: D_insert_markup("", "");
+	"Huger"		: D_insert_markup("", "");
+
+}
+
+Menu DefinePopupTabs {
+	Options Pin;
+	Title "Tabs";
+	"Tabbing"	: D_insert_markup("", "");
+	"Display"	: D_insert_markup("", "");
+	"set"		: D_self_insert(0xf7fe, defarg);
+	"tab"		: D_self_insert(0xf7fd, defarg);
+	"back"		: D_self_insert(0xf7fc, defarg);
+	"plus"		: D_self_insert(0xf7fb, defarg);
+	"minus"		: D_self_insert(0xf7fa, defarg);
+	"push"		: D_self_insert(0xf7f9, defarg);
+	"pop"		: D_self_insert(0xf7f8, defarg);
+	"return"	: D_self_insert(0xf7f7, defarg);
+}
+
+Menu DefinePopupSpecial {
+	Options Pin;
+	Title "Special";
+	"Stack Base"	: D_insert_markup("", "");
+	"Stack Centre"	: D_insert_markup("", "");
+	"Line"		: D_self_insert(0xf7e8, defarg);
+	"Fill"		: D_self_insert(0xf7e9, defarg);
+	"Dots"		: D_self_insert(0xf7e7, defarg);
+	"Bar"		: D_self_insert(0xf7dc, defarg);
+	"Elastic Space"	: D_self_insert(0xf7db, defarg);
+	"Color"		: D_insert_markup("", "");
+}

@@ -1,0 +1,18 @@
+#!/bin/sh
+option=init
+while test "$option" != "quit"; do
+  read option
+  case $option in
+  init*)  echo 'set_message("Getting Started...");' ;;
+  quit*)  echo 'set_message("Quiting ...");' ;;
+  hint*) echo 'set_message("Proving something. Please wait ...");'
+	sleep 3
+	echo 'MAG_build_hint("dummy rule");'
+	echo 'insert_version(0-888498142);'
+	echo "MAG_identifier('a');"
+	echo 'forward_char(1);'
+	echo "MAG_identifier('b');"
+	;;
+  *)   echo 'set_message("Unknown command");' ;;
+  esac
+done

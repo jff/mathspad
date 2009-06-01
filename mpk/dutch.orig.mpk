@@ -1,0 +1,42 @@
+Translation Dutch {
+	"MathSpad 0.60" : "WiskundeBlok 0.60" ;
+	"Window"	: "Raam" ;
+	"EditOp"	: "Pas Aan" ;
+	"Structure"	: "Structuur" ;
+	"Selection"	: "Selectie" ;
+	"Misc."		: "Van Alles" ;
+	"Version"	: "Versie";
+	"Quit"		: "Stop" ;
+	"Load"		: "Laad" ;
+	"Save"		: "Berg Op" ;
+	"Rename"	: "Hernoem";
+	"Output"	: "Uitvoer";
+	"Include"	: "Voeg In";
+	"Done"		: "Sluit" ;
+	"Load document:"	: "Laad dokument";
+	"Selection"	: "Bestandsnaam";
+	"Mask"		: "Filter";
+	"Directories"	: "Mappen";
+	"Files"		: "Bestanden";
+	" Rescan "	: " Herzoek ";
+	" Cancel " 	: " Afbreken ";
+	"Set"		: "Pas Toe";
+	"Save"		: "Berg Op";
+	"Screen"	: "Scherm";
+	"  Line space"	: "  Lijn afstand";
+	"  Tab size"	: "  Tab grootte";
+	"  Elastic space" : "  Micro spatiering";
+	"Left margin"	: "Linker kantlijn";
+	"Directory"	: "Map";
+	"  Documents"	: "  Dokumenten";
+	"  Stencils"	: "  Mallen";
+	"  Output"	: "  Uitvoer";
+	"Fonts"		: "Lettertypen";
+	"  Stencils"	: "  Mallen";
+	"  Symbols"	: "  Symbolen";
+	"  Popups"	: "  Menuutjes";
+	"Keys"          : "Toetsenbord definities";
+	"Save Time"     : "Opberg periode" ;
+	"MathSfile : "	: "Wiskunde Document : "
+
+}

@@ -1,0 +1,5 @@
+Var Int reg1, reg2
+;
+reg1:=1;
+reg2:=reg1+5;
+Assign(36,reg1);

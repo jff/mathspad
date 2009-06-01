@@ -1,0 +1,198 @@
+[4mMathpad Document
+[0m182KN0E08fPIN2A0ISafa0e16I   !1ICHeadingGVafa0e16H#!OC80J80CcbNbfO8bOdfO80P80Oman81O
+IC80J.TH 8bO80I 8bO2JN0E1MATHPAD    1    "22 February 1996"
+8fPIN2A0ISafa0e16L   "1ICSectionGVafa0e16J#!NC80JcbNbfO8bOdfO80P80Oman81O
+IC80J.SH 8bO80IGVafa0e16K#!NC80JcbObfO8bOdfO80P80Oman81O
+IC80J.SS 8bO80I"8bOLN0E1NAMEmathpad \- an X editor for mathematical LaTeX documents
+
+8fPIN2A0"8bOPN0E1SYNOPSIS8fPIN2A0ISafa0e17A   $1FCFontGVafa0e16M'!KC80JbfO8bOdfO80Oman81OJC80J\fB8bO\fPFCBoldGVafa0e16N'!KC80JbfM8bOdfM80Oman81OJC80J\fI8bO\fPHCItalicGVafa0e16O'!OC80JbfO8bOdfO bfM8bNdfM80Oman81O1BC80J\fB8bO\fP \fI8bN\fPLCBoldItalicGVafa0e16P'!OC80JbfM8bOdfM bfO8bNdfO80Oman81O1BC80J\fI8bO\fP \fB8bN\fPLCItalicBold&8bOON0E1mathpad [\-display 8fPIN2A0%8bOON0E1display] [\-iconic] [\-ascii] [\-plain] [\-gray] [\-bg8fPIN2A0%8bO1AN0E1selection 8fPIN2A0%8bOMN0E1color] [\-fg8fPIN2A0%8bO1AN0E1selection 8fPIN2A0%8bOMN0E1color]
+[\-colors 8fPIN2A0%8bONN0E1number] [\-fonts 8fPIN2A0%8bOLN0E1name] [[\-project] 8fPIN2A0%8bOLN0E1name]
+
+8fPIN2A0"8bO1CN0E1DESCRIPTIONMathpad is an X editor for mathematical documents, although it  can
+also be used for normal text. A document contains normal 8fPIN2A0%8bOMN0E1ascii in
+combination with 8fPIN2A0%8bO1GN0E1special symbols and 8fPIN2A0%8bO1CN0E1expressions. The expressions are
+built with defined 8fPIN2A0%8bO1AN0E1templates which makes it possible to edit expressions
+very fast. The expressions are readable and a number of special functions
+are available to manipulate them.8fPHN2A0ISafa0e17E   !1KCParagraphGVafa0e17D#!JC
+ 
+80Oman81OHC80J80I.PP80I'Mathpad is a very 8fPIN2A0%8bOPN0E1flexible editor. Almost every available font can be used
+in mathpad, even the proportional ones. Multiple fonts are used to switch
+between fonts and to be able to insert special mathematical symbols or
+foreign characters. Every user can add his own fonts.8fPHN2A0'Unlike most editors, you can define your 8fPIN2A0%8bO1EN0E1own templates in mathpad. A
+template can contain arguments and contains a 8fPIN2A0%8bONN0E1screen definition and a
+8fPIN2A0%8bOMN0E1LaTeX definition which can be defined independently. In the screen
+definition you can use different fonts, different sizes, a tabbing environment,
+a short stack to place expression above each other and horizontal and
+vertical lines. The relating LaTeX definition does not depend on the screen
+definition which makes it possible to simulate most of the LaTeX
+constructions in mathpad.  8fPIN2A0%8bO1BN0E1Subscripts, 8fPIN2A0%8bO1CN0E1superscript, 8fPIN2A0%8bOMN0E1roots, 8fPIN2A0%8bO1AN0E1fractions,
+8fPIN2A0%8bO1BN0E1summations, 8fPIN2A0%8bOON0E1accents, 8fPIN2A0%8bO1CN0E1underlining and 8fPIN2A0%8bO1BN0E1overlining are possible and
+look almost WYSIWYG in mathpad. Also 8fPIN2A0%8bONN0E1arrays and 8fPIN2A0%8bOPN0E1tabulars can
+be partially simulated with the tabbing environment.8fPHN2A0'Although mathpad produces LaTeX by default, it is also possible to
+edit other kind of documents. Without much trouble you can edit normal
+ascii, troff, HTML and programs. For example, this manpage is made with
+mathpad and is very readable on screen.8fPHN2A0'Mathpad will not used the standard input or standard output. Standard
+error is used when error messages occur while the message window
+is not open.
+
+8fPIN2A0"8bOON0E1OPTIONSMathpad does 8fPIN2A0%8bOKN0E1not support the usual X options to change colors or sizes
+from the command line. The following options are available:
+8fPJN2A0ISafa0e17C   !1FCItemGVafa0e17B#!OC81P8bO
+80C80E8bN80F82A80Oman81ONC80J.IP "8bO" 880I8bN(8bOIN0E18fPJN2A0$8bO1AN0E1\-display8bNON0E2display8bNbFN0E2Specifies the name of the X server to connect to, which can be used
+run mathpad on a remote system. Note that the fonts must be
+available on the host where the X server runs.
+8fPJN2A0(8bOIN0E18fPIN2A0&8bOPN0E1\-iconic8bN9FN0E2Start mathpad as an icon. If this is used in combination with the
+project option, all the windows from the project file will start as an
+icon.
+8fPJN2A0(8bOIN0E18fPIN2A0&8bOON0E1\-ascii8bN3JN0E2Generate ascii instead of LaTeX as default output.
+8fPJN2A0(8bOIN0E18fPIN2A0&8bOON0E1\-plain8bN9IN0E2Produce LaTeX code almost as you would type it. Mathpad
+will not add the spacing around operators, which is now done
+by the LaTeX program itself.
+8fPJN2A0(8bOIN0E18fPJN2A0$8bOON0E1\-fonts8bNLN0E2name8bN14CN0E2Start mathpad with a font definition file. The font definition file
+describes which fonts are available, which LaTeX macros are
+attached to the symbols and how these fonts are used in LaTeX.
+By default, mathpad uses the file fonts.mpt. The font definition
+file can be used to generate troff or HTML instead of LaTeX
+8fPJN2A0(8bOIN0E18fPJN2A0&8bONN0E1\-gray8bNHN0E28bN8LN0E2Use the grayscale colors. Mathpad will often use the
+normal colors on a grayscale monitor and the selections will
+all look the same.
+8fPJN2A0(8bOIN0E18fPJN2A0$8bOMN0E1\-bg8fPJN2A0%8bO1AN0E1selection8bNHN0E28bNMN0E2color8bN1fJN0E2Set the background color of a particular selection. If you not like
+the default color selection, you can use a number of these options to
+change the colors of each selection.  The 8fPIN2A0%8bO1AN0E1selection is specified with
+a string where 't', 'T' or '1' are used for the target selection, 's', 'S'
+or '2' for the source selection and 'a',  'A' or '3' for the argument
+selection. To specify a combination of selection, you can use the
+combination of charactors. The 8fPIN2A0%8bOMN0E1color argument can be the name of a
+color or the RBG number.
+8fPJN2A0(8bN6FN0E2Set the foreground color of a particular selection. See the previous item
+for the explanation.8bOIN0E18fPJN2A0$8bOMN0E1\-fg8fPJN2A0%8bO1AN0E1selection8bNHN0E28bNMN0E2color
+8fPJN2A0(8bOIN0E18fPJN2A0$8bOPN0E1\-colors8bNNN0E2number8bN17CN0E2Limit the number of colors to 8fPIN2A0%8bONN0E1number. By default, mathpad tries
+to use 16 colors to make color selections possible. If you want to use
+these colors in a different program or mathpad makes incorrect
+selections, you can restrict mathpad to use only 2, 4 or 8 colors.
+If mathpad can not use enough colors, it will use underlining to
+make the different selections visible.
+8fPJN2A0(8bOIN0E18fPJN2A0$8bO1AN0E1\-project8bNLN0E2name8bN13FN0E2Start mathpad with a project file. The project file describes which
+files are loaded and where the different windows are located. A
+project file is during a previous session with mathpad and will be
+made when the save workspace is used. The project file should be
+placed in the users mathpad directory.8fPHN2A0'Mathpad does not use the directory where it is started in. Instead, a
+default file is used with a number of directories and some other
+information about fonts and layout.
+
+8fPIN2A0"8bOMN0E1USAGE
+8fPIN2A0!8bO1FN0E1Opening WindowWhen mathpad is started, a window will appear that contains a number
+of buttons and a 8fPIN2A0%8bO1CN0E1message bar. Each of these button is used to open a pinup menu
+(third button) or to perform the default action of that pinup menu. The
+default action of a pinup menu is usually the first item. If you want to use
+a pinup menu multiple times, you might consider to pin it up by selecting
+the header of the menu.8fPHN2A0'For each window that you open, you can get help by moving the mouse pointer
+inside the window and press the 8fPIN2A0&8bOLN0E1help key (or 8fPIN2A0%8bO1AN0E1shift-F10 if you do not have
+a help key). Note that each button is also a window. Just in case this help facility
+does not work, a short description of the available buttons in the menu window.
+8fPJN2A0(8bOIN0E18fPIN2A0&8bONN0E1Window8bN16LN0E2Open a new window. There are six different windows: 8fPIN2A0%8bOPN0E1Document, to edit a new
+document,  8fPIN2A0%8bOON0E1Stencil, to edit or a use a file with templates, 8fPIN2A0%8bONN0E1Symbol, to select strange
+symbols, 8fPIN2A0%8bOLN0E1Find, to find and/or replace expressions or text, 8fPIN2A0%8bONN0E1Buffer, to use parts
+which you removed by accident (a primitive undo), and 8fPIN2A0%8bOON0E1Default, to change
+the defaults. Each window has its own buttons to perform further actions.
+8fPJN2A0(8bOIN0E18fPIN2A0&8bONN0E1EditOp8bN3MN0E2To perform some standard edit operations: 8fPIN2A0%8bOLN0E1Copy, 8fPIN2A0%8bOLN0E1Swap and 8fPIN2A0%8bONN0E1Delete.
+8fPJN2A0(8bOIN0E18fPIN2A0&8bO1AN0E1Structure8bN5MN0E2To change the structure of expressions: Add or remove braces, 8fPIN2A0%8bOON0E1Reverse, 8fPIN2A0%8bO1BN0E1Distribute,
+8fPIN2A0%8bO1AN0E1Factorise, 8fPIN2A0%8bOMN0E1Apply, 8fPIN2A0%8bOMN0E1Group, 8fPIN2A0%8bOON0E1Ungroup and 8fPIN2A0%8bONN0E1Rename.
+8fPJN2A0(8bOIN0E18fPIN2A0&8bO1AN0E1Selection8bN5EN0E2To change the selections, but not the contents of the selections: 8fPIN2A0%8bOLN0E1Swap, 8fPIN2A0%8bOMN0E1Clear and 8fPIN2A0%8bOLN0E1Join.
+8fPJN2A0(8bOIN0E18fPIN2A0&8bOMN0E1Misc.8bNaFN0E2Some miscellaneous functions: 8fPIN2A0%8bO1AN0E1Word Wrap, Selection to LaTeX, 8fPJN2A0%8bNHN0E28bOMN0E1Paste, 8fPIN2A0%8bO1AN0E1Goto Line,
+Toggle Dots,  Adjust Spacing, Spell Checking, running LaTeX and an experimental
+interface to Maple.
+8fPJN2A0(8bOIN0E18fPIN2A0&8bOON0E1Version8bN7DN0E2To switch between the versions of a template. The pinup that appears depends on
+the selection that is made. 
+8fPJN2A0(8bOIN0E18fPIN2A0&8bOLN0E1Quit8bN8LN0E2To stop with mathpad or to save your project. For each 8fPIN2A0%8bOON0E1unsaved document
+or stencil file, a popup will appear asking if it should be saved.
+
+Just use the help facility if you want to know more about a certain function..
+
+8fPIN2A0!8bO1CN0E1Selections.Mathpad uses 8fPIN2A0%8bOMN0E1three selections which are made by clicking or dragging.
+Also the 8fPIN2A0%8bO1DN0E1double click (and drag) can be used to select complete words or
+lines. The selections can be made with the three mouse buttons and the
+colors mentioned here are the default colors that mathpad uses.
+8fPJN2A0(8bOIN0E18fPIN2A0&8bONN0E1Target8bN9DN0E2This selection is made with the left mouse button and is displayed as a
+cursor or in 8fPIN2A0%8bO1DN0E1reverse mode. It is used as the target of the available
+functions.
+8fPJN2A0(8bOIN0E18fPIN2A0&8bONN0E1Source8bNcFN0E2This selection is made with the middle mouse button and is displayed
+on a blue background or with a 8fPIN2A0%8bOMN0E1thick underline. It is used in the copy
+and swap functions and to define a body of a function.
+8fPJN2A0(8bOIN0E18fPIN2A0&8bOPN0E1Argument8bNeDN0E2This selection is made with the right mouse button and is displayed
+on a cyan background or with a 8fPIN2A0%8bOLN0E1thin underline. It is used to define the
+position of the argument within a function or the scope. It is not used very
+often.8fPHN2A0'If you combine the selections, you can get some strange results.  If your mouse
+does not have three button, you can use the 8fPIN2A0&8bOLN0E1Ctrl key to increase the button
+number by one and the 8fPIN2A0&8bOLN0E1Meta key to increase the button number by two.8fPHN2A0'The primary selection is 8fPIN2A0%8bOKN0E1not automaticly available for the window system.
+The selection can be converted to LaTeX and is made available by using
+the 8fPIN2A0&8bOKN0E1F10 key.8fPHN2A0'A selection from the window system can be inserted with the 8fPIN2A0&8bOMN0E1Paste (L8)
+or the 8fPIN2A0&8bOJN0E1F3 key. In mathpad only text can be inserted.8fPHN2A0'You can use the window system to copy the LaTeX version of an expression
+in mathpad. Select the expression, hit the 8fPIN2A0&8bOKN0E1F10 key, position the cursor and
+hit the 8fPIN2A0&8bOMN0E1Paste key.
+
+8fPIN2A0!8bO1IN0E1Keyboard commandsAt the moment the keyboard commands of mathpad are almost equal to those
+from 8fPIN2A0%8bOMN0E1emacs. This means that you can use the normal cursor keys, you can
+insert text with the normal keys and delete it with the delete and backspace
+keys. For more specific functions, place the mouse pointer in a Document
+window and press the 8fPIN2A0&8bOLN0E1help key (or 8fPIN2A0%8bO1AN0E1shift-F10). The main extra key
+combinations are:
+8fPJN2A0(8bOIN0E18fPIN2A0&8bOKN0E1M-L8bNaHN0E2Move to a specific line. The line numbers between the output files
+and the mathpad document differ and LaTeX errors would be hard to
+find without this function.
+8fPJN2A0(8bOIN0E18fPIN2A0&8bOKN0E1M-P8bN13BN0E2Make a 8fPIN2A0%8bO1DN0E1project file. Mathpad used project files to save configuration. A
+project file contains the specified defaults from the default window, a
+list of loaded stencil files and documents and the locations and sizes of
+the opened or iconised windows. The project file is also used when the
+workspace is saved.
+
+8fPIN2A0!8bO1DN0E1Getting HelpMathpad has a help system that consists of documents that can be loaded.
+These documents explain the different  parts of mathpad and indicate what is
+possible. The documents are located in the help directory of the distribution
+which is available to every user. You can use the 8fPIN2A0&8bOLN0E1help key (or 8fPIN2A0%8bO1AN0E1shift-F10)
+to get help on the window where the mouse pointer is located.
+
+8fPIN2A0!8bO1IN0E1Signal ProcessingMathpad catches the fatal signals to ensure that a last minute backup
+can be made if needed. Such a backup will get the name 8fPIN2A0&8bOLN0E1dump8fPIN2A0%8bOLN0E1name. If
+mathpad should hang for some reason, you can send the terminate signal
+with the call 8fPJN2A0$8bOLN0E1kill8bNKN0E2pid. Mathpad will make backups for the unsaved documents if
+possible.8fPHN2A0'Mathpad also has an 8fPIN2A0%8bO1FN0E1automatic save which will save all the documents
+and stencil files in backup files if necessary. The backups have the name
+8fPIN2A0&8bOJN0E1\#8fPIN2A0%8bOLN0E1name8fPIN2A0&8bOJN0E1\# and can be loaded when errors should occur. If a document
+is saved successfully, the backup is removed.8fPHN2A0'If the connection to the window system is lost, mathpad will dump the
+unsaved documents in files and quit. Other errors are also caught
+although they will not always be fatal.8fPHN2A0'In the rare situation that mathpad or the window system should crash
+the backup files and dump files can be used like normal document.
+However, mathpad does not check if the backup file is better then the
+original. So, after a crash, load the backup first or look at the document
+without editing.
+
+8fPIN2A0"8bO1CN0E1ENVIRONMENTMathpad uses the following environment variables, which are usually
+only needed when mathpad is installed (t.i. in a shell script)..
+8fPJN2A0(8bOIN0E18fPIN2A0&8bOLN0E1HOME8bN2GN0E2The home directory of the user.
+8fPJN2A0(8bOIN0E18fPIN2A0&8bO1CN0E1MATHPADHOME8bN3ON0E2The directory where the distribution files are located.
+8fPJN2A0(8bOIN0E18fPIN2A0&8bO1DN0E1MATHPADLATEX8bN7MN0E2The directory with the LaTeX macros and LaTeX style files mathpad
+uses. At the moment is variable is not really used.
+8fPJN2A0(8bOIN0E18fPIN2A0&8bO1FN0E1MATHPADSTENCIL8bN8ON0E2The directory with the distribution files. If a specific stencil file is not
+found in the users directory, this directory will be used.
+8fPJN2A0(8bOIN0E18fPIN2A0&8bO1DN0E1MATHPADFONTS8bN4ON0E2The default font that should be used when no default file is available.
+8fPJN2A0(8bOIN0E18fPIN2A0&8bO1GN0E1MATHPADHELPPATH8bN9CN0E2The path to look for help document. By default, mathpad will search in
+your ~/mathspad/help directory and the distribitions help directory.
+8fPJN2A0(8bOIN0E18fPIN2A0&8bO1CN0E1MATHPADKEYS8bNdAN0E2The keyboard files that should be loaded by default which is useful
+if you work with different terminals using the same account. At the
+moment, changing the keyboard is a little difficult but possible.
+8fPJN2A0(8bOIN0E18fPIN2A0&8bO1GN0E1MATHPADFONTPATH8bNfJN0E2Add the specified font path to the existing font path. Mathpad uses a
+number of extra fonts and the font path of the server can be changed
+using this variable.  If no font path should be added, this variable
+should be set to the empty string.8fPHN2A0'If these variable are not set, mathpad will use the built-in defaults. However,
+mathpad will use MATHPADHOME to determine correct values for
+MATHPADSTENCIL (+/stencil), MATHPADLATEX (+/latex) and
+MATHPADFONTPATH (+/fonts).
+
+8fPIN2A0"8bOMN0E1FILESMATHPADLIBDIRECTORY/*8fPHN2A0'$HOME/.mpdefaults8fPHN2A0'$HOME/mathspad/.mpproject.mpj
+
+
+8fPIN2A0"8bOLN0E1BUGS
+If you find any bugs, no mather how small, you can report them to  mathpad@win.tue.nl .
+Also comments or suggestions are welcome.
+

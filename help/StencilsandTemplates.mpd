@@ -1,0 +1,623 @@
+[4mMathpad Document
+[0m4caFN0E08fPIN2A0ISafa0e18G   "1LCLocal Def.GVafa0e18E'!2PCbfKLocal DefinitionsdfK
+8bO
+bfKEnd local definitionsdfK
+DC80J8bOGCEdit.GVafa0e18F'!CC80JFC80O80J8bO81OGCHide. 8bO7ON0E1\newfont{\HUGEEX}{cmex10 scaled \magstep3} \def\bigsum{\raise18pt\hbox{\HUGEEX\symbol{88}}} \def\cl#1{\mbox{$\cal #1$}} 8fPKN2A0ISe1d4f11P   +2PCSectionHeading2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f1aC'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+HC80J8bN{8bO}80IKC{heading}GVe1d4f20A'!3CC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80IPC[toc]{heading}GVe1d4f27D'!2MC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1CC[no no.]{heading}GVe1d4f2aE'!2NC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1AC80J8bN{8bO}\label{8bM}80IPC{heading}labelGVe1d4f2eB'!3LC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1EC[toc]{heading}labelGVe1d4f12M'!3FC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1BC80J8bN*{8bO}\label{8bM}80I1HC[no no.]{heading}labelGVe1d4f12H'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80I1EChide-[toc]{heading}GVe1d4f12I'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1IChide -[no no.]{heading}GVe1d4f12J'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1AC80J8bN{8bO}\label{8bM}80I1EChide-{heading}labelGVe1d4f12K'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1JChide-[toc]{heading}labelGVe1d4f12L'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1BC8bN80J*{8bO}\label{8bM}80I1MChide-[no no.]{heading}label)8bM2AN0E3file:StencilsandTemplates8bO1NN0E1Stencils and Templates8bNIN0E28fPHN2A0ISe1d4f86L   '21ACSectioningTypes2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f86M#!JCcbLbfKPartdfK80PHC80J\partGVe1d4f86N#!MCcbMbfKChapterdfK80PKC80J\chapterGVe1d4f86O'!MCcbNbfKSectiondfK80PKC80J\sectionMCcbObfKSectiondfKccAGVe1d4f86P#!PCcbObfKSubSectiondfK80PNC80J\subsectionGVe1d4f87A#!1ACbfKSubSubSectiondfK1AC80J\subsubsectionGVe1d4f87B#!MCbfKParagraphdfKMC80J\paragraphGVe1d4f87C#!PCbfKSubParagraphdfKPC80J\subparagraph28fPON2A0ISe1ce08fJ   "2GCEntry1ECLatex2eC#MakeIndex GVe1ce08fK'!11IC80JbfKIndex EntrydfK
+bfMprimary sort key:dfM80C8bO
+bfMsub sort key:dfM80C8bN
+bfMsubsub sort keydfM80C8bM
+bfMvisual key if different from sort key:dfM80C80C8bL
+bfMif start of range of pages set holder to dfM ( 80C8bK
+bfMfont type for page nr. if non-standarddfM80C8bJ
+bfMif end of range of pages set holder to dfM ) 80C8bI
+bfKEnd of Index EntrydfK
+2EC80J\mpindexnew{8bO}{8bN}{8bM}{8bL}{8bK}{8bJ}{8bI}{}1CCenter index entryGVe1ce08fL'!KC80JbfK81Ji81L 81M81NdfK2EC80J\mpindexnew{8bO}{8bN}{8bM}{8bL}{8bK}{8bJ}{8bI}{}1EChide index commands48bIHN0E78bJHN0E68bKIN0E5(8bLHN0E48bMHN0E38bNPN0E2defining8bOPN0E1template
+Unlike most mathematics editors, 8fPHN2A0ISafa0e17G   !0GVafa0e17F#!MC80JbfIMath222LpaddfILC80J\mplogo{}6 has no built-in notational
+conventions --- for very good reasons.
+
+Firstly, notational conventions  depend heavily on the research area. Many
+groups have their own conventions and would prefer to see their own favourites
+built in. An editor written to cater for such preferences can only be used easily by a
+limited group while other users are restricted by the defined
+conventions.
+
+Secondly, the conventions used by an individual or group can alter during the
+course of time. A reason for a change can be the start of a new task or a technical
+development. 
+Until a few years ago, for example, the best on-screen representation of a summation
+over an interval might have looked like 8fPIN2A0ISe1cfae7F   #2NCLayout-c,l,r1JCLatex2e#Layout-c,l,rHelpGVe1cfae7G'!GC
+82B8bO82C
+2BC80J80I\begin{center}80I8bO80I\end{center}80IHCCenterGVe1cfae7H'!GC
+82B8bO82C
+2HC80J80I\begin{flushleft}80I8bO80I\end{flushleft}80IKCFlushleftGVe1cfae7I'!GC
+82B8bO82C
+2JC80J80I\begin{flushright}80I8bO80I\end{flushright}80ILCFlushright98bOIN0E18fPIN2A0ISe196d18D   +2KCTextStyle1HCLatex2eA#TextStyleHelpGVe196d18N'!FC80JbfJ8bOdfJKC80J\emph{8bO}1CCbfMEmphasizeddfM textGVe196d18E'!DC80J8bOMC80J\textup{8bO}OCUpright shapeGVe196d18F'!FC80JbfM8bOdfMMC80J\textit{8bO}PCbfMItalicdfM shapeGVe196d18G'!FC80JbfJ8bOdfJMC80J\textsl{8bO}1ACbfJSlanteddfJ shapeGVe196d18H'!DC80J8bOMC80J\textsc{8bO}1FCSccBMALLcbPcbNCccBAPS cbNshapeGVe196d18I'!DC80J8bOMC80J\textmd{8bO}OCMedium seriesGVe196d18J'!FC80JbfO8bOdfOMC80J\textbf{8bO}OCbfOBolddfO seriesGVe196d18K'!DC80J8bOMC80J\textrm{8bO}NCRoman familyGVe196d18L'!FC80JbfI8bOdfIMC80J\textsf{8bO}1ECbfISans SerifdfI familyGVe196d18M'!FC80JbfH8bOdfHMC80J\texttt{8bO}1ECbfHTypewriterdfH familyGVe196d18O'!FC80JbfK8bOdfK1GC80J\textbf{80J\textit{8bO}}1NCbfKBolddfK series bfKItalicdfK shape;8bO1IN0E1(8fPIN2A0ISe1d5e40A   !2OCUnderlineText1KCLatex2e#UnderlineTextHelpGVe1d5e40B#!HC81J81L8bO81M81H81NPC80J\underline{8bO}E8bOIN0E1S i : 0226Ei226EN : 8fPJN2A0ISe1ec428P   &22MCScripts                                    1FCLatex2eB#ScriptsHelpGVe1ec429A'"PC8fOccA81K 81L81M82Hsub82I8fN81N80PGC8fO_{8fN}IC8fO ccAsubcbOGVe1ec429B'"1BC8fOccA81K82Hsuper82I8fN81L 81M81N80PGC8fO^{8fN}KC8fO ccAsupercbOGVe1ec429C'"1JC8fOccA81K82Hsuper82I8fN81G81L 81M82Hsub82I8fM81G81N80PKC8fO^{8fN}_{8fM}JC8fO ccAbothcbOGVe1ec429D'"PCccA81K 81L81M82Hsub82I8fN81N80P8fOIC{}_{8fN}8fOICccAsub cbO8fOGVe1ec429E'"1BCccA81K82Hsuper82I8fN81L 81M81N80P8fOIC{}^{8fN}8fOKCccAsupercbO 8fOGVe1ec429F'"1JCccA81K82Hsuper82I8fN81G81L 81M82Hsub82I8fM81G81N80P8fOMC{}^{8fN}_{8fM}8fOJCccAbothcbO 8fOJ8fOIN2A1;8bOIN0E1i8fNIN0A22)whereas now, of course, it is possible to write directly8fPJN2A0ISe1ecc74K   &21GCEquation/Display     1PCLatex2eB#Equation/DisplayHelp GVe1ecc74L'!NC
+(bfMno.dfM)80C8fO
+
+2HC80J\begin{equation}80I80M8fO80K 80I\end{equation}80IMCEquation   GVe1ecc7aK'!1AC
+(82Hlabel82I8bN)80C8fO
+
+3AC80J\begin{equation}\label{8bN}80I80M8fO80K 80I\end{equation}80I1ECEquation -- bfMLabeldfMGVe1ecc77D'!2FC
+(bfMno.dfM)80C8fO  82Htext or punctuation82I8bM
+
+3EC80J\begin{equation}80I80M8fO\mbox{\ \ \ 80K8bM}80I\end{equation}80I1KCEquation followed by textGVe1ecc7eA'!2IC
+(82Hlabel82I8bN)80C8fO  82Htext or punctuation82I8bM
+
+3NC80J\begin{equation}\label{8bN}80I80M8fO\mbox{\ \ \ 80K8bM}80I\end{equation}80I2FCEquation followed by text -- bfMLabeldfMGVe1ecc75N'!GC
+80C8fO
+
+2MC80J\begin{displaymath}80I80M8fO 80I\end{displaymath}80I1FCDisplayed expressionGVe1ecc78N'!1OC
+80C8fO  82Htext or punctuation82I8bM
+
+3KC80J\begin{displaymath}80I80M8fO\mbox{\ \ \ 80K8bM}
+\end{displaymath}80I2GCDisplayed expression followed by textL8bMIN0E3.8fOKN2A1ISe1ec6b2C   $2KCSummation1HCLatex2eB#SummationHelpGVe1ec6b2E'"1BC81JccA8fM80P81LcbL221B80P81MccA8fN80P81N  8fO1PC\displaystyle{\sum_{8fN}^{8fM}}\ 8fO1LCdisplaystyle-range at sideGVe1ec6b2F'"1CC221B81KccA8fM81G80P81L 81MccA8fN81G80P81N  8fO1MC\textstyle{\sum_{8fN}^{8fM}}\ 8fO1KCinlinestyle-range at sideGVe1ec6b2G'"OC81J81LcbL221B80P81MccA8fN80P81N  8fO1LC\displaystyle{\sum_{8fN}}\ 8fO1OCdisplaystyle-range underneathGVe1ec6b6G'"PC221B81K 81L 81MccA8fN81G80P81N  8fO1IC\textstyle{\sum_{8fN}}\ 8fO1NCinlinestyle-range underneathU8fOJN2A1J8fOIN0A1i8fNIN0A228fNKN0A28fPIN0A0i8ePHN6B0>ISafa0e22G# %$0GVafa0e22C!"CC=GVafa0e22D!"IC80G80F
+=80C80E80HGVafa0e22E!"CC226AGVafa0e22F!"DC:=Y8fPIN0A008fMIN0A3NSo changes may result from developments in resources and technology.
+
+Thirdly, some operators have a different meaning and precedence depending on
+the context in which they are used. The  ``+'' operator, for example,  is used for
+many purposes: to denote addition in arithmetic (of course), the Boolean 222I (or) 
+operator, and the disjoint sum of two types, to name just a few.  It may
+be that the same document employs the operator in different ways.  Typically
+the precedence of the operator depends on its meaning and were such an
+operator to  be built in, only one precedence could be used for it.
+
+Fourthly, the diversity of conventions and operators is so large that it is
+impossible to build them all into the editor.  Any good editor will 
+provide a facility to expand on the existing conventions.
+
+Instead of  built-in conventions 8fPHN2A06 has a powerful facility to create new
+``stencils'' or to change existing ones, so that every user can make his own set of
+notational conventions. 8fPHN2A06 recognises the fact that Mathematics is not
+a dead language but very much alive and kicking.  Put simply, 8fPHN2A06 puts
+the ``s'' back into Mathematics!
+
+A 8fPHN2A06 stencil8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOON0E1stencil consists of a set of ``templates8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOPN0E1template'' each of which may have
+several ``versions8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2version8bOPN0E1template''.  
+In this chapter we discuss stencils and templates in general and assigning values
+to template-specific parameters. In 8fPJN2A0ISe04f743O   &1KCBook Ref.GVe04f743P#!1ICsection bfI8bOdfI in bfIfile:8bNdfI1DC80Jsection~\ref{8bN.8bO}GVe04f744A#!JCbfIfile:8bOdfI1GC80Jchapter~\ref{file:8bO}GVe04f744B#!MCsection bfI8bOdfI1DC80Jsection~\ref{8bN.8bO}GVe04f744C#!JCfig. bfI8bOdfI1DC80Jfig.\ \ref{fig:8bO}GVe04f744D#!KCtable bfI8bOdfI1FC80Jtable \ref{Table:8bO}GVe04f744E#!KCTable bfI8bOdfI1GC80J80JTable \ref{Table:8bO}^8bNHN@E2"8bO1IN0E1VersionDefinition we describe in detail how
+to define a version of a template.
+8fPKN2A0,8bMHN@E3"8bO2JN0E1Document Stencils and Code Numbers8bNIN0E28fPHN2A01
+For the most part, the user of 8fPHN2A06 need not be aware of how templates
+are  stored or their definitions retrieved.  However, some information is important,
+in order to avert mishaps.
+
+To achieve portability of 8fPHN2A06 documents, the definition of all
+templates used in a document is an integral part of each document.  Specifically,
+the complete definition of a template (including the definition of all versions of
+the template) is stored8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN2CN0E2definition stored in 8fPIN2A0;8bOKN0E1mpd file8bOPN0E1template in a document's 8fPIN2A0;8bOKN0E1mpd file at the position of its first
+occurrence in the document.  Subsequently, a code number8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1CN0E3code number8bNON0E2version8bOPN0E1template indicates the use of a
+version of  the template, this code number being unique to individual versions 
+and assigned to each version at the time of its creation.
+The advantage of this process is that it is not necessary to transmit stencils along
+with document files when sending 8fPHN2A06 documents to a colleague8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2mailing8bOPN0E1document.  (It is
+necessary, however, to transmit any local 8fPHN2A0ISe1cfa44M   %2GCLaTeX1CCLatex2e#LaTeXHelpGVe1cfa44N#!1FCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NXKC80J\LaTeX{}GVe1cfa44O#!MCT81K81L81K81L81ME81N81M81NXIC80J\TeX{}GVe1cfa45A#!1HCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NX23bF4AC80J{\mathsurround=0pt\LaTeX $2_80L{\textstyle 3bF}$\hspace{-0.4mm}}{}GVe1cfa45B#!1BCBccAIB80PT81K81L81K81L81ME81N81M81NX1FC80J80J\textsc{Bib}\TeX{}GVe1e4779B#!MCbfMMakeIndexdfMOCbfMMakeIndexdfM{}d macros that have been used in the
+definition of a template.) 
+  
+There is, of course, never any need for a user to know what any of the code
+numbers are (nor how they are generated) but it is important to realise that it is
+the code number that identifies a version of a template and not its definition.  It is
+possible to create two templates whose definitions are identical in every detail but
+whose code numbers are different.  The effect is that the system treats the two
+templates as different.  Keep this in mind when, for example, searching for
+a template using the find 8fPHN2A0ISe1d5142P   *2NCSpecialChars1JCLatex2e#SpecialCharsHelpGVe1d5143A#!CC#GC80J\#{}GVe1d5143B#!CC$GC80J\${}GVe1d5143C#!CC%GC80J\%{}GVe1d5143D#!CC&GC80J\&{}GVe1d5143E#"CC~HC{\sim}GVe1d5143F#!CC_GC80J\_{}GVe1d5143G#!DC80J^GC80J\^{}GVe1d5143H#"CC\NC{\backslash}GVe1d5143I#!CC{EC80J\{GVe1d5143J#!CC}EC80J\}k replace window. The code number of the template
+rather than, say, its visual appearance on the screen is used in the search.
+
+It is possible to replicate templates in different stencils.  To see whether two
+templates from different stencils are identical8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1IN0E2testing if a copy8bOPN0E1template (8fPHN2A0ISe1ec753N   %2OCAbbreviations1LCLatex2eB#AbbreviationsHelpGVe1ec753O#!GCe.g. IC80Je.g.\ GVe1ec753P!!ICbfMetc. dfMGVe1ec754A#!GCi.e. IC80Ji.e.\ GVe1ec754B#!GCE.g. IC80JE.g.\ GVe1ec754C#!GCI.e. IC80JI.e.\ q have the same code number)
+ensure both stencils are loaded  and  then inspect the ``Info'' associated with one
+of the templates. (See  8fPJN2A0_8bN1HN0E2StructureEditing8bO1IN0E1Help on Templates.)  If
+both stencil names appear under the ``Files'' entry in the Information menu
+then they are indeed identical, otherwise they are not.  Take the document you  are
+reading now as an example.  Load the document stencil.    In addition, load the
+8fPIN2A0>8bOON0E1latex2e stencil.  Then inspect the information on, say, the ``8fPHN2A0d'' template.  You
+will see that both 8fPIN2A0;8bOON0E1latex2e and 8fPIN2A0;8bO1PN0E1StencilsandTemplates.mpd are listed as files
+where the template can be found. 
+8fPKN2A0)8bM2FN0E3DefiningTemplates.DefineWindow8bO1IN0E1The Define Window8bNIN0E28fPHN2A01
+ A template is defined in the 8fPIN2A0B8bONN0E1define window8fPON2A048bIHN0E78bJHN0E68bKIN0E5(8bLHN@E4$8bMHN0E38bNHN0E28bO1EN0E1define window an example of which is shown in figure~8fPIN2A0ISe1d48b1L   %21DCRef(within doc)   1MCLatex2e#Ref(within doc)HelpGVe1d48b1M'!NC(bfI82Hlabel82I8bOdfI)LC80J(\ref{8bO})GC(Ref)GVe1d48b1N'!LCbfI82Hlabel82I8bOdfIJC80J\ref{8bO}ECRefGVe1d48c4C'#NC(bfI82Hlabel82I8bOdfI)1AC80J(\pageref{80K8bO})KC(PageRef)GVe1d48b1O'#LCbfI82Hlabel82I8bOdfIOC80J\pageref{80K8bO}ICPageRefGVe1d48b1P'!OC(bfMLabeldfM bfI8bOdfI)LC80J\label{8bO}GCLabelw8bO1EN0E1fig:definewin. 
+Reading from top to bottom, a define window 
+has six elements: a header, five
+buttons, a command menu (including the kind, precedence and spacing 
+definitions),  a ``Name'',  a ``Help file'', and the
+definition proper. The definition proper is further divided into a number of
+sections (separated by a horizontal line) each of which defines a version of the
+template. We discuss each element in turn.
+8fPLN2A0ISafa0e1aH   #1GCPSfigGVafa0e1aE'!2CC
+80C81J 81H 81L1faPccE(8bO,8bN)80P  8bM1faP81M 81H 81N
+8bK:  bfO8bLdfO
+5OC80J\begin{figure}80I\epsfxsize=8bO80I\epsfysize=8bN80I$$\epsffile{8bM}$$80I\caption{8bL}80I\label{8bK}80I\end{figure}1IC(x,y) [file] Name (Lab)GVafa0e1aF'!1IC
+80C81J 81H 81L1faP8bM1faP81M 81H 81N
+8bK: bfO8bLdfO
+5BC80J\begin{figure}80I\epsfxsize=8bO80I$$\epsffile{8bM}$$80I\caption{8bL}80I\label{8bK}80I\end{figure}1GC(x) [file] Name (Lab)GVafa0e1aG'!1IC
+80C81J 81H 81L1faP8bM1faP81M 81H 81N
+8bK: bfO8bLdfO
+5BC80J\begin{figure}80I\epsfysize=8bN80I$$\epsffile{8bM}$$80I\caption{8bL}80I\label{8bK}80I\end{figure}1GC(y) [file] Name (Lab)z8bO1BN0E1\textwidth8bM1AN0E3figdef.ps8bL1IN0E4The Define Window8bK1EN0E5fig:definewin
+8fPKN2A0,8bMHN@E3"8bO1BN0E1The Header8bNIN0E28fPHN2A00
+A define  window is opened by clicking on the  8fPIN2A0<8bONN0E1Define button in a stencil 
+window. The name of the stencil is entered in the header so that at all times the
+header  indicates which stencil will be changed. Once the define
+window is open, another stencil can be chosen by clicking on its 8fPIN2A0<8bONN0E1Define button.  (If
+two stencils8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN2AN0E2two with same name loaded8bOON0E1stencil with the same name 
+are loaded then the stencils are automatically
+numbered, the number being added in angle brackets after the name, so that it is
+still evident which stencil will be modified.)
+
+8fPIN2A0ISfe1c3a6C   "1FClinkGVfe1c3a6J'!DC80J BC1ACLink (editable)GVfe1c3b0O'!DC80J BCOCLink (hidden)|8bO1GN0E1help:Define.New8fPIN2A0|8bO1JN0E1help:Define.Update8fPIN2A0|8bO1JN0E1help:Define.Remove8fPIN2A0|8bO1JN0E1help:Define.Double8fPIN2A0|8bO1HN0E1help:Define.Done8fPKN2A0,8bMHN@E3"8bOON0E1Buttons8bNIN0E28fPHN2A00
+The buttons at the top of the  define window have the following functions:
+
+8fPIN2A0ISd555ce5O   (1JCManTableGVd555ce5J'!1EC
+81PbfH          dfH80B
+8bO82A
+2JC80J\begin{mantable}{20mm}80I8bO80I\end{mantable}1ACManTable (20mm)GVd555ce5K'!1CC
+81PbfH        dfH80B
+8bO82A
+2JC80J\begin{mantable}{15mm}80I8bO80I\end{mantable}1ACManTable (15mm)GVd555ce5L'!PC
+81PbfH    dfH80B 
+8bO82A
+2IC80J\begin{mantable}{8mm}80I8bO80I\end{mantable}PCManTable (8mm)GVd555ce5M'!JCbfO8bOdfO80C80E8bN80F
+NC80J\item[8bO] 8bN80I1BCItem (same line)GVd555ce5N'!KCbfO8bOdfO
+80C80E8bN80F
+NC80J\item[8bO] 8bN80I1BCItem (next line)GVfdb41f4K'!1GC
+81PbfH            dfH80B
+8bO82A
+2JC80J\begin{mantable}{25mm}80I8bO80I\end{mantable}1ACManTable (25mm)GVfc4a6c3E'!1JC
+81PbfH               dfH80B
+8bO82A
+2JC80J\begin{mantable}{30mm}80I8bO80I\end{mantable}1ACManTable (30mm)GVe113ff5L'!1MC
+81PbfH                  dfH80B
+8bO82A
+2JC80J\begin{mantable}{35mm}80I8bO80I\end{mantable}1ACManTable (35mm)8F8bOMN0E18fPJN2A08C8bN1ON0E2Install a new template.8bOJN0E18fPIN2A0<8bOKN0E1New8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLPN0E48fPIN2A0<8bOKN0E1New button8bMHN0E38bN1BN0E2New button8bO1EN0E1define window8fPJN2A08C8bN2EN0E2Update an existing template. 8bOJN0E18fPIN2A0<8bONN0E1Update8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLPN0E48fPIN2A0<8bONN0E1Update button8bMHN0E38bN1EN0E2Update button8bO1EN0E1define window8fPJN2A08C8bNfEN0E2Remove a template8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNPN0E2removing8bOPN0E1template.  The contents of the define window will not be
+removed so the template can be reinstalled if it was deleted by mistake.
+ Use 8fPIN2A0<8bONN0E1Update for reinstallation, not 8fPIN2A0<8bOKN0E1New so that the template  retains
+the same code number. (See below).8bOJN0E18fPIN2A0<8bONN0E1Remove8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLPN0E48fPIN2A0<8bONN0E1Remove button8bMHN0E38bN1EN0E2Remove button8bO1EN0E1define window8fPJN2A08C8bN42FN0E2This button is used to assign identical code numbers to templates that are identical 
+but for their code numbers.  It is also used to remove multiple copies of identical 
+templates.
+
+The template in the define window is compared with all other templates
+(in loaded stencils).  If it is identical8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN2EN0E2making code numbers
+identical8bOPN0E1template to another in every respect but for its code number,  identify the two by
+modifying the code number assigned to the template in the define
+window.  The template in the define window will then occur ``doubly''
+(and possibly multiply); that is, it occurs  in the current stencil and in one or more other
+stencils.  (Note that a template cannot occur doubly in the same
+stencil.) If the control key is held down at the same time as 8fPIN2A0<8bONN0E1Double
+then the doubly occurring  template in the current stencil will be
+removed8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1GN0E2removing copies8bOPN0E1template.  
+
+If the define window is empty, the operation will compare 8fPIN2A0D8bOKN0E1all
+templates in the stencil with templates in other stencils.  By the same
+token, if the control key is held down then all doubly occurring
+templates in the current stencil will be removed.8bOJN0E18fPIN2A0<8bONN0E1Double8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLPN0E48fPIN2A0<8bONN0E1Double button8bMHN0E38bN1EN0E2Double button8bO1EN0E1define window8fPJN2A08C8bN8KN0E2Close the define window. The template in the define window will be
+removed, so the template should be installed first if necessary.8bOJN0E18fPIN2A0<8bOLN0E1Done8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLPN0E48fPIN2A0<8bOLN0E1Done button8bMHN0E38bN1CN0E2Done button8bO1EN0E1define window
+The 8fPIN2A0<8bOKN0E1New button8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLPN0E48fPIN2A0<8bOKN0E1New button8bMHN0E38bN1BN0E2New button8bO1EN0E1define window has the effect of creating an entirely new template (even if
+the contents of the define window is an exact copy of an existing template).  A new
+code number is created for each version in the template.  8fPIN2A0<8bONN0E1Update8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLPN0E48fPIN2A0<8bONN0E1Update button8bMHN0E38bN1EN0E2Update button8bO1EN0E1define window, in contrast,
+preserves  existing code numbers, new code numbers being  generated only for
+newly added versions.  
+
+8fPIN2A0<8bONN0E1Update will destroy the existing contents of a stencil.  Thus when experimenting
+with the definition of a template8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1JN0E2testing definition8bOPN0E1template it may be
+advisable to use 8fPIN2A0<8bOKN0E1New at first.  See  8fPJN2A0_8bN1IN0E2VersionDefinition8bO1FN0E1HintsonTesting
+for the procedure by which to do this.
+
+To copy a template8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN2BN0E2copying to another stencil8bOPN0E1template from one stencil to another proceed as follows: Click on 8fPIN2A0<8bONN0E1Define in the stencil to which 
+the template is to be added.  Click on the template to be copied.  
+(The template's definition will appear in the define
+window.) Finally click on 8fPIN2A0<8bONN0E1Update in the define window.
+
+8fPKN2A0,8bMHN@E3"8bO1DN0E1Command Menu8bNIN0E28fPHN2A008fPON2A048bIHN0E78bJHN0E68bKIN0E5(8bLHN0E48bMHN0E38bN1DN0E2command menu8bO1EN0E1define window
+The on-screen layout and composition of templates is specified by means of a
+simple  command language8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1GN0E2layout commands8bOPN0E1template.  Creating terms in this language is menu-driven.  
+Below the buttons of the define window there is a list of items used to select the
+various commands.  (See the table below.) By clicking on an item, a pin-up
+menu will appear and  a choice of command can be made.  In this section we
+limit ourselves to a brief  description of each item and give a reference  to where more 
+detailed information can be found.  
+
+The items are as follows:
+8fPIN2A0|8bO1IN0E1help:Define.Prec.8fPIN2A0|8bO1IN0E1help:Define.Space8fPIN2A0|8bO1HN0E1help:Define.Kind
+8fPIN2A08E8bO1AN0E18fPJN2A08C8bN18MN0E2The kind of a template is selected here. Templates can be (unary or
+binary) mathematical operators or not.   In the case that a template
+specifies a mathematical operator the kind is further subdivided into 
+prefix, postfix, infix, left associative or right associative operator. 
+Other templates, whether a mathematical operator of higher arity or
+non-mathematical, have kind 8fPIN2A0<8bOLN0E1None. (See 
+8fPJN2A0]8bN1LN0E2StencilsandTemplates8bO1FN0E1ATemplatesKind.)8bOJN0E18fPIN2A0<8bOLN0E1Kind8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0<8bOLN0E1Kind8bMLN0E3Kind8bN1DN0E2command menu8bO1EN0E1define window8fPJN2A08C8bN10FN0E2The precedence of an operator can be selected from the pin-up
+menu. The selected precedence is displayed immediately below this
+item. The precedence of a template with kind 8fPIN2A0<8bOLN0E1None is irrelevant
+and will be set to zero when the template is installed. 
+(See 8fPJN2A0]8bN1LN0E2StencilsandTemplates8bO1MN0E1PrecedenceofaTemplate.)8bOJN0E18fPIN2A0<8bOMN0E1Prec.8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0<8bOMN0E1Prec.8bMMN0E3Prec.8bN1DN0E2command menu8bO1EN0E1define window8fPJN2A08C8bNfFN0E2The minimum space to be inserted around an operator is set
+with this button. The selected width is the product of the chosen
+number and the unit width specified in the default window.
+This information is ignored if the kind is 8fPIN2A0<8bOLN0E1None.
+(See 8fPJN2A0]8bN1LN0E2StencilsandTemplates8bO1NN0E1SpacingaroundaTemplate.)8bOJN0E18fPIN2A0<8bOMN0E1Space8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0<8bOMN0E1Space8bMMN0E3Space8bN1DN0E2command menu8bO1EN0E1define window8fPJN2A08C8bN2LN0E2The different types of place holder.8bOJN0E18fPIN2A0<8bOMN0E1Place8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0<8bOMN0E1Place8bMMN0E3Place8bN1DN0E2command menu8bO1EN0E1define window8fPJN2A08C8bN3BN0E2Commands specifying the  8fPHN2A0d  mode.
+(See 8fPJN2A0_8bN1IN0E2VersionDefinition8bOMN0E1Modes.)8bOJN0E18fPIN2A0<8bOLN0E1Mode8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0<8bOLN0E1Mode8bMLN0E3Mode8bN1DN0E2command menu8bO1EN0E1define window8fPJN2A08C8bN4ON0E2The fonts available (at the time execution of  8fPHN2A06 was
+started).
+(See 8fPJN2A0_8bN1IN0E2VersionDefinition8bOMN0E1Fonts.)8bOJN0E18fPIN2A0<8bOLN0E1Font8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0<8bOLN0E1Font8bMLN0E3Font8bN1DN0E2command menu8bO1EN0E1define window8fPJN2A08C8bN3HN0E2The different font  sizes 8fPHN2A06 can handle.
+(See 8fPJN2A0_8bN1IN0E2VersionDefinition8bOMN0E1Sizes.)8bOJN0E18fPIN2A0<8bOLN0E1Size8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0<8bOLN0E1Size8bMLN0E3Size8bN1DN0E2command menu8bO1EN0E1define window8fPJN2A08C8bN2BN0E2Tabbing commands.
+(See 8fPJN2A0_8bN1IN0E2VersionDefinition8bOON0E1Tabbing.)8bOJN0E18fPIN2A0<8bOLN0E1Tabs8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0<8bOLN0E1Tabs8bMLN0E3Tabs8bN1DN0E2command menu8bO1EN0E1define window8fPJN2A08C8bN7HN0E2A number of special constructions, such as vertical stacking and
+adding elastic space around templates.
+(See 8fPJN2A0_8bN1IN0E2VersionDefinition8bO1LN0E1SpecialConstructions.)8bOJN0E18fPIN2A0<8bOON0E1Special8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0<8bOON0E1Special8bMON0E3Special8bN1DN0E2command menu8bO1EN0E1define window
+8fPON2A048bIIN0E7)8bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1DN0E2command menu8bO1EN0E1define window
+8fPKN2A0)8bM3HN0E3StencilsandTemplates.TemplateSpecificationWindow8bO2EN0E1Template Specification Window8bNIN0E28fPHN2A00
+8fPON2A048bIHN0E78bJHN0E68bKIN0E5(8bLHN@E4$8bMHN0E38bNHN0E28bO2EN0E1template specification windowThe major portion of the define window is taken up by the windowpane
+(recognisable by the scroll bar at the left side).  We shall call the contents of the
+windowpane the
+8fPIN2A0D8bO1ON0E1template specification. When the define window is first opened the windowpane
+is entirely clear.  Certain edit operations cause the windowpane to be divided into
+sections, each section containing three fields labelled ``Screen'', ``Output'' and
+``Name''.  Each section defines a version of the template.  We call each
+section a 8fPIN2A0D8bO1MN0E1version specification8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1MN0E1version specification.
+
+The ``Name'' field in a version specification is used in the pin-up menu that lists
+the versions of a template that are available. If a name is not entered,
+8fPHN2A06 will invent one based on the stripped screen format. 
+
+The ``Screen'' field normally displays a term in a screen format command
+language8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO2FN0E1screen format command language indicating how the version is to be displayed on the screen.  
+The ``Output'' field determines the output that is to be produced by 8fPHN2A06
+when the 8fPIN2A0<8bONN0E1Output button at the head of a 8fPHN2A06 document window is
+selected. 
+8fPON2A048bIIN0E7)8bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO2EN0E1template specification window
+8fPON2A048bIIN0E7)8bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1EN0E1define window
+8fPKN2A0)8bM2NN0E3StencilsandTemplates.DefiningTemplates8bO1JN0E1Defining Templates8bNIN0E28fPHN2A01
+To add a new template to a stencil or to amend an existing template click on the 8fPIN2A0<8bONN0E1Define
+button at the top of the appropriate stencil. The define window will appear.
+If a new template is to be defined one must first enter the template specific data.
+This is discussed in the following subsections. Subsequently a definition for
+each version of the template must be specified. How to define a new or amend an
+existing version is described in 8fPJN2A0^8bNHN@E2"8bO1IN0E1VersionDefinition.
+
+An existing template can be used as a basis for a new one as follows: Click on
+the 8fPIN2A0<8bONN0E1Define button at the top of the stencil to which the new template is to be added.
+Click on the template to be used as a model and its definition will appear in the define
+window. Edit the template specific data and version specifications as required and
+then click on the 8fPIN2A0<8bOKN0E1New button in the define window.
+
+8fPIN2A0|8bO1HN0E1help:Define.Name8fPKN2A0,8bMHN@E3"8bO1IN0E1Naming a Template8bNIN0E28fPHN2A008fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNNN0E2naming8bOPN0E1template
+A template can be named by typing in the desired name in the 8fPIN2A0<8bOLN0E1Name  field. This
+name may only contain keyboard  characters and it will be used to 
+identify the template in the stencil. When a define window is opened the cursor is
+automatically set in the 8fPIN2A0<8bOLN0E1Name field.  The cursor can be reset by clicking with the
+near mouse button in the desired place.  If the name of the template is left empty, 
+the name or
+stripped screen format of its first version will be used to represent the template
+in the stencil. See 8fPJN2A0^8bNHN@E2"8bO1IN0E1VersionDefinition for information on naming versions.
+
+8fPKN2A0)8bM2KN0E3StencilsandTemplates.ATemplatesKind8bO1IN0E1A Template's Kind8bNIN0E28fPHN2A00
+The next step in defining a new template is typically to specify 
+its 8fPIN2A0D8bOLN0E1kind8fPON2A048bIHN0E78bJHN0E68bKIN0E5(8bLHN0E48bMHN0E38bNLN0E2kind8bOPN0E1template.
+The kind of a template stipulates whether the template is or isn't a unary or binary
+mathematical operator.  Unary and binary operators are further
+subdivided into prefix, postfix, infix, left associative and right associative
+operators.  Non-mathematical templates and mathematical operators of 
+higher arity have kind 8fPIN2A0<8bOLN0E1None.  
+
+8fPON2A048bIHN0E78bJHN0E68bKIN0E5(8bLHN0E48bMHN0E38bN1KN0E2definition of types8bOPN0E1operatorSo far as 8fPHN2A06 is concerned a unary operator (prefix or postfix) is a
+template having a single implicit expression place holder8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMPN0E3implicit8bN1DN0E2place holder8bOPN0E1template that is additional to 
+any place holders that appear explicitly in the definition of (versions of) the
+template.  This implicit place holder is called the argument of the operator and is
+furthermore the principal expression place holder8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1AN0E3principal8bN1DN0E2place holder8bOPN0E1template of the template.  A 8fPIN2A0D8bONN0E1prefix
+operator is an operator that is written before its argument.   Examples are the
+minus operator as in 8fPJN0A08ePHN2B0ISafa0e1aL! 4!0GVafa0e1aK!"CC-8G8fPIN0A02 and the logarithm operator as in 8fPJN0A08ePHN2B0ISafa0e1aJ! 4!1DClnGVafa0e1aI#"ECln FC\ln 8H8fPIN0A0x.  A 8fPIN2A0D8bOON0E1postfix operator
+is an operator that is written after its argument.
+
+Again so far as 8fPHN2A06 is concerned, a binary operator is a template
+having two implicit expression place holders in addition to  any place
+holders that appear explicitly in the definition of (versions of) the template. 
+These implicit place holders are called the arguments  of the operator and are
+positioned immediately to the left and right of the operator.  The
+leftmost argument is the principal expression place holder8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1AN0E3principal8bN1DN0E2place holder8bOPN0E1template of the template. 
+Binary operators can be either ``infix'', ``left associative'' or ``right associative''. 
+``Infix'' operators are used to form continued expressions like 8fPMN0A08fPIN0A008ePHN2B0ISafa0e22B#!%.0GVafa0e21D!"CC229BGVafa0e21E!"CC229CGVafa0e21F!"CC228GGVafa0e21G!"CC228HGVafa0e21H!"CC22bEGVafa0e21I!"CC22bFGVafa0e21J!"CC226EGVafa0e21K!"CC226FGVafa0e21L!"CC<GVafa0e21M!"CC>GVafa0e21N!"CC227MGVafa0e21O!"CC227NGVafa0e21P!"CC227KGVafa0e22A!"CC227L8P8fPIN0A0i8ePHN2B08N8fPIN0A0N  and 8fPMN0A08fPIN0A0a8ePHN2B0ISafa0e2cP# *!0GVafa0e2cO!"CC+9G8fPIN0A0b8ePHN2B0ISafa0e2dB# *!0GVafa0e2dA!"CC-9H8fPIN0A0c,
+``left associative'' operators and ``right associative'' operators are exemplified by
+the Boolean ``follows from'' and ``implies'' operators (as in 8fPMN0A08fPIN0A0a8ePHN2B0ISff204c5K# "$0GVff204c5I!"CC21dAGVff204c5J%"IC80G80F
+21dA80C80E80HKC21dA (split)GVfe2327bD!"CC21dCGVfe2327cB%"IC80G80F
+21dC80C80E80HKC21dC (split)9L8fPIN0A0b8ePHN2B09L8fPIN0A0c  meaning 
+8fPKN0A08fPKN1A08fPIN0A0a8ePHN2B09L8fPIN0A0b8ePHN2B09L8fPIN0A0c, and 8fPMN0A08fPIN0A0p8ePHN2B09J8fPIN0A0q8ePHN2B09J8fPIN0A0r meaning 8fPKN0A08fPIN0A0p8ePHN2B09J8fPKN1A08fPIN0A0q8ePHN2B09J8fPIN0A0r), respectively. 8fPON2A048bIIN0E7)8bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1KN0E2definition of types8bOPN0E1operator 
+
+The structure of expressions  constructed using ``infix'' operators is much richer
+(in the sense that  they have many more subexpressions) than that of
+expressions constructed using left associative and right associative operators (see
+8fPJN2A0^8bNHN@E2"8bO1DN0E1MathSEditing for more details) and we recommend that you do not use the
+latter two categories.  
+
+The designation 8fPIN2A0<8bOLN0E1None refers to the fact that a template has no implicit
+expression place holders8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1CN0E3no implicit8bN1DN0E2place holder8bOPN0E1template.  
+
+Note that operators may be quite complicated; they may include additional place
+holders, or may involve complicated layout rules.  You may wish, for example, to
+specify an infix arrow operator, ``8fPIN0A08ePHN2B0ISff204c6B# +'0GVff204c5L!"CC219CGVff204c5M#"CC1ffDNC\natrightrelGVff204c5N!"CC219NGVff204c5O#"HC81K*81L219C81M81N1AC\stackrel{221H}{219C}GVff204c5P#"NC 81J ccA8fO80P81L219C81H81M81N 1MC\rTeXto[l>=0.8em]^{8fO}\relaxGVff204c6A#"IC81K219C81H81L8fO81M81N1DC\overrightarrow{8fO}GVaf57681F!"CC21aG¢'', with one version having an additional
+expression place holder written as a superscript to the
+arrow, as in 8fPKN0A08fPIN0A0a8ePJN6B0AISffdbd85P#  &1KCOpScriptsGVd54e28eJ'"KC8eOccA81K 81L81M8fN81N80PGC8eO_{8fN}GC8eO subGVd54e28eK'"KC8eOccA81K8fN81L 81M81N80PGC8eO^{8fN}IC8eO superGVd54e28eL'"NC8eOccA81K8fN81G81L 81M8fM81G81N80PKC8eO^{8fN}_{8fM}HC8eO bothGVd54e28eM'"KCccA81K 81L81M8fN81N80P8eOIC{}_{8fN}8eOGCsub 8eOGVd54e28eN'"KCccA81K8fN81L 81M81N80P8eOIC{}^{8fN}8eOICsuper 8eOGVd54e28eO'"NCccA81K8fN81G81L 81M8fM81G81N80P8eOMC{}^{8fN}_{8fM}8eOHCboth 8eO§8fNIN0A2f8eOIN2B1¢8fOIN0A1f8fPIN0A0b, and a second version in which the two arguments are
+written on separate lines, one below the other.  How this can be achieved is
+explained in  8fPJN2A0^8bNHN@E2"8bO1IN0E1VersionDefinition.   
+
+It is vital to note that kind is associated with the template
+itself  and not with a version of the  template.  Thus it is not possible to define, for
+example, a template for a unary operator one version of which is a prefix
+operator and the other a postfix operator.  The 
+precedence8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1BN0E2precedence8bOPN0E1operator and spacing 
+fields8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2spacing8bOPN0E1operator are 
+also template8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1BN0E2precedence8bOPN0E1template8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2spacing8bOPN0E1template, not 
+version8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1BN0E3precedence8bNON0E2version8bOPN0E1template8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMON0E3spacing8bNON0E2version8bOPN0E1template, 
+specific and are only relevant for templates of kind other than 8fPIN2A0<8bOLN0E1None.
+8fPON2A048bIIN0E7)8bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNLN0E2kind8bOPN0E1template
+8fPKN2A0,8bMHN@E3"8bO2BN0E1Unary and Binary Operators8bNIN0E28fPHN2A0/8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1NN0E3mathematical operators8bNLN0E2kind8bOPN0E1template
+To define a unary or binary mathematical operator, choose one of the options
+8fPIN2A0<8bONN0E1Prefix, 8fPIN2A0<8bOON0E1Postfix, 8fPIN2A0<8bOMN0E1Infix, 8fPIN2A0<8bOLN0E1Left and 8fPIN2A0<8bOMN0E1Right from the
+8fPIN2A0<8bOLN0E1Kind8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0<8bOLN0E1Kind8bMLN0E3Kind8bN1DN0E2command menu8bO1EN0E1define window menu.   (8fPIN2A0<8bOLN0E1Left and 8fPIN2A0<8bOMN0E1Right are short for ``Left associative''
+and ``Right associative'' infix operator, respectively.)   Specify in addition its
+precedence (8fPJN2A0]8bN1LN0E2StencilsandTemplates8bO1MN0E1PrecedenceofaTemplate),
+and, if desired, the minimum spacing between the operator and its argument(s)
+(8fPJN2A0]8bN1LN0E2StencilsandTemplates8bO1NN0E1SpacingaroundaTemplate).  Finally follow the instructions in 
+8fPJN2A0^8bNHN@E2"8bO1IN0E1VersionDefinition in order to specify how (each
+version of) the operator is to be denoted.
+
+The code generated by 8fPHN2A06 is such that  8fPHN2A0c conventions for spacing 
+mathematical expressions are ignored.  The spacing generated by 8fPHN2A06
+depends on the position of the operator in the expression tree (the principal
+operator in an expression being surrounded by the most space in the absence of
+parentheses).  
+ 
+The place holders for the arguments of an operator  (one in the case of a prefix or
+postfix operator and two in the case of an infix operator) are generated by the
+system  when an operator is entered into an expression place holder in a
+document and are not shown in the version specification.  Only the operator itself is
+shown.8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMPN0E3implicit8bN1DN0E2place holder8bOPN0E1template
+
+8fPKN2A0,8bMHN@E3"8bO3JN0E1Non-mathematical Templates and Multi-fix Operators8bNIN0E28fPHN2A0/8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1HN0E3non-mathematical8bNLN0E2kind8bOPN0E1template8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1KN0E3multi-fix operators8bNLN0E2kind8bOPN0E1template
+To define a non-mathematical template or multi-fix operator choose the option
+8fPIN2A0<8bOLN0E1None  from the 8fPIN2A0<8bOLN0E1Kind8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0<8bOLN0E1Kind8bMLN0E3Kind8bN1DN0E2command menu8bO1EN0E1define window menu. Then follow the instructions in 
+8fPJN2A0^8bNHN@E2"8bO1IN0E1VersionDefinition in order to specify how (each
+version of) the operator is to be denoted.  
+
+8fPKN2A0)8bM3BN0E3StencilsandTemplates.PrecedenceofaTemplate8bO1PN0E1Precedence of a Template8bNIN0E28fPHN2A00The precedence of a template is specified by a number between zero and twenty 
+where the higher the number the higher the precedence. A new
+template is automatically given a zero value and this can be altered by
+choosing a number from the menu under 8fPIN2A0<8bOMN0E1Prec8fPHN2A0ISff9d826I   !1MCdot(abbrev)GVff9d827C#!DC. FC80J.\ ©in the command menu.
+The value is displayed underneath 8fPIN2A0<8bOMN0E1Prec8fPHN2A0© The precedence is ignored for templates 
+of kind 8fPIN2A0<8bOLN0E1None.
+
+We recommend that unary operators are given the highest precedence. 
+For binary operators a good guide is the smaller the size of the symbol the higher
+the precedence. If this is not the case we suggest that the template is
+given a non-zero minimum spacing. (See 8fPJN2A0]8bN1LN0E2StencilsandTemplates8bO1NN0E1SpacingaroundaTemplate.)
+8fPKN2A0)8bM3CN0E3StencilsandTemplates.SpacingaroundaTemplate8bO2AN0E1Spacing around a Template8bNIN0E28fPHN2A00The minimum spacing around a template is by default zero. This can
+be altered by selecting a number between zero and twenty
+from the menu under 8fPIN2A0<8bOMN0E1Space. The minimum spacing
+is increased by this number times the unit length of elastic spacing (defined in the default
+window).  The current value of the number is displayed under 8fPIN2A0<8bOMN0E1Space and is only
+relevant for templates of kind other than 8fPIN2A0<8bOLN0E1None.
+Thus if the number 2 is chosen and the unit length of elastic space is 3 pixels then a
+space at least 6 pixels wide will be inserted at each side of a binary operator.
+
+We recommend that all unary and binary operators should  have a minimum
+spacing of zero except for binary operators with a low precedence which are
+represented by a small symbol. 
+
+Remember that a template of  a unary or  binary mathematical operator 
+also has elastic space between the operator and its argument(s). This elastic space 
+grows with the complexity of its arguments, that is the depth of the 
+expression tree.
+Templates of kind 8fPIN2A0<8bOLN0E1None do not have this. To add elastic space around a 
+multifix operator with kind 8fPIN2A0<8bOLN0E1None see 
+8fPJN2A0_8bN1IN0E2VersionDefinition8bO1DN0E1ElasticSpace.
+
+8fPIN2A0|8bO1MN0E1help:Define.Help file8fPKN2A0,8bMHN@E3"8bO1EN0E1The Help File8bNIN0E28fPHN2A008fPON2A048bIHN0E78bJHN0E68bKIN0E5(8bLHN@E4$8bMHN0E38bNHN0E28bO1AN0E1help file
+It is possible to associate a 8fPHN2A06 document with a template in order to provide
+assistance or guidance in the use of the template.  Information about where to find
+the help information should be entered in the ``Help File'' field of the define window. 
+The information to be provided consists of two items separated by the symbol ``8fPHN2A0n''. 
+The first item is the name of a 8fPHN2A06 document (minus the ``8fPIN2A0;8bOLN0E1.mpd'' extension),
+and the second item is a string that is used to identify the position  in the document
+where the description of the template begins.  The environment  variable
+8fPIN2A0;8bO1GN0E1MATHPADHELPPATH8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A0;8bO1GN0E1MATHPADHELPPATH8bMHN0E38bN1GN0E2MATHPADHELPPATH8bO1HN0E1system variables is a colon-separated list of directories in which to search for help
+files.  Its function is comparable with that of the standard Unix PATH variable.
+
+For example, the html stencil is supplied with the help file called 8fPIN2A0;8bOPN0E1html.mpd
+and stored in the 8fPIN2A0;8bOKN0E1lib directory.  Inspection of, say, the definition of the
+Glossary template in the html stencil reveals the entry ``html8fPHN2A0nglossary'' in the
+``Help File'' field.  Assuming that 8fPIN2A0;8bO1GN0E1MATHPADHELPPATH is correctly set, requesting
+help on the Glossary template will cause the 8fPIN2A0;8bOPN0E1html.mpd document to be loaded
+and the cursor to be set in that document to the first occurrence of  a text place
+holder filled by the string ``glossary''.
+
+The file name may include a path indicating where to find the help file relative to
+the value of 8fPIN2A0;8bO1GN0E1MATHPADHELPPATH.  An example is8fPIN2A0M8fOIN0A18bP1MN0E0manual/latex8fPHN2A0nFontHelpindicating that the help document 8fPIN2A0;8bO1AN0E1latex.mpd is located in a directory 8fPIN2A0;8bONN0E1manual,
+which is a subdirectory of one of the directories specified by 8fPIN2A0;8bO1GN0E1MATHPADHELPPATH.
+The location of the help information specific to the template is 
+at the first occurrence of a text place holder containing the word ``FontHelp''.  
+
+The entry in the help field may be prefixed with the symbol ``8fPHN2A0j''  or an environment 
+variable.  Examples are8fPIN2A0M8fOIN0A18bP3AN0E08fPHN2A0jsmith/HelpDirectory/ExStencil8fPHN2A0nExTemplateindicating that the help document 8fPIN2A0;8bO1EN0E1ExStencil.mpd is 
+located in user smith's 8fPIN2A0;8bO1EN0E1HelpDirectory, and 8fPIN2A0M8fOIN0A18bP3FN0E08fPHN2A0mHOME/HelpDirectory/My1stStencil8fPHN2A0nMy1stTemplateindicating that the help document 8fPIN2A0;8bO1HN0E1My1stStencil.mpd is 
+located in the subdirectory  8fPIN2A0;8bO1EN0E1HelpDirectory of the user's home directory.
+
+The  string following the ``8fPHN2A0n'' symbol must be the entire contents of a text place
+holder (rather than a substring of a portion of text).  This restriction is designed
+to improve the efficiency of the search process and to reduce the possibility that a
+change in the help  file has the  unintended side effect of altering the position in
+the file associated with a template.   It is recommended that you use a special
+template to insert such links in your document and you use a special convention
+to ensure that the names of links do not coincide with the contents of other text
+place holders (such as the labels given to equations).  
+8fPON2A048bIIN0E7)8bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1AN0E1help file
+8fPKN2A0,8bMHN@E3"8bO1DN0E1Requirements8bNIN0E28fPHN2A008fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1DN0E2requirements8bOPN0E1template
+There are a few requirements on the definition of templates, specifically:
+8fPIN2A0ISe1dbb24P   "21OCItemize                      3BCLatex2eB#Description, Enumerate and Itemize HelpGVe1dbb25A'!2HC81PbfMItemdfM80BbfMizedfM
+82Hitems82I8bO82A bfMEnd ItemizedfM
+2DC80J\begin{itemize}80I8bO 80I\end{itemize}80IICItemizeGVe1dbb25B'!1DC   221J 80C80E{82Htext82I8bO}80F
+LC80J\item 8bO 80IFCItem«8bOLN0E18fPIN2A0ª8bO2FN0E1There is at least one version.8fPIN2A0ª8bO10GN0E1Either the template has a name, the first version has a name or the first version
+has a visible screen format. (Spaces, tabs and return characters are all
+counted as non-visible.) This check ensures that the template can be
+selected after it is installed.8fPIN2A0ª8bO4IN0E1No screen format contains repeated occurrences of a place holder.8fPIN2A0ª8bO6NN0E1There is at least one screen format that contains 8fPIN2A0D8bOKN0E1all the place holders in all
+versions of the template.When any of these requirements is violated, the  cursor will be placed at the
+position where the first violation occurs, and the installation of the template 
+will abort.
+
+If a place holder occurring in the output field does
+not occur in the corresponding screen field a warning message appears.
+The installation will nevertheless
+take place.  Such place holders are called 8fPIN2A0D8bONN0E1hidden place holders because the value
+assigned to the place holder and used in the generation of output is hidden from
+view.  The final requirement on place holders guarantees that hidden place
+holders can be edited (by switching to the version in which all place holders are
+visible).  The use of hidden place holders is a very convenient way of
+improving the on-screen readability of documents. (It is akin to the ``folding
+facility'' often built into structure editors.
+
+8fPKN2A0)8bM3LN0E3StencilsandTemplates.RearrangingVersionsandTemplates8bO2JN0E1Rearranging Versions and Templates8bNIN0E28fPHN2A00
+The  commands shown in 8fPJN2A0[8bNHN@E2"8bO1FN0E1MovingVersions  are used to reorganise versions of 
+a template.8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1IN0E3rearranging order8bNON0E2version8bOPN0E1template  For
+them to take effect the cursor should be placed anywhere in the ``Screen'', ``Output''
+or ``Name'' fields of the version that is to be repositioned. 
+
+8fPLN2A0ISe1e728fL   42GCTable1ECLatex2eA#floatsHelpGVe1e728fM'!4MCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+3HC80J\begin{table}[8bL]80I8bO 80I\caption{8bN}\label{8bM}80I\end{table}80I1HCtable/capt/label/placeGVe1e728fN'!3JCbfOBegin TabledfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+3FC80J\begin{table}80I8bO 80I\caption{8bN}\label{8bM}80I\end{table}%80I1BCtable/capt/labelGVe1e728fO'!4CCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+2OC80J\begin{table}[8bL]80I8bO 80I\caption{8bN}80I\end{table}80I1BCtable/capt/placeGVe1e728fP'!2PCbfOBegin TabledfO
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+2LC80J\begin{table}80I8bO 80I\caption{8bN}80I\end{table}80ILCtable/captGVe1e7290A'!3HCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+bfOEnd TabledfO
+2CC80J\begin{table}[8bL]80I8bO 80I\end{table}80IMCtable/placeGVe1e7290B'!2ECbfOBegin TabledfO
+82Htable82I8bO
+bfOEnd TabledfO
+1PC80J\begin{table}80I8bO 80I\end{table}80IGCtableGVe1e7290C'!6ECbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+3LC80J\begin{table}[8bL]80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table}%80I2BCtable/capt+LOT entry/label/placeGVe1e7290D'!5BCbfOBegin TabledfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+3HC80J\begin{table}80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table}80I1LCtable/capt+LOT entry/labelGVe1e7290E'!5KCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+3BC80J\begin{table}[8bL]80I8bO 80I\caption[8bK]{8bN}80I\end{table}80I1LCtable/capt+LOT entry/placeGVe1e7290F'!4HCbfOBegin TabledfO
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+2OC80J\begin{table}80I8bO 80I\caption[8bK]{8bN}80I\end{table}80I1FCtable/capt+LOT entryGVe1e7abcJ'!4OCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+3JC80J\begin{table*}[8bL]80I8bO 80I\caption{8bN}\label{8bM}80I\end{table*}80I1PCtable*(2-col)/capt/label/placeGVe1e7abdD'!3LCbfOBegin Table*dfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+3GC80J\begin{table*}80I8bO 80I\caption{8bN}\label{8bM}80I\end{table*}80I1JCtable*(2-col)/capt/labelGVe1e7abdK'!4ECbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+3AC80J\begin{table*}[8bL]80I8bO 80I\caption{8bN}80I\end{table*}80I1JCtable*(2-col)/capt/placeGVe1e7abeH'!3BCbfOBegin Table*dfO
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+2NC80J\begin{table*}80I8bO 80I\caption{8bN}80I\end{table*}80I1DCtable*(2-col)/captGVe1e7ac0F'!3JCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+bfOEnd Table*dfO
+2EC80J\begin{table*}[8bL]80I8bO 80I\end{table*}80I1ECtable*(2-col)/placeGVe1e7ac1D'!2GCbfOBegin Table*dfO
+82Htable82I8bO
+bfOEnd Table*dfO
+2BC80J\begin{table*}80I8bO 80I\end{table*}80IOCtable*(2-col)GVe1e7ac1L'!6GCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3MC80J\begin{table*}[8bL]80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table*}80I2JCtable*(2-col)/capt+LOT entry/label/placeGVe1e7ac5E'!5DCbfOBegin Table*dfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3JC80J\begin{table*}80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table*}80I2DCtable*(2-col)/capt+LOT entry/labelGVe1e7ac2I'!5MCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3DC80J\begin{table*}[8bL]80I8bO 80I\caption[8bK]{8bN}80I\end{table*}80I2DCtable*(2-col)/capt+LOT entry/placeGVe1e7ac3B'!4JCbfOBegin Table*dfO
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3AC80J\begin{table*}80I8bO 80I\caption[8bK]{8bN}80I\end{table*}80I1NCtable*(2-col)/capt+LOT entry¿8bN2JN0E2Moving versions within a template.8bOIN0E18fPIN2A098bOIN0E18fPLN2A0ISe1fd9e6J   &21DCTabular-Enter     1FCLatex2eB#TabularHelpGVe1fd9e6K'!7DCbfMTabular  ( alignment code: dfM82H|x|  where x=l, c or r for the col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col 82I8bO80B1faP81M 81H 81N
+8bH81J81L80C 82D80C 82D 81M 81H 81N82A
+4AC80J\begin{tabular}{8bI}\hline 80I8bO \\ \hline 80I8bH\hline 80I\end{tabular}80IHC1 col.GVe1fd9e6L'!8ECbfMTabular  ( alignment code: dfM82H|x|x| where x=l, c or r for each col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C 82D 81M 81H 81N82A
+4EC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN \\ \hline 80I8bH\hline 80I\end{tabular}80IHC2 col.GVe1fd9e6M'!9GCbfMTabular  ( alignment code: dfM82H|x|x|x| where x=l, c or r for each col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C 82D 81M 81H 81N82A
+4HC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN & 8bM\\ \hline 80I8bH\hline 80I\end{tabular}80IHC3 col.GVe1fd9e6N'!8MCbfMTabular  ( alignment code: dfM82He.g.|l|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+4MC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL\\ \hline 80I8bH\hline 80I\end{tabular}80IHC4 col.GVe1fd9e6O'!9OCbfMTabular  ( alignment code: dfM82He.g.|l|c|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B82D 82Hhead col82I8bK80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+5AC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL & 8bK\\ \hline 80I8bH\hline 80I\end{tabular}80IHC5 col.GVe1fd9e6P'!bACbfMTabular  ( alignment code: dfM82He.g.|l|c|c|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B82D 82Hhead col82I8bK80B82D 82Hhead col82I8bJ80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+5EC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL & 8bK & 8bJ\\ \hline 80I8bH\hline 80I\end{tabular}80IHC6 col.Ä8bHLN0E88fPJN2A0ISe1fd9e7H   &2MCTabular-Row1FCLatex2eB#TabularHelpGVe1fd9e7I'!KC80C 82D 8bO80C 82D
+HC80J8bO\\ 80IKCRow 1-colGVe1fd9e7J'!PC80C 82D 8bO80C82D 8bN80C 82D 
+MC80J8bO & 8bN \\ 80IKCRow 2-colGVe1fd9e7K'!1DC80C 82D 8bO80C82D 8bN80C82D 8bM80C 82D 
+1AC80J8bO & 8bN & 8bM \\ 80IKCRow 3-colGVe1fd9e7L'!1HC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C 82D 
+1DC80J8bO & 8bN & 8bM & 8bL\\ 80IKCRow 4-colGVe1fd9e7M'!1LC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C82D 8bK80C 82D 
+1JC80J8bO & 8bN & 8bM & 8bL  &  8bK\\ 80IKCRow 5-colGVe1fd9e7N'!2AC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C82D 8bK80C82D  8bJ80C 82D 
+1PC80J8bO & 8bN & 8bM & 8bL  &  8bK  &  8bJ\\ 80IKCRow 6-colÊ8bN2IN0E2Move the version up one position.8bOIN0E18fPIN2A0>8bOLN0E1M-up8fPJN2A0Ê8bN2KN0E2Move the version down one position.8bOIN0E18fPIN2A0>8bONN0E1M-down8fPJN2A0Ê8bN2ON0E2Move the version to the first position.8bOIN0E18fPIN2A0>8bONN0E1M-home8fPJN2A0Ê8bN2NN0E2Move the version to the last position.8bOIN0E18fPIN2A0>8bOMN0E1M-end8bN4PN0E2Action                                                                  8bO1IN0E1Key              8bIMN0E7|l|l|8bM1LN0E3Table:MovingVersions8bLKN0E4htb
+Templates  can also be rearranged 8fPON2A048bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN2CN0E2rearranging order templates8bOON0E1stencil
+within a stencil.  (See 8fPJN2A0[8bNHN@E2"8bO1GN0E1MovingTemplates.) To move a template open the 
+define window and select the desired template so that its definition appears in the
+define window.  Then, with the cursor in the ``Name'' field of the template, the
+following keys can be used to move the template to the left or right in the stencil,
+or to the first or last position in the relevant section of the template.  (An attempt
+to move a template out of, say, the ``None'' section into another section will of
+course fail.)
+
+8fPLN2A0¿8bN2JN0E2Moving templates within a stencil.8bOIN0E18fPIN2A098bOIN0E18fPLN2A0Ä8bHLN0E88fPJN2A0Ê8bN3CN0E2Move the template one position to the left.8bOIN0E18fPIN2A0>8bONN0E1M-Left8fPJN2A0Ê8bN3DN0E2Move the template one position to the right.8bOIN0E18fPIN2A0>8bOON0E1M-Right8fPJN2A0Ê8bN3AN0E2Move the template  to the first position.8bOIN0E18fPIN2A0>8bONN0E1M-PgUp8fPJN2A0Ê8bN2ON0E2Move the template to the last position.8bOIN0E18fPIN2A0>8bONN0E1M-PgDn8bN5MN0E2Action                                                                               8bO1IN0E1Key              8bIMN0E7|l|l|8bM1MN0E3Table:MovingTemplates8bLKN0E4htb
+8fPON2A048bIIN0E7)8bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNPN0E2defining8bOPN0E1template

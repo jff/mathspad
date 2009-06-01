@@ -1,0 +1,11 @@
+#!/bin/sh
+# Maple uses PAGER for help messages. Set it to a non-blocking program
+PAGER=cat
+export PAGER
+#
+# start Maple with some interface settings and send an extra quit at the end
+(echo "interface(quiet=true,warnlevel=0,prettyprint=false,errorbreak=0);";\
+ xpipeout -window $1; \
+ echo ";interface(quiet=true);quit;") | \
+maple -q -s 2>/dev/null | \
+xpipein -window $1 &

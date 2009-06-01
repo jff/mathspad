@@ -1,0 +1,655 @@
+[4mMathpad Document
+[0m613NN0E08fPKN2A0ISe1d4f11P   +2PCSectionHeading2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f1aC'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+HC80J8bN{8bO}80IKC{heading}GVe1d4f20A'!3CC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80IPC[toc]{heading}GVe1d4f27D'!2MC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1CC[no no.]{heading}GVe1d4f2aE'!2NC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1AC80J8bN{8bO}\label{8bM}80IPC{heading}labelGVe1d4f2eB'!3LC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1EC[toc]{heading}labelGVe1d4f12M'!3FC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1BC80J8bN*{8bO}\label{8bM}80I1HC[no no.]{heading}labelGVe1d4f12H'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80I1EChide-[toc]{heading}GVe1d4f12I'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1IChide -[no no.]{heading}GVe1d4f12J'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1AC80J8bN{8bO}\label{8bM}80I1EChide-{heading}labelGVe1d4f12K'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1JChide-[toc]{heading}labelGVe1d4f12L'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1BC8bN80J*{8bO}\label{8bM}80I1MChide-[no no.]{heading}label'8bM1CN0E3file:Basics8bONN0E1Basics8bNIN0E28fPHN2A0ISe1d4f86L   '21ACSectioningTypes2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f86M#!JCcbLbfKPartdfK80PHC80J\partGVe1d4f86N#!MCcbMbfKChapterdfK80PKC80J\chapterGVe1d4f86O'!MCcbNbfKSectiondfK80PKC80J\sectionMCcbObfKSectiondfKccAGVe1d4f86P#!PCcbObfKSubSectiondfK80PNC80J\subsectionGVe1d4f87A#!1ACbfKSubSubSectiondfK1AC80J\subsubsectionGVe1d4f87B#!MCbfKParagraphdfKMC80J\paragraphGVe1d4f87C#!PCbfKSubParagraphdfKPC80J\subparagraph08fPKN2A0'8bM1KN0E3Basics.Introduction8bO1DN0E1Introduction8bNIN0E28fPHN2A0/
+ 8fPHN2A0ISafa0e17G   !0GVafa0e17F#!MC80JbfIMath222LpaddfILC80J\mplogo{}2   has been written to run  in the  X118fPON2A0ISe1ce08fJ   "2GCEntry1ECLatex2eC#MakeIndex GVe1ce08fK'!11IC80JbfKIndex EntrydfK
+bfMprimary sort key:dfM80C8bO
+bfMsub sort key:dfM80C8bN
+bfMsubsub sort keydfM80C8bM
+bfMvisual key if different from sort key:dfM80C80C8bL
+bfMif start of range of pages set holder to dfM ( 80C8bK
+bfMfont type for page nr. if non-standarddfM80C8bJ
+bfMif end of range of pages set holder to dfM ) 80C8bI
+bfKEnd of Index EntrydfK
+2EC80J\mpindexnew{8bO}{8bN}{8bM}{8bL}{8bK}{8bJ}{8bI}{}1CCenter index entryGVe1ce08fL'!KC80JbfK81Ji81L 81M81NdfK2EC80J\mpindexnew{8bO}{8bN}{8bM}{8bL}{8bK}{8bJ}{8bI}{}1EChide index commands38bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNHN0E28bOKN0E1X11 window environment  and we 
+have assumed when writing this manual  that the user is familiar with the
+basics of this environment.  In this chapter  we introduce the  basic  terminology
+used throughout the manual and describe briefly each type of window.
+
+This manual is itself a 8fPHN2A02 document and thus can be read either on
+screen or in the hard-copy version.  In the on-screen version, references8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNHN0E28bO2EN0E1references in on-line version to
+other chapters or sections take the form ``file:8fPIN2A0ISe196d18D   +2KCTextStyle1HCLatex2eA#TextStyleHelpGVe196d18N'!FC80JbfJ8bOdfJKC80J\emph{8bO}1CCbfMEmphasizeddfM textGVe196d18E'!DC80J8bOMC80J\textup{8bO}OCUpright shapeGVe196d18F'!FC80JbfM8bOdfMMC80J\textit{8bO}PCbfMItalicdfM shapeGVe196d18G'!FC80JbfJ8bOdfJMC80J\textsl{8bO}1ACbfJSlanteddfJ shapeGVe196d18H'!DC80J8bOMC80J\textsc{8bO}1FCSccBMALLcbPcbNCccBAPS cbNshapeGVe196d18I'!DC80J8bOMC80J\textmd{8bO}OCMedium seriesGVe196d18J'!FC80JbfO8bOdfOMC80J\textbf{8bO}OCbfOBolddfO seriesGVe196d18K'!DC80J8bOMC80J\textrm{8bO}NCRoman familyGVe196d18L'!FC80JbfI8bOdfIMC80J\textsf{8bO}1ECbfISans SerifdfI familyGVe196d18M'!FC80JbfH8bOdfHMC80J\texttt{8bO}1ECbfHTypewriterdfH familyGVe196d18O'!FC80JbfK8bOdfK1GC80J\textbf{80J\textit{8bO}}1NCbfKBolddfK series bfKItalicdfK shape78bOPN0E1filename''.  (In the hard copy
+version these references are replaced by numbers.)  To view such a chapter or
+section you should load the  named file into a document window. 
+
+8fPHN2A02   can be configured to your own wishes.  For example, most
+commands that occur in menus can be  executed via the keyboard using a
+combination of control and alphanumeric keys, but the particular combination
+that is used can easily be altered (see  8fPJN2A0ISe04f743O   &1KCBook Ref.GVe04f743P#!1ICsection bfI8bOdfI in bfIfile:8bNdfI1DC80Jsection~\ref{8bN.8bO}GVe04f744A#!JCbfIfile:8bOdfI1GC80Jchapter~\ref{file:8bO}GVe04f744B#!MCsection bfI8bOdfI1DC80Jsection~\ref{8bN.8bO}GVe04f744C#!JCfig. bfI8bOdfI1DC80Jfig.\ \ref{fig:8bO}GVe04f744D#!KCtable bfI8bOdfI1FC80Jtable \ref{Table:8bO}GVe04f744E#!KCTable bfI8bOdfI1GC80J80JTable \ref{Table:8bO}D8bNHN@E2"8bO1LN0E1SystemAdministration for details).  The
+names of menu items can also be easily altered (for example to a different
+language).  The discussion in this manual relates to the system as distributed. 
+Consult your local expert for details of modifications that have been made.  (If
+you do make such modifications our advice is to update the manual at the same
+time.)
+
+The following font styles are used to highlight different items.
+8fPIN2A0ISd555ce5O   (1JCManTableGVd555ce5J'!1EC
+81PbfH          dfH80B
+8bO82A
+2JC80J\begin{mantable}{20mm}80I8bO80I\end{mantable}1ACManTable (20mm)GVd555ce5K'!1CC
+81PbfH        dfH80B
+8bO82A
+2JC80J\begin{mantable}{15mm}80I8bO80I\end{mantable}1ACManTable (15mm)GVd555ce5L'!PC
+81PbfH    dfH80B 
+8bO82A
+2IC80J\begin{mantable}{8mm}80I8bO80I\end{mantable}PCManTable (8mm)GVd555ce5M'!JCbfO8bOdfO80C80E8bN80F
+NC80J\item[8bO] 8bN80I1BCItem (same line)GVd555ce5N'!KCbfO8bOdfO
+80C80E8bN80F
+NC80J\item[8bO] 8bN80I1BCItem (next line)GVfdb41f4K'!1GC
+81PbfH            dfH80B
+8bO82A
+2JC80J\begin{mantable}{25mm}80I8bO80I\end{mantable}1ACManTable (25mm)GVfc4a6c3E'!1JC
+81PbfH               dfH80B
+8bO82A
+2JC80J\begin{mantable}{30mm}80I8bO80I\end{mantable}1ACManTable (30mm)GVe113ff5L'!1MC
+81PbfH                  dfH80B
+8bO82A
+2JC80J\begin{mantable}{35mm}80I8bO80I\end{mantable}1ACManTable (35mm)G8bOLN0E18fPJN2A0J8bN3KN0E2First, or defining, occurrence of important terms. 8bOIN0E18fPIN2A0=8bONN0E1Italic8fPJN2A0J8bN5LN0E2Options. These  can be buttons at the head of a window or 
+an item in a pin-up menu.8bOIN0E18fPIN2A078bO1BN0E1Sans serif8fPJN2A0J8bN3MN0E2Keyboard commands or a sequence of keyboard commands.8bOIN0E18fPIN2A098bOLN0E1Bold8fPJN2A0J8bN1PN0E2File names or 8fPHN2A0ISe1cfa44M   %2GCLaTeX1CCLatex2e#LaTeXHelpGVe1cfa44N#!1FCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NXKC80J\LaTeX{}GVe1cfa44O#!MCT81K81L81K81L81ME81N81M81NXIC80J\TeX{}GVe1cfa45A#!1HCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NX23bF4AC80J{\mathsurround=0pt\LaTeX $2_80L{\textstyle 3bF}$\hspace{-0.4mm}}{}GVe1cfa45B#!1BCBccAIB80PT81K81L81K81L81ME81N81M81NX1FC80J80J\textsc{Bib}\TeX{}GVe1e4779B#!MCbfMMakeIndexdfMOCbfMMakeIndexdfM{}R  macros.8bOIN0E18fPIN2A068bO1CN0E1Type writer
+
+
+8fPIN2A0ISfe1c3a6C   "1FClinkGVfe1c3a6J'!DC80J BC1ACLink (editable)GVfe1c3b0O'!DC80J BCOCLink (hidden)T8bO13HN0E1On screen a bold italic superscript ``i''  after a term indicates the presence of an
+index item8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNHN0E28bO1BN0E1index item. There is one such instance in the previous sentence.  More than one
+bold italic superscript ``i''  indicates that the term has been indexed  in more than
+one way. The ``i''s do not appear in the 8fPHN2A0Red output.
+8fPKN2A0'8bM1JN0E3Basics.Terminology8bO1CN0E1Terminology8bNIN0E28fPHN2A0/8fPKN2A0'8bM1DN0E3Basics.Mouse8bO1AN0E1The Mouse8bNIN0E28fPHN2A0.8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNHN0E28bOMN0E1mouse
+8fPHN2A02 uses three mouse buttons8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2buttons8bOMN0E1mouse.8fPIN2A0ISe1cf70aF   "2JCFootnote1FCLatex2e#FootnoteHelpGVe1cf70aG'!1ACbfMFootnote:dfM {8bO}OC80J\footnote{8bO}1DCFootnote(Editable)GVe1cf70aH#!JCbfK81Jf81L 81M81NdfK1AC80J\footnote{80O8bO}81OV8bO7LN0E1If your mouse has fewer than
+three buttons then it is usually possible to simulate the third button and still
+use 8fPHN2A02.  We refer to these buttons as
+the 8fPIN2A0?8bO1KN0E1near (mouse) button8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMLN0E3near8bNON0E2buttons8bOMN0E1mouse, the 8fPIN2A0?8bO1MN0E1middle (mouse) button8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMNN0E3middle8bNON0E2buttons8bOMN0E1mouse, and the  8fPIN2A0?8bO1JN0E1far (mouse) button8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMKN0E3far8bNON0E2buttons8bOMN0E1mouse.  If
+no mention is made of a specific mouse button then which button is used is not
+significant. 
+
+If you are right-handed then the near button will most probably be the leftmost
+button on your mouse, and the far button will be the rightmost button.  If you are
+left-handed it may be the other way round.   You can easily determine which is
+the case by pointing the mouse at any word in this text and double clicking with
+the leftmost mouse button.  If the word that you pointed at is then displayed in
+inverse video mode then the leftmost mouse button is indeed the ``near'' button.
+
+Several different mouse operations are used. The two basic ones are the 8fPIN2A0?8bOMN0E1click8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNHN0E28bOMN0E1click
+and  the 8fPIN2A0?8bOLN0E1drag8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNHN0E28bOPN0E1dragging. A 8fPIN2A0?8bOMN0E1click is a quick press and release of a mouse button  and a 
+8fPIN2A0?8bOLN0E1drag is the sequence: depress a mouse button, move the mouse and then release
+the mouse button.  The other mouse operations are formed from sequences of
+these two operations.  Thus a double click is a click immediately followed by
+another click, and the double drag is a drag followed by a click and another
+drag. In a similar manner other operations such as  triple clicks, triple drags,
+quadruple clicks, quadruple drags and so on can be made. A description of the
+correct technique for making multiple clicks can be found in
+8fPJN2A0E8bNPN0E2Tutorial8bO1NN0E1Clicks and Multiclicks. 
+
+
+8fPKN2A0'8bM2BN0E3Basics.Terminology.Windows8bOON0E1Windows8bNIN0E28fPHN2A0.
+8fPON2A038bIHN0E78bJHN0E68bKIN0E5(8bLHN0E48bMHN0E38bNHN0E28bONN0E1window
+8fPHN2A02 uses several types of window.   What you are reading now (if you
+are doing so at your computer) is in a 8fPIN2A0?8bO1GN0E1document window8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNHN0E28bOPN0E1document.   Each window has a
+8fPIN2A0?8bONN0E1header8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNHN0E28bONN0E1header  which enables you to identify the type of window.  The header of a
+document window, for example, consists of ``MathSfile :'' followed by the
+name of the document.  Below the header is a sequence of (window)
+8fPIN2A0?8bOON0E1buttons8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2buttons8bONN0E1window.  Examples of those on  a document window are 8fPIN2A078bOLN0E1Load, 
+8fPIN2A078bOLN0E1Save and 8fPIN2A078bONN0E1Rename.  In this manual we use the 8fPIN2A078bO1BN0E1sans serif font to indicate
+window buttons.  Below the window buttons is the 
+8fPIN2A0?8bO1BN0E1windowpane8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNHN0E28bO1BN0E1windowpane.  (Actually, the find 8fPHN2A0ISe1d5142P   *2NCSpecialChars1JCLatex2e#SpecialCharsHelpGVe1d5143A#!CC#GC80J\#{}GVe1d5143B#!CC$GC80J\${}GVe1d5143C#!CC%GC80J\%{}GVe1d5143D#!CC&GC80J\&{}GVe1d5143E#"CC~HC{\sim}GVe1d5143F#!CC_GC80J\_{}GVe1d5143G#!DC80J^GC80J\^{}GVe1d5143H#"CC\NC{\backslash}GVe1d5143I#!CC{EC80J\{GVe1d5143J#!CC}EC80J\}] replace window has two windowpanes.)
+
+The different types of window are:
+8fPIN2A0ISe1dbb24P   "21OCItemize                      3BCLatex2eB#Description, Enumerate and Itemize HelpGVe1dbb25A'!2HC81PbfMItemdfM80BbfMizedfM
+82Hitems82I8bO82A bfMEnd ItemizedfM
+2DC80J\begin{itemize}80I8bO 80I\end{itemize}80IICItemizeGVe1dbb25B'!1DC   221J 80C80E{82Htext82I8bO}80F
+LC80J\item 8bO 80IFCItemb8bOPN0E18fPIN2A0a8bOON0E1The 8fPIN2A0?8bOON0E1console8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNHN0E28bOON0E1console.8fPIN2A0a8bOLN0E1A 8fPIN2A0?8bOPN0E1document.8fPIN2A0a8bO1FN0E1The 8fPIN2A0?8bO1FN0E1find 8fPHN2A0] replace8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1FN0E1find 8fPHN2A0] replace window.8fPIN2A0a8bOON0E1The 8fPIN2A0?8bONN0E1buffer8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bONN0E1buffer.8fPIN2A0a8bO2KN0E1A 8fPIN2A0?8bOON0E1stencil8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOON0E1stencil and a 8fPIN2A0?8bONN0E1define8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1EN0E1define window window for a stencil.8fPIN2A0a8bO1FN0E1The 8fPIN2A0?8bOON0E1default8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1FN0E1default window window.8fPIN2A0a8bO1FN0E1The 8fPIN2A0?8bONN0E1symbol8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1FN0E1symbol palette window.8fPIN2A0a8bOON0E1The 8fPIN2A0?8bO1EN0E1file selector8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1EN0E1file selector.
+The console is headed8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNNN0E2header8bOON0E1console by the text ``MathSpad'' followed by the version number
+and the project name. (More on projects later.)
+It is always visible unless you have turned it into an icon.  For all the other 
+window types (except a document, which has already been described) the type
+appears in the header.  Document windows, the find 8fPHN2A0] replace window, and the 
+buffer are referred to collectively as 8fPIN2A0?8bOLN0E1edit windows, since they share the 
+property that all edit operations can be applied to their contents.
+
+Stencils and the symbol window are so-called ``palettes''.  A  8fPIN2A0?8bOON0E1palette8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2palette8bONN0E1window  is a 
+windowpane containing a number of items each of which can be inserted into a
+document.  In the case of the symbol window the items are symbols (typically, but
+not necessarily, mathematical), and in the case of stencils the items are
+templates for user-defined structures.
+
+During a session, an unlimited number of documents and/or palettes may be
+open.  For each of the other types of window there is always at most one open8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1CN0E2number open8bONN0E1window.
+In particular, it is not possible to ``define'' two stencils simultaneously: two or
+more stencils may be open but only one define window.
+
+A brief description of each type of window is given in
+8fPJN2A0E8bNNN0E2Basics8bOON0E1Windows.
+For more detailed information on each type of window consult first the contents
+or the index. 8fPON2A038bIIN0E7)8bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bONN0E1window
+8fPKN2A0'8bM1IN0E3Basics.Selections8bO1BN0E1Selections8bNIN0E28fPHN2A0.
+8fPON2A038bIHN0E78bJHN0E68bKIN0E5(8bLHN@E4$8bMHN0E38bNHN0E28bO1AN0E1selection
+Text editors invariably make use of a 8fPIN2A0?8bONN0E1cursor8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bONN0E1cursor to indicate the position in a text
+at  which input is entered or changes  are made.  8fPHN2A02, being a
+combination of a text editor and a structure editor, makes use of both a cursor
+and a so-called 8fPIN2A0?8bO1HN0E1target selection8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNNN0E2target8bO1AN0E1selection.  A cursor may be set simultaneously in each
+of the define  window, the default window and the file selector.   In such
+windows, the cursor is  indicated by an upwards pointing triangle, and it has
+its usual function.  The target selection is set in 8fPIN2A0?8bO1CN0E1exactly one of the edit8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNLN0E2edit8bONN0E1window windows
+(a document window, the buffer or the find 8fPHN2A0] replace window), and is displayed in
+inverse video mode8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1MN0E2visual representation8bO1AN0E1selection.  (The background is black and the text is white.)   The 
+target selection may be empty (which is different from not being set!) in which
+case we sometimes refer to it as the 8fPIN2A0?8bO1CN0E1edit cursor8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1CN0E1edit cursor. The edit cursor is indicated
+by a black diamond. 
+
+The target selection is  where changes to the document occur (for example, by
+entering input from the  keyboard). The term selected by the target selection is
+called the 8fPIN2A0?8bONN0E1target8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bONN0E1target, or the 8fPIN2A0?8bO1CN0E1target term8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1CN0E1target term if we particularly want to emphasise the
+distinction from the target selection.   Several functions use the target selection or
+target term as an argument. There is also a 8fPIN2A0?8bO1HN0E1source selection8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNNN0E2source8bO1AN0E1selection and a 8fPIN2A0?8bO1EN0E1source (term)8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1EN0E1source (term),
+used by functions with two arguments. The source selection is underlined with a
+thick line on a black-and-white monitor, and coloured blue on a colour monitor. 
+Some functions use, in addition, an 8fPIN2A0?8bO1JN0E1argument selection8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNPN0E2argument8bO1AN0E1selection.  The term selected is called 
+the 8fPIN2A0?8bOPN0E1argument8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOPN0E1argument.  The argument selection is indicated by a thin underline on a
+black-and-white monitor, and  a purple background  on a colour monitor. These
+three  selections can be made with the mouse, where the near button is used for the 
+target selection, the middle button is used for the source selection and the far button
+for the argument selection.  
+
+If two of the selections overlap8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1CN0E2overlapping8bO1AN0E1selection then the colour changes at the point of overlap. 
+The overlap of a target and source selection is coloured yellow.  That of a 
+source and argument selection is coloured light blue and that of a target and
+argument selection is coloured green.  Finally, if all selections overlap the colour
+is red8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1MN0E2visual representation8bO1AN0E1selection.8fPON2A038bIIN0E7)8bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1AN0E1selection
+
+From now on, whenever we refer to 8fPHN2A02-specific commands we use the
+ terminology 8fPIN2A0?8bONN0E1target, 8fPIN2A0?8bONN0E1source and 8fPIN2A0?8bOPN0E1argument.  When we refer to X11-specific
+commands8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOKN0E1X11 we use the terms 8fPIN2A0?8bOLN0E1near, 8fPIN2A0?8bONN0E1middle and 8fPIN2A0?8bOKN0E1far (mouse) buttons8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2buttons8bOMN0E1mouse.  
+8fPKN2A0'8bM1KN0E3Basics.Command Keys8bO1DN0E1Command Keys8bNIN0E28fPHN2A0.
+8fPHN2A02 uses the shift, control and meta keys from the keyboard to bind
+functions to key combinations. Every key can be used in combination with these
+three 8fPIN2A0?8bO1DN0E1command keys8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1CN0E1command key. The command keys are used in the normal way: 
+first hold down the command key, then depress and release the appropriate 
+alpha-numeric key.  Use of the command keys will be indicated by a prefix:
+either ``8fPIN2A098bOJN0E1C-'' for the control key8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2control8bO1CN0E1command key, ``8fPIN2A098bOJN0E1M-''  for the  meta key8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNLN0E2meta8bO1CN0E1command key,  ``8fPIN2A098bOJN0E1S-''
+for  the shift key8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNMN0E2shift8bO1CN0E1command key  and ``8fPIN2A098bOKN0E1CM-'' for both the control and meta keys.   For
+example, 8fPIN2A098bOKN0E1C-U  means, hold down the control key and then enter 8fPIN2A098bOIN0E1U from the
+keyboard.  Use of the  shift key as a ``command'' key is only significant in
+combination with the function8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNPN0E2function8bO1CN0E1command key  keys (labelled ``F1'', ``F2'' 8fPHN2A0ISe1ec753N   %2OCAbbreviations1LCLatex2eB#AbbreviationsHelpGVe1ec753O#!GCe.g. IC80Je.g.\ GVe1ec753P!!ICbfMetc. dfMGVe1ec754A#!GCi.e. IC80Ji.e.\ GVe1ec754B#!GCE.g. IC80JE.g.\ GVe1ec754C#!GCI.e. IC80JI.e.\ fon the
+keyboard).  In particular, there is no difference between, for example,  8fPIN2A098bOLN0E1 C-u
+and 8fPIN2A098bOKN0E1C-U,  both being equally acceptable.
+
+The key used for the  meta key8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNLN0E2meta8bO1CN0E1command key is one of the modifier keys on the keyboard.
+On a Sun keyboard it is the 25cK key while on other keyboards one of the 8fPIN2A078bOKN0E1Alt keys
+is usually used. When a keyboard doesn't have a meta key, it is possible to
+simulate it with an unused key. This is a feature of X118fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOKN0E1X11 and the xmodmap8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOON0E1xmodmap
+program can be used to check which key is defined as the meta key (mod1) and
+to define a new meta key.
+
+8fPKN2A0'8bM1GN0E3Basics.Projects8bOPN0E1Projects8bNIN0E28fPHN2A0.
+8fPON2A038bIHN0E78bJHN0E68bKIN0E5(8bLHN@E4$8bMHN0E38bNHN0E28bOON0E1projectWhen using the 8fPHN2A02 system one is usually working on a
+project8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOON0E1project.  A 8fPIN2A0?8bOON0E1project  consists of a number of documents, a number of stencils
+and the default settings for the project. The project name is displayed after the
+version number in the heading of the console.  Details of projects are stored by
+the system in 8fPIN2A0?8bO1EN0E1project files8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNMN0E2files8bOON0E1project.  The name of a project file is the name of the
+project followed by the extension ``8fPIN2A068bOIN0E18fPIN2A068bOKN0E1mpj''8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A068bOKN0E1mpj8bMHN0E38bNKN0E2mpj8bOLN0E1file.  Project files are  stored in the 
+8fPHN2A02 home directory as given by the system variable 8fPIN2A068bO1CN0E1MATHPADHOME.8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A068bO1CN0E1MATHPADHOME8bMHN0E38bN1CN0E2MATHPADHOME8bO1HN0E1system variables
+
+The use of projects enables you to organise your work around particular tasks. 
+You can switch from one project  to another or discontinue your work in the
+knowledge that you can resume the project at a later stage  at the point at which
+you left off.  In order to achieve the latter, the project file also stores information
+about the position of windows and their size.  This includes information about
+auxiliary windows such as the buffer and the default window irrespective of
+whether they are opened or not, so that when they are opened they are
+positioned at the point at which 8fPIN2A0?8bOKN0E1you want them to appear instead of some fixed
+position dictated by system programmers. It does not, unfortunately, store
+information about the position of cursors, so this information is lost when exiting
+from a project and you are not able to resume 8fPIN2A0?8bOON0E1exactly at the point where you
+left off.    
+
+Project files are ASCII files including comments on the information they contain so
+that you may edit them with any text editor instead of via the  8fPHN2A02 system. 
+(This may be useful if, for example, you are very particular about the exact position
+of one of the windows.  Positioning or resizing a window  by dragging is not  as
+precise as supplying the desired coordinates.  In most circumstances, however, the
+information stored by 8fPHN2A02 is perfectly adequate.) 8fPON2A038bIIN0E7)8bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOON0E1project
+8fPKN2A0'8bM1IN0E3Basics.File Types8bO1BN0E1File Types8bNIN0E28fPHN2A0-
+Various types of file8fPON2A038bIHN0E78bJHN0E68bKIN0E5(8bLHN0E48bMHN0E38bNMN0E2types8bOLN0E1file are created or consulted.  The different types are identified
+by a three letter 8fPIN2A0?8bO1AN0E1extension8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1AN0E2extension8bOLN0E1file to the name of the file.  The extensions (all of which
+are preceded by a period in the standard way) and the file type to which they
+correspond are enumerated in 8fPJN2A0A8bNHN@E2"8bO1HN0E1Basics.FileTypes.
+
+8fPLN2A0ISe1e728fL   42GCTable1ECLatex2eA#floatsHelpGVe1e728fM'!4MCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+3HC80J\begin{table}[8bL]80I8bO 80I\caption{8bN}\label{8bM}80I\end{table}80I1HCtable/capt/label/placeGVe1e728fN'!3JCbfOBegin TabledfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+3FC80J\begin{table}80I8bO 80I\caption{8bN}\label{8bM}80I\end{table}%80I1BCtable/capt/labelGVe1e728fO'!4CCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+2OC80J\begin{table}[8bL]80I8bO 80I\caption{8bN}80I\end{table}80I1BCtable/capt/placeGVe1e728fP'!2PCbfOBegin TabledfO
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd TabledfO
+2LC80J\begin{table}80I8bO 80I\caption{8bN}80I\end{table}80ILCtable/captGVe1e7290A'!3HCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+bfOEnd TabledfO
+2CC80J\begin{table}[8bL]80I8bO 80I\end{table}80IMCtable/placeGVe1e7290B'!2ECbfOBegin TabledfO
+82Htable82I8bO
+bfOEnd TabledfO
+1PC80J\begin{table}80I8bO 80I\end{table}80IGCtableGVe1e7290C'!6ECbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+3LC80J\begin{table}[8bL]80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table}%80I2BCtable/capt+LOT entry/label/placeGVe1e7290D'!5BCbfOBegin TabledfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+3HC80J\begin{table}80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table}80I1LCtable/capt+LOT entry/labelGVe1e7290E'!5KCbfOBegin TabledfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+3BC80J\begin{table}[8bL]80I8bO 80I\caption[8bK]{8bN}80I\end{table}80I1LCtable/capt+LOT entry/placeGVe1e7290F'!4HCbfOBegin TabledfO
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd TabledfO
+2OC80J\begin{table}80I8bO 80I\caption[8bK]{8bN}80I\end{table}80I1FCtable/capt+LOT entryGVe1e7abcJ'!4OCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+3JC80J\begin{table*}[8bL]80I8bO 80I\caption{8bN}\label{8bM}80I\end{table*}80I1PCtable*(2-col)/capt/label/placeGVe1e7abdD'!3LCbfOBegin Table*dfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+3GC80J\begin{table*}80I8bO 80I\caption{8bN}\label{8bM}80I\end{table*}80I1JCtable*(2-col)/capt/labelGVe1e7abdK'!4ECbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+3AC80J\begin{table*}[8bL]80I8bO 80I\caption{8bN}80I\end{table*}80I1JCtable*(2-col)/capt/placeGVe1e7abeH'!3BCbfOBegin Table*dfO
+82Htable82I8bO
+82Hcaption82I8bN
+bfOEnd Table*dfO
+2NC80J\begin{table*}80I8bO 80I\caption{8bN}80I\end{table*}80I1DCtable*(2-col)/captGVe1e7ac0F'!3JCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+bfOEnd Table*dfO
+2EC80J\begin{table*}[8bL]80I8bO 80I\end{table*}80I1ECtable*(2-col)/placeGVe1e7ac1D'!2GCbfOBegin Table*dfO
+82Htable82I8bO
+bfOEnd Table*dfO
+2BC80J\begin{table*}80I8bO 80I\end{table*}80IOCtable*(2-col)GVe1e7ac1L'!6GCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3MC80J\begin{table*}[8bL]80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table*}80I2JCtable*(2-col)/capt+LOT entry/label/placeGVe1e7ac5E'!5DCbfOBegin Table*dfO
+bfMLabeldfM 8bM
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3JC80J\begin{table*}80I8bO 80I\caption[8bK]{8bN}\label{8bM}80I\end{table*}80I2DCtable*(2-col)/capt+LOT entry/labelGVe1e7ac2I'!5MCbfOBegin Table*dfO
+bfMPlacedfM 82Hh,t,b,p82I8bL
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3DC80J\begin{table*}[8bL]80I8bO 80I\caption[8bK]{8bN}80I\end{table*}80I2DCtable*(2-col)/capt+LOT entry/placeGVe1e7ac3B'!4JCbfOBegin Table*dfO
+82Htable82I8bO
+82Hcaption82I8bN
+82HList of tables entry82I8bK
+bfOEnd Table*dfO
+3AC80J\begin{table*}80I8bO 80I\caption[8bK]{8bN}80I\end{table*}80I1NCtable*(2-col)/capt+LOT entry{8bN1CN0E2File Types.8bOIN0E18fPIN2A0ISe1cfae7F   #2NCLayout-c,l,r1JCLatex2e#Layout-c,l,rHelpGVe1cfae7G'!GC
+82B8bO82C
+2BC80J80I\begin{center}80I8bO80I\end{center}80IHCCenterGVe1cfae7H'!GC
+82B8bO82C
+2HC80J80I\begin{flushleft}80I8bO80I\end{flushleft}80IKCFlushleftGVe1cfae7I'!GC
+82B8bO82C
+2JC80J80I\begin{flushright}80I8bO80I\end{flushright}80ILCFlushright~8bOIN0E18fPLN2A0ISe1fd9e6J   &21DCTabular-Enter     1FCLatex2eB#TabularHelpGVe1fd9e6K'!7DCbfMTabular  ( alignment code: dfM82H|x|  where x=l, c or r for the col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col 82I8bO80B1faP81M 81H 81N
+8bH81J81L80C 82D80C 82D 81M 81H 81N82A
+4AC80J\begin{tabular}{8bI}\hline 80I8bO \\ \hline 80I8bH\hline 80I\end{tabular}80IHC1 col.GVe1fd9e6L'!8ECbfMTabular  ( alignment code: dfM82H|x|x| where x=l, c or r for each col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C 82D 81M 81H 81N82A
+4EC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN \\ \hline 80I8bH\hline 80I\end{tabular}80IHC2 col.GVe1fd9e6M'!9GCbfMTabular  ( alignment code: dfM82H|x|x|x| where x=l, c or r for each col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C 82D 81M 81H 81N82A
+4HC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN & 8bM\\ \hline 80I8bH\hline 80I\end{tabular}80IHC3 col.GVe1fd9e6N'!8MCbfMTabular  ( alignment code: dfM82He.g.|l|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+4MC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL\\ \hline 80I8bH\hline 80I\end{tabular}80IHC4 col.GVe1fd9e6O'!9OCbfMTabular  ( alignment code: dfM82He.g.|l|c|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B82D 82Hhead col82I8bK80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+5AC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL & 8bK\\ \hline 80I8bH\hline 80I\end{tabular}80IHC5 col.GVe1fd9e6P'!bACbfMTabular  ( alignment code: dfM82He.g.|l|c|c|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B82D 82Hhead col82I8bK80B82D 82Hhead col82I8bJ80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+5EC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL & 8bK & 8bJ\\ \hline 80I8bH\hline 80I\end{tabular}80IHC6 col.8D8bHPN0E88fPJN2A0ISe1fd9e7H   &2MCTabular-Row1FCLatex2eB#TabularHelpGVe1fd9e7I'!KC80C 82D 8bO80C 82D
+HC80J8bO\\ 80IKCRow 1-colGVe1fd9e7J'!PC80C 82D 8bO80C82D 8bN80C 82D 
+MC80J8bO & 8bN \\ 80IKCRow 2-colGVe1fd9e7K'!1DC80C 82D 8bO80C82D 8bN80C82D 8bM80C 82D 
+1AC80J8bO & 8bN & 8bM \\ 80IKCRow 3-colGVe1fd9e7L'!1HC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C 82D 
+1DC80J8bO & 8bN & 8bM & 8bL\\ 80IKCRow 4-colGVe1fd9e7M'!1LC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C82D 8bK80C 82D 
+1JC80J8bO & 8bN & 8bM & 8bL  &  8bK\\ 80IKCRow 5-colGVe1fd9e7N'!2AC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C82D 8bK80C82D  8bJ80C 82D 
+1PC80J8bO & 8bN & 8bM & 8bL  &  8bK  &  8bJ\\ 80IKCRow 6-col8J8bNPN0E2document8bOJN0E18fPIN2A068bOKN0E1mpd8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A068bOKN0E1mpd8bMHN0E38bNKN0E2mpd8bOLN0E1file8fPJN2A08J8bN1KN0E2font selection file8bOJN0E18fPIN2A068bOKN0E1mpf8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A068bOKN0E1mpf8bMHN0E38bNKN0E2mpf8bOLN0E1file8fPJN2A08J8bNON0E2project8bOJN0E18fPIN2A068bOKN0E1mpj8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A068bOKN0E1mpj8bMHN0E38bNKN0E2mpj8bOLN0E1file8fPJN2A08J8bN1IN0E2keyboard bindings8bOJN0E18fPIN2A068bOKN0E1mpk8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A068bOKN0E1mpk8bMHN0E38bNKN0E2mpk8bOLN0E1file8fPJN2A08J8bN1MN0E2font size information8bOJN0E18fPIN2A068bOKN0E1mpm8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A068bOKN0E1mpm8bMHN0E38bNKN0E2mpm8bOLN0E1file8fPJN2A08J8bN1NN0E2find 8fPHN2A0] replace actions8bOJN0E18fPIN2A068bOKN0E1mpr8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A068bOKN0E1mpr8bMHN0E38bNKN0E2mpr8bOLN0E1file8fPJN2A08J8bNON0E2stencil8bOJN0E18fPIN2A068bOKN0E1mps8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A068bOKN0E1mps8bMHN0E38bNKN0E2mps8bOLN0E1file8fPJN2A08J8bNPN0E28fPHN2A0R macros8bOJN0E18fPIN2A068bOKN0E1mpt8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A068bOKN0E1mpt8bMHN0E38bNKN0E2mpt8bOLN0E1file8bN2PN0E2file type                               8bO2HN0E1extension                       8bIMN0E7|l|l|8bM1NN0E3Table:Basics.FileTypes8bLKN0E4htb
+The system uses the 8fPIN2A068bOKN0E1mpk file specified in the default window to determine the 
+effect of command keys like the control key.  It uses 8fPIN2A068bOKN0E1mpt files to associate fonts
+and symbols in the symbol palette with 8fPHN2A0R macros and 8fPIN2A068bOKN0E1mpm files to
+relate size and font information.  These ASCII files may be altered to suit your own 
+requirements.  See 8fPJN2A0D8bNHN@E2"8bO1LN0E1SystemAdministration for further details.8fPON2A038bIIN0E7)8bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNMN0E2types8bOLN0E1file
+8fPKN2A0'8bM1ON0E3Basics.Basic Techniques8bO1HN0E1Basic Techniques8bNIN0E28fPHN2A0/
+We recommend that you read the welcome chapter and work through the 
+tutorial on the first  occasion that you start up 8fPHN2A02. To do so, execute the
+command 8fPIN2A068bO1IN0E1mathspad manual 8fPHN2A0].8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO2FN0E1starting up welcoming document  (If that doesn't work try 8fPIN2A068bOON0E1mathpad,
+8fPIN2A068bOON0E1Mathpad or  8fPIN2A068bOPN0E1MathSpad instead of 8fPIN2A068bOPN0E1mathspad.   If none of these work
+consult the person who installed the system about where it is located and under
+which name.)  The  console8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOON0E1console, shown in  figure8fPHN2A0ISfe55814G   $1HCSpacesGVfe57c5cH'!DC  DC80J~CC1GVfe55816N'!DC  EC80J~~CC2GVfe55814N'!GC     HC80J~~~~~CC5GVfe55820H'!LC          MC80J~~~~~~~~~~DC108O8fPIN2A0ISe1d48b1L   %21DCRef(within doc)   1MCLatex2e#Ref(within doc)HelpGVe1d48b1M'!NC(bfI82Hlabel82I8bOdfI)LC80J(\ref{8bO})GC(Ref)GVe1d48b1N'!LCbfI82Hlabel82I8bOdfIJC80J\ref{8bO}ECRefGVe1d48c4C'#NC(bfI82Hlabel82I8bOdfI)1AC80J(\pageref{80K8bO})KC(PageRef)GVe1d48b1O'#LCbfI82Hlabel82I8bOdfIOC80J\pageref{80K8bO}ICPageRefGVe1d48b1P'!OC(bfMLabeldfM bfI8bOdfI)LC80J\label{8bO}GCLabel9C8bO1DN0E1fig:mainmenu, will appear on
+your screen as well as a welcoming document.
+
+8fPLN2A0ISafa0e1aH   #1GCPSfigGVafa0e1aE'!2CC
+80C81J 81H 81L1faPccE(8bO,8bN)80P  8bM1faP81M 81H 81N
+8bK:  bfO8bLdfO
+5OC80J\begin{figure}80I\epsfxsize=8bO80I\epsfysize=8bN80I$$\epsffile{8bM}$$80I\caption{8bL}80I\label{8bK}80I\end{figure}1IC(x,y) [file] Name (Lab)GVafa0e1aF'!1IC
+80C81J 81H 81L1faP8bM1faP81M 81H 81N
+8bK: bfO8bLdfO
+5BC80J\begin{figure}80I\epsfxsize=8bO80I$$\epsffile{8bM}$$80I\caption{8bL}80I\label{8bK}80I\end{figure}1GC(x) [file] Name (Lab)GVafa0e1aG'!1IC
+80C81J 81H 81L1faP8bM1faP81M 81H 81N
+8bK: bfO8bLdfO
+5BC80J\begin{figure}80I\epsfysize=8bN80I$$\epsffile{8bM}$$80I\caption{8bL}80I\label{8bK}80I\end{figure}1GC(y) [file] Name (Lab)9F8bO1BN0E1\textwidth8bM1BN0E3figmenu.ps8bL1DN0E4The  Console8bK1DN0E5fig:mainmenu
+
+
+Usually, 8fPHN2A02 is given the name of a project8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1MN0E1starting up a project8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1CN0E2starting up8bOON0E1project to open --- 
+``manual'' is the name of a project supplied with the system.  The argument 
+may also be the  name of a document or a stencil.  (NB.  The latter two options
+have not yet been implemented.)  If no argument is given then a default project
+is opened.8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1EN0E1starting up 8fPHN2A02  If you are a newcomer to the system --- to the extent that the most
+you have done with the system is to read the welcome and work through the
+tutorial --- and you execute the command 8fPIN2A068bOPN0E1mathspad  (thus without an
+argument) then this is what happens.%8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOIN0E18fPIN2A098bO2BN0E1Features to be implemented
+
+Unlike other editors, 8fPHN2A02 does not use the directory in which it's started.
+Instead, a default user directory8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1FN0E1user directory is used which is specified in the file
+8fPIN2A0ISe1d5e5bI   &2JCVerbatim1FCLatex2e#VerbatimHelpGVe1d5e5bJ'!ECbfH8bOdfHKC80J\verb+8bO+1JCShort-No `+' in contentsGVe1d5e5bK'!ECbfH8bOdfHKC80J\verb?8bO?1JCShort-No `?' in contentsGVe1d5e5bM'!ECbfH8bOdfHLC80J\verb*+8bO+2ICShort-No `+' in contents, spaces as ccB229EcbNGVe1d5e8dO'!ECbfH8bOdfHLC80J\verb*?8bO?2ICShort-No `?' in contents, spaces as ccB229EcbNGVe1d5e5bL'!GC
+bfH8bOdfH
+2EC80J\begin{verbatim}80I8bO80I\end{verbatim}80I1ICLong-more than one lineGVe1d5f98F'!GC
+bfH8bOdfH
+2GC80J\begin{verbatim*}80I8bO80I\end{verbatim*}80I2HCLong-more than one line, spaces as ccB229EcbN9M8bO1EN0E1~/.mpdefaults8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A068bO1CN0E1.mpdefaults8bMHN0E38bN1BN0E2mpdefaults8bOLN0E1file. This file contains the names of the  directories where the
+documents, stencils and 8fPHN2A0R files are found and written to by default.
+
+If the file with the defaults does not exist (as will be the case if you have never
+used 8fPHN2A02 before), or the specified directories are not available,
+8fPHN2A02 will create these directories8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1DN0E2created by 8fPHN2A028bO1CN0E1directories on demand. By default the directories
+8fPIN2A09L8bO1KN0E1~/mathspad/document, 8fPIN2A09M8bO1JN0E1~/mathspad/stencil and 8fPIN2A09M8bO1HN0E1~/mathspad/latex
+are used for the different files. (These defaults can be changed in the default
+window: see 8fPJN2A0D8bNHN@E2"8bOPN0E1Defaults for further details.)  After creating these directories
+(with your permission!) the console will appear on your screen together with a
+document window.  You are ready to begin creating your first  8fPHN2A02
+document. 
+
+8fPIN2A0S8bO1FN0E1help:Scrolling8fPKN2A0'8bM1HN0E3Basics.Scrolling8bO1AN0E1Scrolling8bNIN0E28fPHN2A0.
+8fPON2A038bIHN0E78bJHN0E68bKIN0E5(8bLHN0E48bMHN0E38bN1AN0E2scrolling8bONN0E1windowAt the side or top of some windows is a 8fPIN2A0?8bO1AN0E1scrollbar8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1AN0E2scrollbar8bONN0E1window. This is useful when the
+window is not large enough to display all the information simultaneously.  A
+scrollbar is recognisable by a black bar, which indicates the position of the
+displayed information relative to the total document. The black bar can be
+moved by clicking or dragging whilst the mouse is positioned in the scrollbar.  
+You can see when the  mouse is in the scrollbar because its shape changes from
+a single-headed to a double-headed arrow.  (This may depend on your window
+manager, or on the way you yourself have configured the system.)
+
+Horizontal scrollbars are used much less frequently than vertical scrollbars. 
+The following description refers to a vertical scrollbar but the same principles
+apply to a horizontal scrollbar --- replace ``down'' by ``to the right'', ``up'' by
+``to the left'', 8fPIN2A0?8bOKN0E1etc.
+
+The near mouse button moves the bar down.  To move a particular line in a
+document to the top of the window,  click the near mouse button whilst the mouse
+pointer is at a position in the scrollbar alongside the current position of that line. 
+
+The far mouse button moves the bar up.  Its  effect is the precise inverse to that 
+of the near button.   Thus, if you click in the scrollbar with the far button
+and, 8fPIN2A0?8bO1PN0E1without moving the mouse, immediately follow this by clicking with the near
+button, then the total effect is as if you had done nothing.  The same applies if you
+reverse the order: first click with the near button and, without moving the
+mouse,  follow this by clicking with the far button.   In particular, if you want to
+move back one window in a document then click the far button at the lowest
+point in the scrollbar.   If you just want to move back one line then click the far
+button with the mouse positioned in the scrollbar pointing at the second line of
+text in the window.  The further down in the scrollbar, the further back the
+window will scroll.
+
+The middle button is used to move the top of the bar to a position relative to the
+document as a whole.  To understand what happens you have to see the black
+bar as representing the displayed window, and the whole scrollbar as
+representing the whole of your document.  If, for example, a window shows the
+whole of a document, the scrollbar will be entirely black.  The smaller a window
+is relative to the document as a whole, the smaller the black bar will
+be relative to the total length of the scrollbar.  Moreover, the position of the black
+bar in the scrollbar indicates the relative position of the window to the
+document as a whole: if the window shows the very beginning of a document
+then there will be no white space above the black bar; if the window is in the
+middle of the document there will be (roughly) equal amounts of white space
+above and below it. By dragging with the middle button you can thus scroll the
+text dynamically. Dragging downwards moves forward in the text, and
+dragging upwards moves backwards.8fPON2A038bIIN0E7)8bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1AN0E2scrolling8bONN0E1window
+
+8fPIN2A0S8bO1GN0E1help:PinUpMenus8fPKN2A0'8bM1KN0E3Basics.Pin-Up Menus8bO1DN0E1Pin-Up Menus8bNIN0E28fPHN2A0.
+8fPIN2A0?8bO1DN0E1Pin-up menus8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1BN0E2pinning up8bOLN0E1menu are used for showing a number of options. Some examples of
+menus are shown in figure8fPHN2A08O8fPIN2A09C8bO1FN0E1fig:remarkwins.
+8fPLN2A09F8bO1DN0E1.6\textwidth8bM1CN0E3figpopup.ps8bL1IN0E4Some Pin-Up Menus8bK1FN0E5fig:remarkwins
+Each has a 8fPIN2A0?8bONN0E1header, which is the
+name of the button to which they belong  or ``8fPIN2A078bOPN0E1Template'' for menus associated
+with the templates in a stencil, and are separated from the menu items by an
+underline. %8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1GN0E18fPIN2A098bO1CN0E1ref missingfig:remarkwins
+
+A menu will appear when you click on a button or a template with the far mouse
+button; you can then  make a selection, or the menu can be pinned up.  Using a
+mouse button other than the far mouse button will select the first item of the
+menu. 
+
+To select an item move the mouse without releasing the mouse button until the
+required  item is highlighted.  Then release the mouse button.  Dragging the
+mouse from a position within to a position without the boundary of the menu
+and then  releasing the mouse button will cause the menu to disappear8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1NN0E2removing without using8bOLN0E1menu without
+any action having been performed.
+
+Some menus have sub-menus, indicated by a triangle pointing to the right.  By
+clicking on or dragging over that option, the sub-menu will appear and the
+selection can be made. If you move back to the main menu, the sub-menu will
+disappear.   
+
+In some situations, you might want to use the same  menu repeatedly.  For this
+purpose, you can pin8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1BN0E2pinning up8bOLN0E1menu the menu up by selecting the menu's header.  On a colour
+monitor the menu will acquire a grey boarder8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1CN0E2grey border8bOLN0E1menu indicating that it is ``securely''
+pinned up.  Once pinned up, items from the menu can be selected using any of
+the mouse buttons; the menu will not then disappear after the selection has been
+made, nor if the mouse is dragged outside the boundary of the menu. While in the
+pinned-up  state the menu8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1JN0E2dragging pinned up8bOLN0E1menu can be dragged to another position on the screen in
+the usual way that X118fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOKN0E1X11 windows are repositioned: point the mouse at any edge
+whilst holding down the near button and then drag.   To remove a pinned-up
+menu8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1AN0E2unpinning8bOLN0E1menu select the header of the menu.   
+
+The indication of whether or not the menu is ``pinned up'' depends on your
+window manager.  Also, depending on your window manager, a ``pinned-up''
+menu may disappear if  the parent  window is closed.
+
+8fPIN2A0S8bO1DN0E1help:Pop-Ups8fPKN2A0'8bM1FN0E3Basics.Pop-Ups8bOON0E1Pop-Ups8bNIN0E28fPHN2A0/
+8fPIN2A0?8bOON0E1Pop-ups8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOON0E1pop-ups  are warning messages or requests for information that ``pop up''
+on your screen.  An example is the message that appears when you quit the
+system without having saved a modified document: you are warned that the
+document hasn't been saved and asked whether you wish to do so.
+Unlike the messages that appear in the console, pop-ups have to be dealt with
+before any further progress can be made.  (If you try to proceed without
+responding to a pop-up then you will be beeped8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOMN0E1beeps and a message will appear in the
+console.)  
+
+The design policy is to have as few pop-ups as possible on the grounds that 
+users know better than the system what they are doing.  Novice users may,
+however, appreciate the support that warnings can give.  There is thus a default
+option specifying the level of support that is desired.  (This feature has not yet
+been implemented and the current system is geared to proficient users.)%8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOIN0E18fPIN2A098bO2BN0E1Features to be implemented
+
+ 8fPKN2A0'8bM1FN0E3Basics.Windows8bOON0E1Windows8bNIN0E28fPHN2A0/
+8fPON2A038bIHN0E78bJHN0E68bKIN0E5(8bLHN@E4$8bMHN0E38bNHN0E28bONN0E1window
+In this section we give a brief description of each of the different window types. 
+Complete descriptions are given in subsequent chapters.
+
+8fPIN2A0S8bO1DN0E1help:Console
+8fPKN2A0*8bMHN@E3"8bO1DN0E1The  Console8bNIN0E28fPHN2A0.
+When 8fPHN2A02 is started, the user is presented with the interface shown in
+figure8fPHN2A08O8fPIN2A09C8bO1DN0E1fig:mainmenu.  We call this window the 8fPIN2A0?8bOON0E1console8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOON0E1console. In the console there
+is a row of buttons8fPIN2A0U8bO7FN0E1In a later release, the user will be able to adjust the
+layout of the console by removing or adding functions. %8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOIN0E18fPIN2A098bO2DN0E1Features not yet implemented
+whose purpose is  to open other windows or to apply
+functions to selections. There is also a small strip below the buttons where
+messages are displayed. The actions associated with the  buttons are listed in
+8fPJN2A0D8bNHN@E2"8bO1GN0E1ConsoleCommands and described in detail elsewhere in the 
+manual. 
+
+
+8fPIN2A0S8bO1EN0E1help:Document8fPKN2A0*8bMHN@E3"8bO1GN0E1Document Window8bNIN0E28fPHN2A0.
+A document window8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOPN0E1document shows (part of) a document, the name of that document
+being shown in the header of the window. A user can have  several documents
+open  at once so that different documents can be combined or parts copied from
+one to another.  A document window can also be used as a scratch pad to hold
+temporary structures and parts. 
+
+Documents are stored in files whose name is composed from the name of the
+document and the extension ``8fPIN2A068bOKN0E1mpd8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A068bOKN0E1mpd8bMHN0E38bNKN0E2mpd8bOLN0E1file'', ``mpd'' being an abbreviation for
+``8fPHN2A02 document''.  For example, the document you are reading now is
+stored in the file 8fPIN2A068bO1BN0E1Basics.mpd.  
+
+Backups8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1DN0E2of documents8bONN0E1backup of documents are made at regular intervals (specified in the defaults window).  
+The name of the backup file of, for example, 8fPIN2A068bO1AN0E1mydoc.mpd is 8fPIN2A068bOIN0E18fPIN2A068bO1CN0E18fPHN2A0`mydoc8fPHN2A0`.mpd. The
+directory in which the backup is stored is normally the directory from which the
+document was loaded. If it is not possible to use that directory then the 8fPIN2A068bOLN0E1/tmp
+directory is used.
+
+A document may be loaded in 8fPIN2A0?8bO1AN0E1view mode8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1AN0E2view mode8bOPN0E1document as indicated by the word ``view'' in parentheses following the name of the
+document in the header.  There are two occasions when this occurs: when
+sections of the manual are loaded using the help facility, and when a document
+that is already loaded is loaded for a second time.  (The user has thus no control
+over when view mode is used.)  The meaning of view mode is that no backups of
+the document will be made and if the document is modified then that this is the
+case will not be indicated in the header.  
+
+More information about documents can be found in 8fPJN2A0D8bNHN@E2"8bO1EN0E1MoreOnWindows.
+
+8fPIN2A0S8bO1EN0E1help:Stencils8fPKN2A0'8bM1GN0E3Basics.Stencils8bOPN0E1Stencils8bNIN0E28fPHN2A0.
+A  8fPIN2A0?8bOON0E1stencil8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOON0E1stencil  is a file defining notational conventions and constructions.  It is the
+software  equivalent of the stencils used, for example, to sketch the apparatus in
+a chemical  experiment.  Each stencil comprises descriptions of a number of
+8fPIN2A0?8bO1AN0E1templates8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNPN0E2template8bOON0E1stencil. Each template has one or more 8fPIN2A0?8bOPN0E1versions8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2version8bOPN0E1template and (possibly empty)
+associated 8fPIN2A0?8bO1AN0E1help file8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1AN0E1help file.   The description of each template version includes a
+description of its on-screen format and the output it  should generate.  
+
+Stencils are stored in files whose name is composed from the name of the
+stencil and the extension ``8fPIN2A068bOKN0E1mps8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A068bOKN0E1mps8bMHN0E38bNKN0E2mps8bOLN0E1file'', ``mps'' being an abbreviation for
+``8fPHN2A02 stencil''.  Stencils are  opened by selecting the 8fPIN2A078bOON0E1Stencil option in the
+8fPIN2A078bONN0E1Window menu. 
+
+The window used to access an existing stencil or to define a new stencil is called
+the 8fPIN2A0?8bO1GN0E1stencil palette8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1GN0E2stencil palette8bONN0E1window. An example of a stencil palette is shown in 
+figure8fPHN2A08O8fPIN2A09C8bO1FN0E1fig:stencilwin. There is no restriction on the number of  stencil palettes
+that can be open at any one time.  The use of stencils is  discussed in more detail in
+8fPJN2A0D8bNHN@E2"8bO1HN0E1StructureEditing and their creation in 8fPJN2A0D8bNHN@E2"8bO1LN0E1StencilsandTemplates and
+8fPJN2A0D8bNHN@E2"8bO1IN0E1VersionDefinition. There is a built-in mechanism to help the user
+specify 8fPHN2A0R output, but there is no obligation to generate 8fPHN2A0R. Help files
+are normal 8fPHN2A02 documents.  
+     
+8fPIN2A0S8bO1CN0E1help:Define8fPKN2A0*8bMHN@E3"8bO1EN0E1Define Window8bNIN0E28fPHN2A0.
+Users can customise 8fPHN2A02 by defining their own stencils and
+templates. The definition of a new template or the modification of an existing
+template takes place in the 8fPIN2A0?8bO1EN0E1define window8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1EN0E1define window, an example of which is shown in 
+figure8fPHN2A08O8fPIN2A09C8bO1EN0E1fig:definewin. A define window is opened by clicking in the 8fPIN2A078bONN0E1Define
+button of  the appropriate stencil palette. The creation and update of stencils is
+described more fully in 8fPJN2A0D8bNHN@E2"8bO1LN0E1StencilsandTemplates and
+8fPJN2A0D8bNHN@E2"8bO1IN0E1VersionDefinition.
+
+8fPIN2A0S8bO1CN0E1help:Buffer8fPIN2A0S8bO1HN0E1help:Buffer.Kill8fPIN2A0S8bO1HN0E1help:Buffer.Done8fPKN2A0'8bM1KN0E3Basics.BufferWindow8bO1CN0E1The Buffer 8bNIN0E28fPHN2A0.
+The 8fPIN2A0?8bONN0E1buffer8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bONN0E1buffer is used by the system to store parts of a document that have been
+deleted as a result of an edit command.  Its primary purpose is to assist recovery
+from inadvertent edit actions.  The window can be used like a normal edit
+window, except that its contents cannot be saved;  it may thus be usefully used for
+ scratch work.  It is opened by selecting the 8fPIN2A078bONN0E1Buffer option in the 8fPIN2A078bONN0E1Window menu. 
+
+There are two buttons at the head of the 8fPIN2A078bONN0E1Buffer  window --- 8fPIN2A078bOLN0E1Kill8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLPN0E48fPIN2A078bOLN0E1Kill button8bMHN0E38bN1CN0E2Kill button8bONN0E1buffer and 8fPIN2A078bOLN0E1Done8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLPN0E48fPIN2A078bOLN0E1Done button8bMHN0E38bN1CN0E2Done button8bONN0E1buffer.
+The 8fPIN2A078bOLN0E1Kill button clears the contents of the buffer.    (This cannot be undone!)  The 
+8fPIN2A078bOLN0E1Done  button closes the window.  Items are continuously added to the buffer
+whether or not it is open, and closing it does not destroy its contents.  The contents
+of the buffer are, however, lost between 8fPHN2A02 sessions and when changing
+project.
+
+8fPIN2A0S8bO1AN0E1help:Find8fPKN2A0*8bMHN@E3"8bO1MN0E1Find 8fPHN2A0] Replace Window8bNIN0E28fPHN2A0.
+The 8fPIN2A0?8bO1MN0E1find 8fPHN2A0] replace window8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1FN0E1find 8fPHN2A0] replace  is used  to search for or (repeatedly) replace an
+item.  For everyday textual search and/or replacement (seeking and possibly
+replacing parts of words) the Emacs-like  facilities are often more convenient. 
+The find 8fPHN2A0] replace window is most useful for structured items. There is a
+primitive mechanism for recording find 8fPHN2A0] replace actions, so it may also be
+used to record and apply mathematical laws.  The window  is opened by
+selecting the 8fPIN2A078bOLN0E1Find option of the 8fPIN2A078bONN0E1Window menu. The window contains two
+parts both of which can be used like a normal 8fPHN2A02 document window. 
+The upper part contains the construction to search for,  whilst the lower part
+contains the replacement (if necessary).   Full details of its use can be found in
+8fPJN2A0D8bNHN@E2"8bO1FN0E1FindAndReplace.
+
+
+8fPIN2A0S8bO1CN0E1help:Symbol8fPKN2A0*8bMHN@E3"8bO1FN0E1Symbol Palette8bNIN0E28fPHN2A0.
+Many documents,  especially mathematical documents and texts in foreign 
+languages, contain special symbols.  To make these symbols easily accessible to
+the user, the 8fPIN2A0?8bO1FN0E1symbol palette8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1FN0E1symbol palette is available.  It can be opened by selecting the
+8fPIN2A078bONN0E1Symbol option in the 8fPIN2A078bONN0E1Window menu. The palette displays a subset of the
+available symbols, as shown in figure8fPHN2A08O8fPIN2A09C8bO1EN0E1fig:symbolwin. The required symbol can
+be selected from the palette by clicking on it with the mouse. More information
+can be found in 8fPJN2A0E8bN1EN0E2MoreOnWindows8bO1GN0E1Special Symbols.8fPHN2A08O
+
+8fPIN2A0S8bO1EN0E1help:Defaults8fPKN2A0*8bMHN@E3"8bO1GN0E1Defaults Window8bNIN0E28fPHN2A0.
+In the 8fPIN2A0?8bO1GN0E1defaults window8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1FN0E1default window, as shown in figure8fPHN2A08O8fPIN2A09C8bO1FN0E1fig:defaultwin, some default 
+settings of 8fPHN2A02 can be changed. These settings affect  the on-screen
+layout, the 8fPHN2A0R output  and specify the directories used by the editor. The
+options available and how to change them is explained in 8fPJN2A0D8bNHN@E2"8bOPN0E1Defaults.
+
+8fPIN2A0S8bO1JN0E1help:File Selector8fPKN2A0*8bMHN@E3"8bO1EN0E1File Selector8bNIN0E28fPHN2A0.
+The 8fPIN2A0?8bO1EN0E1file selector8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1EN0E1file selector, shown in figure8fPHN2A08O8fPIN2A09C8bO1HN0E1fig:fileselector, is used to search for and select
+files.  The file selector appears as a result of requesting a document or stencil to be
+loaded, renamed  or saved,  by requesting a document to be converted to 8fPHN2A0R, or
+by requesting a document or (ASCII) file to be included in an existing document.   It
+uses a 8fPIN2A0?8bOLN0E1mask8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNLN0E2mask8bO1EN0E1file selector to select and display all the files in a certain 8fPIN2A0?8bO1FN0E1base directory8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1FN0E1base directory.  When
+used to load, rename or save a stencil the mask is set to 8fPIN2A068bOMN0E1*.mps indicating that 
+only 8fPIN2A068bOKN0E1mps files8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A068bOKN0E1mps8bMHN0E38bNKN0E2mps8bOLN0E1file are to be shown; when used to load, rename  or save a  document 
+the mask is set 8fPIN2A068bOMN0E1*.mpd8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A068bOKN0E1mpd8bMHN0E38bNKN0E2mpd8bOLN0E1file; finally, when used to convert the output to 8fPHN2A0R the 
+mask is set to 8fPIN2A068bOMN0E1*.tex8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLIN0E48fPIN2A068bOKN0E1tex8bMHN0E38bNKN0E2tex8bOLN0E1file.  The mask can be edited so that it is possible  to use the file
+selector as a general-purpose tool.  For further information on the  file selector see
+8fPJN2A0E8bN1EN0E2MoreOnWindows8bO1EN0E1File Selector. 8fPON2A038bIIN0E7)8bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bONN0E1window
+%8fPON2A038bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1IN0E18fPIN2A098bO1CN0E1ref missingfig:fileselector

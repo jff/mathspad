@@ -1,0 +1,32 @@
+Function find_count()
+{
+	Var Int i;
+	i:=0;
+	do (find_structure())
+		i:=i+1;
+	od;
+	if (i=0)
+		set_message("The structure does not occur.");
+	elseif (i=1)
+		set_message("The structure occurs once.");
+	elseif (i=2)
+		set_message("The structure occurs twice.");
+	elseif (i>2)
+		set_message("The structure occurs too often.");
+	fi;
+}
+
+Menu Find {
+	Title "Find & Replace";
+
+	"Find"		: find_structure();
+	"Check" 	: correct_find_term();
+	"Check Replace"	: correct_replace_term();
+	"Replace"	: replace_structure();
+	"Replace All"	: replace_all_structure();
+	"Count"		: find_count();
+}
+
+Menu Misc {
+	"Find"	: Find;
+}

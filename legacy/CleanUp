@@ -1,0 +1,133 @@
+#!/bin/sh
+ecc="echo"
+ecs="\c"
+if [ "`(echo "test\c";echo "test") | wc | awk '{print $1}'`" != "1" ]
+then
+	ecc="echo -n"
+	ecs=""
+fi
+$ecc "Remove the source directory (src/*) ? [y/n] "$ecs
+read rmanswer
+if [ "$rmanswer" = "Y" -o "$rmanswer" = "y" -o "$rmanswer" = "" ]
+then
+  rm -fr src
+else
+  $ecc "Remove the object files (*.o) ? [y/n] "$ecs
+  read rmanswer
+  if [ "$rmanswer" = "Y" -o "$rmanswer" = "y" -o "$rmanswer" = "" ]
+  then
+    rm -f src/*.o
+  fi
+  $ecc "Remove the source files (*.c *.h) ? [y/n] "$ecs
+  read rmanswer
+  if [ "$rmanswer" = "Y" -o "$rmanswer" = "y" -o "$rmanswer" = "" ]
+  then
+    rm -f src/*.c src/*.h src/*.icc src/*.cc src/*.hh src/Make* src/*.log src/progicon src/configure
+  fi
+  if [ -x src/unproto ]
+  then
+    $ecc "Remove the executables (mathpad,unproto) ? [y/n] "$ecs
+  else
+    $ecc "Remove the executable (mathpad) ? [y/n] "$ecs
+  fi
+  read rmanswer
+  if [ "$rmanswer" = "Y" -o "$rmanswer" = "y" -o "$rmanswer" = "" ]
+  then
+    rm -f src/mathpad src/unproto
+  fi
+fi
+cd lib/mathpad/fonts
+$ecc "Checking font files ..."$ecs
+havepcf="T"
+havesnf="T"
+havefb="T"
+havebdf="T"
+for file in *.bdf
+do
+   if [ -f $file ]
+	then
+		break
+	else
+		havebdf=""
+		break
+	fi
+done
+for file in *.pcf
+do
+   if [ -f $file ]
+	then
+		break
+	else
+		havepcf=""
+		break
+	fi
+done
+for file in *.snf
+do
+   if [ -f $file ]
+	then
+		break
+	else
+		havesnf=""
+		break
+	fi
+done
+for file in *.fb
+do
+   if [ -f $file ]
+	then
+		break
+	else
+		havefb=""
+		break
+	fi
+done
+echo " done."
+if [ "$havefb" = "T" ]
+then
+	echo ""
+	echo "You could remove the font files *.fb *.ff and *.list if"
+	echo "you don't use Xnews."
+	$ecc "Remove *.fb *.ff *.list ? [y/n] "$ecs
+	read rmanswer
+	if [ "$rmanswer" = "Y" -o "$rmanswer" = "y" -o "$rmanswer" = "" ]
+	then
+		rm -f *.fb *.ff *.list
+	fi	
+fi
+if [ "$havesnf" = "T" -a -f "fonts.dir" -a "`grep -c '\.snf' fonts.dir`" = "0" ]
+then
+	echo ""
+	echo "You can remove the font files *.snf. Your Xserver doesn't use them."
+	$ecc "Remove *.snf ? [y/n] "$ecs
+	read rmanswer
+	if [ "$rmanswer" = "Y" -o "$rmanswer" = "y" -o "$rmanswer" = "" ]
+	then
+		rm -f *.snf
+	fi
+fi
+if [ "$havepcf" = "T" -a -f "fonts.dir" -a "`grep -c '\.pcf' fonts.dir`" = "0" ]
+then
+	echo ""
+	echo "You can remove the font files *.pcf. Your Xserver doesn't use them."
+	$ecc "Remove *.pcf ? [y/n] "$ecs
+	read rmanswer
+	if [ "$rmanswer" = "Y" -o "$rmanswer" = "y" -o "$rmanswer" = "" ]
+	then
+		rm -f *.pcf
+	fi
+fi
+if [ "$havebdf" = "T" -a -f "fonts.dir" -a "`grep -c '\.bdf' fonts.dir`" = "0" ]
+then
+	echo ""
+	echo "You can remove the files *.bdf. Your Xserver doesn't use them."
+	echo "However, if you want to change the fonts, you need to edit the"
+	echo "bdf files."
+	$ecc "Remove *.bdf ? [y/n] "$ecs
+	read rmanswer
+	if [ "$rmanswer" = "Y" -o "$rmanswer" = "y" -o "$rmanswer" = "" ]
+	then
+		rm -f *.bdf
+	fi
+fi
+cd ../../..

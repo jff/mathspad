@@ -1,0 +1,32 @@
+
+TOPSRCDIR = @top_srcdir@
+TOPOBJ    = .
+SRCDIR    = @srcdir@
+VPATH     = @srcdir@
+
+SOURCE = SEJ.c hugs.c hugsparse.c ispell.c maple.c parser.c parsertemp.c \
+	pvs.c MAG.c pvsparse.c
+
+LIBRARIES = libpvs.la libMAG.la
+
+@MAKE_RULES@
+
+all:  $(LIBRARIES)
+
+libmodule.la: $(LTOBJECTS)
+	$(LINK) -o libmodule.la -rpath $(libdir) $(LTOBJECTS)
+
+libpvs.la: pvs.lo pvsparse.lo
+	$(LINK) -o libpvs.la -rpath $(libdir) pvs.lo pvsparse.lo
+
+libMAG.la: MAG.lo
+	$(LINK) -o libMAG.la -rpath $(libdir) MAG.lo
+
+pvsparse.c: pvsparse.y pvsparselex.c
+	$(YACC) pvsparse.y
+	$(CPP) $(INCLUDES)  y.tab.c | \
+	 sed -e 's#\([^a-zA-Z_]\)yy#\1pvs_yy#g' -e 's#^yy#pvs_yy#g' > pvsparse.c
+
+pvsparselex.c:  pvsparse.lex
+	$(LEX) pvsparse.lex
+	mv lex.yy.c pvsparselex.c

@@ -1,0 +1,45 @@
+Include "libMAG.so"
+
+Function MAG_build_hint(String s)
+{
+	insert_version(0-1348410809);
+	insert_string(s);
+	forward_char(2);
+}
+
+Function MAG_identifier(Int symbol)
+{
+	self_insert(symbol,1);
+	expression_up(1);
+}
+
+Menu MAGMathSpad {
+	Options Pin;
+	Title "MAG Link";
+	"Start"		: MAG_start("MAG Session");
+	"Send Selection": send_string("%1\n", "MAG Session");
+	"Dummy Rule"    : send_string("hint\n", "MAG Session");
+	"Quit MAG"	: send_string("quit\n", "MAG Session");
+}
+
+Menu  Misc {
+	"MAG"	: MAGMathSpad;
+}
+
+Keyboard MAGEdit {
+	`C-o`	: insert_version(0-888498142);
+	`.`	: insert_version(0-1348410779);
+	`_`	: insert_version(0-887531515);
+	`C-x`	: insert_version(0-887456568);
+	`=`	: insert_version(0-911022896);
+	`C-i`	: insert_version(0-926136415);
+	`{`	: insert_version(0-1348410809);
+	`F16`	: copy_selections(1,2);
+	`F18`	: copy_region();
+	`$`	: reset_map();
+	`M-m`	: reset_map();
+}
+
+Keyboard Global {
+	`M-m`	: use_map("MAGEdit");
+}

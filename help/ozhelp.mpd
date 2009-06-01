@@ -1,0 +1,367 @@
+[4mMathpad Document
+[0m441ON0E08fPHN2A0ISb2cac80G   #2OCDocumentstyle1ACozhelp#docstyleGVb2cac80D#!KCOzArticle2GC80J\documentstyle[MathSpad,oz]{article}GVb2cac80E#!ECOz8bO2AC80J\documentstyle[MathSpad,oz]{8bO}GVb2cac80F#!HCOz[8bN]8bO2CC80J\documentstyle[8bN,MathSpad,oz]{8bO}"
+\setlength{\textwidth}{435pt}\setlength{\textheight}{600pt}\addtolength{\oddsidemargin}{-2cm}
+8fPKN2A0ISd551a48G   $1GCTitleGVd551a48D'!2OC81PbfOTitle:dfO80C80EcbNbfO8bOdfO80P80F
+
+bfOAuthor:dfO80C80EcbO8bN80P80F82A
+
+bfKBegindfK
+3DC80J\begin{document}80I\title{8bO}80I\author{8bN}80I\maketitle80I1ACTitle & Author.GVd551a48E'!3NC81PbfOTitle:dfO80C80EcbNbfO8bOdfO80P80F
+
+bfOAuthor:dfO80C80EcbO8bN80P80F
+
+bfODate:dfO80C80EcbO8bM80P80F82A
+
+bfKBegindfK
+3MC80J\begin{document}80I\title{8bO}80I\author{8bN}80I\date{8bM}80I\maketitle80I1GCTitle, Author & Date.GVd551a48F'!IC
+bfKEnddfK
+1CC80J80I\end{document}80INCEnd documentGVffab0abG'!4KC81PbfOTitle:dfO80C80EcbNbfO8bOdfO80P80F
+
+bfOAuthor:dfO80C80EcbO8bN80P80F
+
+bfODate:dfO80C80EcbO8bM80P80F82A
+
+bfOAbstractdfO8bL
+
+bfKBegindfK
+5MC80J\begin{document}80I\title{8bO}80I\author{8bN}80I\date{8bM}
+\maketitle
+\begin{abstract}8bL\end{abstract}80I1NCTitle, Author,Date,Abstract.%8bM1ON0E3December 1995 -- drafty8bN6AN0E2Eerke Boiten\\ Computing Lab, University of Kent at Canterbury, UK\\
+E.A.Boiten@ukc.ac.uk8bO2LN0E1Helpfile for the oz MathSpad stencil8fPIN2A0ISb858181H   ,1ICSectionGVb858180N#!1HC
+Section bfO(8bN)  cbNbfO8bOdfO80PdfO
+1IC80J80I\section{8bO}\label{8bN}80IGVb858180O#!1BC
+Section  cbNbfO8bOdfO80P
+PC80J80I\section{8bO}80IGVb858180P#!1CC
+Section*  cbNbfO8bOdfO80P
+1AC80J80I\section*{8bO}80IGVb858181A#!1IC
+SubSect. bfO(8bN)  cbObfO8bOdfO80PdfO
+1LC80J80I\subsection{8bO}\label{8bN}80IGVb858181B#!1CC
+SubSect.  cbObfO8bOdfO80P
+1CC80J80I\subsection{8bO}80IGVb858181C#!1DC
+SubSect.*  cbObfO8bOdfO80P
+1DC80J80I\subsection*{8bO}80IGVb858181D#!1GC
+SubSub.bfO(8bN)  cbObfO8bOdfO80PdfO
+1OC80J80I\subsubsection{8bO}\label{8bN}80IGVb858181E#!1BC
+SubSub.  cbObfO8bOdfO80P
+1FC80J80I\subsubsection{8bO}80IGVb858181F#!1CC
+SubSub.*  cbObfO8bOdfO80P
+1GC80J80I\subsubsection*{8bO}80IGVb858181G#!1HC
+Chapter bfO(8bN)  cbMbfO8bOdfO80PdfO
+1IC80J80I\chapter{8bO}\label{8bN}80IGVaf2ba01O'!PCParagraph bfO8bOdfO 1AC80J\paragraph{8bO}80IKCParagraphGVfffbda2O'!2AC80JbfOAbstractdfO
+8bO
+bfOEnd of AbstractdfO2DC80J\begin{abstract}
+8bO
+\end{abstract}JCAbstract18bO1DN0E1IntroductionSo, yes, I have written a  MathSpad stencil file so I could use 8fPIN2A0ISd54e286E   '1FCFontGVd54e285O%!FC80JbfO8bOdfOFCBoldGVd54e285P%!FC80JbfM8bOdfMHCItalicGVd54e286A%!FC80JbfK8bOdfKMCBold ItalicGVd54e286B%!FC80JbfJ8bOdfJICSlantedGVd54e286C%!FC80JbfI8bOdfILCSans SerifGVd54e286D%!FC80JbfH8bOdfHLCTypewriterGVb841142G'!FC80JbfJ8bOdfJLC80J{\em 8bO\/}JCEmphasis48bONN0E1oz.sty in a nice way with MathSpad.
+And  here is some documentation on it. But it is all very much on an as-is basis. If you can make
+profitable use of it, I will be happy. I might make changes (maybe even improvements) the next
+time I write a paper on Z, and I will let the MathSpad distributors know about it. Who knows 8fPIN2A088bOKN0E1you
+might see concrete ways of improving it -- by all means let me know. No guarantees though. If
+you manage to cause a power failure of your entire city by using this stencil, do not come
+complaining to me, but do tell Roland Backhouse and Richard Verhoeven, they want to hear about
+any interesting applications of their powerful tool. Not all templates have been tested extensively,
+but  the stencil 8fPIN2A088bOKN0E1has been used for real conference papers 8fPJN2A0ISd54e28aC   &1FCRef.GVd54e289P'!GC(bfI8bOdfI)LC80J(\ref{8bO})GC(Ref)GVd54e28aA'!JCbfI8bOdfI80Oref81OJC80J\ref{8bO}ECRefGVd54e28aB'!GC[bfI8bOdfI]KC80J\cite{8bO}FCCiteGVff37371C'!GC[8bO,8bN]NC80J\cite[8bN]{8bO}1CCCite[Ref,Comment]GVfeea542G'!GC[bfI8bOdfI]MC80J\nocite{8bO}HCNoCiteGVfeea545F'!GC[8bO,8bN]1AC80J80J\nocite[8bN]{8bO}1ECNoCite[Ref,Comment]<8bN1FN0E2shameless plug8bO1EN0E1BDBS95,BDBS96. 
+
+What potential improvements am I aware of? Well ... nicer boxes around multiline schemas (the
+8fPHN2A0ISd54e290L   $1GCLaTeXGVd54e290J#!1FCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NXKC80J\LaTeX{}GVd54e290K#!MCT81K81L81K81L81ME81N81M81NXIC80J\TeX{}GVfedbb33C#!LCbfHMETAFONTdfHNC80J\METAFONT{}GVfe91c83M#!1HCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NX23bF1OC80J\LaTeX $2_80L{\textstyle 3bF}${}C output is fine as far as I am aware, but they look messy-but-recognizable-as-schemas on
+the screen; I am not sure whether one can actually do better with MathSpad 0.50  8fPIN2A098bOKN0E1Bar and
+8fPIN2A098bOLN0E1Line) ... font files that have 8fPIN2A088bOKN0E1all the funny arrow symbols of Z ... I will think of more.
+
+Have a look at the ``what's missing'' section 8fPIN2A0?8bO1DN0E1whatsmissing for an overview of the elements of  
+8fPIN2A0ISd555ce2L   %1JCVerbatimGVd555ce2I'!ECbfH8bOdfHKC80J\verb+8bO+GCVerb+GVd555ce2J'!ECbfH8bOdfHKC80J\verb-8bO-GCVerb-GVd555ce2K'!GC
+bfH8bOdfH
+2DC80J\begin{verbatim}80I8bO80I\end{verbatim}JCVerbatimGVfedbed6L'!ECbfH8bOdfHLC80J\verb*+8bO+HCVerb*+GVae42f2aF'!CC
+DC 80IICNewlineH8bONN0E1oz.sty that are (currently) not on the stencil.
+
+One note on terminology. The oz stencil file contains many 8fPIN2A088bO1AN0E1templates; each template has a number
+of 8fPIN2A088bOPN0E1versions. In some cases (especially when the first version is the basic one of which the others are
+in some sense derived) I will call the second and latter versions 8fPIN2A088bO1DN0E1alternatives or 8fPIN2A088bOPN0E1variants. A
+template with 8fPIN0A0n variants thus has 8fPKN0A08fPIN0A0n8ePHN2B0ISb2cac87A# ("2BCLCozhelp#addGVb2cac86O#"GC80Ooz81O+EC80O81O+GVb2cac86P#"GC80Ooz81O-CC-J8fPIN0A01 versions.
+8fPIN2A018bO2BN0E1What to do before using oz
+8fPIN2A098bOLN0E1Note added by Roland Backhouse:  Eerke included here a number of suggestions to avoid conflicts
+between the names given by MathSpad 0.50 and the names given by  8fPIN2A0H8bONN0E1oz.sty
+ to several commands.  We have incorporated all of his suggestions in release 0.60 so it should no
+longer be necessary to do anything before using oz --- assuming we did the job correctly.  If any 
+problems should occur blame us, not Eerke.
+
+A serious change to the MathSpad set-up would be to include all the Z fonts in symbol
+windows. How to do this is explained in the MathSpad manual, the fonts for Z are available
+from Richard or possibly even in the distribution soon. I had two reasons not to hurry with that:
+many of the special symbols are available on the stencil already, and some of the
+special-kind-of-function symbols in oz are 8fPHN2A0C hacks that are not in any existing font
+anyway.
+
+One thing about 8fPIN2A0H8bONN0E1oz.sty that I have not figured out is why it provides alternative commands for
+many operators if they are operators on schemas rather than on predicates. They do not seem to
+look any different on the printed output, but just to be sure I have provided versions of these
+operators which generate the schema versions of the 8fPHN2A0C commands. If you know and use the
+difference, you can use them.
+8fPJN2A028bO1EN0E1Documentstyle8bNPN0E2docstyleThe Style template in the standard 8fPHN2A0C stencil would do fine here, but for ease of use I have also
+provided a Documentstyle template on the oz stencil which makes sure 8fPIN2A048bONN0E1oz.sty gets included.
+There are three versions: 8fPIN2A098bO1AN0E1OzArticle, 8fPIN2A098bOJN0E1OzT and  8fPIN2A098bOJN0E1Oz[T]T which produce the obvious code.
+
+8fPJN2A028bO2CN0E1Putting things side by side8bN1BN0E2sidebysideIt is probably not possible to write a generic MathSpad template for multiple column displays. The
+8fPIN2A0H8bO1BN0E1SideBySide template does it just for two (default) and three columns, though I imagine it would
+not be hard at all to write a version for any number you like, using the existing ones as an example.
+Note, however, that MathSpad cannot do screen output in columns, so the MathSpad display looks
+quite a bit different from the 8fPHN2A0C result. Example: 
+8fPJN2A0ISb2cac83L   "2LCSideBySide1CCozhelp#sidebysideGVb2cac83J'!2OC
+bfOSideBySidedfO
+8bO
+bfONextSidedfO
+8bN
+bfOEndSideBySidedfO
+3BC80J\begin{sidebyside}8bO \nextside 8bN\end{sidebyside}EC(2)GVb2cac83K'!3NC
+bfOSideBySidedfO
+8bO
+bfONextSide2dfO
+8bN
+bfONextSide3dfO
+8bM
+bfOEndSideBySidedfO
+4BC80J\begin{sidebyside}[3] 8bO \nextside 8bN\nextside 8bM \end{sidebyside}EC(3)L8bN3GN0E2This is the second column, only one line in it.8bO3EN0E1This is the first column.\\ It has two lines!
+8fPIN2A018bO1HN0E1Schema templatesThere are many variations of schemas in Z. They are all drawn as boxes, but some have names
+(written on the top line), some are split in two and some even have the top and bottom of the box
+missing. Too further complicate matters, Z also allows one to write schemas ``inline'', in which case
+there will not be a box at all.
+
+The boxes are produced with various templates on the stencil, grouped in a way that will hopefully
+appear as logical to you as it did to me at the time that I organised it (with one eye at Paul King's
+``Printing Z and  Object-Z 8fPHN2A0C documents'', the 8fPIN2A048bONN0E1oz.sty manual). The inline variants are
+generally the last version of any given template.
+
+There is no separate template for generating the 8fPIN2A0H8bOKN0E1\ST of 8fPIN2A048bONN0E1oz.sty (which produces the line in the
+middle of a box) -- instead there are separate templates for boxes with and without ``line''.
+8fPJN2A0/8bO2NN0E1Multiple lines in a (section of) a box8bN1BN0E2multilinerThis deserves special attention, as one does not often create new lines by hand in 8fPHN2A0C math
+mode. In 8fPIN2A048bONN0E1oz.sty, however, 8fPIN2A048bOJN0E1// in math mode is given the obvious meaning. I have had to write a
+special template for this, called 8fPIN2A048bO1BN0E1multiliner on the stencil, which produces two expressions
+separated by a newline. This is only meant for use 8fPIN2A088bONN0E1inside a box. Because MathSpad has no real
+boxing possibilities, part of the left edge of the box is  produced before the second line of the two.
+Outside a box it would look weird:
+
+8fPJN2A0ISb2cac80L   &2LCmultiliner1CCozhelp#multilinerGVb2cac80H#"1CC81J8fO81G80O\\here81O81L 81M8fN81G81NNC8fO   \\     8fNGVb2cac80I'"NC8fO
+80O\\also81O82D8fNPC8fO   \also    8fNFCalsoGVb2cac80J'"NC8fO
+80O\\Also81O82D8fNPC8fO   \Also    8fNFCAlsoGVb2cac80K'"NC8fO
+80O\\ALSO81O82D8fNNC8fO   \ALSO  8fNFCALSOGVad1475fN'"KC81P8fO80B8fN
+82D80C8fM82A2JC\begin{array}{ll}8fO & 8fN80L\\80L& 8fM\end{array}NCwith tabbingGVad32a3cK'"EC8fO;8fNHC8fO ;  8fN1DC;  one line anywayR8fN3CN0A2Thissecondlineproceededbyabar(onscreenonly)8fO4FN0A1Verylongnameofidentifiermainlyusedtoillustratemultilineroption
+
+and if you use nested occurrences of multiliner, you will end up with strangely shifting left margins.
+Do not worry, they are only there to remind you that you are actually inside a schema, and the
+8fPHN2A0C code will come out just fine.
+
+Besides the standard multiliner, there are also variants which introduce extra spacing, named after
+their 8fPIN2A048bONN0E1oz.sty equivalents 8fPIN2A0H8bO1DN0E1\also, \Also and 8fPIN2A0H8bOMN0E1\ALSO (in increasing amounts of space).
+
+The final variant, called 8fPIN2A048bO1DN0E1with tabbing, deserves separate mentioning. This is not a full-fledged
+tabbing environment (since that requires quite a bit of hacking before it can be inserted in math
+mode) nor does it use the 8fPIN2A0H8bONN0E1oz.sty tabbing-like commands 8fPIN2A0H8bOKN0E1\t1 etc or 8fPIN2A0H8bOJN0E1\M and 8fPIN2A0H8bOJN0E1\O for moving the
+margins. It produces multiline formulas of the shape
+8fPKN2A0N8fMHN0A38fNHN0A28fOHN0A1\\
+in such a way that the third expression is aligned with the second. For example to produce
+8fPKN2A0N8fMJN0A38ePHN2B0ISb2cac8aO# #"2BCMCozhelp#disjGVb2cac8aM#"GC80Ooz81O222ICC222IGVb2cac8aN'"HC80Ooz281O222IFC\zorHCschemaT8fP1LN0A0alternativecondition8fNJN0A28ePHN2B0ISb2cac8bH# "#2BCNCozhelp#equivGVb2cac8bF#"GC80Ooz81O21dEFC\iffGVb2cac8bG'"HC80Ooz281O21dEFC\zeqHCschemaGVadcdd90M#"GC80Ooz81O226BHC\equivW8fP3LN0A0ratherlengthyconditionwhichfillsupmostofthepagewidth8fOKN0A18fPIN0A0x8ePHN2B0ISb2cac8aA# $"2BCPCozhelp#elementGVb2cac89O#"GC80Ooz81O220IFC\memGVb2cac89P#"GC80Ooz81O220JFC\nemY8fPIN0A0R\\
+Note the bar in the screen display (not in the 8fPHN2A0C), and note that 
+the second and third expression in this example had the left operand of the binary operator deleted.
+Because this generates 8fPHN2A0C 8fPIN2A048bOMN0E1arrays of the appropriate shape, it should be possible to use this
+version recursively (just like the other 8fPIN2A0H8bO1BN0E1multiliner versions).
+
+The final version of this template may look a bit odd; but if you are writing a paper about Z with a
+strict page limit you sometimes want to save space by combining short lines. Syntactically a newline
+often has the same separator function as a semicolon in Z, so switching to this version allows you to
+make that transition directly.
+8fPJN2A0/8bO2FN0E1Schemas without names: Schema*8bN1BN0E2schemastarThis produces the 8fPIN2A0H8bOON0E1schema* environment of 8fPIN2A048bONN0E1oz.sty, and it looks like this:
+8fPJN2A0ISb2cac80C   "2ICSchema*1CCozhelp#schemastarGVb2cac80A#!3JC
+81K82D81J81H81L80C80C80C80C80C80C81M81N81H81L82D81K   8fO81G81L81J81H81L80C80C81M81N81G81M   8fN81G81N81G81M82D81J81H81L80C80C80C80C80C80C81M81N81H81N
+2FC80J\begin{schema*}80L8fO\ST 8fN\end{schema*}GVb2cac80B'"EC8fO222D8fNIC8fO\zbar8fNLCschematext[8fNHN0A28fOHN0A1
+the lines above and below grow with the expression they contain; use  the 8fPIN2A0H8bO1BN0E1multiliner template
+(section 8fPIN2A0>8bO1BN0E1multiliner) to create multiple lines for either expression.
+
+The alternative version produces the text 8fPJN2A0Z8fNHN0A28fOHN0A1 for inline expressions.
+8fPJN2A0/8bO1HN0E1Schema with name8bNNN0E2schemaThere are quite a few versions of this template. The default one produces the standard Z schema
+box, with name and declarations and predicate, separated by a horizontal line. The version
+8fPIN2A0H8bO1CN0E1nocondition omits predicate and horizontal line. The 8fPIN2A0H8bONN0E1inline version  generates inline schema
+8fPIN2A088bO1CN0E1definitions (of the form 8fPKN2A0ISb2cac81A   %2HCSchemaOCozhelp#schemaGVb2cac80M'!4CC
+81K82D81J81J81H81L80C81M81N 8fM 81H81L80C80C80C80C80C80C81M81N81H81L82D81K   8fO81G81L81J81H81L80C80C81M81N81G81M   8fN81G81N81G81M82D81J81H81L80C80C80C80C80C80C81M81N81H81N
+2GC80J\begin{schema}{80L8fM}8fO\ST 8fN\end{schema}ECboxGVb2cac80N'"IC8fM225J[8fO222D8fN]1LC8fM\sdef \lsch 8fO\zbar8fN\rsch HCinlineGVb2cac80O'"EC8fO222D8fNIC8fO\zbar8fNLCschematextGVb2cac80P'!LC82D81K81H8fM81H81L8fO81M81H81N2CC80J\begin{schema}{80L8fM}80L8fO\end{schema}NCno conditionGVad3fa3bJ'"GC8fM225J[8fO]1CC8fM\sdef\lsch8fO\rsch1FCinline, no condition_8fN1AN0A2Predicate8fOMN0A1Decls8fMLN0A3Name whereas the 8fPIN2A0H8bO1BN0E1schematext version only
+generates the actual schema 8fPIN2A0H8bOLN0E1text, i.e. 8fPJN2A0^8fN1AN0A2Predicate8fOMN0A1Decls, sometimes useful inside comprehensions.
+8fPJN2A0/8bO1GN0E1Generic schemas8bN1AN0E2genschemaThis template generates a generic schema of the form
+
+8fPLN2A0ISb2cac81C   "2KCGenSchema1BCozhelp#genschemaGVb2cac81B'!4FC
+81K82D81J81J81H81L80C81M81N 8fM [8fL]81H81L80C80C80C80C80C80C81M81N81H81L82D81K   8fO81G81L81J81H81L80C80C81M81N81G81M   8fN81G81N81G81M82D81J81H81L80C80C80C80C80C80C81M81N81H81N
+3BC80J\begin{genschema}{80L8fM}{80L8fL}80L8fO\ST 8fN\end{genschema}PCwith predicateGVadcf290A'!3DC
+81K82D81J81J81H81L80C81M81N 8fM [8fL]81H81L80C80C80C80C80C80C81M81N81H81L82D   8fO81G81M82D81J81H81L80C80C80C80C80C80C81M81N81H81N
+2MC80J\begin{genschema}{80L8fM}{80L8fL}80L8fO\end{genschema}NCno predicateb8fN1AN0A2Predicate8fO2CN0A1Herearemanylongdeclarations8fL1BN0A4Parameters8fMLN0A3Name The  8fPIN2A048bO1DN0E1no predicate version of this template will probably not be
+used all that often.
+8fPJN2A0/8bO1MN0E1The 8fPIN0A08ePHN2B0ISb2cac85B! 1"2BCNCozhelp#deltaGVb2cac84P!"CC220GGVb2cac85A!"CC39Od and 8fPIN0A08ePHN2B0c operators8bNMN0E2deltaThese operations on schemas share a template labeled 8fPIN0A08ePHN2B0d.
+8fPJN2A0/8bO1EN0E1Schema piping8bNLN0E2pipeAn infix operator 226L is defined for this purpose.
+8fPJN2A0/8bO1AN0E1Promotion8bNMN0E2thetaThis template generates the theta operator for schema promotion (prefix).
+8fPJN2A028bO1MN0E1Axiomatic definitions8bNMN0E2axdefThe  8fPIN2A0H8bOMN0E1AxDef template generates all three types of axiomatic definitions.  The 8fPIN2A0H8bOON0E1liberal version is
+the default, it generates
+8fPJN2A0ISb2cac81H   $2GCAxDefNCozhelp#axdefGVb2cac81D'!1MC
+82D81K   8fO81G81L81K 80C81L81H81M 81N81G81M    8fN81G81N
+2BC80J\begin{axdef}80L8fO\ST 8fN\end{axdef}ICliberalGVb2cac81E'!3JC
+82D81K81K81H81L80C81M81H81N [ 8fM ] 81K81H81L80C80C80C80C80C81M81H81N81L81K   8fO81G81L81K81H81L80C80C81M81N81G81M   8fN81G81N81G81M81H81N
+2HC80J\begin{gendef}{80L8fM}80L8fO\ST 8fN\end{gendef}ICgenericGVb2cac81F'!2NC
+82D81K81K81H81L80C80C80C80C80C80C80C81M81H81N81L81K   8fO81G81L81K81H81L80C80C81M81N81G81M   8fN81G81N81G81M81H81N
+2FC80J\begin{uniqdef}80L8fO\ST 8fN\end{uniqdef}HCuniqueGVb2cac81G'!DC82D8fO1MC80J\begin{axdef}80L8fO\end{axdef}JCconstanth8fN2NN0A2Conditionwhichmaynotuniquelydeterminex8fOKN0A18fPIN0A0x8ePHN2B0ISb2cac8bL# "!2BCNCozhelp#colonGVb2cac8bK!"CC:i8fPPN0A0SomeType
+A special case of a liberal axiomatic definition is the definition of a 8fPIN2A0H8bOPN0E1constant with no further
+properties, which has its own template version:
+8fPIN2A0e8fOKN0A18fPIN0A0x8ePHN2B0i8fPPN0A0SomeType
+The 8fPIN2A0H8bOON0E1generic axiomatic definition produces a nice box with double lines on top, which we can only
+approximate in MathSpad (but which of course turns out very nicely in the generated 8fPHN2A0C,
+need I say this again?):
+8fPKN2A0g8fNLN0A2Pred8fO1HN0A1Declarationstuff8fMNN0A3Params
+The 8fPIN2A0H8bONN0E1unique axiomatic definition has the double line, but no parameters:
+
+8fPJN2A0f8fN1AN0A2Condition8fOKN0A18fPIN0A0x8ePHN2B0i8fPIN0A0S The latter two do not have versions without predicates.
+8fPJN2A028bO2MN0E1Notations for some of the basic types8bN1BN0E2basictypesMost operations on these types are listed in other sections.
+8fPJN2A0/8bO1GN0E1Natural numbers8bNKN0E2NNNThis template generates 8fPHN2A0ISb2cac81K   #2BCLCozhelp#NNNGVb2cac81I#"GC80Ooz81O211FFC\natGVb2cac81J#"OC80Ooz81O211FccA81K 81L81M181N80PIC\natoneGVadcf300K#"JC80Ooz81OsuccGC\succl, and has an alternative version for 8fPHN2A0k. I did not think there would be
+much point to adding a version for 0 ; 8fPHN2A0j however has its own macro in 8fPIN2A048bONN0E1oz.sty so it is a version
+of this template.
+8fPJN2A0/8bOPN0E1Integers8bNKN0E2ZZZFor the basic set 8fPHN2A0ISb2cac81M   !2DCZZLCozhelp#ZZZGVb2cac81L#"GC80Ooz81OZJC\integerm of integers we have a nice symbol as well ... unfortunately it is not on the default
+MathSpad fonts, so we use a simple 8fPHN2A0m on screen and 8fPIN2A048bOJN0E1ZZ as its name on the stencil.
+8fPJN2A0/8bNKN0E2RRR8bO1DN0E1Real numbersA very simple 8fPHN2A0ISb2cac81O   !2BCLCozhelp#RRRGVb2cac81N#"GC80Ooz81O211NGC\realn template.
+8fPJN2A0/8bOPN0E1Booleans8bNKN0E2BBBThe default version of this template is the type symbol 8fPHN2A0ISb2cac82L   #2BCLCozhelp#BBBGVb2cac82I#"CC1ffFGC\boolGVb2cac82J#"NC80Ooz81O80KbfOfalsedfOHC\falseGVb2cac82K#"MC80Ooz81O80KbfOtruedfOGC\trueq, but since this type has only the two values
+8fPHN2A0o and 8fPHN2A0p I added versions for each of those. Note that they seem to be boldface in MathSpad
+documents, but set in plain font in the generated 8fPHN2A0C. I like boldface better ...
+8fPIN2A018bO2NN0E1Predicates (and schemas as predicates)8fPJN2A0/8bO2FN0E1Various quantified expressions8bNMN0E2quantAll quantified expressions are versions of a single template called 8fPIN2A048bOMN0E1Quant on the stencil. Most have
+two arguments, both expressions in MathSpad, one of which should be a schema according to the Z
+syntax. If you really want to use  a schema expression there, use the 8fPIN2A048bO1BN0E1schematext version of the
+8fPIN2A0H8bOON0E1Schema* template for generating 8fPJN2A0Z8fNHN0A28fOHN0A1. 
+
+The various quantifier versions are:
+8fPIN2A0ISb87e110F   "1ICItemizeGVb87e110D'!NC81PItem80Bize
+8bO82A2BC80J\begin{itemize}80I8bO80I\end{itemize}ICItemizeGVb87e110E'!LC   221J 80C80E8bO80F
+KC80J\item 8bO80IFCItems8bOON0E18fPIN2A0r8bO1MN0E1universal (default) 8fPJN2A0ISb2cac82H   (2GCQuantNCozhelp#quantGVb2cac81P#"MC80Ooz81O220A 8fO 221J 8fNLC220A 8fO \dot 8fNGVb2cac82A#"MC80Ooz81O220D 8fO 221J 8fNOC\exi 8fO \dot 8fNGVb2cac82B#"1EC80Ooz81O220DccA81K 81L81M181N80P 8fO 221J 8fN1BC\exione 8fO \dot 8fNGVb2cac82C'"NC80Ooz281O220A 8fO 221J 8fNPC\zall 8fO \dot 8fNOCforall schemaGVb2cac82D'"NC80Ooz281O220D 8fO 221J 8fNPC\zexi 8fO \dot 8fNNCexist schemaGVb2cac82E'"NC80Ooz81O¬220D 8fO 221J 8fNPC\nexi 8fO \dot 8fNFCnexiGVb2cac82F'"PC80G220A80B80E80C80E8fO80F202C
+80C80E8fN80H1GC\all \M 8fO\dot \\ 
+8fN\OPCmultiple linesGVb2cac82G'"MC80Ooz81O8fM 8fO 221J 8fNMC8fM  8fO \dot 8fN1CCarbitrary quantor{8fNHN0A28fOHN0A18fPIN2A0r8bO1EN0E1existential 8fPJN2A0z8fNHN0A28fOHN0A18fPIN2A0r8bO1LN0E1unique existential 8fPJN2A0y8fNHN0A28fOHN0A18fPIN2A0r8bOeIN0E1versions of the top two for use in schema expressions (8fPIN2A0H8bONN0E1oz.sty provides different commands
+for those, so to be sure they are generated through different template versions; I have not
+spotted the difference in generated  output yet)8fPIN2A0r8bO1KN0E1negated existence 8fPJN2A0v8fNHN0A28fOHN0A18fPIN2A0r8bObEN0E1universal across multiple lines (this one does little indentation; for more complicated versions
+use the  8fPIN2A0H8bO1DN0E1with tabbing variant of  8fPIN2A0H8bO1BN0E1multiliner), also this only works inside schemas of any
+kind. 8fPIN2A0r8bO2MN0E1arbitrary quantor, for example for 8fPKN2A0t8fNJN2A2ISb2cac83D   #1GCapplyGVb2cac83A'"IC80Ooz81O8fO 8fNFC8fO\,8fNKCinvisibleGVb2cac83B#"LC80Ooz81O8fO( 8fN )FC8fO(8fN)GVb2cac83C'"IC80Ooz81O8fO.8fNEC8fO.8fNECdot~8fNJN0A2x.8fOIN0A1f8fOIN0A1x8fMIN0A33aD 
+8fPJN2A0/8bOPN0E1Negation8bNKN0E2negThe template 8fPIN2A048bOKN0E1neg produces 8fPJN0A08ePHN2B0ISb2cac84J! ."2ECnegLCozhelp#negGVb2cac84H'"GC80Ooz81O¬GC\lnotGClogicGVb2cac84I'"HC80Ooz281O¬GC\znotHCschema8A8fPHN0A0 , and has a version for schemas.
+8fPJN2A0/8bO1CN0E1Conjunction8bNLN0E2conjThis template has two versions, one for predicates and one for schemas.
+8fPJN2A0/8bO1CN0E1Disjunction8bNLN0E2disjThis template has two versions, one for predicates and one for schemas.
+8fPJN2A0/8bO1CN0E1Implication8bNKN0E2impThis template has two versions, one for predicates and one for schemas.
+8fPJN2A0/8bO1KN0E1Logical equivalence8bNMN0E2equivThis template has three versions, one for predicates, one for schemas, and an alternative symbol for
+schemas.
+8fPJN2A028bO2KN0E1The comma operator, and () brackets8bNMN0E2commaFor creating tuples, set or sequence displays, and other lists of expressions separated by commas, one
+has to use the comma template. In some cases, actually typing a comma will produce the same
+result as using the template (see the MathSpad manual).
+
+For the brackets around tuple displays no special template is defined. The 8fPIN2A058bO1BN0E1Add/Rem () operation on
+the main MathSpad 8fPIN2A058bO1AN0E1Structure menu will do the job. As you probably know, brackets necessary
+because of priorities of operations will be automatically inserted by MathSpad, except in the case of
+operations that are declared to be ``Infix'' -- MathSpad will (in some cases incorrectly) assume
+these are associative.
+8fPIN2A018bOLN0E1SetsFor set difference, see section 8fPIN2A0>8bOMN0E1zhide. Distributed set union and intersection are in section 8fPIN2A0>8bOON0E1distrop.
+8fPJN2A0/8bO2KN0E1Set comprehension and singleton set8bNON0E2setcompThis template has four versions:
+8fPIN2A0s8bOLN0E18fPIN2A0r8bO4AN0E18fPJN2A0ISad2bdfbB   $2ICSetCompOCozhelp#setcomGVad2bdfbK#"NC80Ooz81O{ 8fO 202C 8fN}JC{8fO\dot8fN}GVad2bdfcD#"NC80Ooz81O{ 8fO | 8fM}KC{8fO\cbar8fM}GVad2bdfcF#"1BC80Ooz81O{ 8fO 222D 8fM 202C 8fN}PC{8fO\cbar8fM\dot8fN}GVad2bdfdN#"KC80Ooz81O{ 8fO }EC{8fO}8E8fNHN0A28fOHN0A1 for applying a function to all members of a set, e.g. 8fPJN2A08E8fNKN0A28fPIN0A0x8ePHN2B0J8fPIN0A0x8fOKN0A18fPIN0A0x8ePHN2B0i8fPHN2A0l8fPIN2A0r8bO2DN0E18fPJN2A08D8fMHN0A38fOHN0A1 for filtering sets, e.g. 8fPJN2A0ISb2cac82P   #2ICSetCompPCozhelp#setcompGVb2cac82M#"NC80Ooz81O{ 8fO | 8fN}NC{ 8fO \cbar 8fN}GVb2cac82N#"1BC80Ooz81O{ 8fO 222D 8fM 202C 8fN}1EC{ 8fO \cbar 8fM \dot 8fN}GVb2cac82O#"KC80Ooz81O{ 8fO }GC{ 8fO }8H8fNKN0A28fPIN0A0x8ePHN2B0ISb2cac89E# $#2BCPCozhelp#greaterGVb2cac89B#"GC80Ooz81O226FFC\geqGVb2cac89C#"GC80Ooz81O>CC>GVb2cac89D'"GC80Ooz81O226FKC\geqslantJCgeqslant8K8fPIN0A078fOKN0A18fPIN0A0x8ePHN2B0i8fPHN2A0l8fPIN2A0r8bO11CN0E1the combination of these two, e.g.  8fPKN2A08G8fNKN0A28fPIN0A0x8ePHN2B0J8fPIN0A0x8fMKN0A38fPIN0A0x8ePHN2B08K8fPIN0A078fOKN0A18fPIN0A0x8ePHN2B0i8fPHN2A0l. Note that this can also be done with the
+first version and the 8fPIN2A0H8bO1BN0E1schematext version of 8fPIN2A0H8bOON0E1Schema* (section 8fPIN2A0>8bO1BN0E1schemastar) or with the 8fPIN0A08ePHN2B0ISb2cac8bN# +!2BCLCozhelp#barGVb2cac8bM#"HC80Ooz181O|GC\bbar8L
+operator (section 8fPIN2A0>8bOKN0E1bar) -- here, however, the right expressions appear and disappear when
+cycling through the various versions.8fPIN2A0r8bOaIN0E1and the odd one out which looks so similar:  singleton set former 8fPIN2A08B8fOHN0A1. Using the comma
+operator (see section 8fPIN2A0>8bOMN0E1comma) you can create set displays with multiple elements.
+8fPJN2A0/8bO1MN0E1The powerset operator8bNPN0E2powersetThe 8fPIN2A048bOPN0E1powerset template produces 8fPIN0A08ePHN2B0ISb2cac84O! 2$2JCpowerset1ACozhelp#powersetGVb2cac84K#"GC80Ooz81O1f6PGC\psetGVb2cac84L#"GC80Ooz81O1f7JGC\fsetGVb2cac84M#"OC80Ooz81O1f6PccA81K 81L81M181N80PJC\psetoneGVb2cac84N#"OC80Ooz81O1f7JccA81K 81L81M181N80PJC\fsetone8P, and the variants for finite and non-empty sets 8fPIN0A08ePHN2B08O, 8fPIN0A08ePHN2B08N, and 8fPIN0A08ePHN2B08M.
+8fPJN2A0/8bO1AN0E1Set union8bNMN0E2unionThe template for set union has a version for bag union (8fPIN0A08ePHN2B0ISb2cac87D# ("2BCNCozhelp#unionGVb2cac87B#"GC80Ooz81O222KFC\uniGVb2cac87C#"GC80Ooz81O228OGC\buni9A) as well. Distributed set union is in section
+8fPIN2A0>8bOON0E1distrop.
+8fPJN2A0/8bO1HN0E1Set intersection8bNNN0E2intersThis template generates 8fPIN0A08ePHN2B0ISb2cac87O# )!2BCOCozhelp#intersGVb2cac87N#"GC80Ooz81O222JFC\int9C. Distributed (``generalised'') set intersection is in section 8fPIN2A0>8bOON0E1distrop.
+8fPJN2A0/8bOON0E1Element8bNON0E2elementThe element operator 8fPIN0A08ePHN2B0Y, with an alternative version for its negation.
+8fPJN2A0/8bO1KN0E1Subset and superset8bNNN0E2subsetThis template has five versions: subset-or-equal, subset, prefix for sequences, superset-or-equal,
+and superset. The third one may seem an odd one in this company, but due to the definition of
+sequences in Z  prefix of sequences is set inclusion indeed. 
+8fPJN2A028bO1AN0E1Sequences8bNKN0E2seqThe type of sequences is formed with the prefix operator 8fPIN2A048bOKN0E1seq. The template has an alternative for
+non-empty sequences 8fPIN0A08ePHN2B0ISb2cac85J! 1"2BCLCozhelp#seqGVb2cac85H#"KC80Ooz81ObfIseqdfIFC\seqGVb2cac85I#"1CC80Ooz81ObfIseqccA81K 81L81M181N80PdfIIC\seqone9D. See right above for the ``is-prefix'' operator on sequences.
+8fPJN2A0/8bO1HN0E1Sequence formers8bNON0E2seqformSequence displays are created with angular brackets in Z. Using the comma operator (see section
+8fPIN2A0>8bOMN0E1comma) you can create a sequence of multiple elements. The template for this has one alternative
+version, for generating the empty sequence.
+8fPJN2A0/8bO1EN0E1Concatenation8bNNN0E2concatThe infix operator for concatenation is 8fPIN0A08ePHN2B0ISb2cac87H# (!2BCOCozhelp#concatGVb2cac87G#"GC80Ooz81O^FC\cat9F (it is pointy on screen and round in output). Distributed
+concatenation is in section 8fPIN2A0>8bOON0E1distrop.
+8fPJN2A028bO1BN0E1Free types8bNMN0E2freetA free type has several alternatives, each of which can be either a constructor expression, see below,
+or an identifier. The alternatives are separated by the operator 8fPIN0A08ePHN2B08L,  see section 8fPIN2A0>8bOKN0E1bar, and the type
+name and its alternatives are separated by the 8fPIN0A08ePHN2B0ISb2cac88M# %&2BCKCozhelp#isGVb2cac88J#"GC80Ooz81O=CC=GVb2cac88K#"GC80Ooz81O226ACC226AGVb2cac88L#"HC80Ooz81O==GC\defsGVadcdd54B#"KC80Ooz181O::==GC\ddefGVadcdd62H#"LC80Ooz81O81K^81L=81M81NGC\sdefGVadcdd6aI#"HC81K25bF81L=81M81NJC\varsdef9I variant of the = template 8fPIN2A0?8bOJN0E1is.
+8fPJN2A0/8bO2GN0E1The constructors of a free type8bN1CN0E2constructorIn a Z free type, each of the variants is given by a constructor expression of the form
+8fPJN2A0ISb2cac83I   !2BC1DCozhelp#constructorGVb2cac83H#"IC8fO 226K 8fN 226L1AC8fO \lang 8fN \rang9M8fNON0A2Typexpr8fONN0A1Constr.  The 8fPJN2A09M8fNHN0A28fOHN0A1 template generates them. (Note that the first placeholder
+might have been an identifier only.)
+8fPJN2A028bO1NN0E1Let, lambda, mu, where8bNKN0E2letThis template generates 8fPIN2A098bOKN0E1let, 3bL- and 3bM-expressions. The 3bM expression's second argument is
+optional, so there are two versions for that. A final version generates a 8fPIN2A098bOMN0E1where-expression which
+interchanges the two placeholders (so the meaning coincides with that of the 8fPIN2A098bOKN0E1let-expression).
+8fPJN2A028bO1PN0E1Various operator symbols8bNLN0E2operAll operators in MathSpad have precedences set for them. It is normal for prefix and postfix
+operators to have a very high precedence, and so they do on the oz stencil. The infix operators listed
+in 8fPIN2A0=8bOPN0E1Spivey89 have the priority listed there plus six. (MathSpad precedences go from 1 up to 20, a
+wider range.)
+8fPJN2A0/8bO1MN0E1Distributed operators8bNON0E2distropSome binary operators can also be used as (prefix)  distributed operators on sets, bags, or sequences.
+The 8fPIN2A048bOPN0E1distr.op template provides 8fPIN0A08ePHN2B0ISb2cac84E! .%2JCdistr.opPCozhelp#distropGVb2cac84A#"IC80Ooz81OcbO222K80PGC\duniGVb2cac84B#"IC80Ooz81OcbO222J80PIC\dinterGVb2cac84C#"IC80Ooz381O229F/GC\dovrGVb2cac84D#"IC80Oozx81O^/GC\dcatGVadceb70F'"KC8fO80Ooz381O202B/8fNIC8fO\dcmp8fNICcompose¡, 8fPIN0A08ePHN2B0 , 8fPIN0A08ePHN2B09P,   8fPIN0A08ePHN2B09O and distributed composition.
+8fPJN2A0/8bO1LN0E1Function application8bNMN0E2applyThere are two ways of denoting function application in Z, but the 8fPIN2A048bOMN0E1apply template lists three
+versions: juxtaposition 8fPJN2A0~8fNIN0A2x8fOIN0A1f, brackets 8fPJN2A0}8fNIN0A2x8fOIN0A1f and the illegal 8fPJN2A0|8fNJN0A2x.8fOIN0A1f The last one is used for component
+selection, though.
+8fPJN2A0/8bO1NN0E1Decorating identifiers8bNPN0E2decorateThis template has four versions, each adds a symbol to an identifier: single quote (for ``after'' states),
+double quote, question mark (for input), and exclamation mark (for output).
+8fPJN2A0/8bO4HN0E1The vertical bar - mainly for separating free type alternatives.8bNKN0E2barNote that the text 8fPJN2A0Z8fNHN0A28fOHN0A1 is also produced by the 8fPIN2A048bO1BN0E1schematext version of the 8fPIN2A048bOON0E1Schema* template
+(section 8fPIN2A0>8bO1BN0E1schemastar). The 8fPHN2A0C code for both is different, though.
+8fPJN2A0/8bO1EN0E1Element count8bNJN0E2atThe prefix operator 8fPIN0A08ePHN2B0ISb2cac85G! 1!2BCKCozhelp#atGVb2cac85F!"CC#¢ counts the elements of a finite set (sequence, bag,...).
+8fPJN2A0/8bO1KN0E1Relational converse8bNON0E2twiddleThe converse of a relation is denoted with the  postfix operator 8fPIN0A08ePHN2B0ISb2cac86B" ,"2BCPCozhelp#twiddleGVb2cac86A#"GC80Ooz81O223MCC223MGVadcdcf5C#"OC80Ooz81OccA81K-181L 81M81N80PFC\inv¤. An alternative using superscript
+-1 is also provided.
+8fPJN2A0/8bO2HN0E1Transitive and reflexive closure8bNON0E2closureThis template has two versions: 8fPJN0A08fPHN0A08ePHN2B0ISb2cac86E" ,"2BCPCozhelp#closureGVb2cac86C#"GC80Ooz81O221HGC\rtclGVb2cac86D#"IC80Ooz81OccA+80PFC\tcl¦ for transitive and reflexive closure, and 8fPJN0A08fPHN0A08ePHN2B0¥ for transitive closure.
+8fPJN2A0/8bO1FN0E18fPJN0A08fPHN0A08ePIN2B0ISb2cac86L" 1!2BCPCozhelp#squarebGVb2cac86K!"EC[8fO]§8fOHN0A1 for renaming8bNON0E2squarebA postfix operator for doing renamings: use the  third version of 8fPIN2A048bOKN0E1div to generate /. This could have
+been done as an 8fPJN0A08fPHN0A08ePIN2B0§8fOHN0A1 expression instead of a postfix operator, but this way multiple renamings can
+be done more easily. In any other language, this template would be useful for doing (multiple)
+indexing, but in Z indexing of a sequence is function application.
+8fPJN2A0/8bO1HN0E1Relational image8bNNN0E2relimgThis has been defined as a postfix operator 8fPIN0A08ePIN2B0ISadcdd2aE" 2!2BCOCozhelp#relimgGVadcdd2cF#"EC1ffL8fN1ffKNC\limg 8fN\rimg¨8fNHN0A2. 
+8fPJN2A0/8bO1IN0E1Ranges of numbers8bNLN0E2uptoThe infix operator 8fPIN0A08ePHN2B0ISb2cac86N# '!2BCMCozhelp#uptoGVb2cac86M#"HC80Ooz81O..GC\upto© is used for this purpose.
+8fPJN2A0/8bOPN0E1Addition8bNKN0E2addThis template has besides addition, also subtraction as an alternative.
+8fPJN2A0/8bO1FN0E1Multiplication8bNLN0E2multThe multiplication infix operator is 8fPIN0A08ePHN2B0ISb2cac87J# )!2BCMCozhelp#multGVb2cac87I#"GC80Ooz81O*CC*ª ; division has a template of its own 8fPIN2A0?8bOPN0E1division because it has so
+many versions.
+8fPJN2A0/8bOPN0E1Division8bNPN0E2divisionThe first two versions of this template, 8fPIN2A048bOKN0E1div and 8fPIN2A048bOKN0E1mod, are actually part of the Z toolkit 8fPIN2A0=8bOPN0E1Spivey89
+which only deals with integers. For convenience I have also added the traditional / notation to this
+template as a third version, which is also handy in combination with the postfix 8fPIN0A08ePIN2B0§8fOHN0A1 operation for
+describing renamings.
+8fPJN2A0/8bO1EN0E1The backslash8bNMN0E2zhideThis operation is set difference or hiding in a schema expression.
+8fPJN2A0/8bO1CN0E1Composition8bNON0E2composeThis operation looks like an outlined  ; in the generated output, but like a double dagger on screen. It
+has versions for function/relation composition and schema composition, and one for backward
+relational composition (which looks like 8fPIN0A08ePHN2B0ISb2cac88E# )!0GVb2cac88D#"GC80Ooz81O221IGC\comp«). A distributed version is in 8fPIN2A0>8bOON0E1distrop.
+8fPJN2A0/8bO1BN0E1Overriding8bNPN0E2overrideThe ``oplus'' operator is used for overriding of functions in Z. A variant is defined for schemas.
+8fPJN2A0/8bO1EN0E1Arrow symbols8bNNN0E2arrowsZ has a huge quantity of arrow symbols for typing (injective/surjective/partial/total/...) functions and
+relations. These are all gathered in one template. Some of the symbols are hacked in 8fPIN2A048bONN0E1oz.sty, so we
+do not  get them on screen, just approximations.
+8fPJN2A0/8bOMN0E1Colon8bNMN0E2colonThe main usage of this operator is to create typed expressions.
+8fPJN2A0/8bO1IN0E1Cartesian product8bNMN0E2crossThe ``cross'' operator is used to denote Cartesian products.
+8fPJN2A0/8bO1AN0E1Semicolon8bN1AN0E2semicolonThe semicolon is used as a separator in lists of declarations.
+8fPJN2A0/8bOPN0E1Equality8bNJN0E2isThis template has many versions: for equality, inequality, and several versions of definitional
+equality:
+8fPIN2A0s8bOLN0E18fPIN2A0r8bOPN0E1double =8fPIN2A0r8bO1KN0E1::== for free types8fPIN2A0r8bO1ON0E18fPIN0A08ePHN2B09H for schema definition8fPIN2A0r8bO2MN0E18fPIN0A08ePHN2B09G as a variant for schema definition. 
+8fPJN2A0/8bO1DN0E1Greater than8bNON0E2greaterThis template has three versions: greater or equal, greater, and a slanted variant (which is different
+but recognizable on screen).
+8fPJN2A0/8bO1AN0E1Less than8bNLN0E2lessThis template has three versions: less or lequal, less, and a slanted variant (different but
+recognizable on screen).
+8fPJN2A0/8bONN0E1Maplet8bNNN0E2mapletThis template generates an ordered pair,  which can be added to a relation or function. Actually 8fPKN0A08fPIN0A0x8ePHN2B0ISb2cac8cF$ &!2BCOCozhelp#mapletGVb2cac8cE#"GC80Ooz81O21aGFC\map¬8fPIN0A0y
+equals 8fPKN1A08fPIN0A0x8ePHN2B0ISb2cac8bJ# #!2BCNCozhelp#commaGVb2cac8bI!"CC,­8fPIN0A0y.
+8fPJN2A0/8bO1MN0E1Projection and filter8bN1BN0E2projfilterUnfortunately the horizontal half-harpoons representing these operations are not displayed on
+screen (used daggers instead).  They are used for filtering sequences with a set, and (the last
+version) for projecting schemas.
+8fPJN2A0/8bO2EN0E1Domain and range restrictions8bNPN0E2restrictThis template generates restrictions of a relation in its domain, its range, and complemented
+versions of those. Their on-screen displays are approximations of the cute triangles you will see in
+the generated 8fPHN2A0C.
+8fPJN2A028bO1GN0E1Named functions8bNNN0E2prefixSome functions in Z are predefined and have their own macros in 8fPIN2A048bONN0E1oz.sty.  Nothing special can be
+said about most of them -- they look like their names in MathSpad and in generated output. Infix
+named operators have a priority below all other infix operators in the stencil.
+8fPJN2A0/8bOPN0E1disjoint8bNPN0E2disjoint8fPJN2A0/8bO1CN0E1min and max8bNNN0E2minmax8fPJN2A0/8bO1HN0E1Domain and range8bNNN0E2domranThe template 8fPIN2A048bOON0E1dom/ran produces 8fPIN0A08ePHN2B0ISb2cac85M! 1"2ICdom/ranOCozhelp#domranGVb2cac85K#"KC80Ooz81ObfIdomdfIFC\domGVb2cac85L#"KC80Ooz81ObfIrandfIFC\ran¯ and 8fPIN0A08ePHN2B0® for domain and range of functions. For clarity, they
+show up in sans serif on screen; the 8fPHN2A0C will be plain roman letters.
+8fPJN2A0/8bO1ON0E1Pre- and postconditions8bNON0E2prepostThe operators for the pre-and postcondition of a schema are generated by the 8fPIN2A048bOPN0E1pre/post template.
+They will be sans serif on screen, but roman in 8fPHN2A0C.
+8fPJN2A0/8bOJN0E1in8bNJN0E2inAn infix operator, different versions for bags and sequences. For sets, the normal element operation
+is used 8fPIN2A0?8bOON0E1element.
+8fPJN2A0/8bO1BN0E1partitions8bN1BN0E2partitionsAn infix operator.
+8fPJN2A028bO2IN0E1What oz.sty elements are missing?8bN1DN0E2whatsmissingNote that all of the items mentioned below 8fPIN2A088bOKN0E1can be produced with MathSpad -- but only by feeding
+MathSpad the raw 8fPHN2A0C, without a fancy on-screen display. 
+8fPIN2A0s8bONN0E18fPIN2A0r8bO6ON0E1There is no template for the vertical layout commands defined in 8fPIN2A0H8bONN0E1oz.sty (the commands
+8fPIN2A0H8bOKN0E1\t1, 8fPIN2A0H8bOKN0E1\t2, etc and 8fPIN2A0H8bOJN0E1\M and 8fPIN2A0H8bOJN0E1\O.8fPIN2A0r8bO4DN0E1There are no templates for the Object-Z specific parts of 8fPIN2A0H8bONN0E1oz.sty.8fPIN2A0r8bO3IN0E1The 8fPIN2A0H8bOMN0E1argue, 8fPIN2A0H8bOON0E1infrule, and 8fPIN2A0H8bONN0E1syntax environments are not implemented.8fPIN2A0r8bO3CN0E1The 8fPIN2A0H8bOPN0E1\comment and 8fPIN2A0H8bO1AN0E1\comment* commands are not in a template.8fPIN2A0r8bO4AN0E1There are no templates for changing the style parameters.8fPIN2A0r8bO9MN0E1Not all symbols mentioned in Paul King's document are available on stencils or symbol palette
+windows (though most of the ``special Z notation'' is).
+\begin{thebibliography}{Spi89} \bibitem[BDBS95]{BDBS95}E. Boiten, J. Derrick, H. Bowman and
+M.Steen, 8fPIN2A088bO3CN0E1Unification and multiple views of data in Z, in: Computing Science in the Netherlands
+1995. \bibitem[BDBS96]{BDBS96}E. Boiten, J. Derrick, H. Bowman and M.Steen, 8fPIN2A088bO4AN0E1Consistency and
+refinement for partial specification in Z, in: Formal Methods Europe, 1996.
+\bibitem[Spi89]{Spivey89}J.M. Spivey, 8fPIN2A088bO2LN0E1The Z Notation -- A Reference Manual, Prentice Hall,
+1989. \end{thebibliography}
+8fPHN2A0ISd54e290O   "1JCDocumentGVd54e290M#!KC80JbfKBegindfK
+1DC80J\begin{document}
+GVd54e290N#!IC80JbfKEnddfK
+1BC80J\end{document}
+°

@@ -1,0 +1,15 @@
+
+
+Undefined symbols from language/.libs/libstring.so.0.0.0:
+
+    Ustrcmp
+    Ustrcpy
+    Ustrlen
+    Ustrncpy
+    UstrtoLocale
+    define_function
+    define_operator
+    define_program_variable
+    make_prototype
+    mymalloc
+    printf

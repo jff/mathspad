@@ -1,0 +1,333 @@
+% Computer Modern Sans Serif 10 pt
+if unknown cmbase: input cmbase fi
+
+font_identifier:="CMSS"; font_size 10pt#;
+
+npt#=pt#;
+u#:=20/36npt#;      % unit width
+width_adj#:=15/36npt#;    % width adjustment for certain characters
+serif_fit#:=-7/36npt#;    % extra sidebar near lowercase serifs
+cap_serif_fit#:=-10/36npt#;  % extra sidebar near uppercase serifs
+letter_fit#:=0npt#;    % extra space added to all sidebars
+
+body_height#:=270/36npt#;  % height of tallest characters
+asc_height#:=250/36npt#;    % height of lowercase ascenders
+cap_height#:=250/36npt#;    % height of caps
+fig_height#:=236/36npt#;    % height of numerals
+x_height#:=160/36npt#;    % height of lowercase without ascenders
+math_axis#:=90/36npt#;    % axis of symmetry for math symbols
+bar_height#:=79/36npt#;    % height of crossbar in lowercase e
+comma_depth#:=45/36npt#;    % depth of comma below baseline
+desc_depth#:=70/36npt#;    % depth of lowercase descenders
+
+crisp#:=0npt#;      % diameter of serif corners
+tiny#:=0npt#;      % diameter of rounded corners
+fine#:=0npt#;      % diameter of sharply rounded corners
+thin_join#:=17/36npt#;    % width of extrafine details
+hair#:=28/36npt#;    % lowercase hairline breadth
+stem#:=28/36npt#;    % lowercase stem breadth
+curve#:=28/36npt#;    % lowercase curve breadth
+ess#:=28/36npt#;      % breadth in middle of lowercase s
+flare#:=25/36npt#;    % diameter of bulbs or breadth of terminals
+dot_size#:=30/36npt#;    % diameter of dots
+cap_hair#:=28/36npt#;    % uppercase hairline breadth
+cap_stem#:=32/36npt#;    % uppercase stem breadth
+cap_curve#:=32/36npt#;    % uppercase curve breadth
+cap_ess#:=32/36npt#;    % breadth in middle of uppercase s
+rule_thickness#:=.4npt#;    % thickness of lines in math symbols
+
+dish#:=0npt#;      % amount erased at top or bottom of serifs
+bracket#:=0npt#;      % vertical distance from serif base to tangent
+jut#:=0npt#;      % protrusion of lowercase serifs
+cap_jut#:=0npt#;      % protrusion of uppercase serifs
+beak_jut#:=0npt#;    % horizontal protrusion of beak serifs
+beak#:=.5/36npt#;    % vertical protrusion of beak serifs
+vair#:=22/36npt#;    % vertical diameter of hairlines
+notch_cut#:=18/36npt#;    % maximum breadth above or below notches
+bar#:=21/36npt#;      % lowercase bar thickness
+slab#:=23/36npt#;    % serif and arm thickness
+cap_bar#:=22/36npt#;    % uppercase bar thickness
+cap_band#:=20/36npt#;    % uppercase thickness above/below lobes
+cap_notch_cut#:=25/36npt#;  % max breadth above/below uppercase notches
+serif_drop#:=2/36npt#;    % vertical drop of sloped serifs
+stem_corr#:=1/36npt#;    % for small refinements of stem breadth
+vair_corr#:=1/36npt#;    % for small refinements of hairline height
+apex_corr#:=5/36npt#;    % extra width at diagonal junctions
+
+o#:=8/36npt#;      % amount of overshoot for curves
+apex_o#:=0npt#;      % amount of overshoot for diagonal junctions
+
+slant:=0;      % tilt ratio $(\Delta x/\Delta y)$
+fudge:=.96;      % factor applied to weights of heavy characters
+math_spread:=0;      % extra openness of math symbols
+superness:=1/sqrt 2;    % parameter for superellipses
+superpull:=1/20;    % extra openness inside bowls
+beak_darkness:=0;    % fraction of triangle inside beak serifs
+ligs:=2;      % level of ligatures to be included
+
+square_dots:=true;    % should dots be square?
+hefty:=true;      % should we try hard not to be overweight?
+serifs:=false;      % should serifs and bulbs be attached?
+monospace:=false;    % should all characters have the same width?
+variant_g:=false;    % should an italic-style g be used?
+low_asterisk:=false;    % should the asterisk be centered at the axis?
+math_fitting:=false;    % should math-mode spacing be used?
+
+if ligs>1: font_coding_scheme:="TeX text";
+ spanish_shriek=oct"074"; spanish_query=oct"076";
+else: font_coding_scheme:=if ligs=0: "TeX typewriter text"
+  else: "TeX text without f-ligatures" fi;
+ spanish_shriek=oct"016"; spanish_query=oct"017"; fi
+
+mode_setup; font_setup;
+
+numeric wh,hp,wp,oop;
+
+cmchar "The letter h";
+beginchar("h",10u#,asc_height#,0);
+italcorr .5[bar_height#,x_height#]*slant-serif_fit#+.5stem#-2u#;
+adjust_fit(serif_fit#+stem_shift#,serif_fit#-stem_shift#);
+pickup tiny.nib; pos1(stem,0); pos2(stem,0);
+pos1'(stem',0); pos2'(stem',0); pos3(stem,0);
+lft x1l=hround(2.5u-.5stem); x1l=x1'l=x2l=x2'l; x3=w-x1;
+top y1=h; bot y2=0; y1=y1'; y2=y2';
+filldraw stroke z1'e--z2'e;  % left stem
+h_stroke(2,a,3,4);  % arch and right stem
+if serifs: sloped_serif.l(1',2',b,1/3,jut,serif_drop); % upper left serif
+ numeric inner_jut; pickup tiny.nib;
+ if rt x2r+jut+.5u+1<=lft x4l-jut: inner_jut=jut;
+ else: rt x2r+jut+.5u+1=lft x4l-inner_jut; fi
+ dish_serif(2,1,c,1/3,jut,d,1/3,jut); % lower left serif
+ dish_serif(4,3,e,1/3,inner_jut,f,1/3,jut); fi % lower right serif
+penlabels(1,2,3,4); wh = w; endchar;
+
+cmchar "The letter p";
+beginchar("p",10u#+serif_fit#,x_height#,desc_depth#);
+%italcorr .5x_height#*slant+min(.5curve#-.85u#,-.1u#);
+%=0, because slant=0 so total <0.
+adjust_fit(serif_fit#,0);
+pickup tiny.nib; pos1(stem',0); pos2(stem,0);
+pos0'(stem',0); pos0(stem,0); z0l=z0'l; x0'=x1; x0=x2;
+lft x1l=hround(2.5u-.5stem'); top y1=h if serifs: +min(oo,serif_drop) fi;
+numeric edge; edge=rt x2r;
+pickup fine.nib; pos3(if hefty:thin_join else: hair fi,180);
+pos4(vair',90); pos5(curve,0); pos6(vair,-90); penpos7(x3l-x3r,-180);
+rt x3l=max(rt x3l-(lft x3r-tiny.lft x2l), 1/3[rt x2,edge]);
+y3=1/8[bar_height,x_height];
+x4l=w-.5(w-serif_fit)+.5u; top y4r=x_height+oo;
+rt x5r=hround min(w-1.35u+.5curve,w-.6u); y5=.5x_height;
+x6l=x4l-.2u; bot y6r=-oo;
+x7=x3; y7=min(y3,y6+y4-y3+.6vair);
+(x,y4r)=whatever[z3l,z4l]; x4r:=min(x,.5[x5r,x4]);
+(x',y6r)=whatever[z7l,z6l]; x6r:=min(x',.5[x5r,x6]);
+filldraw stroke z3e{up}...{right}z4e&super_arc.e(4,5)
+ &super_arc.e(5,6)&z6e{left}...{up}z7e;  % bowl
+y0=ypart(((edge,h)--(edge,0))intersectionpoint(z3l{up}...{right}z4l));
+pickup tiny.nib; bot y2=-d;
+filldraw stroke z1e--z0'e--z0e--z2e;  % stem
+pickup crisp.nib; pos8(hair,0); pos7'(stem,0);
+z7'=z2; x8l=x7'l; bot y8=0;
+filldraw stroke z7'e--z8e;  % point
+if serifs: sloped_serif.l(1,0',a,1/3,jut,serif_drop);  % upper serif
+ dish_serif(2,0,b,1/3,jut,c,1/3,jut); fi  % lower serif
+penlabels(0,1,2,3,4,5,6,7,8); hp = h; wp = w; oop = oo; endchar;
+
+def sproc=
+%Draw the h first
+
+%italcorr .5[bar_height#,x_height#]*slant-serif_fit#+.5stem#-2u#;
+%=0, because it is <0.
+%special_normal_adjust_fit(serif_fit#+stem_shift#,serif_fit#-stem_shift#);
+adjust_fit(serif_fit#+stem_shift#,0);
+pickup tiny.nib; pos1(stem,0); pos2(stem,0);
+pos1'(stem',0); pos2'(stem',0); pos3(stem,0);
+lft x1l=hround(2.5u-.5stem); x1l=x1'l=x2l=x2'l; x3=wh-x1;
+top y1=h; bot y2=0; y1=y1'; y2=y2';
+filldraw stroke z1'e--z2'e;  % left stem
+h_stroke(2,a,3,4);  % arch and right stem
+if serifs: sloped_serif.l(1',2',b,1/3,jut,serif_drop); % upper left serif
+ numeric inner_jut; pickup tiny.nib;
+ if rt x2r+jut+.5u+1<=lft x4l-jut: inner_jut=jut;
+ else: rt x2r+jut+.5u+1=lft x4l-inner_jut; fi
+ dish_serif(2,1,c,1/3,jut,d,1/3,jut); % lower left serif
+ dish_serif(4,3,e,1/3,inner_jut,f,1/3,jut); fi % lower right serif
+penlabels(1,2,3,4);
+
+%Draw the p now
+
+pickup tiny.nib; pos6(stem',0); pos7(stem,0);
+pos5'(stem',0); pos5(stem,0); z5l=z5'l; x5'=x6; x5=x7;
+lft x6l=hround(w-wp+2.5u-.5stem'); top y6=hp if serifs: +min(oop,serif_drop)
+fi; numeric edge; edge=rt x7r;
+pickup fine.nib; pos8(if hefty:thin_join else: hair fi,180);
+pos9(vair',90); pos10(curve,0); pos11(vair,-90); penpos12(x8l-x8r,-180);
+rt x8l=max(rt x8l-(lft x8r-tiny.lft x7l), 1/3[rt x7,edge]);
+y8=1/8[bar_height,x_height];
+x9l=w-.5(wp-serif_fit)+.5u; top y9r=x_height+oop;
+rt x10r=hround min(w-1.35u+.5curve,w-.6u); y10=.5x_height;
+x11l=x9l-.2u; bot y11r=-oop;
+x12=x8; y12=min(y8,y11+y9-y8+.6vair);
+(x,y9r)=whatever[z8l,z9l]; x9r:=min(x,.5[x10r,x9]);
+(x',y11r)=whatever[z12l,z11l]; x11r:=min(x',.5[x10r,x11]);
+filldraw stroke z8e{up}...{right}z9e&super_arc.e(9,10)
+ &super_arc.e(10,11)&z11e{left}...{up}z12e;  % bowl
+y5=ypart(((edge,hp)--(edge,0))intersectionpoint(z8l{up}...{right}z9l));
+pickup tiny.nib; bot y7=-d;
+filldraw stroke z6e--z5'e--z5e--z7e;  % stem
+pickup crisp.nib; pos13(hair,0); pos12'(stem,0);
+z12'=z7; x13l=x12'l; bot y13=0;
+filldraw stroke z12'e--z13e;  % point
+if serifs: sloped_serif.l(1,0',a,1/3,jut,serif_drop);  % upper serif
+ dish_serif(2,0,b,1/3,jut,c,1/3,jut); fi  % lower serif
+penlabels(5,6,7,8,9,10,11,12,13);
+
+%now the S
+
+numeric t;
+pos15(stem,180); pos16(stem,180);
+pos17(stem,-lean); pos18(stem,-lean); pos19(stem,-lean);
+pos20(stem,180); pos21(stem,180);
+x15=x16=x3; x21=x20=x6; top y15=-1u; bot y21=hp+1.5u; %z18=.5[z15,z21];
+bot y16=-d+2u; y17=y16; top y20=h-1.5u; y19=y20; x17-x16=x20-x19;
+z19-z17=t*(dir (90-lean));
+filldraw stroke z15e---z16e..z17e---z19e..z20e---z21e;
+enddef;
+
+cmchar "The letter s";
+beginchar("s",10u#+2u#+10u#+serif_fit#,asc_height#,desc_depth#);
+numeric lean; lean=5;
+sproc;
+endchar;
+
+cmchar "The letter t";
+beginchar("t",10u#+2.5u#+10u#+serif_fit#,asc_height#,desc_depth#);
+numeric lean; lean=5;
+sproc;
+endchar;
+
+cmchar "The letter u";
+beginchar("u",10u#+3u#+10u#+serif_fit#,asc_height#,desc_depth#);
+numeric lean; lean=5;
+sproc;
+endchar;
+
+cmchar "The letter v";
+beginchar("v",10u#+3.5u#+10u#+serif_fit#,asc_height#,desc_depth#);
+numeric lean; lean=5;
+sproc;
+endchar;
+
+cmchar "The letter w";
+beginchar("w",10u#+4u#+10u#+serif_fit#,asc_height#,desc_depth#);
+numeric lean; lean=5;
+sproc;
+endchar;
+
+cmchar "The letter x";
+beginchar("x",10u#+4.5u#+10u#+serif_fit#,asc_height#,desc_depth#);
+numeric lean; lean=5;
+sproc;
+endchar;
+
+
+cmchar "The letter H";
+beginchar("H",13u#+width_adj#,cap_height#,0);
+italcorr cap_height#*slant-cap_serif_fit#+cap_jut#-2.5u#+min(.5cap_stem#,u#);
+adjust_fit(cap_serif_fit#,cap_serif_fit#);
+pickup tiny.nib; pos1(cap_stem,0); pos2(cap_stem,0);
+pos3(cap_stem,0); pos4(cap_stem,0);
+lft x1l=lft x2l=hround max(2u,3u-.5cap_stem); x3=x4=w-x1;
+top y1=top y3=h; bot y2=bot y4=0;
+filldraw stroke z1e--z2e; % left stem
+filldraw stroke z3e--z4e; % right stem
+penpos5(cap_bar,90); penpos6(cap_bar,90);
+x5=x1; x6=x3; y5=y6=.52h;
+fill stroke z5e--z6e;  % bar
+if serifs: numeric inner_jut;
+ if rt x1r+cap_jut+.5u+1<=lft x3l-cap_jut: inner_jut=cap_jut;
+ else: rt x1r+inner_jut+.5u+1=lft x3l-inner_jut; fi
+ dish_serif(1,2,a,1/3,cap_jut,b,1/3,inner_jut);  % upper left serif
+ dish_serif(2,1,c,1/3,cap_jut,d,1/3,inner_jut); % lower left serif
+ dish_serif(3,4,e,1/3,inner_jut,f,1/3,cap_jut);  % upper left serif
+ dish_serif(4,3,g,1/3,inner_jut,h,1/3,cap_jut); fi  % lower left serif
+math_fit(0,.5ic#); penlabels(1,2,3,4,5,6); wH = w; endchar;
+
+cmchar "The letter P";
+beginchar("P",12u#,cap_height#,0);
+italcorr .75cap_height#*slant-.5u#;
+adjust_fit(cap_serif_fit#,0);
+pickup tiny.nib; penpos1(cap_stem'-tiny,0); penpos2(cap_stem-tiny,0);
+pos0(cap_stem',0); pos0'(cap_stem,0);
+lft x1l=hround max(2u,3u-.5cap_stem'); top y1=h; bot y2=0;
+x1l=x2l=x0l=x0'l; y0=y0'=y7;
+penpos3(cap_band,90); penpos4(cap_band,90);
+penpos5(cap_curve if hefty:-3stem_corr fi,0);
+penpos6(.5[vair,cap_band],-90); penpos7(.5[vair,cap_band],-90);
+z3r=top z1; y4=y3; y5=.5[y4l,y6l]; y6=y7;
+x7=x2; y7l=vround .5h; x4=x6=.5w+.75u; x5r=hround(w-u);
+x4l:=x6l:=x4-.25cap_curve;
+filldraw stroke z1e--z0e--z0'e--z2e; % stem
+fill stroke z3e..pulled_arc.e(4,5) & pulled_arc.e(5,6)..z7e;  % lobe
+if serifs: nodish_serif(1,0,a,1/3,cap_jut,b,1/3,.5cap_jut);  % upper serif
+ dish_serif(2,0',c,1/3,cap_jut,d,1/3,cap_jut); fi  % lower serif
+math_fit(0,ic#-2.5u#); penlabels(0,1,2,3,4,5,6,7); hP = h; wP = w; ooP = oo;
+endchar;
+
+cmchar "The letter S";
+beginchar("S",13u#+6u#+12u#+serif_fit#,asc_height#,desc_depth#);
+% First the letter H
+%italcorr cap_height#*slant-cap_serif_fit#+cap_jut#-2.5u#+min(.5cap_stem#,u#);
+adjust_fit(cap_serif_fit#,0);
+pickup tiny.nib; pos1(cap_stem,0); pos2(cap_stem,0);
+pos3(cap_stem,0); pos4(cap_stem,0);
+lft x1l=lft x2l=hround max(2u,3u-.5cap_stem); x3=x4=wH-x1;
+top y1=top y3=h; bot y2=bot y4=0;
+filldraw stroke z1e--z2e; % left stem
+filldraw stroke z3e--z4e; % right stem
+penpos5(cap_bar,90); penpos6(cap_bar,90);
+x5=x1; x6=x3; y5=y6=.52h;
+fill stroke z5e--z6e;  % bar
+if serifs: numeric inner_jut;
+ if rt x1r+cap_jut+.5u+1<=lft x3l-cap_jut: inner_jut=cap_jut;
+ else: rt x1r+inner_jut+.5u+1=lft x3l-inner_jut; fi
+ dish_serif(1,2,a,1/3,cap_jut,b,1/3,inner_jut);  % upper left serif
+ dish_serif(2,1,c,1/3,cap_jut,d,1/3,inner_jut); % lower left serif
+ dish_serif(3,4,e,1/3,inner_jut,f,1/3,cap_jut);  % upper left serif
+ dish_serif(4,3,g,1/3,inner_jut,h,1/3,cap_jut); fi  % lower left serif
+math_fit(0,.5ic#); penlabels(1,2,3,4,5,6); 
+%
+% Then the letter P
+%
+pickup tiny.nib; penpos8(cap_stem'-tiny,0); penpos9(cap_stem-tiny,0);
+pos7(cap_stem',0); pos7'(cap_stem,0);
+lft x8l=hround max(w-wP+2u,w-wP+3u-.5cap_stem'); top y8=hP; bot y9=0;
+x8l=x9l=x7l=x7'l; y7=y7'=y14;
+penpos10(cap_band,90); penpos11(cap_band,90);
+penpos12(cap_curve if hefty:-3stem_corr fi,0);
+penpos13(.5[vair,cap_band],-90); penpos14(.5[vair,cap_band],-90);
+z10r=top z8; y11=y10; y12=.5[y11l,y13l]; y13=y14;
+x14=x9; y14l=vround .5hP; x11=x13=w-.5wP+.75u; x12r=hround(w-u);
+x11l:=x13l:=x11-.25cap_curve;
+filldraw stroke z8e--z7e--z7'e--z9e; % stem
+fill stroke z10e..pulled_arc.e(11,12) & pulled_arc.e(12,13)..z14e;  % lobe
+if serifs: nodish_serif(8,7,a,1/3,cap_jut,b,1/3,.5cap_jut);  % upper serif
+ dish_serif(9,7',c,1/3,cap_jut,d,1/3,cap_jut); fi  % lower serif
+math_fit(7,ic#-2.5u#); penlabels(7,8,9,10,11,12,13,14); 
+
+%
+% and now the S
+%
+
+numeric lean,t; lean=10;
+pos15(stem,180); pos16(stem,180);
+pos17(stem,-lean); pos18(stem,-lean); pos19(stem,-lean);
+pos20(stem,180); pos21(stem,180);
+x15=x16=x3; x21=x20=x7; top y15=-.5u; bot y21=hp+.5u; %z18=.5[z15,z21];
+bot y16=-d+2u; y17=y16; top y20=h-1.5u; y19=y20; x17-x16=x20-x19;
+z19-z17=t*(dir (90-lean));
+filldraw stroke z15e---z16e..z17e---z19e..z20e---z21e;
+                
+
+endchar;
+
+end.

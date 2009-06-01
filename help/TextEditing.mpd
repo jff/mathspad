@@ -1,0 +1,325 @@
+[4mMathpad Document
+[0m23fAN0E08fPKN2A0ISe1d4f11P   +2PCSectionHeading2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f1aC'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+HC80J8bN{8bO}80IKC{heading}GVe1d4f20A'!3CC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80IPC[toc]{heading}GVe1d4f27D'!2MC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1CC[no no.]{heading}GVe1d4f2aE'!2NC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1AC80J8bN{8bO}\label{8bM}80IPC{heading}labelGVe1d4f2eB'!3LC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1EC[toc]{heading}labelGVe1d4f12M'!3FC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1BC80J8bN*{8bO}\label{8bM}80I1HC[no no.]{heading}labelGVe1d4f12H'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80I1EChide-[toc]{heading}GVe1d4f12I'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1IChide -[no no.]{heading}GVe1d4f12J'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1AC80J8bN{8bO}\label{8bM}80I1EChide-{heading}labelGVe1d4f12K'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1JChide-[toc]{heading}labelGVe1d4f12L'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1BC8bN80J*{8bO}\label{8bM}80I1MChide-[no no.]{heading}label'8bM1HN0E3file:TextEditing8bO1DN0E1Text Editing8bNIN0E28fPHN2A0ISe1d4f86L   '21ACSectioningTypes2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f86M#!JCcbLbfKPartdfK80PHC80J\partGVe1d4f86N#!MCcbMbfKChapterdfK80PKC80J\chapterGVe1d4f86O'!MCcbNbfKSectiondfK80PKC80J\sectionMCcbObfKSectiondfKccAGVe1d4f86P#!PCcbObfKSubSectiondfK80PNC80J\subsectionGVe1d4f87A#!1ACbfKSubSubSectiondfK1AC80J\subsubsectionGVe1d4f87B#!MCbfKParagraphdfKMC80J\paragraphGVe1d4f87C#!PCbfKSubParagraphdfKPC80J\subparagraph0
+Plain (non-mathematical) text can be edited with a number of keyboard  commands. The
+commands are based on those provided by Emacs  and most of the  usual functions are
+available. Some commands, however, behave slightly differently from those of most text
+editors, because of the possibility to use proportional fonts and because of the way the
+target selection is handled.  
+
+Each group of characters input with a 8fPIN2A0ISe196d18D   +2KCTextStyle1HCLatex2eA#TextStyleHelpGVe196d18N'!FC80JbfJ8bOdfJKC80J\emph{8bO}1CCbfMEmphasizeddfM textGVe196d18E'!DC80J8bOMC80J\textup{8bO}OCUpright shapeGVe196d18F'!FC80JbfM8bOdfMMC80J\textit{8bO}PCbfMItalicdfM shapeGVe196d18G'!FC80JbfJ8bOdfJMC80J\textsl{8bO}1ACbfJSlanteddfJ shapeGVe196d18H'!DC80J8bOMC80J\textsc{8bO}1FCSccBMALLcbPcbNCccBAPS cbNshapeGVe196d18I'!DC80J8bOMC80J\textmd{8bO}OCMedium seriesGVe196d18J'!FC80JbfO8bOdfOMC80J\textbf{8bO}OCbfOBolddfO seriesGVe196d18K'!DC80J8bOMC80J\textrm{8bO}NCRoman familyGVe196d18L'!FC80JbfI8bOdfIMC80J\textsf{8bO}1ECbfISans SerifdfI familyGVe196d18M'!FC80JbfH8bOdfHMC80J\texttt{8bO}1ECbfHTypewriterdfH familyGVe196d18O'!FC80JbfK8bOdfK1GC80J\textbf{80J\textit{8bO}}1NCbfKBolddfK series bfKItalicdfK shape<8bOPN0E1template8fPON2A0ISe1ce08fJ   "2GCEntry1ECLatex2eC#MakeIndex GVe1ce08fK'!11IC80JbfKIndex EntrydfK
+bfMprimary sort key:dfM80C8bO
+bfMsub sort key:dfM80C8bN
+bfMsubsub sort keydfM80C8bM
+bfMvisual key if different from sort key:dfM80C80C8bL
+bfMif start of range of pages set holder to dfM ( 80C8bK
+bfMfont type for page nr. if non-standarddfM80C8bJ
+bfMif end of range of pages set holder to dfM ) 80C8bI
+bfKEnd of Index EntrydfK
+2EC80J\mpindexnew{8bO}{8bN}{8bM}{8bL}{8bK}{8bJ}{8bI}{}1CCenter index entryGVe1ce08fL'!KC80JbfK81Ji81L 81M81NdfK2EC80J\mpindexnew{8bO}{8bN}{8bM}{8bL}{8bK}{8bJ}{8bI}{}1EChide index commands=8bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOPN0E1template is  called an 8fPIN2A0<8bO1BN0E1expression8fPON2A0=8bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1BN0E1expression and, for the
+purposes of text editing, is  treated as if it were a  single  symbol. Moving the cursor
+character by character through the document will display such a group in inverse video
+mode as if it were a target selection. For example, move the cursor one character at a time
+along the sentence ``In 8fPHN2A0ISafa0e17G   !0GVafa0e17F#!MC80JbfIMath222LpaddfILC80J\mplogo{}?, there are three types of selection.''  (Use 8fPIN2A068bOKN0E1C-F or the
+right arrow key on your keyboard.) You will see that when the cursor reaches
+8fPHN2A0?, the complete word ``8fPHN2A0?'' is displayed in inverse video mode. Move
+one more symbol to the right and the cursor will be between 8fPHN2A0?  and the comma.
+This is because 8fPHN2A0?  was input with a template and is treated as a single
+character at the text level.  
+
+The effect of some operations depends on whether or not the target is set.  It is
+important to remember that the cursor  is considered to be indicating the position
+of an 8fPIN2A0<8bOMN0E1empty target.  
+
+With 8fPHN2A0? it is very easy to insert special characters  into  the  text.  These
+symbols are selected from a symbol palette and are then  handled like normal
+characters in the editing actions as far as the screen version is concerned. 
+However, if a text contains such symbols, the 8fPHN2A0ISe1cfa44M   %2GCLaTeX1CCLatex2e#LaTeXHelpGVe1cfa44N#!1FCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NXKC80J\LaTeX{}GVe1cfa44O#!MCT81K81L81K81L81ME81N81M81NXIC80J\TeX{}GVe1cfa45A#!1HCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NX23bF4AC80J{\mathsurround=0pt\LaTeX $2_80L{\textstyle 3bF}$\hspace{-0.4mm}}{}GVe1cfa45B#!1BCBccAIB80PT81K81L81K81L81ME81N81M81NX1FC80J80J\textsc{Bib}\TeX{}GVe1e4779B#!MCbfMMakeIndexdfMOCbfMMakeIndexdfM{}D code will be a little
+different. The symbols are bound to 8fPHN2A0D macros and these macros will be
+used in the 8fPHN2A0D code. The dollar signs (8fPHN2A0ISafa0e19G   !0GVafa0e19F'!GCccAbfO$dfO80PIC80JccBbfO\$dfO80PCC$E) are automatically added to switch
+to the correct mode and therefore do not need to be specially added to the normal
+text.
+
+8fPKN2A0(8bMHN@E3"8bO2FN0E1Arguments to keyboard commands8bNIN0E28fPHN2A0.
+8fPIN2A068bOPN0E1Caution: use this feature with care --- even if the action you perform has an
+inverse!
+
+Some keyboard commands  can  be called with an argument8fPON2A0=8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNPN0E2argument8bOON0E1command which
+specifies how many times the command is to be repeated. By default this
+argument is 1 but  may  be changed with the 8fPIN2A068bOKN0E1C-U key.  To set the argument,
+input  8fPIN2A068bOKN0E1C-U  followed by a non-negative number (the required number of 
+repeats).  At this stage the instruction  can be aborted  without specifying  a
+command by pressing  8fPIN2A068bOKN0E1C-G. Otherwise the command is input and will be
+executed the  required number of times. For example, 8fPIN2A068bO1BN0E1C-U 20 C-V will  scroll
+the  document on by twenty pages. If it is not meaningful to repeat a command
+then the argument will be  ignored and the command executed only once. 
+
+
+8fPKN2A0*8bMHN@E3"8bO1IN0E1Moving the Cursor8bNIN0E28fPHN2A0/
+The following commands move the cursor8fPON2A0=8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNNN0E2moving8bONN0E1cursor or the target selection.
+
+8fPIN2A0ISd555ce5O   (1JCManTableGVd555ce5J'!1EC
+81PbfH          dfH80B
+8bO82A
+2JC80J\begin{mantable}{20mm}80I8bO80I\end{mantable}1ACManTable (20mm)GVd555ce5K'!1CC
+81PbfH        dfH80B
+8bO82A
+2JC80J\begin{mantable}{15mm}80I8bO80I\end{mantable}1ACManTable (15mm)GVd555ce5L'!PC
+81PbfH    dfH80B 
+8bO82A
+2IC80J\begin{mantable}{8mm}80I8bO80I\end{mantable}PCManTable (8mm)GVd555ce5M'!JCbfO8bOdfO80C80E8bN80F
+NC80J\item[8bO] 8bN80I1BCItem (same line)GVd555ce5N'!KCbfO8bOdfO
+80C80E8bN80F
+NC80J\item[8bO] 8bN80I1BCItem (next line)GVfdb41f4K'!1GC
+81PbfH            dfH80B
+8bO82A
+2JC80J\begin{mantable}{25mm}80I8bO80I\end{mantable}1ACManTable (25mm)GVfc4a6c3E'!1JC
+81PbfH               dfH80B
+8bO82A
+2JC80J\begin{mantable}{30mm}80I8bO80I\end{mantable}1ACManTable (30mm)GVe113ff5L'!1MC
+81PbfH                  dfH80B
+8bO82A
+2JC80J\begin{mantable}{35mm}80I8bO80I\end{mantable}1ACManTable (35mm)L8bO1IN0E18fPJN2A0J8bN2CN0E2Move forward one character.8bOMN0E1C-F  8fPJN2A0J8bN2CN0E2Move forward one character.8bOIN0E1219C8fPJN2A0J8bN2DN0E2Move backward one character.8bOMN0E1C-B  8fPJN2A0J8bN2DN0E2Move backward one character.8bOIN0E1219A8fPJN2A0J8bN1NN0E2Move forward one word.8bOKN0E1M-F8fPJN2A0J8bN1ON0E2Move backward one word.8bOKN0E1M-B8fPJN2A0J8bN2ON0E2Move to the beginning of the next line.8bOMN0E1C-N  8fPJN2A0J8bN2ON0E2Move to the beginning of the next line.8bOIN0E1219D8fPJN2A0J8bN2MN0E2Move to the end of the previous line.8bOKN0E1C-P8fPJN2A0J8bN2MN0E2Move to the end of the previous line.8bOIN0E18fPIN0A0219B8fPJN2A0J8bN2LN0E2Move to the end of the current line.8bOLN0E1C-E 8fPJN2A0J8bN2LN0E2Move to the end of the current line.8bOIN0E18fPIN2A068bOKN0E1End8fPJN2A0J8bN3BN0E2Move to the beginning of the current line.8bOMN0E1C-A  8fPJN2A0J8bN3BN0E2Move to the beginning of the current line.8bOIN0E18fPIN2A068bOLN0E1Home8fPJN2A0J8bN2NN0E2Move to the beginning of the document.8bOKN0E1M-<8fPJN2A0J8bN2HN0E2Move to the end of the document.8bOKN0E1M->8fPJN2A0J8bN2NN0E2Move to the centre line of the window.8bOKN0E1M-R
+8fPKN2A0*8bMHN@E3"8bO1LN0E1Scrolling the Window8bNIN0E28fPHN2A0/
+That portion of a file displayed in a window can be scrolled8fPON2A0=8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1AN0E2scrolling8bONN0E1window using the scrollbars  (see
+8fPJN2A0ISe04f743O   &1KCBook Ref.GVe04f743P#!1ICsection bfI8bOdfI in bfIfile:8bNdfI1DC80Jsection~\ref{8bN.8bO}GVe04f744A#!JCbfIfile:8bOdfI1GC80Jchapter~\ref{file:8bO}GVe04f744B#!MCsection bfI8bOdfI1DC80Jsection~\ref{8bN.8bO}GVe04f744C#!JCfig. bfI8bOdfI1DC80Jfig.\ \ref{fig:8bO}GVe04f744D#!KCtable bfI8bOdfI1FC80Jtable \ref{Table:8bO}GVe04f744E#!KCTable bfI8bOdfI1GC80J80JTable \ref{Table:8bO}S8bNNN0E2Basics8bO1AN0E1Scrolling)  or with the keyboard commands listed below.  Note
+however, that the position of the  cursor or the target selection  remains unchanged
+by these actions even when  no longer visible in the window. 
+
+8fPIN2A0L8bOKN0E18fPJN2A0J8bN8ON0E2Redraws the window and repositions the document so that the
+cursor or target selection will be placed at the middle line of the
+window.8bOKN0E1C-L8fPJN2A0J8bN2IN0E2Scrolls the document one page up.8bOKN0E1C-V8fPJN2A0J8bN2KN0E2Scrolls the document one page down.8bOKN0E1M-V
+Since  8fPIN2A068bOKN0E1C-V and 8fPIN2A068bOKN0E1M-V do  not alter  the cursor position or target selection,
+8fPIN2A068bOKN0E1C-L can be used to scroll back to it again.
+
+8fPKN2A0*8bMHN@E3"8bO2CN0E1Erasing and Retrieving Text8bNIN0E28fPHN2A0/
+
+
+The commands to  erase8fPON2A0=8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2erasing8bOLN0E1text and  retrieve8fPON2A0=8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1BN0E2retrieving8bOLN0E1text text  are listed below.   Note that 
+``deleted'' or ``killed'' target terms can always be retrieved from the buffer. 
+However if the target is empty (i.e8fPHN2A0ISff9d826I   !1MCdot(abbrev)GVff9d827C#!DC. FC80J.\ Tthe black diamond edit cursor is visible) ``deleted''
+items cannot be retrieved whereas ``killed'' items are stored in a system buffer
+and can be retrieved using the ``yank'' operation.
+
+8fPIN2A0G8bO1BN0E18fPJN2A0J8bN4GN0E2Delete the target  or the character to the right of the
+cursor.8bOKN0E1C-D8fPJN2A0J8bN4FN0E2Delete the target or the character to the right of the
+cursor.8bOIN0E18fPIN2A068bOKN0E1Del8fPJN2A0J8bN4FN0E2Delete the target  or the character to the left of the
+cursor.8bOKN0E1C-H8fPJN2A0J8bN4EN0E2Delete the target or the character to the left of the
+cursor.8bOIN0E18fPIN2A068bO1AN0E1Backspace8fPJN2A0J8bNeEN0E2Kill all the characters to the right of the cursor up to the next 
+expression or newline character. If the cursor is at a newline 
+character or immediately to the left of an expression8fPON2A0=8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bNON0E2killing8bO1BN0E1expression or
+template, this  will be killed. 8bOKN0E1C-K8fPJN2A0J8bN3ON0E2Kill the target or the word to the right of the cursor.8bOKN0E1M-D8fPJN2A0J8bN3NN0E2Kill the target or the word to the left of the cursor.8bOKN0E1M-8fPIN2A068bOKN0E1Del8fPJN2A0J8bN2BN0E2Kill the target selection.8bOKN0E1C-W8fPJN2A0J8bN7EN0E2Append the text which is  killed (with the  command that follows
+ this one) to the most recently killed text.8bOLN0E1CM-W8fPJN2A0J8bN5KN0E2Retrieve the most recently killed text and insert it at the
+position of the cursor.8bOKN0E1C-Y
+
+The  killed text and expressions can be expanded as long as the kill commands
+are used. Any other action will end the killed text following which  a new kill 
+command will place the text in the buffer from where it can be restored later.
+8fPKN2A0*8bMHN@E3"8bO1HN0E1Transposing text8bNIN0E28fPHN2A0-The following two commands can be used to interchange the order of  two
+textual units.8fPON2A0=8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1CN0E2transposing8bOLN0E1text
+8fPIN2A0L8bOJN0E18fPJN2A0J8bN11ON0E2Transposes the character to the left with that to the  right of the
+cursor and moves the cursor one position to the right. Many
+typing errors can be recovered using this command. Note that
+an expression is handled as if it were a single character and so is
+moved  in its entirety8bOKN0E1C-T8fPJN2A0J8bNfNN0E2Transposes the words to the left and right of the cursor and
+moves forward one word. If the cursor is within a word, that
+word and the next one will be used. An expression is handled in
+this  case as a single character that is not part of a word.8bOKN0E1M-T
+These commands can not be used  to transpose parts of an expression.
+8fPKN2A0*8bMHN@E3"8bO1HN0E1Find and Replace8bNIN0E28fPHN2A0/
+Incremental search and query replace 8fPON2A0=8bIHN0E78bJHN0E68bKIN0E5(8bLHN@E4$8bMHN0E38bNHN0E28bO2AN0E1incremental query replacecommands based on the corresponding
+Emacs functions are  available for use in 8fPHN2A0?. These commands can
+be called with the following key combinations.
+8fPIN2A0L8bOKN0E18fPJN2A0J8bN18NN0E2Initiate  the search process which  is to be in a forward direction 
+starting from the target or cursor position. 8fPHN2A0?
+asks in the console for the search string and  will search for each
+symbol as it is being entered. Note that a  template8fPON2A0=8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1EN0E2searching for8bOPN0E1template may be
+entered but it must be the one and only symbol in the search
+string. During the search the following keys may be pressed or 
+actions performed:
+8fPIN2A0G8bOPN0E18fPJN2A0I8bNaLN0E2If the search string is empty the template will be 
+used as the search string. It, however, may not be
+ edited. Otherwise the click on the template will
+be ignored.8bO2LN0E1a click with the mouse on a template8fPJN2A0I8bN6EN0E2Add the character to the search string and
+search  for the next occurrence of the new
+string.8bO3DN0E1press a  letter, symbol or 8fPIN2A068bONN0E1return on the keyboard8fPJN2A0J8bNfDN0E2Search in a forward direction for the next
+occurrence of the search string.  If the last search
+action failed 8fPHN2A0? will start searching
+from the beginning of the document. If  the
+search string is empty the last search string will
+be used.8bOKN0E1C-S8fPJN2A0J8bNfLN0E2Search in a backward direction for the previous
+occurrence of the search string. If the last search
+action failed 8fPHN2A0? will start searching
+backward from the end of the document.  If the
+search string is empty the last  search string will
+be used.8bOKN0E1C-R8fPJN2A0J8bN5DN0E2End the incremental search and leave the
+selection  at the current position.8bOKN0E1Esc8fPJN2A0J8bN7JN0E2Return the selection to the previous position and
+if appropriate delete the end character  from the
+search string.8bOKN0E1Del8fPJN2A0J8bNPN0E2As for 8fPIN2A068bOKN0E1Del8bO1AN0E1Backspace8fPJN2A0J8bN5LN0E2Cancel the incremental search and move the 
+selection back to its original position.8bOKN0E1C-G8bOKN0E1C-S8fPJN2A0J8bN10KN0E2Start a backward incremental search. The same commands  as
+for the  forward incremental search (8fPIN2A068bOKN0E1C-S) are used.
+
+Note that although both incremental  searches closely resemble 
+the corresponding Emacs  function  not all the  features of the
+latter are available.8bOKN0E1C-R8fPJN2A0J8bN4bNN0E2Initiate a query-replace command.  Caution, before proceeding
+with this command ensure that the cursor is where you require
+it. 
+
+The query replace will ask for two strings, the  string  to be
+sought  and the replacement string.  Both strings must be of the
+same   type  and there are two types possible. The first type is a
+sequence of characters or symbols input from the keyboard or a
+symbol palette and terminated with a 8fPIN2A068bONN0E1return. The second type is a
+template input from a stencil  palette. Thus a string consisting of
+a mixture of templates and other symbols is not allowed.
+
+After the two strings have been entered 8fPHN2A0? will search
+for occurrences of the search string within the scope   of the
+query-replace  command. The scope is  either the source
+selection if  this  is set and is visible in the window or it is  the
+portion  of the document stretching from the target or
+cursor up to the end of the document. If an occurrence of the
+search string is found the user is asked to respond with one of the
+following inputs:.
+8fPIN2A0H8bOMN0E18fPJN2A0J8bN4KN0E2Replace this occurrence of the first string with
+the second string.8bO1CN0E1y, Spacebar8fPJN2A0J8bN1MN0E2Skip this occurrence.8bONN0E1n, Del8fPJN2A0J8bN9CN0E2Replace all remaining occurrences of the first
+string with the second string without
+prompting and move the cursor to the last
+replacement.8bOIN0E1!8fPJN2A0J8bN5EN0E2Stop the query replace  leaving the cursor or
+target at its present position.8bONN0E1q, Esc8fPJN2A0J8bN8ON0E2Stop the query replace and move the cursor or
+target back to its original  position. 
+Replacements already carried out are  not
+undone.8bOKN0E1C-GNote that the replacement of  a template will also replace the
+information concerning the kind of template, spacing and
+precedence.  Missing arguments for an  operator are not added. 8bOKN0E1M-8fPHN2A0ISe1d5142P   *2NCSpecialChars1JCLatex2e#SpecialCharsHelpGVe1d5143A#!CC#GC80J\#{}GVe1d5143B#!CC$GC80J\${}GVe1d5143C#!CC%GC80J\%{}GVe1d5143D#!CC&GC80J\&{}GVe1d5143E#"CC~HC{\sim}GVe1d5143F#!CC_GC80J\_{}GVe1d5143G#!DC80J^GC80J\^{}GVe1d5143H#"CC\NC{\backslash}GVe1d5143I#!CC{EC80J\{GVe1d5143J#!CC}EC80J\}\The incremental search and query replace can also  be terminated   by clicking
+in an edit window.8fPON2A0=8bIIN0E7)8bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO2AN0E1incremental query replace
+
+
+
+8fPKN2A0*8bMHN@E3"8bO1EN0E1Miscellaneous8bNIN0E28fPHN2A0/
+The following additional commands are available to make working 
+with 8fPHN2A0? a little easier.
+8fPIN2A0L8bOKN0E18fPJN2A0J8bN7MN0E28fPHN2A0? asks for a  number 8fPIN2A0:8bOIN0E1n in the console  and  then
+moves the cursor to the line which produces the 8fPIN2A0:8bOIN0E1nth line of
+8fPHN2A0D code8fPON2A0=8bIHN0E78bJHN0E68bKHN0E58bL2JN0E48fPHN2A0D code --- go to {\it n}th line of8bMHN0E38bNHN0E28bO2NN0E1LATEX code --- go to {\it n}th line of.8bOKN0E1M-L8fPJN2A0J8bN11LN0E2Remove the dots displayed around a text place holder or, 
+alternatively, if they are not displayed, show them. These dots
+can be used to check that the correct selection is made. They  are
+also used to be able to place the cursor after the last symbol  in a
+text place holder.8bOKN0E1C-.8fPJN2A0I8bN12FN0E2Move the displayed expression8fPON2A0=8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bM1EN0E3repositioning8bN1AN0E2displayed8bO1BN0E1expression, entered with the 8fPIN2A048bO1CN0E1Insert Disp button
+from the console  or the 8fPIN2A068bOJN0E1F6 key, to the left or right by one tab
+distance. While all displayed expressions should start at the
+same distance from the left margin, it could be that some
+expressions need  extra or less indentation.8bO1MN0E1CM-left,     CM-right
+Furthermore, some keys receive special treatment when they are used
+in expressions. 
+
+The 8fPIN2A068bOMN0E1space character can not be inserted into an expression or identifier and
+when this is tried, the editor will move the selection to the next empty place
+holder or text position, which ever comes first. If a text position is found, the
+space will be inserted at that position. Otherwise the space will not be inserted.
+For example, when an identifier8fPON2A0=8bIHN0E78bJHN0E68bKHN0E58bLHN0E48bMHN0E38bN1CN0E2terminating8bO1DN0E1place holder is used in a text and the name is filled in, the
+name can be ended with a space character which will be inserted immediately
+after the identifier in the text. However, when the identifier is part of a larger
+expression with empty place holders after the identifier then the selection will
+move to the first empty place holder after the identifier. 
+
+The 8fPIN2A068bOPN0E1C-return key is similar except  a  return is entered in the text instead
+of a space. The 8fPIN2A068bONN0E1return key can also be used to terminate an expression or
+identifier but in this case neither a return nor a space is entered into the text.
+
+The ``8fPIN2A068bOIN0E1('' key will place parentheses around an expression or insert it in an identifier.
+The ``8fPIN2A068bOIN0E1)'' key will insert a parenthesis in an identifier if the matching opening brace is in
+that identifier. Otherwise the smallest parenthesised expression is selected. The
+combination of those two keys makes it possible to insert an expression from left
+to right.
+
+The 8fPIN2A068bOIN0E1, key will insert a comma after the identifier and insert a new identifier or
+expression after the comma. If it is not possible to do this, the comma will be
+inserted in the identifier.
+
+In order to test the effect of a keyboard definition file the key combination 8fPIN2A068bOLN0E1CM-8fPIN0A08ePHN2B0ISafa0e25I$ /"0GVafa0e25G#"CC\MC{\setminus}GVafa0e25H#"DC\-JC\revobar` can be 
+used.  Subsequent  keystrokes (whether or not combinations) are displayed in the console
+as they are received and interpreted by   8fPHN2A0?.  The combination 8fPIN2A068bOKN0E1C-A terminates
+this feature and returns the system to its normal state.
+
+
+8fPKN2A0*8bMHN@E3"8bOON0E1Pasting8bNIN0E28fPHN2A0/
+In order to facilitate the transportation of information between 8fPHN2A0? 
+documents and other systems a primitive 8fPIN2A0<8bOON0E1pasting8fPON2A0=8bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOON0E1pasting  mechanism is provided. 
+The mechanism works by inserting text contained in the window port (a  buffer
+managed by the window system) into a 8fPHN2A0? document or, vice-versa,
+placing information from a 8fPHN2A0? document into the window port.  Text 
+transported from a 8fPHN2A0? document to the window system via this port is
+first translated to 8fPHN2A0D to ensure that it is accepted by other  programs. For
+normal text, there will be no difference between the 8fPHN2A0D code and the ascii
+representation.  
+
+The steps for pasting a part of a 8fPHN2A0? document into another window are
+as follows:
+8fPIN2A0ISe1dbb24P   "21OCItemize                      3BCLatex2eB#Description, Enumerate and Itemize HelpGVe1dbb25A'!2HC81PbfMItemdfM80BbfMizedfM
+82Hitems82I8bO82A bfMEnd ItemizedfM
+2DC80J\begin{itemize}80I8bO 80I\end{itemize}80IICItemizeGVe1dbb25B'!1DC   221J 80C80E{82Htext82I8bO}80F
+LC80J\item 8bO 80IFCItemb8bOKN0E18fPIN2A0a8bO5PN0E1Select the text (or expression) that should be converted to 8fPHN2A0D with the
+near mouse button8fPIN2A0a8bObCN0E1Press the 8fPIN2A068bOKN0E1F10 key. The selection is now converted to 8fPHN2A0D and will
+remain  available until something is selected in another program. Using the
+selection in 8fPHN2A0? is still possible.8fPIN2A0a8bObLN0E1Paste the selection in the other program, which is done by using the
+8fPIN2A048bOMN0E1Paste key, mouse button or menu option. (Consult the documentation on
+your window manager to see how this is done.)
+
+The steps to copy text from another program to 8fPHN2A0? are:
+8fPIN2A0b8bOKN0E18fPIN2A0a8bO2MN0E1Select the text in the other program.8fPIN2A0a8bOdIN0E1Make the text available for other programs. Some programs do that
+automatically, other programs have a key or a menu option for this.
+(Consult the documentation on your window manager to see how this is
+done.)8fPIN2A0a8bO7BN0E1Paste the selection in 8fPHN2A0? by using the 8fPIN2A068bOJN0E1F3 or 8fPIN2A068bOKN0E1F18 key. The latter
+key is labelled ``Paste''  on a Sun keyboard.
+
+8fPKN2A0'8bM1MN0E3TextEditing.Templates8bO1AN0E1Templates8bNIN0E28fPHN2A0/
+Templates can also be used to advantage in (non-mathematical) text. For
+example, templates are provided in the 8fPIN2A068bOON0E1latex2e stencil for the selection of fonts 
+and  sizes.  With this facility you can enter, for instance,  8fPIN2A0ISe196d0dO   *2JCTextSize1GCLatex2eA#TextSizeHelpGVe196d0dP%!FC80JccD8bO80PFCtinyGVe196d0eA%!FC80Jc4C8bO80PLCscriptsizeGVe196d0eB%!FC80Jc4B8bO80PNCfootnotesizeGVe196d0eC%!FC80Jc4A8bO80PGCsmallGVe196d0eD%!FC80Jc3P8bO80PLCnormalsizeGVe196d0eE%!FC80Jc3O8bO80PGClargeGVe196d0eF%!FC80Jc3N8bO80PGCLargeGVe196d0eG%!FC80Jc3M8bO80PGCLARGEGVe196d0eH%!FC80Jc3L8bO80PFChugeGVe196d0eI%!FC80Jc3K8bO80PFCHugej8bOIN0E18fPIN2A048bO1LN0E1tiny sans serif text  or
+8fPIN2A0e8bOIN0E18fPIN2A068bO1GN0E1large bold text.  Templates can also be used for section and chapter
+headings, for indexing, for footnotes, for quotations and so on.  They are
+particularly useful as a mechanism to save you the chore of  repeatedly entering
+the same information (with the attendant risk of error).  For instance, you may
+wish to construct an ``address'' template containing versions for your postal
+address, your email address and your personal world-wide web URL.  A single
+click is then sufficient to enter the information into a document.  (If you exploit
+this possibility take care to get the information in the template definition  exactly
+right. Computers do not 8fPIN2A0<8bO1AN0E1eliminate error:  the advantage of using them is that,
+unlike human beings, they do not 8fPIN2A0<8bO1AN0E1introduce error.  Their disadvantage is that
+any errors we introduce are faithfully reproduced, and potentially at a very high
+rate!) 
+
+To change the font (say) of text that has already been
+entered it suffices to set the target to the text to be printed in a different font and
+then click on the appropriate version in the 8fPIN2A048bO1AN0E1TextStyle template in the 8fPIN2A068bOON0E1latex2e stencil.
+
+In general, if a template with one or more text place holders is used when a
+target selection has been set, the selected text will be inserted at the first
+available text place holder in the template. 
+
+Information within a text place holder can be edited like  normal text and can
+contain the same items as  normal text. Thus  a text place holder may contain,
+for example, expressions  and special symbols. To insert information in a text 
+place holder, click on the place holder and  and then proceed as usual.  
+
+Inside a  tabbing environment  8fPHN2A0D's automatic  line breaking routines  are
+disabled.  Therefore when filling a text place holder in a tabbing  environment
+the user should  insert line breaks at the appropriate places. The
+proportionally-spaced font  used in the screen version of the document is a help
+in this situation.
+
+There is an automatic   line wrap8fPON2A0=8bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bO1AN0E1line wrap facility that can be turned on or off (turning
+off is not yet implemented).  In addition a line wrap can be executed on the target
+via the console.  See the section on console commands.  There is no right-justify
+facility.%8fPON2A0=8bIHN0E78bJHN0E68bKHN0E58bLHN@E4$8bMHN0E38bNHN0E28bOIN0E18fPIN2A068bO2BN0E1Features to be implemented

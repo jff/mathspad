@@ -1,0 +1,56 @@
+
+
+Undefined symbols from util/.libs/libutil.so.0.0.0:
+
+    .div
+    .rem
+    .umul
+    FilenametoUstr
+    LocaletoUstr
+    Ustrcmp
+    Ustrcpy
+    Ustrlen
+    Ustrrchr
+    UstrtoFilename
+    UstrtoLocale
+    __ctype
+    __iob
+    calloc
+    closedir
+    endpwent
+    fclose
+    fgetc
+    fgets
+    fopen
+    fprintf
+    free
+    fseek
+    getcwd
+    getenv
+    getgid
+    getpwnam
+    getpwuid
+    getuid
+    link
+    malloc
+    memcpy
+    opendir
+    pclose
+    popen
+    printf
+    qsort
+    readdir
+    realloc
+    setpwent
+    sprintf
+    stat
+    strcmp
+    strcpy
+    strlen
+    strncpy
+    sys_errlist
+    sys_nerr
+    time
+    toupper
+    uctype
+    unlink

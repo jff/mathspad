@@ -1,0 +1,74 @@
+An example of a program in the interface language:
+
+
+A general function for a keyboard file:
+
+function UpdateEnums(Selection scope, Template tmpl)
+{
+    Selection te;
+    VersionId env, item;
+
+    env := version(tmpl, 1);
+    item := version(tmpl, 2);
+    te:=StartOf(scope);
+    
+    do  Find(te, env, scope)   ->
+        Selection ti;
+	Integer i;
+	i:=1;
+	ti:=te;
+	do Find(ti, item, te)  ->
+	      SetAttrib(ti, "num", i);
+	      i:=i+1;
+	      Right(ti);
+        od
+    od
+}
+
+
+In a template definition, the update sequence.
+The template defines attributes with names. These
+attributes are variables local to the instance of
+the template. The update sequence is the body of a
+function with the attributes and the current position
+in the tree as arguments.  For the enumerate template,
+with integer attribute "num" the update sequence could be:
+
+{ Selection t;
+  t:=current;
+  LeftNode(t);
+  if t /\ VersionId(t,vid) -> num:=IntField(t, "num")+1;
+  []    -> num:=1;
+  fi
+  t:=current;
+  RightNode(t);
+  CallUpdate(t);
+}
+
+
+For defining the keyboard, uninterpreted functions are needed.
+The function MapleIntegrate should be added without first being
+evaluated.  The second argument of Bind should be a reference to
+an expression, not the value of that expression.
+
+keyboard maple {
+    Bind( [c-s], @MapleIntegrate(target, source));
+}
+
+
+Defining windows.
+A window can contain local variables.  Each copy of the windows has its
+own set of local variables.  To define buttons and menus, the callback
+functions  are passed uninterpreted.  
+
+
+window Document {
+   String filename;
+   Object contents;
+   Mode   outputmode;
+
+   Button("Save", @SaveObject(filename, contents));
+   Button("Save as ...", @OpenFileselector(filename, "Save document as ...",
+					   @SaveObject(filename,contents)));
+
+}

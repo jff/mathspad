@@ -1,0 +1,9 @@
+
+unsigned alarm(unsigned a) { return 0; }
+getgid(void) { return 0; }
+getuid(void) { return 0; }
+system(const char *c) { return 0; }
+void endpwent(void) { return; }
+void setpwent(void) { return; }
+void *getpwuid(uid_t a) { return 0; }
+void *getpwnam(char *a) { return 0; }

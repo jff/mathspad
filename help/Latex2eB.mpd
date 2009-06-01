@@ -1,0 +1,1428 @@
+[4mMathpad Document
+[0mc1bKN0E0
+
+
+
+©  1996 Hilary Backhouse\\
+All rights reserved.  No part of this publication may be reproduced, in any form, or by any
+means without prior permission in writing from the copyright holder.   Permission is 
+however granted to make and distribute verbatim copies of the 8fPHN2A0ISafa0e17G   !0GVafa0e17F#!MC80JbfIMath222LpaddfILC80J\mplogo{}  document
+and stencil files used to create this publication.  Permission is also granted to modify the
+8fPHN2A0  document and stencil files for individual use but not to distribute such
+modifications without the express  written permission of the copyright holder.  The
+8fPHN2A0  files may  not be processed by any other system than the
+8fPHN2A0  system and may not be converted to any other format, electronic or
+otherwise, without the express  written permission of the copyright holder. 
+
+
+
+8fPIN2A0ISfe1c3a6C   "1FClinkGVfe1c3a6J'!DC80J BC1ACLink (editable)GVfe1c3b0O'!DC80J BCOCLink (hidden)"8bO1IN0E1ListtemplatesHelp8fPJN2A0ISe1d4f11P   +2PCSectionHeading2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f1aC'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+HC80J8bN{8bO}80IKC{heading}GVe1d4f20A'!3CC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80IPC[toc]{heading}GVe1d4f27D'!2MC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1CC[no no.]{heading}GVe1d4f2aE'!2NC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1AC80J8bN{8bO}\label{8bM}80IPC{heading}labelGVe1d4f2eB'!3LC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1EC[toc]{heading}labelGVe1d4f12M'!3FC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1BC80J8bN*{8bO}\label{8bM}80I1HC[no no.]{heading}labelGVe1d4f12H'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80I1EChide-[toc]{heading}GVe1d4f12I'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1IChide -[no no.]{heading}GVe1d4f12J'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1AC80J8bN{8bO}\label{8bM}80I1EChide-{heading}labelGVe1d4f12K'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1JChide-[toc]{heading}labelGVe1d4f12L'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1BC8bN80J*{8bO}\label{8bM}80I1MChide-[no no.]{heading}label-8bNIN0E28fPHN2A0ISe1d4f86L   '21ACSectioningTypes2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f86M#!JCcbLbfKPartdfK80PHC80J\partGVe1d4f86N#!MCcbMbfKChapterdfK80PKC80J\chapterGVe1d4f86O'!MCcbNbfKSectiondfK80PKC80J\sectionMCcbObfKSectiondfKccAGVe1d4f86P#!PCcbObfKSubSectiondfK80PNC80J\subsectionGVe1d4f87A#!1ACbfKSubSubSectiondfK1AC80J\subsubsectionGVe1d4f87B#!MCbfKParagraphdfKMC80J\paragraphGVe1d4f87C#!PCbfKSubParagraphdfKPC80J\subparagraph38bONN0E1Lists 
+
+8fPIN2A0"8bO2ON0E1Description, Enumerate and Itemize Help8fPJN2A0-8bNIN0E28fPHN2A028bO2KN0E1Description, Enumerate and Itemize 
+
+8fPHN2A0ISe1cfa44M   %2GCLaTeX1CCLatex2e#LaTeXHelpGVe1cfa44N#!1FCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NXKC80J\LaTeX{}GVe1cfa44O#!MCT81K81L81K81L81ME81N81M81NXIC80J\TeX{}GVe1cfa45A#!1HCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NX23bF4AC80J{\mathsurround=0pt\LaTeX $2_80L{\textstyle 3bF}$\hspace{-0.4mm}}{}GVe1cfa45B#!1BCBccAIB80PT81K81L81K81L81ME81N81M81NX1FC80J80J\textsc{Bib}\TeX{}GVe1e4779B#!MCbfMMakeIndexdfMOCbfMMakeIndexdfM{}9 has three ready-to-use
+list making environments. These are called 8fPIN2A0ISe196d18D   +2KCTextStyle1HCLatex2eA#TextStyleHelpGVe196d18N'!FC80JbfJ8bOdfJKC80J\emph{8bO}1CCbfMEmphasizeddfM textGVe196d18E'!DC80J8bOMC80J\textup{8bO}OCUpright shapeGVe196d18F'!FC80JbfM8bOdfMMC80J\textit{8bO}PCbfMItalicdfM shapeGVe196d18G'!FC80JbfJ8bOdfJMC80J\textsl{8bO}1ACbfJSlanteddfJ shapeGVe196d18H'!DC80J8bOMC80J\textsc{8bO}1FCSccBMALLcbPcbNCccBAPS cbNshapeGVe196d18I'!DC80J8bOMC80J\textmd{8bO}OCMedium seriesGVe196d18J'!FC80JbfO8bOdfOMC80J\textbf{8bO}OCbfOBolddfO seriesGVe196d18K'!DC80J8bOMC80J\textrm{8bO}NCRoman familyGVe196d18L'!FC80JbfI8bOdfIMC80J\textsf{8bO}1ECbfISans SerifdfI familyGVe196d18M'!FC80JbfH8bOdfHMC80J\texttt{8bO}1ECbfHTypewriterdfH familyGVe196d18O'!FC80JbfK8bOdfK1GC80J\textbf{80J\textit{8bO}}1NCbfKBolddfK series bfKItalicdfK shapeD8bO1CN0E1description, 8fPIN2A0D8bO1AN0E1enumerate and 8fPIN2A0D8bOON0E1itemize
+respectively. The
+difference between them is how the items  are marked. Each item in a description type list
+begins with a label, that in an enumerate type list with a number and that in an itemize
+type list with a bullet. An example of each is shown below. 
+
+8fPIN2A0ISe121c01N   #1JChtabbingGVe121c02H#!CC8bO3GC\begin{tabbing}
+\hspace*{1.5cm}\=\kill
+8bO\end{tabbing}GVe121c0aA'!FC8bO80C8bN
+NC8bO\>8bN\\[2mm]80IFClineGVe121c0eP'!EC8bO80C8bNGC8bO\>8bN80IKClast lineG8bOKN0E18fPJN2A0F8bN4AN0E2This is an example of an item in a description type list.8bOJN0E18fPIN2A0>8bONN0E1First  8fPJN2A0F8bN3PN0E2This is an example of an item in an enumerate type list.8bOJN0E11.8fPJN2A0E8bN3NN0E2This is an example of an item in an itemize type list.8bOIN0E1202C
+
+There is a separate template for each type and they are called 8fPIN2A0<8bO1CN0E1Description, 
+8fPIN2A0<8bO1AN0E1Enumerate and 8fPIN2A0<8bOON0E1Itemize respectively. The three templates are used in a similar way. First enter 
+the list environment into the document by clicking on the  first version of the
+template. Its place holder becomes the target selection. Click on the second version
+and a template for the first item is inserted into the list. For the enumerate and
+itemize commands the version has just one place holder into which the text of the
+first item in the list should be entered. The item version of the description environment 
+has two  place holders---the left one  for
+the label and the  other for the text. 
+
+After the first item in the list has been entered, use  the right arrow on the keyboard   to
+move out of the place holder but to remain within the list environment.  If the dots are
+shown on the screen the cursor should be just before the last dot. Then click on the 8fPIN2A0<8bOLN0E1Item
+version again and a template for the second entry in the list will appear on the screen.
+Continue in this manner until the list is complete. To enter an item between two existing
+items in the list position the cursor between the two items and select the 8fPIN2A0<8bOLN0E1item version. 
+
+Note that, although numbers mark the entries of an enumerated list in the printed output,
+they are  marked on the screen by ``(8fPIN2A0ISe196d0dO   *2JCTextSize1GCLatex2eA#TextSizeHelpGVe196d0dP%!FC80JccD8bO80PFCtinyGVe196d0eA%!FC80Jc4C8bO80PLCscriptsizeGVe196d0eB%!FC80Jc4B8bO80PNCfootnotesizeGVe196d0eC%!FC80Jc4A8bO80PGCsmallGVe196d0eD%!FC80Jc3P8bO80PLCnormalsizeGVe196d0eE%!FC80Jc3O8bO80PGClargeGVe196d0eF%!FC80Jc3N8bO80PGCLargeGVe196d0eG%!FC80Jc3M8bO80PGCLARGEGVe196d0eH%!FC80Jc3L8bO80PFChugeGVe196d0eI%!FC80Jc3K8bO80PFCHugeN8bOIN0E18fPIN2A0B8bOIN0E1n)''.
+
+Note also that entering the symbols `` [ ''  or `` ] '' into either the ``label'' or the ``text'' place
+holder of an 8fPIN2A0<8bOLN0E1Item version may be mistaken for the start or end of an optional
+argument by 8fPHN2A09. Enclosing the `` [ ''  or `` ] '' in braces will solve the problem. 8fPHN2A0ISe1ec753N   %2OCAbbreviations1LCLatex2eB#AbbreviationsHelpGVe1ec753O#!GCe.g. IC80Je.g.\ GVe1ec753P!!ICbfMetc. dfMGVe1ec754A#!GCi.e. IC80Ji.e.\ GVe1ec754B#!GCE.g. IC80JE.g.\ GVe1ec754C#!GCI.e. IC80JI.e.\ R
+type `` 8fPHN2A0ISe1d5142P   *2NCSpecialChars1JCLatex2e#SpecialCharsHelpGVe1d5143A#!CC#GC80J\#{}GVe1d5143B#!CC$GC80J\${}GVe1d5143C#!CC%GC80J\%{}GVe1d5143D#!CC&GC80J\&{}GVe1d5143E#"CC~HC{\sim}GVe1d5143F#!CC_GC80J\_{}GVe1d5143G#!DC80J^GC80J\^{}GVe1d5143H#"CC\NC{\backslash}GVe1d5143I#!CC{EC80J\{GVe1d5143J#!CC}EC80J\}X [ 8fPHN2A0W '' in place of `` [ '' or `` 8fPHN2A0X ] 8fPHN2A0W '' in place of `` ] ''.  Alternatively
+enter the square brackets with template 8fPIN2A0<8bO1EN0E1SquareBracket.
+
+A general purpose template for lists wherein the user defines the layout is called
+8fPIN2A0<8bO1AN0E1List(DIY).
+
+
+8fPIN2A0"8bO1EN0E1List(DIY)Help8fPJN2A0-8bO1AN0E1List(DIY)8bNIN0E28fPHN2A02
+This template is for users who  are not content with the standard 8fPHN2A09 list making
+environments but wish to design their own list structures. Note that it is possible to
+customise the description, enumerate and itemize environments. A detailed
+description of how to do this can be found in ``The 8fPHN2A09 Companion'' by Goossens,
+Mittelbach and Samarin, Addison-Wesley Publishing Co., 1994.
+
+To design your own list, first enter version 8fPIN2A0<8bOLN0E1List into your document. You will see that
+you must fill three place holders. The third of  these is named ``items'' and must be
+filled with the entries of the list. Make this place holder the target selection and click
+on one of the two 8fPIN2A0<8bOLN0E1Item versions of the template. A template for the first item of the
+list will be inserted into the  place holder. If version 8fPIN2A0<8bO1BN0E1Item-label has been selected
+then two place holders are provided and the user must not only enter the text of the
+item but must also enter the text of the label to be assigned to it. If version
+8fPIN2A0<8bO1JN0E1Item-default label has been selected then only one place holder appears and the user
+need only enter the text of the entry. To insert a second entry into the list, make the
+first item the target selection. Then press either the left or right arrow key on the
+keyboard to move the target cursor to either immediately before or after the existing
+entry. Now click on one of the 8fPIN2A0<8bOLN0E1Item  versions again and a template for the second
+entry in the list will appear on the screen. Continue in this manner until the list is
+complete. Note that a list need not consist wholly of items  entered with just one of the
+8fPIN2A0<8bOLN0E1Item versions but may have a mixture of both versions. 
+
+Note also that entering the symbols `` [ ''  or `` ] '' into either the ``label'' or the ``text'' place
+holder of an 8fPIN2A0<8bOLN0E1Item version may be mistaken for the start or end of an optional
+argument by 8fPHN2A09. Enclosing the `` [ ''  or `` ] '' in braces will solve the problem. 8fPHN2A0R
+type `` 8fPHN2A0X [ 8fPHN2A0W '' in place of `` [ '' or `` 8fPHN2A0X ] 8fPHN2A0W '' in place of `` ] ''.  Alternatively
+enter the square brackets with template 8fPIN2A0<8bO1EN0E1SquareBracket.
+
+
+We will now return to the other two place holders which were named ``default label''
+and ``declarations'' respectively. The first of these is used to specify how an item in
+the list is to be labelled if it has been entered with the 8fPIN2A0<8bO1JN0E1Item-default label version of the
+template.  You could define the default label to be a bullet (202C) just as in the 8fPIN2A0<8bOON0E1Itemize list
+or you could enter a space from the keyboard and no label will appear in the output.
+Another possibility is to define a new counter and use that to label the items.  In this
+case, the command to generate a new counter (template 8fPIN2A0<8bO1BN0E1NewCounter from group
+8fPIN2A0>8bOPN0E1Counters) must precede the list statement. Then insert into the ``default label''
+place holder the instructions  specifying how and in which style the value of the
+counter  is to be printed. Finally you should insert version 8fPIN2A0<8bONN0E1UseCtr of template
+8fPIN2A0<8bOMN0E1OpsOn  (group 8fPIN2A0>8bOPN0E1Counters), with the name of the new counter in its place holder, 
+into the ``declarations'' place holder.  
+
+The final place holder to be filled is labelled ``declarations''. This is where the physical
+layout of the list can be specified. On page 113 of the 8fPHN2A09 manual is a diagram
+which shows you which lengths the various list parameters control. These length
+parameters are available as versions of template 8fPIN2A0<8bO1FN0E1ListParameters. Their values can
+be changed with template  8fPIN2A0<8bO1FN0E1Parameters-Ops from group 8fPIN2A0>8bO1EN0E1Preliminaries. For each
+parameter whose value you wish to change insert an
+instance of this latter template into the ``declarations'' place holder, click on the
+appropriate version of template 8fPIN2A0<8bO1FN0E1ListParameters and insert the new or change in length
+in the second place holder.  
+Finally, as mentioned above if you are using your own counter to label the items of the
+list you must also enter version 8fPIN2A0<8bONN0E1UseCtr of template 8fPIN2A0<8bOMN0E1OpsOn (group 8fPIN2A0>8bOPN0E1Counters)
+into this place holder.  
+
+
+The label of each item is positioned in a box. The fourth version of this template   can be
+used to redefine where in this box the  label should be placed. By default the label is
+positioned flush right in the box. This version is in fact a specific instance of the general
+version 8fPIN2A0<8bO1HN0E1renew def - args of template 8fPIN2A0<8bO1BN0E1NewCommand in group 8fPIN2A0>8bO1CN0E1Definitions. The
+place holders for  the ``name'' and ``number of parameters''  have already been filled in
+and the user need only insert the new definition of the command. The label is the
+parameter to the command and should be referred to in the definition by 8fPHN2A0`1.
+If need be see the help to template 8fPIN2A0<8bO1BN0E1NewCommand.
+
+8fPJN2A0-8bOON0E1Example8bNIN0E28fPHN2A008fPJN2A0ISe182dfcL   #2OCTabbing-Enter1FCLatex2eB#TabbingHelpGVe182dfcO'!4OCbfMBegin tabbingdfM
+bfO{dfO81P82Hkill-line82I8bNccBbfMkilldfM80P
+82HTabbing-Row(s)82I8bO82AbfO}dfO
+bfMEnd tabbingdfM
+1CC80J81P 80I8bN\kill 80I8bO80I82A 80IPCEdit kill-lineGVe182dfcN'!1PC
+81P80O8bN81ObfO{dfO82HTabbing-Row(s)82I8bO82AbfO}dfO
+1CC80J81P 80I8bN\kill 80I8bO80I82A 80IPCHide Kill-lineGVe182dfcM'!3MCbfMBegin tabbingdfM
+bfO{dfO81P82HTabbing-Row(s)DIY82I8bO82AbfO}dfO
+bfMEnd tabbingdfM
+KC80J81P 80I8bO80I82A 80IMCTabbing DIYb8bO1BN0E18fPJN2A0ISe185e45J   &2MCTabbing-Row1FCLatex2eB#TabbingHelpGVe185e45K'!3HC82Hitem182I8bO80C82Hitem282I8bN80C82Hitem382I8bM80C82Hitem482I8bL80C82Hitem582I8bK80C82Hitem682I8bJ
+2EC\MPnewitem 8bO80C8bN80C8bM80C8bL80C8bK80C8bJ\MPinsertsep80IKC6 col rowGVe185e45L'!2OC82Hitem182I8bO80C82Hitem282I8bN80C82Hitem382I8bM80C82Hitem482I8bL80C82Hitem582I8bK
+2CC\MPnewitem 8bO80C8bN80C8bM80C8bL80C8bK\MPinsertsep80IKC5 col rowGVe185e45M'!2FC82Hitem182I8bO80C82Hitem282I8bN80C82Hitem382I8bM80C82Hitem482I8bL
+2AC\MPnewitem 8bO80C8bN80C8bM80C8bL\MPinsertsep80IKC4 col rowGVe185e45N'!1MC82Hitem182I8bO80C82Hitem282I8bN80C82Hitem382I8bM
+1OC\MPnewitem 8bO80C8bN80C8bM\MPinsertsep80IKC3 col rowGVe185e45O'!1DC82Hitem182I8bO80C82Hitem282I8bN
+1MC\MPnewitem 8bO80C8bN\MPinsertsep80IKC2 col rowGVe185e45P'!KC82Hitem182I8bO
+1KC\MPnewitem 8bO\MPinsertsep80IKC1 col rowe8bNIN0E2 8bO5AN0E18fPIN2A0B8bONN0E1NewCtr8fPHN2A0X8fPIN2A0;8bOMN0E1MyCtr8fPHN2A0W                                                                     8fPJN2A0e8bNIN0E2 8bOIN0E18fPIN2A0B8bOLN0E1LIST8fPJN2A0e8bN2HN0E2219A ``default label'' place holder8bOON0E18fPHN2A0X8fPIN2A0B8bO1BN0E1PrintValue8fPHN2A0X8fPIN2A0;8bOMN0E1MyCtr8fPHN2A0W8fPIN2A0N8bOMN0E1roman8fPHN2A0W8fPJN2A0e8bN2MN0E2219A start ``declarations'' place holder8bO1KN0E18fPHN2A0X8fPIN2A0B8bO1EN0E1Renew Command8fPHN2A0X8fPIN2A0;8bOIN0E18fPHN2A0Y8fPIN2A0;8bO1AN0E1makelabel8fPHN2A0W 8fPHN2A0X1 argument8fPHN2A0W8fPJN2A0e8bNIN0E2 8bOMN0E18fPHN2A0ISe1f47d6C   -22ECHorizontal                         1ICLatex2eB#HorizSpaceHelpGVe1f47d6D'!1FCbfMHSpacedfM {82Hlength82I8bO}LC\hspace{8bO}OCspace{length}GVe1f47d6E'!1HCbfMHspace*dfM {82Hlength82I8bO} MC\hspace*{8bO}2GCspace{length}* also at start/end lineGVe1f47d6F'!ICbfMHFilldfMHC\hfill1ECfill out with spaceGVe1f490cL'!JCbfMHFill*dfM1AC\hspace*{\fill}1FCfill out with space*GVe1f47d6G'!CC DC\,LCthin spaceGVe1f47d6H'!CC EC80J\ 1EC1 inter-word space*GVe1f47d6I'!DC  GC80J\ \ 1GC2  inter-word spaces*GVe1f47d6J'!GC     MC80J\ \ \ \ \ 1GC5  inter-word spaces*GVe1f47d6K'!LC          1GC80J\ \ \ \ \ \ \ \ \ \ 1GC10 inter-word spaces*GVe1f47d6L'!FC    LC\hspace{8bO}1DChide-space{length}GVe1f47d6M'!FC    MC\hspace*{8bO}1EChide-space{length}*GVe1f47d6N'!FC    HC\hfill1FChide-fill with spaceGVe1f4910N'!FC    1AC\hspace*{\fill}1KChide-fill out with space*o8fPIN2A0>8bOIN0E18fPHN2A0X8fPHN2A0`18fPIN2A0B8bOON0E1HFill*8fPIN2A0>8bOIN0E18fPHN2A0W8fPJN2A0e8bNIN0E2 8bO1LN0E18fPIN2A0B8bONN0E1UseCtr8fPHN2A0X8fPIN2A0;8bOMN0E1MyCtr8fPHN2A0W8fPIN2A0B8bO1DN0E1 Set Length labelsep 8fPIN2A0B8bOJN0E1to 0cm8fPHN2A0W8fPJN2A0e8bN1LN0E2219A  start list proper8bO2GN0E18fPHN2A0o8fPIN2A0>8bOON0E1[ label 8fPHN2A0Xtext of first item in list8fPHN2A0W8fPJN2A0e8bNIN0E2 8bO2IN0E18fPHN2A0o8fPHN2A0p8fPIN2A0>8bOMN0E1label 8fPHN2A0Xtext of second item in list8fPHN2A0W8fPJN2A0e8bNIN0E2 8bOJN0E18fPHN2A0o8fPIN2A0>8bOIN0E1]8fPJN2A0e8bNIN0E2 8bOIN0E18fPIN2A0B8bOPN0E1End LIST8bNIN0E28fPIN2A0ISe182e01L   %21BCTabbing-KillLine1FCLatex2eB#TabbingHelpGVe182e01M'!5DC82Hitem col 182I8bO80B82Hitem col 282I8bN80B82Hitem col 382I8bM80B82Hitem col 482I8bL80B82Hitem col 582I8bK80BbfMitem col 6dfM1AC8bO\=8bN\=8bM\=8bL\=8bK\=1EC6-col (set 5 stops)GVe182e01N'!4FC82Hitem col 182I8bO80B82Hitem col 282I8bN80B82Hitem col 382I8bM80B82Hitem col 482I8bL80BbfMitem col 5dfMNC8bO\=8bN\=8bM\=8bL\=1EC5-col (set 4 stops)GVe182e01O'!3HC82Hitem col 182I8bO80B82Hitem col 282I8bN80B82Hitem col 382I8bM80BbfMitem col 4dfMKC8bO\=8bN\=8bM\=1EC4-col (set 3 stops)GVe182e01P'!2JC82Hitem col 182I8bO80B82Hitem col 282I8bN80BbfMitem col 3dfMHC8bO\=8bN\=1EC3-col (set 2 stops)GVe182e02A'!1LC82Hitem col 182I8bO80BbfMitem col 2dfMEC8bO\=1DC2-col (set 1 stop)w8bO4MN0E18fPIN2A0u8bOKN0E19cm                                                                    
+In the example above we first defined a new counter, 8fPIN2A0;8bOMN0E1MyCtr. We then clicked on version
+ 8fPIN2A0<8bOLN0E1List and filled the first place holder ``default label'' with the instruction that
+counter 8fPIN2A0;8bOMN0E1MyCtr was to be the label and to be printed in lowercase Roman numerals.
+Several instructions were entered into the ``declarations'' place holder.
+Firstly, we redefined the 8fPHN2A09 command 8fPIN2A0ISe1d5e5bI   &2JCVerbatim1FCLatex2e#VerbatimHelpGVe1d5e5bJ'!ECbfH8bOdfHKC80J\verb+8bO+1JCShort-No `+' in contentsGVe1d5e5bK'!ECbfH8bOdfHKC80J\verb?8bO?1JCShort-No `?' in contentsGVe1d5e5bM'!ECbfH8bOdfHLC80J\verb*+8bO+2ICShort-No `+' in contents, spaces as ccB229EcbNGVe1d5e8dO'!ECbfH8bOdfHLC80J\verb*?8bO?2ICShort-No `?' in contents, spaces as ccB229EcbNGVe1d5e5bL'!GC
+bfH8bOdfH
+2EC80J\begin{verbatim}80I8bO80I\end{verbatim}80I1ICLong-more than one lineGVe1d5f98F'!GC
+bfH8bOdfH
+2GC80J\begin{verbatim*}80I8bO80I\end{verbatim*}80I2HCLong-more than one line, spaces as ccB229EcbN8B8bOIN0E1\8fPIN2A0;8bO1AN0E1makelabel so that the label was 
+positioned flush left in the label box. Secondly we inserted the instruction
+specifying that counter 8fPIN2A0;8bOMN0E1MyCtr was to be used as the default label to items in the list 
+and thirdly we set the distance between the box for the label 
+and the text of the item to zero.
+
+8fPIN2A0"8bO1JN0E1ListParametersHelp8fPJN2A0-8bO1FN0E1ListParameters8bNIN0E28fPHN2A02
+The layout of a list is determined by the values in ten parameters. Each of these
+is available as a version of this template. You can see clearly how each of
+these parameters effect the layout of a list in the diagram
+on page 113 of the 8fPHN2A09 manual or on page 62 of
+``The 8fPHN2A09 companion''. For those who do
+not have either of these books to hand a brief description of these parameters follows:
+8fPIN2A0ISe1dbb1aO   "2MCDescription3BCLatex2eB#Description, Enumerate and Itemize HelpGVe1dbb1aP'!2PC81PbfMDescripdfM80BbfMtiondfM
+82Hitems82I8bO82A bfMEnd descriptiondfM
+2LC80J\begin{description}80I8bO 80I\end{description}80IMCDescriptionGVe1dbb1bA'!1JCbfO82Hlabel82I8bNdfO  80E{82Htext82I8bO}80F
+NC80J\item[8bN]8bO 80IFCItem8D8bO1CN0E18fPJN2A08C8bO8PN0E1Vertical space between first item in list and preceding text and 
+between last item in list and following text. This is a rubber length.8bNNN0E2topsep8fPJN2A08C8bO7JN0E1Extra vertical space between list and preceding text if list is preceded
+by a blank line. This is a rubber length.8bN1AN0E2partopsep8fPJN2A08C8bO5LN0E1The vertical space between two items in the list is 
+8fPIN2A0<8bOON0E1itemsep + 8fPIN2A0<8bONN0E1parsep. This is a rubber length.8bNON0E2itemsep8fPJN2A08C8bO5GN0E1The vertical space between paragraphs within an item. 
+This is a rubber length.8bNNN0E2parsep 8fPJN2A08C8bO13AN0E1The horizontal distance from the left margin of the text of the
+items in the list to the left margin of the enclosing environment. (If the list is
+not nested then this is the distance to the left margin of the page.) The default
+value of this parameter depends on the depth of nesting of the list.8bN1BN0E2leftmargin8fPJN2A08C8bO10PN0E1The horizontal distance from the right margin of the text of the
+items in the list to the right margin of the enclosing environment. (If the list is
+not nested then this is the distance to the right margin of the page.)
+The default value of this parameter is zero.8bN1CN0E2rightmargin8fPJN2A08C8bOcLN0E1The indentation at the start of all but the first paragraph within an
+item. (The first paragraph is not indented.) The
+default value of this parameter is zero. This may be set to a negative value.8bN1EN0E2listparindent8fPJN2A08C8bOdNN0E1The horizontal space between the box containing the label for an item
+in the list and the left margin of the enclosing environment. 
+The default value of this parameter is zero. This may be set to a negative value.8bN1BN0E2itemindent8fPJN2A08C8bO7PN0E1The horizontal space between the box containing the label for an item
+in the list and the start of the text of the item.8bNPN0E2labelsep8fPJN2A08C8bO7JN0E1The width of the box containing the label for an item. By default
+the label is positioned flush right in this box.8bN1BN0E2labelwidth
+The default values assigned to some of these parameters
+depend on the document class and the depth of nesting of the list. Note also that 
+the vertical lengths
+are rubber lengths. The default values can be altered using template
+8fPIN2A0<8bO1FN0E1Parameters-Ops in group 8fPIN2A0>8bO1EN0E1Preliminaries.
+
+
+
+8fPIN2A0"8bO1DN0E1TrivlistHelp8fPJN2A0-8bOPN0E1TrivList8bNIN0E28fPHN2A02
+This template can be used to insert a 8fPHN2A09 trivlist environment into a 
+document---usually into the definition of a new environment.
+Unlike template 8fPIN2A0<8bO1AN0E1List(DIY) this  list making environment has no additional place 
+holders with which to specify a default label or to redesign the layout of the list.
+Parameters 8fPIN2A0<8bO1BN0E1leftmargin, 8fPIN2A0<8bO1BN0E1labelwidth and 8fPIN2A0<8bO1BN0E1itemindent are automatically set to zero.
+See the 8fPHN2A09 manual for more details.
+ 
+
+8fPIN2A0"8bO1GN0E1MathematicsHelp8fPJN2A0-8bO1CN0E1Mathematics8bNIN0E28fPHN2A03
+8fPIN2A0"8bO1FN0E1MathAccentHelp8fPJN2A0-8bO1EN0E1Accents(Math)8bNIN0E28fPHN2A02
+
+This template can be used in two ways.
+Either click on the version required and then enter the symbol(s) to be accented into the 
+place holder or alternatively make the symbol(s)  the target selection and
+then click on the required version.
+
+The first ten versions are designed to be used with a single symbol. 
+The two versions, 8fPIN2A0<8bOON0E1widehat and 8fPIN2A0<8bO1AN0E1widetilde, should be used when a large hat or  
+tilde is required to fit over several symbols. 8fPHN2A09 will try to choose a size that is
+appropriate. The screen representation of these two versions is, I'm afraid, not good. 
+
+
+
+8fPIN2A0"8bO1AN0E1ArrayHelp8fPJN2A0-8bO2IN0E1Array-Enter, -DummyLine and -Line8bNIN0E28fPHN2A02
+
+To input an array into a document it is necessary to use three template, 8fPIN2A0<8bO1CN0E1Array-Enter, 
+8fPIN2A0<8bO1BN0E1Array-Line and 8fPIN2A0<8bO1GN0E1Array-DummyLine.
+
+First, insert into the document version 8fPIN2A0<8bO1DN0E1array (edit) of template 8fPIN2A0<8bO1CN0E1Array-Enter. Then
+insert into the first place holder, ``l'', ``c'' or ``r'' for each column of the array to be entered.
+An ``l'' means that the items in the column are to be aligned at the left, an ``r'' means they
+are to be aligned at the right and a ``c'' means that they are to be centred.
+
+Next insert into the place holder labelled ``ArrayDummyLine'' the ``8fPIN2A0<8bO1HN0E1enter dummy line''
+version of  8fPIN2A0<8bO1GN0E1Array-DummyLine which has the required number of columns. The
+purpose of this dummy line is to set the correct tabbing stops for the screen
+representation of the array. A line of place holders, one for each column will appear on
+the screen. Enter into the first the largest item to be entered into column 1, into the
+second the largest item that is to be entered into column 2 and so on for all the columns
+of the array. The version of the dummy line can then be changed to a hide version if
+desired. Unfortunately it is not possible to hide the contents of the place holders.
+
+We are now ready to enter the array itself. Enter into the place holder labelled
+``ArrayLine''  the version 8fPIN2A0<8bO1FN0E1col array line with the required number of columns from
+template 8fPIN2A0<8bO1BN0E1Array-Line.  A row of place holders, one for each column, will appear on the
+screen. These can now be filled.
+
+If you wish to enter another row into the array but there is no place holder labelled
+``ArrayLine'', make the row above or below the place at which  you wish to insert the
+row the target selection. Then press either the left or right arrow key in the keyboard
+to position the target cursor at the required position. Now click on the appropriate
+version of template 8fPIN2A0<8bO1BN0E1Array-Line and an additional row of place holders will appear on
+the screen.
+
+To delete a row make it the target  selection and either select 8fPIN2A0<8bONN0E1Delete from the menu
+under 8fPIN2A0<8bONN0E1EditOp in the console, or press the keyboard key labelled ``Backspace'' or
+press the keyboard combination 8fPIN2A0>8bOKN0E1C-d.
+
+Finally the complete array can be  made the target selection and  its version 
+changed to 8fPIN2A0<8bO1DN0E1array (hide) to improve the visual appearance slightly.
+
+8fPIN2A0"8bO1IN0E1BigDelimitersHelp8fPJN2A0-8bO2MN0E1BigDelimiters-Enter, -Left and -Right8bNIN0E28fPHN2A02
+
+It is possible to insert large delimiters into a document.
+First click on template 8fPIN2A0<8bO1KN0E1BigDelimiters-Enter and three place holders will be entered into
+the document --- one for a left delimiter, one for an expression and one for a right
+delimiter. A version from template 8fPIN2A0<8bO1IN0E1BigDelimitersLeft must be entered into the place
+holder  named 8fPIN2A0<8bOON0E1BigLeft and a version from template 8fPIN2A0<8bO1JN0E1BigDelimitersRight must be
+entered into  that named 8fPIN2A0<8bOPN0E1BigRight. If you don't want a large delimiter on one side of the
+expression then chose the version labelled 8fPIN2A0<8bOMN0E1blank for the place holder on that side. 
+
+If the expression has already been entered into the document you can instead make it
+the target selection and then click on template 8fPIN2A0<8bO1KN0E1BigDelimiters-enter. The two
+place holders for the delimiters will then appear on either side of the expression.
+
+Unfortunately, the  representation of the large delimiters on the screen is very primitive.
+However, the 8fPHN2A09 output should be satisfactory.
+
+
+
+
+8fPIN2A0"8bOPN0E1DotsHelp8fPJN2A0-8bOLN0E1Dots8bNIN0E28fPHN2A02
+
+An ellipsis is a sequence of three dots used to indicate omitted text. There are versions
+of this template to produce horizontal, vertical and diagonal ellipsis dots.
+The final version of the template outputs a centred dot.
+
+8fPIN2A0ISe1cfae7F   #2NCLayout-c,l,r1JCLatex2e#Layout-c,l,rHelpGVe1cfae7G'!GC
+82B8bO82C
+2BC80J80I\begin{center}80I8bO80I\end{center}80IHCCenterGVe1cfae7H'!GC
+82B8bO82C
+2HC80J80I\begin{flushleft}80I8bO80I\end{flushleft}80IKCFlushleftGVe1cfae7I'!GC
+82B8bO82C
+2JC80J80I\begin{flushright}80I8bO80I\end{flushright}80ILCFlushright8G8bOIN0E18fPLN2A0ISe1fd9e6J   &21DCTabular-Enter     1FCLatex2eB#TabularHelpGVe1fd9e6K'!7DCbfMTabular  ( alignment code: dfM82H|x|  where x=l, c or r for the col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col 82I8bO80B1faP81M 81H 81N
+8bH81J81L80C 82D80C 82D 81M 81H 81N82A
+4AC80J\begin{tabular}{8bI}\hline 80I8bO \\ \hline 80I8bH\hline 80I\end{tabular}80IHC1 col.GVe1fd9e6L'!8ECbfMTabular  ( alignment code: dfM82H|x|x| where x=l, c or r for each col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C 82D 81M 81H 81N82A
+4EC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN \\ \hline 80I8bH\hline 80I\end{tabular}80IHC2 col.GVe1fd9e6M'!9GCbfMTabular  ( alignment code: dfM82H|x|x|x| where x=l, c or r for each col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C 82D 81M 81H 81N82A
+4HC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN & 8bM\\ \hline 80I8bH\hline 80I\end{tabular}80IHC3 col.GVe1fd9e6N'!8MCbfMTabular  ( alignment code: dfM82He.g.|l|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+4MC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL\\ \hline 80I8bH\hline 80I\end{tabular}80IHC4 col.GVe1fd9e6O'!9OCbfMTabular  ( alignment code: dfM82He.g.|l|c|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B82D 82Hhead col82I8bK80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+5AC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL & 8bK\\ \hline 80I8bH\hline 80I\end{tabular}80IHC5 col.GVe1fd9e6P'!bACbfMTabular  ( alignment code: dfM82He.g.|l|c|c|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B82D 82Hhead col82I8bK80B82D 82Hhead col82I8bJ80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+5EC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL & 8bK & 8bJ\\ \hline 80I8bH\hline 80I\end{tabular}80IHC6 col.8L8bHMN0E88fPJN2A0ISe1fd9e7H   &2MCTabular-Row1FCLatex2eB#TabularHelpGVe1fd9e7I'!KC80C 82D 8bO80C 82D
+HC80J8bO\\ 80IKCRow 1-colGVe1fd9e7J'!PC80C 82D 8bO80C82D 8bN80C 82D 
+MC80J8bO & 8bN \\ 80IKCRow 2-colGVe1fd9e7K'!1DC80C 82D 8bO80C82D 8bN80C82D 8bM80C 82D 
+1AC80J8bO & 8bN & 8bM \\ 80IKCRow 3-colGVe1fd9e7L'!1HC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C 82D 
+1DC80J8bO & 8bN & 8bM & 8bL\\ 80IKCRow 4-colGVe1fd9e7M'!1LC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C82D 8bK80C 82D 
+1JC80J8bO & 8bN & 8bM & 8bL  &  8bK\\ 80IKCRow 5-colGVe1fd9e7N'!2AC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C82D 8bK80C82D  8bJ80C 82D 
+1PC80J8bO & 8bN & 8bM & 8bL  &  8bK  &  8bJ\\ 80IKCRow 6-col9B8bNIN0E28fPHN2A0ISb84114aH   %1FCDotsGVb84114aK%"CC202GNClow ellipsisGVb841151H'"EC22cF22cF22cFHC\cdots1BCcentred ellipsisGVb841153J'"CC:HC\vdots1CCvertical ellipsisGVb841160K'"DC22cF.HC\ddots1CCdiagonal ellipsisGVb841162O%"CC22cFMCcentred dot9H8bO1DN0E1low ellipsis8fPJN2A09B8bNIN0E28fPHN2A09G8bO1IN0E1centred ellipsis 8fPJN2A09B8bNIN0E28fPHN2A09F8bO1JN0E1vertical ellipsis 8fPJN2A09B8bNIN0E28fPHN2A09E8bO1JN0E1diagonal ellipsis 8fPJN2A09B8bNIN0E28fPHN2A09D8bO1DN0E1centred dot 8bNON0E2symbols8bO2EN0E1version                      8bIMN0E7|c|c|
+
+
+8fPIN2A0"8bO1DN0E1EqnArrayHelp8fPJN2A0-8bO2DN0E1EqnArray-Enter and -Equation8bNIN0E28fPHN2A02
+To input a  number of displayed equations into a document it is necessary to use  two
+templates, 8fPIN2A0<8bO1FN0E1EqnArray-Enter and 8fPIN2A0<8bO1IN0E1EqnArray-Equation.
+
+First, insert into the document a version of template 8fPIN2A0<8bO1FN0E1EqnArray-Enter. There are two
+available. If the first is selected, then by default, all the equations will be numbered.
+It is however possible to indicate when entering the equations if a particular equation
+should not be numbered. With the second version, none of the equations will be numbered.
+
+After selecting  a version of template 8fPIN2A0<8bO1FN0E1EqnArray-Enter  either four or three
+place holders will appear on the screen. The last of these is
+a place holder for the equations and the others are used to set the tabbing stops
+for the 8fPIN2A0D8bONN0E1screen version of the group of equations.
+
+If the first version has been chosen then there  are three place holders
+with which to set the tabbing stops.  Enter into
+the one named ``label'' the longest label that you are intending to give to an equation
+in the group of equations. If you are not intending to label any of the equations enter a few
+spaces with the space bar instead.
+(A label can be given to an equation so that the equation can be referred to without knowing
+how it will be numbered in the final output.) Enter into the place holders labelled ``LHS''
+and ``Op.'' the longest left-hand side  and the biggest operator symbol that will appear
+in an equation in the group of equations. 
+
+If the second version has been chosen then no place holder named ``label'' will appear.
+Fill the place holders labelled ``LHS''and ``Op.'' as for the first version.
+
+You are now ready to enter the equations themselves. This is done
+with template 8fPIN2A0<8bO1IN0E1EqnArray-Equation. If version 8fPIN2A0<8bO1FN0E1Eqnarray (Nos) of 8fPIN2A0<8bO1FN0E1EqnArray-Enter
+has been entered into the document then use a version
+with 8fPIN2A0<8bO1FN0E1Eqnarray (Nos) in its name. If however version 8fPIN2A0<8bO1IN0E1Eqnarray (No Nos) of 
+8fPIN2A0<8bO1FN0E1EqnArray-Enter has been used then use the version with 8fPIN2A0<8bO1IN0E1Eqnarray (No Nos) in 
+its name.
+
+Make the place holder, labelled ``Equation'' the target selection  and click on one
+of the versions of  template 8fPIN2A0<8bO1IN0E1EqnArray-Equation. 
+The possibilities
+available are: 
+
+8fPIN2A08D8bOLN0E18fPJN2A08C8bO12HN0E1This has three place holders, one for the left-hand side of the 
+equation, one for the right-hand side of the equation and one for an operator.
+Use this version if version 8fPIN2A0<8bO1FN0E1Eqnarray (Nos) of template 8fPIN2A0<8bO1FN0E1EqnArray-Enter was 
+inserted into the document and the equation is to be numbered but no
+user label assigned to it.8bN1PN0E2Equation -(Eqnarray Nos)8fPJN2A08C8bO33EN0E1This is similar to version 
+8fPIN2A0<8bO1CN0E1Equation -8fPIN2A0<8bO1FN0E1(Eqnarray Nos) except there is an additional
+place holder for a label.  This  enables the user to refer to a particular equation
+without knowing how it will be  numbered  in the 8fPHN2A09 output.  Suppose that
+an equation was inserted into a document with a version which has a
+place holder for a label and suppose that the label entered was ``8fPIN2A0<8bOMN0E1RuleA''.
+Then to refer to this equation at other places in the document  select either
+version 8fPIN2A0<8bOMN0E1(Ref) or 8fPIN2A0<8bOKN0E1Ref from template 8fPIN2A0<8bO1GN0E1Ref(within doc) and insert 8fPIN2A0<8bOMN0E1RuleA
+into its place holder. Note that the  8fPIN2A0<8bOMN0E1(Ref) and  8fPIN2A0<8bOKN0E1Ref versions only print the
+number of the equation and if any text such as ``equation'' is required then it 
+must be inserted  by the user. Remember that two consecutive runs of 8fPHN2A09
+on the document may be required in order that references to equations  within
+the document are output correctly.8bN2GN0E2Equation-label  -(Eqnarray Nos)8fPJN2A08C8bObDN0E1This version should only be used
+if version  8fPIN2A0<8bO1FN0E1EqnArray (Nos)  of template 8fPIN2A0<8bO1FN0E1EqnArray-Enter has been entered
+into the document. It is similar to version 
+8fPIN2A0<8bO1CN0E1Equation -8fPIN2A0<8bO1FN0E1(Eqnarray Nos) except that the equation will not be numbered.8bN2KN0E2Equation-no number  -(Eqnarray Nos)8fPJN2A08C8bObEN0E1This is similar to version 8fPIN2A0<8bO1CN0E1Equation -8fPIN2A0<8bO1FN0E1(Eqnarray Nos)
+except that the equation will not be numbered. This version should only be used if
+version  8fPIN2A0<8bO1IN0E1EqnArray (No Nos)  of template 8fPIN2A0<8bO1FN0E1EqnArray-Enter has been entered
+into the document.8bN2DN0E2Equation  -(Eqnarray No Nos)
+
+If you wish to enter another equation into the group of
+equations but there is no place holder labelled
+``Equation'', make the equation above or below the place at which  you wish to insert the
+equation the target selection. Then press either the left or right arrow key at the keyboard
+to position the target cursor at the required position. Next click on the appropriate
+version of template 8fPIN2A0<8bO1IN0E1EqnArray-Equation and an additional row
+of place holders will appear on
+the screen.
+
+To delete an equation make it the target  selection and either select 8fPIN2A0<8bONN0E1Delete from the menu
+under 8fPIN2A0<8bONN0E1EditOp in the console, or press the keyboard key labelled ``Backspace'' or
+press the keyboard combination 8fPIN2A0>8bOKN0E1C-d.
+
+8fPIN2A0D8bO5NN0E1Note that the 8fPHN2A09 output from this template is not identical to that shown on the screen.  In
+the 8fPHN2A09 output the mathematics will be centred unless the 8fPIN2A0<8bOMN0E1fleqn document class
+option has been selected. In that case the mathematics will begin at a distance
+8fPIN2A0<8bO1BN0E1mathindent from the left hand margin. If this parameter has not been set or doesn't
+have an appropriate value it can be changed with template 8fPIN2A0<8bO1HN0E1Parameters-OpsOn,
+inserting 8fPIN2A0<8bO1BN0E1mathindent  from template 8fPIN2A0<8bO1BN0E1Parameters into the chosen command.   In
+addition an equation will be numbered at the right  in the final output  unless the
+8fPIN2A0<8bOMN0E1leqno document class option has been selected in which case it is numbered on the
+left. 
+
+In the screen version the mathematics always begins a fixed distance from the left margin.
+Numbered equations are not labelled with a number on the screen but with  either  ``8fPIN2A0B8bOJN0E1no''
+or by the contents of the  place holder for the label placed  between parentheses at the left of
+the equation. These labels are always positioned at the left on the screen regardless of
+whether 8fPIN2A0<8bOMN0E1leqno has been selected for the document or not. 
+
+
+8fPIN2A0"8bO1LN0E1Equation/displayHelp8fPJN2A0-8bO1HN0E1Equation/Display8bNIN0E28fPHN2A02
+
+This template can be used to enter mathematics which is to be displayed. That is,  extra
+vertical space is required above and below  it on the page of output. 
+
+Template 8fPIN2A0<8bO1HN0E1Equation/Display  has 6 versions --- two are labelled  ``Displayed
+expression'' and four are labelled ``Equation''. With this template we use  ``Displayed
+expression'' and ``Equation'' to refer to  non-numbered and numbered lines
+of displayed mathematics respectively.
+
+If the displayed item is to be terminated with text (such as a punctuation symbol)  then
+a version with ``followed by text'' in its name should be chosen and the text entered into 
+the text place holder provided. 
+
+Finally there are versions  for  equations which have  a place holder for a label. This 
+enables the user to refer to a particular equation without knowing how it will be 
+numbered  in the 8fPHN2A09 output. 
+Suppose that an equation was inserted into a document with a version which has a
+place holder for a label and suppose that the label entered was ``8fPIN2A0<8bOMN0E1RuleA''. Then
+to refer to this equation at other places in the document  select either version 8fPIN2A0<8bOMN0E1(Ref) or
+8fPIN2A0<8bOKN0E1Ref from template 8fPIN2A0<8bO1GN0E1Ref(within doc) and insert 8fPIN2A0<8bOMN0E1RuleA into its place holder.
+Note that the  8fPIN2A0<8bOMN0E1(Ref) and  8fPIN2A0<8bOKN0E1Ref versions only print the number of the equation and if
+any text such as ``equation'' is required then it  must be inserted  by the
+user. Remember that two consecutive runs of 8fPHN2A09 on the document may be required in
+order that references to equations  within the document are output correctly.  
+
+
+8fPIN2A0D8bO5NN0E1Note that the 8fPHN2A09 output from this template is not identical to that shown on the screen.  In
+the 8fPHN2A09 output the mathematics will be centred unless the 8fPIN2A0<8bOMN0E1fleqn document class
+option has been selected. In that case the mathematics will begin at a distance
+8fPIN2A0<8bO1BN0E1mathindent from the left hand margin. If this parameter has not been set or doesn't
+have an appropriate value it can be changed with template 8fPIN2A0<8bO1HN0E1Parameters-OpsOn,
+inserting 8fPIN2A0<8bO1BN0E1mathindent  from template 8fPIN2A0<8bO1BN0E1Parameters into the chosen command.   In
+addition an equation will be numbered at the right  in the final output  unless the
+8fPIN2A0<8bOMN0E1leqno document class option has been selected in which case it is numbered on the
+left. 
+
+In the screen version the mathematics always begins a fixed distance from the left margin.
+Equations are not numbered but are labelled either with ``8fPIN2A0B8bOJN0E1no'' or by the contents of the
+place holder for the label between parentheses at the left on the screen. These labels are
+always positioned at the left on the screen  regardless of whether 8fPIN2A0<8bOMN0E1leqno has been selected
+for the document or not. 
+
+The versions available are:
+8fPIN2A08D8bONN0E18fPJN2A08C8bO2HN0E1A numbered displayed expression.8bNPN0E2Equation8fPJN2A08C8bO7DN0E1A numbered displayed expression with a label by which it can
+be referred to at other points in the document.8bN1EN0E2Equation -- 8fPIN2A0A8bOMN0E1Label8fPJN2A08C8bO5JN0E1A numbered displayed expression terminated with
+text such as a punctuation symbol.8bN2AN0E2Equation followed by text8fPJN2A08C8bO3FN0E1As 8fPIN2A0<8bO2AN0E1Equation followed by text  but also has a
+place holder for a label.8bN2FN0E2Equation followed by text -- 8fPIN2A0A8bOMN0E1Label8fPJN2A08C8bO2LN0E1A non-numbered displayed expression.8bN1LN0E2Displayed expression8fPJN2A08C8bO6PN0E1A  displayed expression which 
+is terminated with
+text such as a punctuation symbol and is not numbered.8bN2MN0E2Displayed expression followed by text
+
+8fPJN2A0-8bOON0E1Example8bNIN0E28fPHN2A00 
+
+In the example below, version 
+8fPIN2A0<8bO2FN0E1Equation followed by text -- 8fPIN2A0B8bOMN0E1Label of the template has been used.
+8fPIN2A0<8bOMN0E1RuleA has been entered into the place
+holder for the label, 8fPKN0A08fPKN0A08fPIN0A0a8ePHN2B0ISfe11f3bA# ("0GVfe11f3bD!"CC+GVfe11f3bN!"CC-9J8fPIN0A0b8ePHN2B0ISe12fce8N#!%%0GVe12fce8O!"CC=GVe12fce8P!"CC226AGVe12fce9A!"DC:=GVe12fce9B!"CC224FGVe12fce9C!"EC::=9O8fPIN0A0c  into the expression and the comma into the text place holder.
+
+(RuleA)8fPHN2A0o8fPKN0A08fPKN0A08fPIN0A0a8ePHN2B09J8fPIN0A0b8ePHN2B09O8fPIN0A0c8fPHN2A0p,
+
+
+
+
+
+8fPIN2A0"8bO1EN0E1FractionsHelp8fPJN2A0-8bO1AN0E1Fractions8bNIN0E28fPHN2A02
+
+The versions of this template can be used to insert fractions into the document.
+There is a version provided for in-line mathematics but in such cases  a sloping
+line is often used to indicate division instead.
+
+8fPIN2A0"8bO1EN0E1IntegralsHelp8fPJN2A0-8bO1AN0E1Integrals8bNIN0E28fPHN2A02
+
+The four versions of this template can be used to insert integrals into the document.
+There are versions for use in either  displayed or in-line mathematics.
+There are also versions for integrals with and without limits.
+The two versions for definite integrals have three place holders, one for the expression
+and two for the limits. The other two versions, for indefinite integrals, have
+just the place holder for the expression.
+
+Click on the required version and enter the expression and (if necessary)
+the limit place holders.  If the expression to be preceded by the
+integral sign has already been entered into the document, make it the 
+target selection and then click on the required version. The integral sign
+(and possibly place holders for the limits) will appear.
+
+8fPIN2A0"8bO1BN0E1LimitsHelp8fPJN2A0-8bONN0E1Limits8bNIN0E28fPHN2A02
+
+The versions of this template can be used to insert limits into the document.
+There are versions for  use in  either displayed or  in-line mathematics.
+Each version has two place holders, one for the expression and the one for the
+limiting condition.
+
+
+Click on the required version and fill the two place holders.  
+If the expression has already been entered into the document, 
+make it the target selection and then click on the required version. The limit
+and its place holder will appear.
+
+8fPIN2A0"8bO1EN0E1OverArrowHelp8fPJN2A0-8bO1AN0E1OverArrow8bNIN0E28fPHN2A02
+
+Depending upon the version selected, an arrow pointing either
+to the left or the right is placed above the expression entered into the place holder.
+The arrow will be the same length as the expression.
+
+8fPIN2A0"8bO1AN0E1RootsHelp8fPJN2A0-8bOMN0E1Roots8bNIN0E28fPHN2A02
+
+The first version has one place holder and is used to enter a square rooted expression.
+The other version has two place holders and can be used for other roots. In this case
+there is one place holder for the expression and one for the root.
+
+
+8fPIN2A08G8bOIN0E18fPLN2A08L8bHJN0E88fPJN2A09B8bNJN0E28fPIN2A0ISe1eb5f7M   "2OCRoots        1CCLatex2eB#RootHelpGVe1eb5f7N'"MC81J   81H81L221K 8fO81M81NJC\sqrt{8fO}NCsquare root.GVe1eb5f7O'"1AC81JccB8fN80P81L81G221K81M81N81J81H81L8fO81M81NMC\sqrt[8fN]{8fO}LCn-th root. 8fOHN0A18fPIN2A0ISe1d519bJ   $21NCStrut(InvisibleVerticalLine)2JCLatex2e#Strut(InvisibleVerticalLine)HelpGVe1d519bK'!KC82Hheight82I8bNOC\rule{0cm}{8bN}1MCbottom of line on base lineGVe1d519bL'!CC OC\rule{0cm}{8bN}1LCbottom on base line (hide)GVe1d519bM'!1BC82Hheight82I8bN82HYccB080P82I8bM1BC\rule[8bM]{0cm}{8bN}2PCbottom of line bfIYccB0dfI bfPcbPcbNdfPabove/below base lineGVe1d519bN'!CC 1BC\rule[8bM]{0cm}{8bN}3DCbottom of line bfIYccB0 bfPcbNdfPabove/below base line(hide)£8bNKN0E26mm8bO1CN0E1square root8fPJN2A09B8bNJN0E28fPJN2A09P8fOHN0A18fNHN0A28fPIN2A0£8bNKN0E26mm8bO1AN0E1n-th root8bNON0E2Example8bO1GN0E1Version        8bIMN0E7|l|l|
+
+8fPIN2A0"8bO1CN0E1ScriptsHelp8fPJN2A0-8bOON0E1Scripts8bNIN0E28fPHN2A02
+
+The versions of this template can be used to insert subscripts and superscripts
+ into the document. The versions available are listed below. Click on the required
+version and fill in the expression and sub and/or superscripts.  If the
+expression requiring scripts has already been entered into the document, make it the 
+target selection and then click on the required version. Place holder(s) for the script(s)
+will appear.
+
+8fPIN2A08G8bOIN0E18fPLN2A08L8bHNN0E88fPJN2A09B8bNJN0E28fPJN2A0ISe1ec428P   &22MCScripts                                    1FCLatex2eB#ScriptsHelpGVe1ec429A'"PC8fOccA81K 81L81M82Hsub82I8fN81N80PGC8fO_{8fN}IC8fO ccAsubcbOGVe1ec429B'"1BC8fOccA81K82Hsuper82I8fN81L 81M81N80PGC8fO^{8fN}KC8fO ccAsupercbOGVe1ec429C'"1JC8fOccA81K82Hsuper82I8fN81G81L 81M82Hsub82I8fM81G81N80PKC8fO^{8fN}_{8fM}JC8fO ccAbothcbOGVe1ec429D'"PCccA81K 81L81M82Hsub82I8fN81N80P8fOIC{}_{8fN}8fOICccAsub cbO8fOGVe1ec429E'"1BCccA81K82Hsuper82I8fN81L 81M81N80P8fOIC{}^{8fN}8fOKCccAsupercbO 8fOGVe1ec429F'"1JCccA81K82Hsuper82I8fN81G81L 81M82Hsub82I8fM81G81N80P8fOMC{}^{8fN}_{8fM}8fOJCccAbothcbO 8fOª8fNIN0A228fOIN0A1X8fPIN2A0£8bNKN0E26mm8bOKN0E1E 8fPIN2A0N8bOKN0E1sub8fPJN2A09B8bNJN0E28fPJN2A0©8fNIN0A238fOIN0A1X8fPIN2A0£8bNKN0E26mm8bOKN0E1E 8fPIN2A0N8bOMN0E1super8fPJN2A09B8bNJN0E28fPKN2A0¨8fMIN0A328fNIN0A238fOIN0A1X8fPIN2A0£8bNKN0E26mm8bOKN0E1E 8fPIN2A0N8bOLN0E1both8fPJN2A09B8bNJN0E28fPJN2A0§8fOIN0A1X8fNIN0A228fPIN2A0£8bNKN0E26mm8bOKN0E18fPIN2A0N8bOKN0E1sub E8fPJN2A09B8bNJN0E28fPJN2A0¦8fOIN0A1X8fNIN0A238fPIN2A0£8bNKN0E26mm8bOKN0E18fPIN2A0N8bOMN0E1super E8fPJN2A09B8bNJN0E28fPKN2A0¥8fOIN0A1X8fMIN0A328fNIN0A238fPIN2A0£8bNKN0E26mm8bOKN0E18fPIN2A0N8bOLN0E1both E8bNON0E2Example8bOON0E1Version8bIMN0E7|l|l|
+
+
+8fPIN2A0"8bO1AN0E1SpaceHelp8fPJN2A0-8bOMN0E1Space8bNIN0E28fPHN2A02
+
+This template is only intended to be used when mathematics is inserted  into a document
+by means of pure 8fPHN2A09 commands. It can be used, for example, to increase or decrease
+the space around an operator. 
+
+If 8fPHN2A0  is being used in the usual manner with stencils and place holders, then the
+space around operators grows automatically as the complexity  of the operands increases.
+The space in this case can be increased or decreased by making the operator the target 
+selection and then typing either 8fPIN2A0>8bOKN0E1C-+ or 8fPIN2A0>8bOKN0E1C-221C  respectively.
+
+
+8fPIN2A0"8bO1IN0E1SplitEquationHelp8fPJN2A0-8bO2FN0E1SplitEqn-Enter and -LHS/OP/RHS8bNIN0E28fPHN2A02
+
+An equation that is so long that it must be split over more than one line can be entered
+into a document with this pair of templates.
+
+First enter into the document one of the versions of template 8fPIN2A0<8bO1FN0E1SplitEqn-Enter.
+There are three available.
+
+8fPIN2A08D8bOKN0E18fPJN2A08C8bO3cGN0E1Use this version if you wish the equation
+to be numbered and you wish to assign a label to it.  If a label is given to an
+equation then it can be referred to  at other places in the document without
+knowing how it will be numbered in the final output. Thus if  the number of the
+equation in the printed document changes (due to the addition or deletion of an
+equation) then it is not necessary to alter the number of the equation in the
+cross reference as this will be changed automatically. To refer to this equation
+at  other places in the document  select either version 8fPIN2A0<8bOMN0E1(Ref) or 8fPIN2A0<8bOKN0E1Ref from
+template 8fPIN2A0<8bO1GN0E1Ref(within doc) and insert the  label into the place holder. Note that
+the  8fPIN2A0<8bOMN0E1(Ref) and  8fPIN2A0<8bOKN0E1Ref versions only print the number of the equation and if any
+text such as ``equation'' is required then it  must be inserted  by the user.
+Remember also that two consecutive runs of 8fPHN2A09 on the document may be
+required in order that references to equations  within the document are output
+correctly.8bN2JN0E2(1) Equation numbered and labelled8fPJN2A08C8bO6GN0E1Use this version if  the
+equation is to be numbered but you don't wish to assign a label to it.8bN2NN0E2(2) Equation numbered but not labelled8fPJN2A08C8bO4GN0E1Use this version if you don't wish the
+equation to be numbered.8bN2AN0E2(3) Equation not numbered
+
+If you selected the first of these versions enter a label into the place holder provided.
+
+8fPIN2A0B8bO4FN0E1Note the number in the name of the version which you have used and now pin up the
+list of versions of template 8fPIN2A0<8bO1KN0E1SplitEqn-LHS/OP/RHS. 
+Insert into the ``LHS/OP'' place holder one of the 8fPIN2A0<8bONN0E1LHS/OP versions which has this
+8fPIN2A0B8bO1JN0E1number in its name. Separate place holders for ``LHS'' and ``OP'' will appear.
+Enter the  left hand side of the equation into the ``LHS'' place holder  and an  operator
+into the ``OP'' place holder. These appear in the output on a line by themselves together
+with a number if the first version was selected.
+
+The rest of the equation appears on the following line(s). Enter into the ``RHS'' place
+holder one of the 8fPIN2A0<8bOKN0E1RHS versions which has the previously mentioned 8fPIN2A0B8bO1JN0E1number in its name. If one
+of the first two of these is chosen a place holder labelled ``expression'' appears. Enter into
+this a line of mathematics. To enter an additional line move the target cursor to the
+start of the next line on the screen and select another 8fPIN2A0<8bOKN0E1RHS version. Such a line often
+begins with a binary operator. If this is the case one of the final two versions of the
+template should be used. A separate place holder will appear in this case for the operator.
+
+8fPJN2A0-8bOON0E1Example8bNIN0E28fPHN2A00 
+8fPKN2A0ISe1f09c7G   #2PCSplitEqn-Enter1MCLatex2eB#SplitEquationHelp GVe1f09c7H'!2AC
+81P(82Hlabel82I8bL)80C82HLHS/OP82I8bO 
+82HRHS82I8bM82A3BC80J\begin{eqnarray}80I\label{80K8bL}8bO\\8bM80I\end{eqnarray}80I2FCbfO(1)dfO Equation numbered and labelledGVe1f09c7I'!1HC
+81P80C82HLHS/OP82I8bO 
+82HRHS82I8bM82A
+2JC80J\begin{eqnarray}80I8bO \\80K8bM80I\end{eqnarray}80I2JCbfO(2)dfO Equation numbered but not labelledGVe1ba2bcI'!1GC
+81P80C82HLHS/OP82I8bO 
+82HRHS82I8bM82A2KC80J\begin{eqnarray*}80I8bO\\80K8bM80I\end{eqnarray*}80I1MCbfO(3)dfO Equation not numbered­8bMJN0E38fPIN2A0ISe1f098fO   '21ECSplitEqn-LHS/OP/RHS1LCLatex2eB#SplitEquationHelpGVe1f09b5K'!1AC82HLHS82I8fO      80B8eN PC80L\lefteqn{8fO 8eN}3GCLHS/OP-- line numbered. Can use with bfO(1)dfO and bfO(2)dfO.GVe1f0990E'!1AC82HLHS82I8fO      80B8eN 1JC80L\lefteqn{8fO 8eN}80K\nonumber3LCLHS/OP-- line not numbered.  Can use with bfO(1)dfO and bfO(2)dfO.GVe1f0990B'!PC82HLHS82I8fO     80B8eN 1AC80L\lefteqn{8fO 8eN} 1JCLHS/OP --Use with bfO(3)dfO.GVe1f0990C'!1AC80C82Hexpression82I8fO
+1NC80I\MPnewitem&&80L8fO80K\MPinsertsep2KCRHS  Can use with bfO(1)dfO, bfO(2)dfO and bfO(3)dfO.GVe1f0990D'!1AC80C82Hexpression82I8fO
+2GC80I\MPnewitem&&80L8fO\nonumber80K\MPinsertsep2PCRHS--no number.  Can use with bfO(1)dfO and bfO(2)dfO.GVe1f0a48A'!1EC 80C 8eN 82Hexpression82I8fO
+2FC\MPnewitem&&80L\mbox{}8eN 8fO80K\MPinsertsep4GCRHS starts with binary operator. Can use with bfO(1)dfO, bfO(2)dfO and bfO(3)dfO.GVe1ba2c3B'!1DC80C 8eN 82Hexpression82I8fO
+2OC\MPnewitem&&80L\mbox{}8eN 8fO80K\nonumber\MPinsertsep4KCRHS starts with binary operator, no number. Can use with bfO(1)dfO and bfO(2)dfO.°8fOMN0A18fPIN0A0x8ePHN2B0ISe12fce0F# 2$0GVe12fce0G!"CC.GVe12fce0H#"CC×EC{×}GVe12fcf3A!"CC÷GVe1eb2d5I!"CC/¸8fP1AN1A08fPKN0A08fPIN0A0a8ePHN2B0¸8fPIN0A0b8ePHN2B09J8fPIN0A0c8ePHN2B09J8fPIN0A0d8ePHN2B09J8fPIN0A0e8ePHN2B09J8fPIN0A0f8ePHN2B0¸8fPMN1A08fPIN0A0a8ePHN2B09J8fPIN0A0b8ePHN2B09J8fPIN0A0c8fPJN2A0¯8fOKN0A18fPKN1A08fPIN0A0a8ePHN2B09J8fPIN0A0b8ePHN2B0¸8fPIN0A0c8eNIN0B28fPIN0A0+8bOIN0E18fPJN2A0³8eNIN0B28fPIN0A0=8fOIN0A1X8bLMN0E4ruleA
+Here version 8fPIN2A0>8bOKN0E1(1) was chosen from 8fPIN2A0<8bO1FN0E1SplitEqn-Enter and ``ruleA'' entered into
+the label place holder. Subsequently version 8fPIN2A0<8bO2BN0E1LHS/OP-- line not numbered
+was entered into the ``LHS/OP'' place holder and ``8fPIN0A0X'' and ``='' entered into
+the ``LHS'' and ``OP'' place holders respectively.
+
+Version 8fPIN2A0<8bO1FN0E1RHS--no number was then selected and  8fPMN0A08fPIN0A0x8ePHN2B0¸8fP1AN1A08fPKN0A08fPIN0A0a8ePHN2B0¸8fPIN0A0b8ePHN2B09J8fPIN0A0c8ePHN2B09J8fPIN0A0d8ePHN2B09J8fPIN0A0e8ePHN2B09J8fPIN0A0f8ePHN2B0¸8fPMN1A08fPIN0A0a8ePHN2B09J8fPIN0A0b8ePHN2B09J8fPIN0A0c
+entered into the expression place. The cursor
+was then moved with the right arrow key to the start of the next line. 
+If the
+dots are showing then immediately before the dot. 
+Version 8fPIN2A0<8bO2GN0E1RHS starts with binary operator was then chosen. The ``+'' was entered into
+the separate place holder and then the rest of the line inserted into the ``expression'' place
+holder. This line will be numbered in the 8fPHN2A09 output.
+
+
+8fPIN2A0"8bO1EN0E1SummationHelp8fPJN2A0-8bO1AN0E1Summation8bNIN0E28fPHN2A02
+
+The four versions of this template can be used to insert summations into the document.
+There are versions to be used in either  displayed or in-line mathematics.
+There are also versions where the range is positioned below the summation sign
+and versions where the lower bound is positioned below the summation sign and the
+upper bound above it. The latter have three place holders (one for the expression to be
+summed and two for the range) whereas the former have just two (one for the
+expression and one for the range). Thus, if you change the version from one of these
+types to the other you will need to alter the contents of the place holder(s) specifying the
+range.
+
+Click on the required version and fill the expression and range place holder(s).   If the
+expression to be summed has already been entered into the document, make it the 
+target selection and then click on the required version. The summation sign and the
+place holder(s) for the range will appear.
+
+
+8fPIN2A0"8bO1KN0E1Under/OverBraceHelp8fPJN2A0-8bO1GN0E1Under/OverBrace8bNIN0E28fPHN2A02
+
+Depending upon which version is selected a brace is placed either below or above the
+expression entered into the place holder in the output. On the screen the brace is
+represented by a line of dots terminated at each end by  a small vertical line.
+If either the third or fourth version is chosen there appears not only
+a place holder for an expression but also one for a label. The label is placed centrally
+above an over brace and centrally below an under brace.
+
+8fPIN2A0"8bO1JN0E1Under/OverlineHelp8fPJN2A0-8bO1FN0E1Under/OverLine8bNIN0E28fPHN2A02
+
+Depending upon which version is selected a line is placed either below or above the
+expression entered into the place holder.
+
+8fPIN2A0"8bO1PN0E1VariableSizedSymbolsHelp8fPJN2A0-8bO1LN0E1VariableSizedSymbols8bNIN0E28fPHN2A02
+
+The 14 versions of this template are symbols which are printed in a bigger size  when
+ they occur in ``displaystyle'' to that printed when they occur in ``textstyle''.
+Displaystyle is the default style for displayed mathematics, and textstyle the default style for
+mathematics in running text.  The difference in size can be seen in the table below. 
+Use template 8fPIN2A0<8bOPN0E1MathSize (in section 8fPIN2A0>8bOMN0E1Fonts) if you wish to
+override the default style.
+8fPIN2A08G8bOIN0E18fPNN2A0ISe1cbf9eA   &1PCTabular       GVe1cbf9eB'!2CC81P80B81J 81H 81L1faP8bO80B1faP81M 81H 81N
+8bH81J81L80C 82D80C 82D 81M 81H 81N82A3NC80J\begin{tabular}{8bI}\hline80I8bO \\ \hline80I8bH\hline80I\end{tabular}80IHC1 col.GVe1cbf9eC'!2IC81P80B81J 81H 81L1faP8bO80B82D 8bN80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C 82D 81M 81H 81N82A4BC80J\begin{tabular}{8bI}\hline80I8bO & 8bN \\ \hline80I8bH\hline80I\end{tabular}80IHC2 col.GVe1cbf9eD'!2OC81P80B81J 81H 81L1faP8bO80B82D 8bN80B82D 8bM80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C 82D 81M 81H 81N82A4EC80J\begin{tabular}{8bI}\hline80I8bO & 8bN & 8bM\\ \hline80I8bH\hline80I\end{tabular}80IHC3 col.GVe1cbf9eE'!3EC81P80B81J 81H 81L1faP8bO80B82D 8bN80B82D 8bM80B82D 8bL80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A4JC80J\begin{tabular}{8bI}\hline80I8bO & 8bN &  8bM & 8bL\\ \hline80I8bH\hline80I\end{tabular}80IHC4 col.GVe1cbf9eF'!3KC81P80B81J 81H 81L1faP8bO80B82D 8bN80B82D 8bM80B82D 8bL80B82D 8bK80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A4NC80J\begin{tabular}{8bI}\hline80I8bO & 8bN &  8bM & 8bL & 8bK\\ \hline80I8bH\hline80I\end{tabular}80IHC5 col.GVe1cbf9eG'!4FC81P80B81J 81H 81L1faP8bO80B82D 8bN80B82D 8bM80B82D 8bL80B82D 8bK80B82D 8bJ80B1faP81M 81H 81NccE(8bI)80P
+8bH81J81L80C 82D80C82D80C82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A5BC80J\begin{tabular}{8bI}\hline80I8bO & 8bN &  8bM & 8bL & 8bK & 8bJ\\ \hline80I8bH\hline80I\end{tabular}80IHC6 col.»8bHON0E88fPLN2A0ISe1c22b1D   &1MCTabular-rowGVe1c22bcK'!KC80C 82D 8bO80C 82D
+GC80J8bO\\80IKCRow 1-colGVe1c22b1M'!PC80C 82D 8bO80C82D 8bN80C 82D 
+LC80J8bO & 8bN \\80IKCRow 2-colGVe1c22b2B'!1DC80C 82D 8bO80C82D 8bN80C82D 8bM80C 82D 
+PC80J8bO & 8bN & 8bM \\80IKCRow 3-colGVe1c22b2O'!1HC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C 82D 
+1CC80J8bO & 8bN & 8bM & 8bL\\80IKCRow 4-colGVe1c22b5E'!1LC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C82D 8bK80C 82D 
+1IC80J8bO & 8bN & 8bM & 8bL  &  8bK\\80IKCRow 5-colGVe1c22baE'!2AC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C82D 8bK80C82D  8bJ80C 82D 
+1OC80J8bO & 8bN & 8bM & 8bL  &  8bK  &  8bJ\\80IKCRow 6-colÁ8bLIN0E4220P8bMIN0E38fPIN2A0ISe196cf2N   $2JCMathSize1GCLatex2eA#MathSizeHelpGVe196cf2O'"ECcbN8fO80P1BC\displaystyle{8fO}1BCdisplaystyle cbN221BccBGVe196cf2P'"CC8fOOC\textstyle{8fO}MCtextstyle 221BGVe196cf3A'"ECccA8fO80P1AC\scriptstyle{8fO}1BCscript style ccAncbOGVe196cf3B'"ECccB8fO80P1GC\scriptscriptstyle{8fO}1HCscriptscript style ccBncbNÈ8fOHN2A1ISe195bc4B   .21FCVariableSizedSymbols2CCLatex2eB#VariableSizedSymbolsHelpGVe195bc5O#"ECcbO221B80PCC221BGVe195bc7E#"ECcbO220P80PCC220PGVe195bc8P#"ECcbO221A80PIC\coprodGVe195bceL#"ECcbO222L80PCC222LGVe195bd0N#"ECcbO§80PGC\ointGVe195bd6A#"ECcbO222J80PIC\bigcapGVe195bd7F#"ECcbO222K80PIC\bigcupGVe195bd8F#"ECcbO229E80PKC\bigsqcupGVe195bd9P#"ECcbO222I80PIC\bigveeGVe195bdcK#"ECcbO222H80PKC\bigwedgeGVe195bddK#"ECcbO229J80PJC\bigodotGVe195bdeO#"ECcbO229H80PLC\bigotimesGVe195bdfP#"ECcbO229F80PKC\bigoplusGVe195be0N#"ECcbO228O80PKC\biguplusÕ8bNIN0E2221B8bOJN0E18fPJN2A0¡8bMLN0E3-2mm8bNKN0E27mm8fPIN2A0È8fOHN2A1Ö8fPLN2A0Á8bLIN0E4222L8bMIN0E38fPIN2A0È8fOIN0A1222L8bNIN0E28fPHN2A0Ô8bOJN0E18fPJN2A0¡8bMLN0E3-2mm8bNKN0E27mm8fPIN2A0È8fOHN2A1Ô8fPLN2A0Á8bLIN0E48fPHN2A0Ñ8bMIN0E38fPIN2A0È8fOHN2A1Ñ8bNIN0E2222O8bOJN0E18fPJN2A0¡8bMLN0E3-2mm8bNKN0E27mm8fPIN2A0È8fOIN0A1222O8fPLN2A0Á8bLIN0E48fPHN2A0Ï8bMIN0E38fPIN2A0È8fOHN2A1Ï8bNIN0E28fPHN2A0Ð8bOJN0E18fPJN2A0¡8bMLN0E3-2mm8bNKN0E27mm8fPIN2A0È8fOHN2A1Ð8fPLN2A0Á8bLIN0E48fPHN2A0Í8bMIN0E38fPIN2A0È8fOHN2A1Í8bNIN0E28fPHN2A0Î8bOJN0E18fPJN2A0¡8bMLN0E3-2mm8bNKN0E27mm8fPIN2A0È8fOHN2A1Î8fPLN2A0Á8bLIN0E48fPHN2A0Ë8bMIN0E38fPIN2A0È8fOHN2A1Ë8bNIN0E28fPHN2A0Ì8bOJN0E18fPJN2A0¡8bMLN0E3-2mm8bNKN0E27mm8fPIN2A0È8fOHN2A1Ì8fPLN2A0Á8bLIN0E48fPHN2A0É8bMIN0E38fPIN2A0È8fOHN2A1É8bNIN0E28fPHN2A0Ê8bOJN0E18fPJN2A0¡8bMLN0E3-2mm8bNKN0E27mm8fPIN2A0È8fOHN2A1Ê8bLIN0E48fPIN2A0L8bOIN0E18fPIN2A0>8bO1AN0E1textstyle8bMIN0E38fPIN2A0L8bOIN0E18fPIN2A0>8bO1DN0E1displaystyle8bNIN0E28fPIN2A0L8bOIN0E18fPIN2A0>8bO1AN0E1textstyle8bOIN0E18fPIN2A0L8bOIN0E18fPIN2A0>8bO1EN0E18fPJN2A0¡8bMLN0E3-2mm8bNKN0E27mmdisplaystyle8bI1BN0E7|l|l||l|l|
+8fPIN2A0"8bO1IN0E1misctemplatesHelp8fPJN2A0-8bO1FN0E1Misc templates8bNIN0E28fPHN2A03
+
+The templates in this section have been made purely as an aid to typing  the
+document. They have no connection whatsoever with 8fPHN2A09.
+
+
+8fPIN2A0"8bO1IN0E1AbbreviationsHelp8fPJN2A0-8bNIN0E28fPHN2A028bO1EN0E1Abbreviations
+\verb+\+$\scriptstyle{\sqcup}$ 
+The templates in this section have been made purely as an aid to typing  the document.
+
+8fPHN2A09 assumes that a period followed by a space and not preceded by a capital letter is
+marking the end of a sentence. If this is not what is intended then the space following 
+the period must be entered in a special way.  (8fPHN2A0ISfea6afcJ   #1DC\\GVfea6afdD#!DC221G221G1HC{\mathsurround=0pt221G221G80K}GVfea6b5aN#!FC221GccB229E80PLC221G\verb*+ +GVfea6b6aE#!GC221G221GbfI8bOdfI1KC{\mathsurround=0pt221G221G80KbfI8bOdfI}Ø must be entered in place of 8fPIN2A0Æ8fOIN0A1229E.)  It is a
+problem which often occurs with abbreviations and so several commonly used
+abbreviations have been stored as versions of this template. Thus when entering an
+abbreviation with a version of this template the space is automatically entered for you. 
+There are at present versions for the following abbreviations:
+
+e.g.8fPHN2A0o8fPIN2A0B8bOLN0E1etc.8fPHN2A0oi.e.8fPHN2A0oE.g.8fPHN2A0oI.e.
+
+
+
+8fPIN2A0"8bO1EN0E1DayOfWeekHelp8fPJN2A0-8bNIN0E28fPHN2A028bO1AN0E1DayOfWeek
+
+The templates in this section have been made purely as an aid to typing  the
+document. They have no connection whatsoever with 8fPHN2A09.
+There is a version for each day of the week.
+
+8fPIN2A0"8bO1GN0E1LengthUnitsHelp8fPJN2A0-8bNIN0E28fPHN2A028bO1CN0E1LengthUnits
+
+There is a version of this template for each length unit which is recognised by 8fPHN2A09.
+That is  cm, em, ex, in, pc, pt and mm.
+
+8fPIN2A0"8bO1AN0E1MonthHelp8fPJN2A0-8bNIN0E28fPHN2A028bOMN0E1Month
+
+The templates in this section have been made purely as an aid to typing  the
+document. They have no connection whatsoever with 8fPHN2A09.
+There is a version for each month of the year.
+
+
+
+8fPIN2A0"8bO1CN0E1PictureHelp8fPJN2A0-8bOPN0E1Pictures8bNIN0E28fPHN2A03
+
+The set of templates in this section can be used to make pictures. However only very
+basic pictures can be made with the standard 8fPHN2A09 commands. A picture is considered
+by 8fPHN2A09 to be a large object to be placed on the line of text being processed. If you don't wish it
+to be placed on the line but wish it instead to be displayed then
+insert it into a displayed expression holder or into, for example, the centred version of
+template 8fPIN2A0<8bO1DN0E1Layout-c,l,r. Pictures, particularly if they are large, are often entered into 
+a document as a object which can ``float'' to other positions in the text.
+ The 8fPIN2A0<8bONN0E1figure template can be used for this.
+
+8fPJN2A0-8bO1EN0E1Picture-Enter8bNIN0E28fPHN2A02
+
+Use one of the ``enter'' versions of this template to insert a picture environment into
+your document. There is a choice of two.  Both versions have place holders into which
+must be entered the  dimensions of the picture. The units of length we call picture units,
+pu for short. By default this is 1 pt which is about 0.35mm. The value of the unit length
+can be altered using version 8fPIN2A0<8bO1BN0E1Set length of template 8fPIN2A0<8bO1HN0E1Parameters-OpsOn. Insert into
+the ``name'' place holder version 8fPIN2A0<8bO1NN0E1unitlength in pictures from template 8fPIN2A0<8bO1BN0E1Parameters.
+Insert into the other place holder the new value not forgetting to include the units.
+These may be  8fPIN2A0<8bOJN0E1cm, 8fPIN2A0<8bOJN0E1mm, 8fPIN2A0<8bOJN0E1in, 8fPIN2A0<8bOJN0E1em, 8fPIN2A0<8bOJN0E1ex, 8fPIN2A0<8bOJN0E1pc or 8fPIN2A0<8bOJN0E1pt.
+
+The difference between the two versions is the position of the origin of the picture. With the first
+version it is at the bottom left-hand corner of the picture while with the other version you can
+specify the position of the origin.  This is done by inputting into the two place holders provided the 
+8fPIN2A0B8bOIN0E1x and 8fPIN2A0B8bOIN0E1y co-ordinates of the lower left-hand corner of the picture relative to this new origin.   
+(The horizontal axis is the 8fPIN2A0B8bOIN0E1x axis and the vertical axis is the 8fPIN2A0B8bOIN0E1y axis.)
+
+The final place holder is named ``picture-commands'' and can be filled with commands
+from template 8fPIN2A0<8bOPN0E1Commands.
+
+The version of the 8fPIN2A0<8bO1EN0E1Picture-Enter template can be changed to a ``hide'' version if required.
+In this case the dimensions and specification of the origin of the picture are not shown on the
+screen.
+
+
+
+8fPIN2A0"8bO1KN0E1PictureCommandsHelp8fPJN2A0-8bOPN0E1Commands8bNIN0E28fPHN2A02
+
+There are six versions of this template. However only the first two, 8fPIN2A0<8bOKN0E1PUT and
+8fPIN2A0<8bOPN0E1MultiPUT,
+have been tested as the 8fPHN2A09 commands for drawing curves and grids are not
+available on my computer.
+
+8fPIN2A08D8bOON0E18fPJN2A08C8bO14PN0E1This command is used to enter something into the picture. This may be  a
+piece of text, a boxed item or an object, such as a circle. Objects can be selected
+from template 8fPIN2A0<8bOON0E1Objects and boxed items can be made with template 8fPIN2A0<8bOMN0E1Boxes.
+ The 8fPIN2A0B8bOIN0E1x and 8fPIN2A0B8bOIN0E1y co-ordinates at which the item is to be placed must be  entered
+into the other two place holders.8bNKN0E2PUT8fPJN2A08C8bO2bDN0E1This command can be used instead of a sequence of 8fPIN2A0<8bOKN0E1PUT commands
+whenever several copies of an object are to be inserted
+at regular intervals into a picture.  Input the 8fPIN2A0B8bOIN0E1x and 8fPIN2A0B8bOIN0E1y co-ordinates of
+the position at which the first copy of the object is to be placed. 
+Subtract the value of this 8fPIN2A0B8bOIN0E1x  co-ordinate from that of the position where the second copy is to 
+be placed and enter the value obtained into the place holder labelled ``8fPIN2A0B8bOJN0E1dx''.
+Similarly enter the difference in the 8fPIN2A0B8bOIN0E1y  co-ordinates into ``8fPIN2A0B8bOJN0E1dy''. Finally enter the
+number of copies of the object required into the final place holder. If this is 8fPIN2A0B8bOIN0E1n,
+then copies of the object will be positioned at points
+(8fPIN0A0x8fPHN2A0ISe05e215O   !1GCcommaGVe05e215P#!EC , DC, Ú8fPIN0A0y), (8fPKN0A08fPIN0A0x8ePHN2B09J8fPJN0A0dx8fPHN2A0Ú8fPKN0A08fPIN0A0y8ePHN2B09J8fPJN0A0dy), (8fPKN0A08fPIN0A0x8ePHN2B09J8fPKN0A08fPIN0A028ePHN2B0¸8fPJN0A0dx8fPHN2A0Ú8fPKN0A08fPIN0A0y8ePHN2B09J8fPKN0A08fPIN0A028ePHN2B0¸8fPJN0A0dy), 8fPHN2A0ISe1cf69dI   !2NCEllipsis    1FCLatex2e#EllipsisHelpGVe1cf69dJ#!CC202GIC\ldots Û, (8fPKN0A08fPIN0A0x8ePHN2B09J8fPKN0A08fPKN1A08fPIN0A0n8ePHN2B0ISe12fcdbL# -"0GVe12fcdbM#"CC+IC{\plus}GVe12fcdbN!"CC-Ü8fPIN0A018ePHN2B0¸8fPJN0A0dx8fPHN2A0Ú8fPKN0A08fPIN0A0y8ePHN2B09J8fPKN0A08fPKN1A08fPIN0A0n8ePHN2B0Ü8fPIN0A018ePHN2B0¸8fPJN0A0dy).8bNPN0E2MultiPUT8fPJN2A08C8bO12GN0E18fPIN2A0B8bO3BN0E1Warning: this version has not been tested. The user must enter the 8fPIN2A0B8bOIN0E1x
+and 8fPIN2A0B8bOIN0E1y co-ordinates of three points and 8fPHN2A09  will then calculate other points 
+and draw a curve through them.  The number of points it calculates on this curve is
+determined by the  value of 8fPIN2A08B8bOIN0E1\8fPIN2A0;8bO1BN0E1qbeziermax. If you wish to specify the number of
+points use instead version 8fPIN2A0<8bO2LN0E1Draw curve-specify no8fPHN2A0ISe1d0f04H   021CCPunctuation+Space1OCLatex2e#Punctuation+spaceHelpGVe1d0f04I'!DC. FC80J.\ 1NC.ccB 229E cbN  -not at end sentenceGVe1d0f04J'!DC? FC80J?\ 1MC?ccB 229EcbN  -not at end sentenceGVe1d0f04K'!DC! FC80J!\ 1NC!ccB 229E cbN  -not at end sentenceGVe1d0f04L'!DC: FC80J:\ 1NC:ccB 229E cbN  -not at end sentenceGVe1d0f04M'!DC. HC80J80J\@. 2PCbfIXdfI.ccB 229E cbN  -at end sentence (bfIXbfP=cap letter)dfPdfIGVe1d0f04N'!DC? GC80J\@? 1LCbfIXdfI?ccB 229EcbN  -at end sentenceGVe1d0f04O'!DC! GC80J\@! 1MCbfIXdfI!ccB 229E cbN  -at end sentenceGVe1d0f04P'!DC: GC80J\@: 1MCbfIXdfI:ccB 229E cbN  -at end sentenceGVe1d0f05A'!DC. EC80J. 2CC.ccB 229E cbN  -at end sentence(default)GVe1d0f05B'!DC? EC80J? 2CC.ccB 229E cbN  -at end sentence(default)GVe1d0f05C'!DC! EC80J! 2CC!ccB 229E cbN  -at end sentence(default)GVe1d0f05D'!DC: EC80J: 2CC:ccB 229E cbN  -at end sentence(default)GVe1d0f05E'!DC. FC80J80J. 2JCbfIXdfI.ccB 229E cbN  -not at end sentence(default)GVe1d0f05F'!DC? EC80J? 2ICbfIXdfI?ccB 229EcbN  -not at end sentence(default)GVe1d0f05G'!DC! EC80J! 2JCbfIXdfI!ccB 229E cbN  -not at end sentence(default)GVe1d0f05H'!DC: EC80J: 2JCbfIXdfI:ccB 229E cbN  -not at end sentence(default)ípoints plotted. 8bN1BN0E2Draw curve 8fPJN2A08C8bOaEN0E18fPIN2A0B8bO3CN0E1Warning: this version has not been
+ tested.  This is similar to version 8fPIN2A0<8bO1BN0E1Draw curve except there is a place holder 
+provided
+into which the number of points that 8fPHN2A09 should calculate on the curve can be
+entered.8bN2NN0E2Draw curve---specify no8fPHN2A0ípoints plotted8fPJN2A08C8bO15GN0E18fPIN2A0B8bO3DN0E1Warning: this version has not been 
+tested. See pages 126 and 127 of the 8fPHN2A09 manual for a picture of the output
+that can be obtained. There are 4 place holders which must be filled with the width
+and height of the grid and the co-ordinates of the lower left-hand corner of the
+grid respectively. These must all be integers. The lines in the grid are drawn 
+every 10 picture units.8bN2ON0E2Draw graph paper---lines every 10 units8fPJN2A08C8bOaON0E18fPIN2A0B8bO3CN0E1Warning: this version has not been 
+tested. It is similar to version 8fPIN2A0<8bO2MN0E1Draw graph paper-lines every 10 units
+except there is an additional place holder. This takes an integer value
+and is the number of picture units between the lines of the grid. 8bN3BN0E2Draw graph paper---specify line separation
+
+
+8fPIN2A0"8bO1JN0E1PictureObjectsHelp8fPJN2A0-8bOON0E1Objects8bNIN0E28fPHN2A02
+
+This template can be used to enter various objects into a picture. The appropriate
+version is usually entered into the place holder of either version 8fPIN2A0<8bOKN0E1PUT or 8fPIN2A0<8bOPN0E1MultiPUT
+of template 8fPIN2A0<8bOPN0E1Commands which specifies where the object must be placed.
+The objects available at present are given below.
+
+8fPJN2A0-8bOLN0E1Line8bNIN0E28fPHN2A01
+There are two versions for entering a line. One is for a vertical line and the other for
+any non-vertical line. The line starts from a point whose co-ordinates are 
+determined by the contents of the place holders of  the 8fPIN2A0<8bOKN0E1PUT or
+8fPIN2A0<8bOPN0E1MultiPUT command.  
+
+The version for a vertical line has just one place holder
+into which should be entered the length of the line to be drawn in 8fPIN2A0<8bOJN0E1pu (picture units).
+Don't enter the units of length---they are assumed to be 8fPIN2A0<8bOJN0E1pu.
+See the help file for template 8fPIN2A0<8bO1EN0E1Picture-enter if you don't know what these are. 
+
+The version which is used for non-vertical lines is more complicated. This time there
+are three place holders, two of which are used to specify the angle, 3bI, that the line
+makes to the horizontal axis and one which specifies the length of the line to be drawn.
+8fPHN2A09  can only draw lines for a limited number of
+slopes. The user may only  specify angles  to the horizontal which satisfy the following
+formula.
+8fPIN2A0ISe1ecc74K   &21GCEquation/Display     1PCLatex2eB#Equation/DisplayHelp GVe1ecc74L'!NC
+(bfMno.dfM)80C8fO
+
+2HC80J\begin{equation}80I80M8fO80K 80I\end{equation}80IMCEquation   GVe1ecc7aK'!1AC
+(82Hlabel82I8bN)80C8fO
+
+3AC80J\begin{equation}\label{8bN}80I80M8fO80K 80I\end{equation}80I1ECEquation -- bfMLabeldfMGVe1ecc77D'!2FC
+(bfMno.dfM)80C8fO  82Htext or punctuation82I8bM
+
+3EC80J\begin{equation}80I80M8fO\mbox{\ \ \ 80K8bM}80I\end{equation}80I1KCEquation followed by textGVe1ecc7eA'!2IC
+(82Hlabel82I8bN)80C8fO  82Htext or punctuation82I8bM
+
+3NC80J\begin{equation}\label{8bN}80I80M8fO\mbox{\ \ \ 80K8bM}80I\end{equation}80I2FCEquation followed by text -- bfMLabeldfMGVe1ecc75N'!GC
+80C8fO
+
+2MC80J\begin{displaymath}80I80M8fO 80I\end{displaymath}80I1FCDisplayed expressionGVe1ecc78N'!1OC
+80C8fO  82Htext or punctuation82I8bM
+
+3KC80J\begin{displaymath}80I80M8fO\mbox{\ \ \ 80K8bM}
+\end{displaymath}80I2GCDisplayed expression followed by textï8fOKN0A18fPJN0A08ePHN2B0ISe1f476eD! *,0GVe1f4774C#"ECsinFC\sinGVe1f4775D#"ECcosFC\cosGVe1f476fG#"ECtanFC\tanGVe1f4791P#"HCarcsinIC\arcsinGVe1f4793F#"HCarccosIC\arccosGVe1f478dK#"HCarctanIC\arctanGVe1f4796A#"FCsinhGC\sinhGVe1f4796M#"FCcoshGC\coshGVe1f4798K#"ECcotFC\cotGVe1f4799I#"FCcothGC\cothGVe1f479bB#"ECsecFC\secGVe1f479cG#"ECcscFC\cscý8fPIN0A03bI8ePHN2B09O8fPJN2A0ISe13cd3fG   #2KCFractions1HCLatex2eB#FractionsHelpGVe26e4f2H'"IC81K8fO81L81H81M8fN81NMC\frac{8fO}{8fN}1NCenvironment determines styleGVe13cd3fH'"IC81K8fO81L81H81M8fN81N1LC{\displaystyle\frac{8fO}{8fN}}NCDisplayStyleGVe1eb2b4O'"KCccA81K8fO81L81H81M8fN81N80P1IC{\textstyle\frac{8fO}{8fN}}MCInlineStyle10B8fNIN0A2x8fOIN0A1ywhere 8fPIN2A0B8bOIN0E1x and 8fPIN2A0B8bOIN0E1y must be integers such that 8fPMN0A08fPJN0A0-68ePHN2B0ISe1f302dH#!$%0GVe1f302dJ!"CC<GVe1f302dK!"CC>GVe1f302dL!"CC=GVe1f302dM!"CC226EGVe1f302dN!"CC226F10E8fPIN0A0x8ePHN2B010E8fPIN0A06 and  8fPMN0A08fPJN0A0-68ePHN2B010E8fPIN0A0y8ePHN2B010E8fPIN0A06 and 8fPIN2A0B8bOIN0E1x and 8fPIN2A0B8bOIN0E1y
+must have no common divisor greater than 1.  (Thus instead of setting 8fPKN0A08fPIN0A0y8ePHN2B09O8fPIN0A06 and 8fPKN0A08fPIN0A0x8ePHN2B09O8fPIN0A03
+you must set 8fPKN0A08fPIN0A0y8ePHN2B09O8fPIN0A02 and 8fPKN0A08fPIN0A0x8ePHN2B09O8fPIN0A01.) 
+
+In a right-angled triangle the tangent of an angle 3bI, which is not the right-angle, is
+calculated by  dividing the length of the side of the triangle opposite it by the length of
+the smaller side adjacent to it. (8fPHN2A0R not the hypotenuse.)
+
+The final place holder for the version for non-vertical lines determines the length of the
+line to be drawn. You must enter the length of the projection of the line onto the 8fPIN2A0B8bOIN0E1x-axis.
+This is the difference between the 8fPIN2A0B8bOIN0E1x co-ordinates of the end points of the line.
+Don't enter the units of length---they are assumed to be 8fPIN2A0<8bOJN0E1pu.
+If a horizontal line is to be drawn then this of course will be the same as the length of
+the line itself  but otherwise it will be different.  
+
+8fPHN2A09 will not draw very short sloping lines. Anything shorter than about
+10pt will be omitted from the picture.
+
+
+
+8fPJN2A0-8bOMN0E1Arrow8bNIN0E28fPHN2A01
+
+Just as for drawing lines there are two versions of this template for drawing
+arrows--- one for arrows in a vertical direction and another for arrows in a
+non-vertical direction. The place holders are precisely the same as those 
+for lines which are described in the subsection above.
+
+The line starts from a point whose co-ordinates are 
+determined by the contents of the place holders of  the 8fPIN2A0<8bOKN0E1PUT or
+8fPIN2A0<8bOPN0E1MultiPUT command. The arrow points away from this starting point.
+
+8fPJN2A0-8bOON0E1Example8bNIN0E28fPHN2A00
+8fPMN2A0ISe1f19a3H   $21BCPicture-Enter   1FCLatex2eB#PictureHelpGVe1f19a3I'!8HCbfKPicturedfK
+bfMdimensions: dfM 82Hwidth82I 8bN × 82Hheight82I 8bM bfMpu (picture units)dfM 
+bfMorigin lower left corner.dfM
+82B82Hpicture-commands82I8bO82C
+bfKEnd picturedfK
+2FC\begin{picture}(8bN,8bM)80I8bO\end{picture}80I2BCorigin lower left corner (enter)GVe1f19a3J'!dECbfKPicturedfK
+bfMdimensions: dfM 82Hwidth82I 8bN × 82Hheight82I 8bM bfMpu (picture units)dfM 
+ccAbfMThe origin is s. t. the co-ords. of the lower left corner of picture aredfM80P (82Hx co-ord82I 8bL,82Hy co-ord82I 8bK)
+82B82Hpicture-commands82I8bO82C
+bfKEnd picturedfK
+2KC\begin{picture}(8bN,8bM)(8bL,8bK)80I8bO\end{picture}80I1HCspecify origin (enter)GVe1f19a3K'!1HC82B82Hpicture-commands82I8bO82C
+2FC\begin{picture}(8bN,8bM)80I8bO\end{picture}80I2ACorigin lower left corner (hide)GVe1f19a3L'!1HC82B82Hpicture-commands82I8bO82C
+2KC\begin{picture}(8bN,8bM)(8bL,8bK)80I8bO\end{picture}80I1GCspecify origin (hide)10K8bKKN0E5-508bLKN0E4-508bO1EN0E18fPKN2A0ISe1f19a9L   &21NCCommands                    1NCLatex2eB#PictureCommandsHelpGVe1f19a9M'!3GCbfMPUT80BdfM ccAbfMatdfM80P (82Hx82I8bN, 82Hy82I8bM) 80E
+82Hobject, box or text82I8bO80F
+OC\put(8bN,8bM){8bO}80IECPUTGVe1f19a9N'!7DCbfMPUT80BdfM ccAbfMstarting atdfM80P (82Hx82I8bN, 82Hy82I8bM) ccAbfMat intervals ofdfM80P (82Hdx82I8bL, 82Hdy82I8bK), 8bJ ccAbfMcopies ofdfM80P 80E
+82Hobject, box or text82I8bO80F
+1LC\multiput(8bN,8bM)(8bL,8bK){8bJ}{8bO}80IJCMultiPUTGVe1f19a9O'!5CCbfMDRAW CURVEdfM ccAbfMthro' ptsdfM80P (82Hx182I8bO, 82Hy182I8bN), (82Hx282I8bM, 82Hy282I8bL) ccAbfManddfM80P (82Hx382I8bK, 82Hy382I8bJ)
+1IC\qbezier(8bO,8bN)(8bM,8bL)(8bK,8bJ)LCDraw curveGVe1f19a9P'!6NCbfMDRAW CURVEdfM ccAbfMthro' ptsdfM80P (82Hx182I8bO, 82Hy182I8bN), (82Hx282I8bM, 82Hy282I8bL) ccAbfManddfM80P (82Hx382I8bK, 82Hy382I8bJ) ccAbfMplottingdfM80P  8bI ccAbfMpointsdfM80P
+1LC\qbezier[8bI](8bO,8bN)(8bM,8bL)(8bK,8bJ)2GCDraw curve-specify no. points plottedGVe1f19aaA'!9HCbfMDRAW 80BGRIDdfM  ccAbfMdimensions:dfM80P 82Hwidth82I8bN × 82Hheight82I8bMccAbfMpudfM80P80E 
+ccAbfMorigin is atdfM80P (82Hx co-ord82I 8bL,82Hy co-ord82I 8bK)  ccAbfM(measured in pu from lower left corner)dfM80P80F
+1HC\graphpaper(8bL,8bK)(8bN,8bM)80I2GCDraw graph paper-lines every 10 unitsGVe1f19aaB'!bACbfMDRAW 80BGRIDdfM  ccAbfMdimensions:dfM80P 82Hwidth82I8bN × 82Hheight82I8bMccAbfMpu;dfM80P   ccAbfMlines everydfM80P 8bOccAbfMpudfM80P 80E
+ccAbfMorigin is atdfM80P (82Hx co-ord82I8bL,82Hy co-ord82I8bK)  ccAbfM(measured in pu from lower left corner)dfM80P80F
+1KC\graphpaper[8bO](8bL,8bK)(8bN,8bM)80I2JCDraw graph paper-specify line separation11B8bOIN0E18fPIN2A0ISe1f19abM   *2ICObjects1LCLatex2eBPictureObjectsHelpGVe1f19abN'!7CCccAbfOlinedfO angle 3bI to horiz. s.t. tan(3bI) = 81K82Hy82I8bM81L81H81M82Hx82I8bN81N  {-6 226E bfMx,ydfM 226E 6; gcd(bfMx,ydfM) = 1 }, with horiz. proj. 8bOpu.80POC\line(8bN,8bM){8bO}1ECLine (not vertical)GVe1f19abO'!1NCccAbfOvertical linedfO length 8bOpu80POC\line(0,1){8bO}1ACLine (vertical)GVe1f19abP'!7DCccAbfOvectordfO angle 3bI to horiz. s.t. tan(3bI) = 81K82Hy82I8bM81L81H81M82Hx82I8bN81N  {-4 226E bfMx,ydfM 226E 4; gcd(bfMx,ydfM) = 1}, with horiz. proj. 8bOpu.80P1AC\vector(8bN,8bM){8bO}1FCArrow (not vertical)GVe1f19acA'!1PCccAbfOvertical vectordfO length 8bOpu80P1AC\vector(0,1){8bO}1BCArrow (vertical)GVe1f19acB'!1JCccAbfOcircledfO diameter 8bOpu.80PLC\circle{8bO}HCCircleGVe1f19acC'!1HCccAbfOdiskdfO diameter 8bOpu.80PMC\circle*{8bO}1FCDisk (filled circle)GVe1f19acD'!2JCccAbfOovaldfO with width 8bOpu  and height 8bNpu.80PLC\oval(8bO,8bN)FCOvalGVe1f19acE'!3OCccAbfOhalf ovaldfO 82Hl, r, t or b82I8bM with width 8bOpu  and height 8bNpu.80POC\oval(8bO,8bN)[8bM]KCHalf ovalGVe1f19acF'!4FCccAbfOquarter ovaldfO 82Htl, tr, bl or br82I8bM with width 8bOpu  and height 8bNpu.80POC\oval(8bO,8bN)[8bM]NCQuarter ovalGVe1f19acH'!3CCccAbfOshortstackdfO aligned80P 82Hl,c or r82I8bN
+80C{82Hcontents82I8bO}1CC\shortstack[8bN]{8bO}LCShortstack11I8bOKN0E12008bMIN0E308bNIN0E208fPKN2A011B8bOIN0E18fPKN2A011J8bOKN0E12008bNIN0E218bMIN0E308bMIN0E308bNIN0E208fPKN2A011B8bOIN0E1y8bMKN0E32008bNIN0E258fPKN2A011B8bOIN0E1x8bMIN0E308bNKN0E22058fPKN2A011B8bOIN0E18fPIN2A011G8bOIN0E128bMJN0E3508bNJN0E2308fPKN2A011B8bOIN0E18fPKN2A011L8bOKN0E11508bNIN0E228bMIN0E318bMJN0E3508bNJN0E2308fPKN2A011B8bOIN0E13bI8bMJN0E3528bNJN0E2558fPNN2A011A8bOIN0E18fPIN2A011G8bOIN0E118bJJN0E6118bKIN0E558bLIN0E408bMJN0E3508bNKN0E21308fPNN2A011A8bOIN0E18fPIN2A011G8bOIN0E118bJJN0E6218bKIN0E508bLIN0E458bMJN0E3508bNJN0E2308fPKN2A011B8bOIN0E1x8bMJN0E3408bNJN0E2808fPKN2A011B8bOIN0E1y8bMJN0E3758bNKN0E21408fPKN2A011B8bO1EN0E1Origin (0, 0)8bMKN0E3-258bNKN0E2-258fPKN2A011B8bOIN0E18fPKN2A011J8bOJN0E1158bNIN0E218bMIN0E318bMKN0E3-158bNKN0E2-158bMKN0E32808bNKN0E2280
+
+8fPJN2A0-8bONN0E1Circle8bNIN0E28fPHN2A01
+
+Enter into the place holder the diameter of the circle to be drawn. 
+Don't enter the units of length---they are assumed to be 8fPIN2A0<8bOJN0E1pu.
+See the help file for template 8fPIN2A0<8bO1EN0E1Picture-enter if you don't know what these are. 
+The centre of the circle is the point whose co-ordinates are 
+determined by the contents of the place holders of  the 8fPIN2A0<8bOKN0E1PUT or
+8fPIN2A0<8bOPN0E1MultiPUT command.
+
+
+
+
+8fPJN2A0-8bOLN0E1Disk8bNIN0E28fPHN2A01
+A disk is a blacked in circle.
+Enter into the place holder the diameter of the disk to be drawn. 
+Don't enter the units of length---they are assumed to be 8fPIN2A0<8bOJN0E1pu.
+See the help file for template 8fPIN2A0<8bO1EN0E1Picture-enter if you don't know what these are. 
+The centre of the disk is the point whose co-ordinates are 
+determined by the contents of the place holders of  the 8fPIN2A0<8bOKN0E1PUT or
+8fPIN2A0<8bOPN0E1MultiPUT command.
+
+
+
+8fPJN2A0-8bOLN0E1Oval8bNIN0E28fPHN2A01
+
+Enter into the place holders the width and height of the oval to be drawn. 
+Don't enter the units of length---they are assumed to be 8fPIN2A0<8bOJN0E1pu.
+See the help file for template 8fPIN2A0<8bO1EN0E1Picture-enter if you don't know what these are. 
+The centre of the oval is the point whose co-ordinates are 
+determined by the contents of the place holders of  the 8fPIN2A0<8bOKN0E1PUT or
+8fPIN2A0<8bOPN0E1MultiPUT command.
+
+8fPJN2A0-8bO1AN0E1Half oval8bNIN0E28fPHN2A01
+
+The contents of the first place holder determines which half of the oval is to be drawn.
+Enter either ``l'' for the left, ``r'' for the right, ``t'' for the top or ``b'' for the bottom half.
+Enter into the other place holders the width and height of the complete oval.
+Don't enter the units of length---they are assumed to be 8fPIN2A0<8bOJN0E1pu.
+See the help file for template 8fPIN2A0<8bO1EN0E1Picture-enter if you don't know what these are. 
+The centre of the oval is at the point whose co-ordinates are 
+determined by the contents of the place holders of  the 8fPIN2A0<8bOKN0E1PUT or
+8fPIN2A0<8bOPN0E1MultiPUT command.
+
+8fPJN2A0-8bO1DN0E1Quarter oval8bNIN0E28fPHN2A01
+
+The contents of the first place holder determines which quarter of the oval is to be
+drawn. Enter either ``tl'' for the top-left, ``tr'' for the top-right, ``bl'' for the bottom-left
+or ``br'' for the bottom-right quarter. The order of the two letters is irrelevant. Thus
+``lt'' could also have been entered for the top-left quarter. Enter into the other place holders the
+width and height of the complete oval. Don't enter the units of length---they are
+assumed to be 8fPIN2A0<8bOJN0E1pu. See the help file for template 8fPIN2A0<8bO1EN0E1Picture-enter if you don't know what
+these are.  The centre of the oval is at the point whose co-ordinates are  determined by
+the contents of the place holders of  the 8fPIN2A0<8bOKN0E1PUT or 8fPIN2A0<8bOPN0E1MultiPUT command.
+
+8fPJN2A0-8bO1BN0E1Shortstack8bNIN0E28fPHN2A01
+
+This version can be used to enter a column of text into the picture. Enter into the first
+place holder either ``l'', ``c'' or ``r''. These mean that the text in the column is to be aligned
+at the left, centred or aligned at the right respectively.
+
+The other place holder is for the text of the column. Rows in the column must be
+separated by an appropriate 8fPHN2A0Ù version from template 8fPIN2A0<8bO1AN0E1LineBreak or by entering ``8fPHN2A0Y8fPHN2A0Y''
+directly from the keyboard.
+
+The bottom-left hand corner of the stack is at the point whose co-ordinates are 
+determined by the contents of the place holders of  the 8fPIN2A0<8bOKN0E1PUT or
+8fPIN2A0<8bOPN0E1MultiPUT command.
+
+
+8fPJN2A0-8bOON0E1Example8bNIN0E28fPHN2A00 
+8fPIN2A0N8bO2DN0E18fPIN2A0>8bO1BN0E1shortstack aligned l
+8fPHN2A0n8fPHN2A0Xcat8fPHN2A0Y8fPHN2A0Ydog8fPHN2A0Y8fPHN2A0Ybat8fPHN2A0W
+
+will put cat, dog and bat in a column aligned at the left into the picture.
+
+
+
+8fPIN2A0"8bO1HN0E1PictureBoxesHelp8fPJN2A0-8bOMN0E1Boxes8bNIN0E28fPHN2A02
+
+Boxed items can be entered into a picture with this template.  The appropriate  version
+is usually entered into the place holder of either version 8fPIN2A0<8bOKN0E1PUT or 8fPIN2A0<8bOPN0E1MultiPUT of
+template 8fPIN2A0<8bOPN0E1Commands which specifies where the object must be placed.  The
+co-ordinates of the lower left-hand corner of the box are determined by the
+place holders of the 8fPIN2A0<8bOKN0E1PUT or 8fPIN2A0<8bOPN0E1MultiPUT command.
+
+The  versions available are:
+
+8fPIN2A08D8bOLN0E18fPJN2A08C8bO2cJN0E1Enter into the first two place holders the  width and height measured in
+8fPIN2A0<8bOJN0E1pu (picture units)  of the size of box required. See the help file for template
+8fPIN2A0<8bO1EN0E1Picture-enter  if you don't know what these units are. The  third
+place holder determines where in the box its contents should be positioned.
+Enter one or a pair of the following characters---``t'',``b'',``l'',``r'',``c''. They stand for
+top, bottom, left, right and centre respectively. Thus if ``tl'' was entered into the
+place holder the contents would be positioned at the top-left corner of the box.
+The order of a pair of characters has no significance. Enter into the final
+place holder the contents of the box. This could be text or a version of template
+8fPIN2A0<8bOON0E1Objects. 8bNPN0E2Make box8fPJN2A08C8bO5FN0E1This version is the same as version
+8fPIN2A0<8bOPN0E1Make box except that a solid line frames the box.8bN2CN0E2Make framed box-solid frame8fPJN2A08C8bO4NN0E1This version is similar to version
+8fPIN2A0<8bOPN0E1Make box but a dashed line frames the box.8bN2DN0E2Make framed box-dashed frame8fPJN2A08C8bO8MN0E1This version is similar to version
+8fPIN2A0<8bO2CN0E1Make framed box-solid frame except instead of specifying the size
+of the box, a framed box which fits its contents is drawn.8bNMN0E2Frame
+
+8fPIN2A0"8bO1LN0E1PictureSaveBoxesHelp8fPJN2A0-8bO1AN0E1SaveBoxes8bNIN0E28fPHN2A02
+
+If there is a bit of a picture which is repeated several times in one or more pictures
+it can be advantageous to  save it  in a named box and call the box wherever it
+is needed. As the contents of the box are only processed once by 8fPHN2A09 
+this can save processing time especially if the box contains sloping lines.
+However once you have finished  using the saved box its contents should be destroyed
+to save storage space. Select version 8fPIN2A0<8bO1HN0E1Destroy save box to do this. 
+
+Create a new save box with the 8fPIN2A0<8bO1KN0E1Create new save box version of this template. Insert  a name into the
+place holder. This should be a string of letters and should not be the name of an existing
+command. Uppercase letters are considered to be different from lower case letters. 
+
+You are now ready to define the contents of the save box. Click on version 8fPIN2A0<8bO1PN0E1Define contents save box.
+Enter into the first two place holders the  width and height measured in
+8fPIN2A0<8bOJN0E1pu (picture units) of the size of the box required. See the help file for template
+8fPIN2A0<8bO1EN0E1Picture-enter  if you don't know what these units are. The  third
+place holder determines where in the box its contents should be positioned.
+Enter one or a pair of the following characters---``t'',``b'',``l'',``r'',``c''. They stand for
+top, bottom, left, right and centre respectively. Thus if ``tl'' was entered into the
+place holder the contents would be positioned at the top-left corner of the box.
+The order of a pair of characters has no significance. Enter into the final
+place holder the contents of the box. This could be text or version 8fPIN2A0<8bOKN0E1PUT or 8fPIN2A0<8bOPN0E1MultiPUT of template
+8fPIN2A0<8bOPN0E1Commands or a version of template 8fPIN2A0<8bOON0E1Objects.
+
+Finally to use the save box, enter version 8fPIN2A0<8bO1DN0E1Use save box in any place holder for an 
+``object''. 8fPHN2A0S in the
+place holder of a 8fPIN2A0<8bOKN0E1PUT command.
+
+
+8fPIN2A0"8bO1IN0E1LinethicknessHelp8fPJN2A0-8bO1EN0E1LineThickness8bNIN0E28fPHN2A02
+The final template of this group can be used to specify the thickness of the lines in your
+picture. You can choose out of thin or thick lines. 
+
+The third version allows you to specify the thickness of the lines in the pictures. Enter
+into the place holder the thickness required, not forgetting to include the units of length.
+This need not be 8fPIN2A0<8bOJN0E1pu. However unless you have called package 8fPIN2A0;8bONN0E1pict2e only
+vertical and horizontal lines will be drawn with this thickness.
+
+The versions of this template  can be entered anywhere in your document. 
+They can be entered before or within a picture.
+
+
+8fPJN2A0-8bOON0E1Example8bNIN0E28fPHN2A00
+8fPMN2A010K8bKKN0E5-508bLKN0E4-508bO1DN0E18fPKN2A011B8bOIN0E18fPIN2A011I8bOKN0E12008bMIN0E308bNIN0E208fPKN2A011B8bOIN0E18fPKN2A011J8bOKN0E12008bNIN0E218bMIN0E308bMIN0E308bNIN0E208fPKN2A011B8bOIN0E1y8bMKN0E32008bNIN0E258fPKN2A011B8bOIN0E1x8bMIN0E308bNKN0E22058fPKN2A011B8bOIN0E18fPIN2A011G8bOIN0E128bMKN0E31508bNKN0E21008fPNN2A011A8bOIN0E18fPIN2A011G8bOIN0E118bJJN0E6298bKIN0E558bLIN0E408bMIN0E358bNKN0E21008fPNN2A011A8bOIN0E18fPIN2A011G8bOIN0E118bJJN0E6198bKIN0E508bLIN0E458bMKN0E31508bNIN0E258fPKN2A011B8bO1DN0E1P (100, 150)8bMKN0E31528bNKN0E21028fPKN2A011B8bO1EN0E1Origin (0, 0)8bMKN0E3-258bNKN0E2-258fPKN2A011B8bOIN0E18fPKN2A011J8bOJN0E1158bNIN0E218bMIN0E318bMKN0E3-158bNKN0E2-158fPKN2A011B8bOMN0E1100pu8bMKN0E31528bNJN0E2488fPKN2A011B8bOMN0E1150pu8bMJN0E3748bNKN0E21028bMKN0E32808bNKN0E2280
+
+
+
+
+
+
+
+8fPIN2A0"8bO1CN0E1SpacingHelp8fPJN2A0-8bOON0E1Spacing8bNIN0E28fPHN2A03
+
+8fPIN2A0"8bO1FN0E1HorizSpaceHelp8fPJN2A0-8bO1BN0E1Horizontal8bNIN0E28fPHN2A02
+
+Characters obtained by pressing the space bar or the  8fPIN2A0>8bONN0E1return key are  considered
+by 8fPHN2A09 to be the same space character. Any  sequence of space characters is
+considered to be a sequence of just one space character. Thus if you wish to increase the
+space between two typed items it does not help to insert extra spaces with the space bar
+between them. The extra spaces will be shown on the screen but will be ignored by
+8fPHN2A09 and so will not appear in the final output. 
+
+To insert extra space into a line use this template  or enter straight 8fPHN2A09 
+commands from the keyboard. For example, type 
+8fPHN2A0Ø  where 8fPIN2A0N8bOIN0E1229E stands for the
+character obtained by pressing the space bar to enter an inter-word space into the line.
+The special symbol 8fPHN2A0\ can also  used to insert
+space but in places where it would be inappropriate to break the line. For example, I
+would input my name as H.8fPHN2A0\Backhouse so that the ``H.'' doesn't appear at the end of a
+line by itself.
+
+When  text is set in a  typewriter like font  the inter-word space is a fixed length causing a
+ragged right-hand or, less usually, left-hand margin. Except when such a font is
+specified or you have requested a ``ragged margin'', 8fPHN2A09 will stretch or shrink the
+inter-word space  on each line so that the right margin is straight. Thus inserting space by
+the methods mentioned in the previous paragraph may not have the desired effect. To
+insert an absolute length of space use instead versions 8fPIN2A0<8bO1EN0E1space8fPHN2A0Xlength8fPHN2A0W or 8fPIN2A0<8bO1FN0E1space8fPHN2A0Xlength8fPHN2A0W*
+and fill in the length required  (not forgetting the units). Version  8fPIN2A0<8bO1EN0E1space8fPHN2A0Xlength8fPHN2A0W will not
+produce any space at the start or end of a line (of output)  but  version 8fPIN2A0<8bO1FN0E1space8fPHN2A0Xlength8fPHN2A0W*
+will.
+
+8fPIN2A08D8bO1EN0E18fPJN2A08C8bOeAN0E1Insert into the parameter the length of horizontal space required.
+Don't forget the units. These may be 8fPIN2A0<8bOJN0E1cm, 8fPIN2A0<8bOJN0E1mm, 8fPIN2A0<8bOJN0E1in, 8fPIN2A0<8bOJN0E1em,  8fPIN2A0<8bOJN0E1ex, 8fPIN2A0<8bOJN0E1pc or 8fPIN2A0<8bOJN0E1pt. This
+command will be ignored if it occurs at the start or end of a line in the 8fPHN2A09 
+output.8bN1EN0E2space8fPHN2A0Xlength8fPHN2A0W8fPJN2A08C8bO9FN0E1This is the same as version 8fPIN2A0<8bO1EN0E1space8fPHN2A0Xlength8fPHN2A0W except the space will be
+generated even if the instruction occurs at the start or end of a line in the
+8fPHN2A09 output.8bN1FN0E2space8fPHN2A0Xlength8fPHN2A0W*8fPJN2A08C8bO1fNN0E1A stretchable space is inserted with this version. If for example
+it is inserted between two items in a structure with a fixed physical width. Then
+the two items will be pushed apart to fit that fixed width. If more than one
+instance of this version has been entered into the structure then they each
+stretch by the same amount.  This command will be ignored if it occurs at the
+start or end of a line in the 8fPHN2A09  output. On the screen the presence of the
+stretchable space is indicated by the symbols 8fPIN2A0B8bOMN0E1HFill.8bN1KN0E2fill out with space8fPJN2A08C8bOaMN0E1This is the same as version 8fPIN2A0<8bO1KN0E1fill out with space  except the
+instruction will be complied with even if it occurs at the start or end of a line in
+the 8fPHN2A09 output. 8fPIN2A0B8bONN0E1HFill* appears on the screen.8bN1LN0E2fill out with space*8fPJN2A08C8bO4BN0E1This will enter a thin horizontal space into the document.8bN1BN0E2thin space8fPJN2A08C8bO3ON0E1This will enter one inter-word space into the document.8bN1JN0E21 inter-word space8fPJN2A08C8bO3PN0E1This will enter two inter-word spaces into the document.8bN1KN0E22 inter-word spaces8fPJN2A08C8bO4AN0E1This will enter five inter-word spaces into the document.8bN1KN0E25 inter-word spaces8fPJN2A08C8bO3PN0E1This will enter ten inter-word spaces into the document.8bN1LN0E210 inter-word spaces8fPJN2A08C8bO15ON0E1This produces the same 8fPHN2A09 code as version
+8fPIN2A0<8bO1EN0E1space8fPHN2A0Xlength8fPHN2A0W. However only space appears on the screen and thus the
+version can be changed to this one to improve the visual appearance of the
+document on the screen. Note that a fixed length of horizontal space is inserted
+into the screen version which is not related to the length specified in the place
+holder.8bN1JN0E2hide-space8fPHN2A0Xlength8fPHN2A0W8fPJN2A08C8bO7KN0E1This  produces the same 8fPHN2A09 code as version
+8fPIN2A0<8bO1FN0E1space8fPHN2A0Xlength8fPHN2A0W*. However only a fixed length of horizontal space appears on
+the screen.8bN1KN0E2hide-space8fPHN2A0Xlength8fPHN2A0W*8fPJN2A08C8bO7JN0E1This produces the same 8fPHN2A09 code as version 8fPIN2A0<8bO1KN0E1fill out
+with space. However only a fixed length of horizontal space appears on the
+screen.8bN1PN0E2hide-fill out with space8fPJN2A08C8bO7JN0E1This produces the same 8fPHN2A09 code as version 8fPIN2A0<8bO1LN0E1fill out
+with space*. However only a fixed length of horizontal space appears on the
+screen.8bN2AN0E2hide-fill out with space*
+
+8fPIN2A0"8bO1EN0E1VertSpaceHelp8fPJN2A0-8bOPN0E1Vertical8bNIN0E28fPHN2A02
+
+
+ A completely blank line in the text indicates to 8fPHN2A09 the end of a paragraph. 
+Multiple blank lines entered by means of the 8fPIN2A0>8bONN0E1return key are considered by 8fPHN2A09
+to be just one blank  line. Thus if you wish to increase the vertical space between two
+typed items it does not help to insert extra space between them with the  8fPIN2A0>8bONN0E1return key.
+The extra space will be shown on the screen but will be ignored by 8fPHN2A09 and so will
+not appear in the final output. 
+
+Note also that a blank line appearing on the screen which has been generated by using
+a template may not necessarily  generate a blank line in the corresponding 8fPHN2A09
+code. 
+
+Extra vertical space can be added after a line break with the  8fPIN2A0×8bOPN0E1[length]  or 
+8fPIN2A0×8bO1AN0E1*[length] versions
+from template 8fPIN2A0<8bO1AN0E1LineBreak. Set the place holder to the length of the  extra vertical
+space required. (Don't forget the units of length.)
+
+Otherwise to insert extra vertical space into  the document use this template  or enter
+pure 8fPHN2A09  commands from the keyboard. 
+
+It is usual to enter the versions of this template between paragraphs. Certain versions
+in fact can only be inserted between paragraphs.  If a version is inserted between
+paragraphs then the extra vertical space will appear there. If it is inserted in the
+middle of a line (of 8fPHN2A09 output) the extra vertical space is added immediately  after
+the  end of that line of output. 
+
+8fPIN2A08D8bO1CN0E18fPJN2A08C8bOdON0E1Insert into the parameter the length of vertical space required.
+Don't forget the units. These may be 8fPIN2A0<8bOJN0E1cm, 8fPIN2A0<8bOJN0E1mm, 8fPIN2A0<8bOJN0E1in, 8fPIN2A0<8bOJN0E1em,  8fPIN2A0<8bOJN0E1ex, 8fPIN2A0<8bOJN0E1pc or 8fPIN2A0<8bOJN0E1pt. This
+command will be ignored if it occurs at the start or end of a page in the 8fPHN2A09 
+output.8bN1EN0E2space8fPHN2A0Xlength8fPHN2A0W8fPJN2A08C8bO9FN0E1This is the same as version 8fPIN2A0<8bO1EN0E1space8fPHN2A0Xlength8fPHN2A0W except the space will
+be generated even if the instruction occurs at the start or end of a page
+of the 8fPHN2A09 output.8bN1FN0E2space8fPHN2A0Xlength8fPHN2A0W*8fPJN2A08C8bO1dLN0E1A stretchable space is inserted with this version. If for example
+it is inserted between two items in a structure with a fixed physical height.
+Then the two items will be pushed apart to fit that fixed height. If more than
+one instance of this version has been entered into the structure then each will
+stretch by the same amount.  This command will be ignored if it occurs at the
+start or end of a page in the 8fPHN2A09  output. Its presence on the screen is
+indicated by 219D8fPIN2A0O8bOMN0E1Vfill.8bN1KN0E2fill out with space8fPJN2A08C8bObNN0E1This is the same as version 8fPIN2A0<8bO1KN0E1fill out with space  except the
+instruction will be executed even if it occurs at the start or end of a page of the
+8fPHN2A09 output. Its presence on the screen is indicated by 219D8fPIN2A0O8bONN0E1Vfill*.8bN1LN0E2fill out with space*8fPJN2A08C8bO11NN0E1This command may only be used between paragraphs. The
+total amount of vertical space to be inserted is specified by the place holder. If
+there is already an 8fPIN2A0<8bO1IN0E1add space8fPHN2A0Xlength8fPHN2A0W  command adding vertical space at this
+place then the  amount of space inserted by this command is reduced
+accordingly.8bN1IN0E2add space8fPHN2A0Xlength8fPHN2A0W8fPJN2A08C8bO10JN0E1This will enter a small amount of vertical space into the document.
+The parameter 8fPIN2A0<8bO1GN0E1smallskipamount (to be found in template 8fPIN2A0<8bO1BN0E1Parameters
+group 8fPIN2A0>8bO1EN0E1Preliminaries)
+controls the amount of vertical space entered and its value can be altered with
+template 8fPIN2A0<8bO1HN0E1Parameters-OpsOn. Its presence on the screen is indicated by 219D8fPIN2A0N8bOIN0E1s.8bN1CN0E2Small space8fPJN2A08C8bO10CN0E1This will enter a medium amount of vertical space into the
+document. The parameter 8fPIN2A0<8bO1EN0E1medskipamount (to be found in template
+8fPIN2A0<8bO1BN0E1Parameters) controls the amount of vertical space entered and its value can
+be altered with template 8fPIN2A0<8bO1HN0E1Parameters-OpsOn. Its presence on the screen is
+indicated by 219D8fPIN2A0N8bOIN0E1m.8bN1DN0E2Medium space8fPJN2A08C8bO10IN0E1This will enter a large amount of vertical space into the document. The
+parameter 8fPIN2A0<8bO1EN0E1bigskipamount, which can be found in template 8fPIN2A0<8bO1BN0E1Parameters, controls the
+amount of vertical space entered and its value can be altered with template
+8fPIN2A0<8bO1HN0E1Parameters-OpsOn. Its presence on the screen is indicated by 219D8fPIN2A0N8bOIN0E1b.8bN1AN0E2Big space8fPJN2A08C8bO5KN0E1This produces the same 8fPHN2A09 code as version
+8fPIN2A0<8bO1EN0E1space8fPHN2A0Xlength8fPHN2A0W. However  only 219D8fPIN2A0N8bOKN0E18fPHN2A0X8fPIN2A0B8bONN0E1length8fPHN2A0W appears on the screen.8bN1JN0E2hide-space8fPHN2A0Xlength8fPHN2A0W8fPJN2A08C8bO5KN0E1This produces the same 8fPHN2A09 code as version
+8fPIN2A0<8bO1FN0E1space8fPHN2A0Xlength8fPHN2A0W*. However  only 219D8fPIN2A0N8bOLN0E1*8fPHN2A0X8fPIN2A0B8bONN0E1length8fPHN2A0W appears on the screen.8bN1KN0E2hide-space8fPHN2A0Xlength8fPHN2A0W*8fPJN2A08C8bO6FN0E1This is similar to version
+8fPIN2A0<8bO1IN0E1add space8fPHN2A0Xlength8fPHN2A0W. It produces the same 8fPHN2A09 code but 
+only 219D219D8fPIN2A0N8bOKN0E18fPHN2A0X8fPIN2A0B8bONN0E1length8fPHN2A0W appears on the screen.8bN1NN0E2hide-add space8fPHN2A0Xlength8fPHN2A0W
+
+8fPIN2A0"8bO1JN0E1TabularTabbingHelp8fPJN2A0-8bO1KN0E1Tabular and Tabbing8bNIN0E28fPHN2A03
+8fPHN2A09 provides two types of environments with which to
+generate columns of text. These are called tabular and tabbing. There are several major
+differences between them.
+
+8fPIN2A0ISe1dbb24P   "21OCItemize                      3BCLatex2eB#Description, Enumerate and Itemize HelpGVe1dbb25A'!2HC81PbfMItemdfM80BbfMizedfM
+82Hitems82I8bO82A bfMEnd ItemizedfM
+2DC80J\begin{itemize}80I8bO 80I\end{itemize}80IICItemizeGVe1dbb25B'!1DC   221J 80C80E{82Htext82I8bO}80F
+LC80J\item 8bO 80IFCItem11N8bOKN0E18fPIN2A011M8bO7PN0E1In tabbing the user has to specify the width of the columns whereas with tabular
+8fPHN2A09 determines the width of each column. 8fPIN2A011M8bO6EN0E1A new page can be started within a tabbing environment but not within a tabular 
+environment.8fPIN2A011M8bO7HN0E1A tabbing environment occupies a whole paragraph whereas a tabular
+environment can be placed within a paragraph.
+Unfortunately it was not easy to write a good set of stencils for the tabular environment.
+Those provided here allow for only a limited choice in design of tabular layout.
+It may be that you have to either make your own templates or use pure
+8fPHN2A09 in order to input the design you want.
+The templates for the tabbing environment on the other hand should meet your needs.
+
+
+8fPIN2A0"8bO1CN0E1TabularHelp8fPJN2A0-8bNIN0E28fPHN2A028bO2EN0E1Tabular-Enter, -Row and -Line 
+
+Three templates, 8fPIN2A0<8bO1EN0E1Tabular-Enter, 8fPIN2A0<8bO1CN0E1Tabular-Row and 8fPIN2A0<8bO1DN0E1Tabular-Line, can be used in
+combination to enter a tabular environment into a document. However they are,
+unfortunately, not very flexible. The table is always framed with horizontal and vertical
+lines, a horizontal line is inserted between the headings of the columns and the body of the
+table, and vertical lines are inserted between each column. The template 8fPIN2A0<8bO1DN0E1Tabular-Line
+does allow the user to add partial or  full width  horizontal lines at other places in the table
+but even so you may find that  the three templates provided are inadequate for your
+purposes.  In this case either enter the 8fPHN2A09 commands necessary to make the table
+directly into the document or use these templates as a guide in order to construct your
+own templates. Versions of the templates are provided for tables of at most 6 columns. If
+your table has more columns than this you should add the necessary versions to each of
+the three templates. 
+
+First enter into the document the version of template 8fPIN2A0<8bO1EN0E1Tabular-Enter with
+the required number of columns. The first place holder of each version 
+determines how the  entries in the columns are to be aligned. For each column
+you must enter either a ``c'', ``l'' or ``r''. These stand for ``centre the items in the column'',
+``align the entries at the left'' and ``align the entries at the right'' respectively.
+The code for each column must be preceded and followed by the ``|'' symbol.
+Thus ``|c|c|'' would be entered into the place holder
+for a two-column table in which the items are to be centred in the
+columns.
+
+There are also place holders for each column of the table. Insert into these the
+heading required for each column. 
+
+If you press the right arrow key on the
+keyboard after entering the heading of your last column you will see that a
+black rectangle to the left of the bottom horizontal line becomes the target selection. 
+This is the place holder into which the rows of the table are entered.
+Click on the appropriate version of template 8fPIN2A0<8bO1CN0E1Tabular-Row and a row will be entered
+into the table with a place holder for each column of the table. Enter the table items
+into these place holders. 
+
+To enter another row into the table  move the target
+selection with the right or left arrow keys to a position at the left of the
+table. If the target selection (cursor) is positioned to the left of
+the first row of the table it will appear on the leftmost vertical
+line of the table. If it is positioned to the left of any other row it will appear
+just to the left of the vertical line. Click again on the appropriate
+version of template 8fPIN2A0<8bO1CN0E1Tabular-Row and a row will be inserted
+before the row of items which were to the right of the cursor.
+Continue in the same fashion to add more rows.
+To delete a row of the table make the whole row the target selection and 
+then press 8fPIN2A0>8bOKN0E1C-d on the keyboard or click on 8fPIN2A0<8bONN0E1Delete under the 8fPIN2A0<8bONN0E1EditOp button
+in the console.
+
+It is possible to draw horizontal lines  in the table 
+with template 8fPIN2A0<8bO1DN0E1Tabular-Line. They can cross
+ the full width of the table or  just
+a few columns. To position a full or partial line in the table position the cursor, as
+before, to the left of the row of items which are to be just beneath the horizontal
+line. For a full width line choose the version 8fPIN2A0<8bO1ON0E1horiz line full width-(8fPIN2A0B8bOIN0E1n 8fPIN2A0<8bOLN0E1col)
+from template 8fPIN2A0<8bO1DN0E1Tabular-Line where  8fPIN2A0B8bOIN0E1n is the number of columns in your table
+and a line will appear in your table.
+
+To draw a line which is not the full width of the table select instead
+version 8fPIN2A0<8bO1PN0E1partial horiz line-enter.
+If a line is to be drawn from the left edge of column 8fPIN2A0B8bOIN0E1i to the right edge
+of column 8fPIN2A0B8bOIN0E1j where  8fPKN0A08fPIN0A0i8ePHN2B010H8fPIN0A0j  then enter into the first place holder 8fPIN2A0B8bOIN0E1i
+and into the second place holder 8fPIN2A0B8bOIN0E1j.
+Although the line does not appear on the screen it will appear in the final output.
+It is possible to change the version to 8fPIN2A0<8bO1ON0E1partial horiz line-hide
+and then a short line appears on the screen instead of the instruction.
+However the line does not appear in the correct place.
+
+It is possible to enter several partial line instructions between two rows of the table.
+They appear one under each other on the screen but will appear on the same line of
+the page in the final output. If there are more than one partial line instructions
+between two rows of the table then the order in which they are inserted into the table
+is not relevant.
+
+8fPIN2A0"8bO1CN0E1TabbingHelp8fPJN2A0-8bNIN0E28fPHN2A028bO2IN0E1Tabbing-Enter, -Row and -KillLine
+
+With these three templates it is possible
+to make a straight-forward tabbing environment. They are intended for
+making simple tabbing environments consisting
+of columns of items. The tabbing stops are set with a 
+``kill-line''.
+If you wish to input a more complicated tabbing environment
+you should either enter pure 8fPHN2A09 or use  template 8fPIN2A0<8bO1EN0E1Tabbing-Enter in
+conjunction with template 8fPIN2A0<8bO1HN0E1Tabbing-Row(DIY).  A description
+of how to do the latter is given in section Tabbing(DIY) below.
+Alternatively write versions specifically for your  application and
+add them to template 8fPIN2A0<8bO1CN0E1Tabbing-Row.
+
+First enter into the document version 8fPIN2A0<8bO1FN0E1Edit kill-line of template 8fPIN2A0<8bO1EN0E1Tabbing-Enter into
+your document. There are two place holders. The first is labelled ``kill-line'' and  into
+this should be entered  a version of template 8fPIN2A0<8bO1HN0E1Tabbing-KillLine. Click on the version
+with the number of columns you require.  If this is 8fPIN2A0B8bOIN0E1n, then a row of 8fPKN1A08fPIN0A0n8ePHN2B0Ü8fPIN0A01 place holders
+will appear. Enter into the first of these either an item of text or mathematics and/or
+some horizontal space. The latter can be entered, for example with version
+8fPIN2A0<8bO1LN0E1spacelength8fPHN2A0Xlength8fPHN2A0W* from template 8fPIN2A0<8bO1BN0E1Horizontal (group 8fPIN2A0>8bOON0E1Spacing). The first tabbing stop is set
+immediately after the contents of this place holder. If  you insert horizontal space at
+the start of this place holder be certain to use  a version of 
+template 8fPIN2A0<8bO1BN0E1Horizontal (group 8fPIN2A0>8bOON0E1Spacing) which  will insert space at the start of a line. These are marked in the template menu
+with an asterisk (*). Then fill in a similar manner the remaining 8fPKN1A08fPIN0A0n8ePHN2B0Ü8fPIN0A02 place holders.
+With these it is not necessary to use a horizontal space version with an asterisk. 
+The  stops for the tabbing environment are determined by this row. The end of it
+is marked with ``8fPIN2A0N8bOIN0E18fPIN2A0B8bOLN0E1kill'' on the screen. This row will not appear in the 8fPHN2A09 output.
+
+Remember that  several spaces entered from the keyboard are treated by 8fPHN2A09
+as if there was only one space present. Thus, although it may look on the screen as if you
+have moved the tab stops to the right by inserting spaces in this way in reality you 
+haven't. 
+
+The second place holder of version 8fPIN2A0<8bO1FN0E1Edit kill-line from template 8fPIN2A0<8bO1EN0E1Tabbing-Enter
+is labelled ``Tabbing-Row(s)'' and  into
+this should be entered  one or more versions of template 8fPIN2A0<8bO1CN0E1Tabbing-Row.
+Supposing that your  tabbing environment  has 8fPIN0A0n columns.  Begin by
+clicking on version 8fPIN2A0<8bO1AN0E18fPIN0A0n col row.  A row of 8fPIN0A0n place holders, one for each column,
+will appear on the screen. Fill them with the desired contents. To insert
+another row before or after this one, make the whole row the target selection and
+press  either the left  or right arrow on the keyboard. The target cursor will 
+move to  immediately before the first item or after the last item in the row respectively.
+Click on version 8fPIN2A0<8bO1AN0E18fPIN0A0n col row and place holders for the items of the new row
+will appear for you. Continue in this manner adding rows until
+you have entered everything into the tabbing environment.
+
+To delete a row from the tabbing environment make the whole row the target selection and 
+then press 8fPIN2A0>8bOKN0E1C-d on the keyboard or click on 8fPIN2A0<8bONN0E1Delete under the 8fPIN2A0<8bONN0E1EditOp button
+in the console.
+
+
+Finally, if you wish you can select the whole tabbing environment and change the
+version to 8fPIN2A0<8bO1FN0E1Hide kill-line. The ``kill-line'', 8fPIN2A0B8bO1EN0E1Begin tabbing and 8fPIN2A0B8bO1CN0E1End tabbing
+will then disappear.
+
+8fPIN2A0"8bO1HN0E1Tabbing(DIY)Help8fPJN2A0-8bNIN0E28fPHN2A028bO2GN0E1Tabbing-Enter, Tabbing-Row(DIY)
+
+These two templates can be used in combination to make 
+a complicated tabbing environment.
+If, however, you wish to make a straight-forward tabbing environment
+with items aligned in columns you should use template 8fPIN2A0<8bO1EN0E1Tabbing-Enter
+in conjunction with templates 8fPIN2A0<8bO1HN0E1Tabbing-KillLine and 8fPIN2A0<8bO1CN0E1Tabbing-Row.
+
+
+First enter version 8fPIN2A0<8bO1EN0E1Tabbing (DIY) from template 8fPIN2A0<8bO1EN0E1Tabbing-Enter into your document.
+There is just one place holder which is filled with  text interspersed with instances of
+versions of template 8fPIN2A0<8bO1HN0E1Tabbing-Row(DIY).
+
+The end of all but the last line of the tabbing environment 
+must be marked. If the line
+is a dummy line just entered to set the tab stops then terminate it with version
+8fPIN2A0<8bO1DN0E1end kill row.  (You can use template 8fPIN2A0<8bO1HN0E1Tabbing-KillLine to enter such a line if you wish.)
+Otherwise terminate a line with a  version with ``8fPIN2A0<8bOPN0E1end line'' in its
+name.
+
+Note that if you have a standard row of 8fPIN0A0n items in your
+tabbing environment then don't use a version of template 8fPIN2A0<8bO1CN0E1Tabbing-Row to enter it.
+Use instead a version of template 8fPIN2A0<8bO1HN0E1Tabbing-Row(DIY). 
+
+The versions of this template are used as follows:
+8fPIN2A08D8bO1DN0E18fPJN2A08C8bO7IN0E1Set a tab stop at this position. Its presence is marked on the
+screen by a small upward  pointing black triangle8fPHN2A0ISe058c37D   !1OCBlackTriangleGVe058c37G'!IC ``25bE''.DC. PCblack triangle11O8bNON0E2set tab8fPJN2A08C8bO1eEN0E1The text that follows this instruction will begin
+immediately after the next tab stop. Note that this does not necessarily
+imply a move to the next tab position to the right of your current position.
+If you have input a lot of text since the previous ``move to the next
+tab position'' command then it could result in a move to the left of 
+your current position. In this case some of the text on the screen will
+probably disappear
+while text may be overwritten in the 8fPHN2A09 output.8bN1MN0E2move to next tab stop8fPJN2A08C8bOeJN0E1The left hand margin of the tabbing
+environment is moved one tab to the right beginning with the line
+following the one in which this command is placed. The presence of this
+command is marked on the
+screen by the symbol ``8fPIN2A0O8bOIN0E1219C''.8bN2IN0E2move left margin one tab to right8fPJN2A08C8bOeIN0E1The left hand margin of the tabbing
+environment is moved one tab to the left beginning with the line
+following the one in which this command is placed. The presence of this
+command is marked on the
+screen by the symbol ``8fPIN2A0O8bOIN0E1219A''.8bN2HN0E2move left margin one tab to left8fPJN2A08C8bO1cKN0E1This command can only be used at the start of a line.
+It  eliminates the effect of a 8fPIN2A0<8bO2MN0E1move left margin one tab to the right command
+for this line.  Although the 8fPHN2A09 output should be fine the screen version
+is not. There it appears as though the margin has not been moved at all.
+Thus if possible 8fPIN2A0B8bO1PN0E1avoid using this command. Usually the same effect can be achieved
+by inserting a 8fPIN2A0<8bO2LN0E1move left margin one tab to the left on the previous line and
+a 8fPIN2A0<8bO2MN0E1move left margin one tab to the right at the end of the current line.
+The presence of this
+command is marked on the
+screen by the symbol ``8fPIN2A0O8bOIN0E121dA''.8bN2AN0E2move to previous tab stop8fPJN2A08C8bOcFN0E1This version can be used to mark the end of a line
+in the  tabbing environment. Don't mark the end of the last line.
+The presence of this
+command is marked on the
+screen by the symbol ``21aJ''.8bNPN0E2end line8fPJN2A08C8bO16FN0E1If you enter a line of text just in order to set the tab stops (thus you 
+don't wish it to appear in the output)  then you must insert this version at the
+end of the line.   The line will appear on the screen terminated  by ``8fPIN2A0N8bOIN0E18fPIN2A0B8bOLN0E1kill''.
+You can, if you prefer, enter such a  line instead  with a version of template
+8fPIN2A0<8bO1HN0E1Tabbing-KillLine followed once again  by the 8fPIN2A0<8bO1DN0E1end kill row version.8bN1DN0E2end kill row8fPJN2A08C8bOfMN0E1This version causes the position of the current tab stops to
+be saved. These can be restored with version 8fPIN2A0<8bO2BN0E1restore previous tab stops.
+These two versions can be nested but then must occur in pairs.
+The presence of this
+command is marked on the
+screen by the symbol ``8fPIN2A0O8bOIN0E1219B''.8bN1NN0E2save current tab stops8fPJN2A08C8bOaPN0E1This version causes previously saved positions
+of the tab stops to be restored. See version 8fPIN2A0<8bO1NN0E1save current tab stops.
+The presence of this
+command is marked on the
+screen by the symbol ``8fPIN2A0O8bOIN0E1219D''.8bN2BN0E2restore previous tab stops8fPJN2A08C8bO13ON0E1This command is used to mark the end of a line
+in a tabbing environment after which  extra vertical space is to be inserted.
+Enter into the place holder the amount of extra vertical space required not
+forgetting the units of length. The presence of this
+command is marked on the
+screen by the symbols ``21aJ21dF[8fPIN2A0B8bONN0E1length]''.8bN1PN0E2end line + extra v8fPHN2A0íspace8fPJN2A08C8bOdKN0E1This command has the same effect as 
+version 8fPIN2A0<8bO1PN0E1end line + extra v8fPHN2A0íspace except in this
+case the contents of the length place holder do not appear on the screen.
+The presence of this
+command is marked on the
+screen by the symbols ``21aJ21dF''.8bN2EN0E2hide-end line + extra v8fPHN2A0íspace8fPJN2A08C8bObJN0E1There are 6 similar versions that can be used to enter a row of 8fPIN0A0n items 
+where 8fPMN0A08fPIN0A018ePHN2B010E8fPIN0A0n8ePHN2B010E8fPIN0A06. Terminate it with a version with ``8fPIN2A0<8bOPN0E1end line'' in its name unless
+it's the last line of the environment.8bN1AN0E28fPIN0A0n col row
+
+Remember that  several spaces entered from the keyboard are treated by 8fPHN2A09
+as if there was only one space present. Thus although it may look on the screen as if you
+have moved tab stops to the right by inserting spaces in this way, in reality you 
+haven't. Use  template 8fPIN2A0<8bO1BN0E1Horizontal (group 8fPIN2A0>8bOON0E1Spacing) 
+to enter horizontal space instead.
+
+
+
+8fPJN2A0-8bOON0E1Example8bNIN0E28fPHN2A00
+
+8fPIN2A0a8bObHN0E1Girls: 8fPHN2A0p8fPHN2A0ISe182e0aA   121BCTabbing-Row(DIY)1KCLatex2eB#Tabbing(DIY)HelpGVe182e0aB'!FC80BccB25bE80PDC80K80BOCset tab (ccB25bEcbN)GVe182e0aC'!CC80CDC80K80C1GCmove to next tab stopGVe182e0aD'!FC80EccB219C80PDC80K80E2ICmove left margin one tab to right (ccB219CcbN)GVe182e0aE'!FC80FccB219A80PDC80K80F2HCmove left margin one tab to left (ccB219AcbN)GVe182e0aF'!ECccB21dA80PDC80K80D3LCmove to previous tab stop (only use at start of row) (ccB21dAcbN)GVe182e0aG'!DC21aJ
+EC
+{}NCend line (21aJ)GVe182e0aH'!KCccBbfMkilldfM80P
+HC\kill80I1ICend kill row (ccBbfMkilldfMcbN)GVe182e0aI'!FC80GccB219B80PEC80K80G 1NCsave current tab stops (ccB219BcbN)GVe182e0aJ'!FC80HccB219D80PEC80K80H 2BCrestore previous tab stops (ccB219DcbN)GVe18698dO'!1OC21aJ21dF[82Hlength extra v.space82I8bO]
+
+GC\\[8bO]2LCend line + extra v. space (21aJ21dF[ccBbfMlengthdfMcbN])GVe186999A'!FC21aJ21dF
+
+GC\\[8bO]2EChide-end line + extra v. space (21aJ21dF)GVe187336O'!3GC82Hitem182I8bO80C82Hitem282I8bN80C82Hitem382I8bM80C82Hitem482I8bL80C82Hitem582I8bK80C82Hitem682I8bJMC8bO80C8bN80C8bM80C8bL80C8bK80C8bJKC6 col rowGVe18733aN'!2NC82Hitem182I8bO80C82Hitem282I8bN80C82Hitem382I8bM80C82Hitem482I8bL80C82Hitem582I8bKKC8bO80C8bN80C8bM80C8bL80C8bKKC5 col rowGVe18733bP'!2EC82Hitem182I8bO80C82Hitem282I8bN80C82Hitem382I8bM80C82Hitem482I8bLIC8bO80C8bN80C8bM80C8bLKC4 col rowGVe18733dE'!1LC82Hitem182I8bO80C82Hitem282I8bN80C82Hitem382I8bMGC8bO80C8bN80C8bMKC3 col rowGVe18733eH'!1CC82Hitem182I8bO80C82Hitem282I8bNEC8bO80C8bNKC2 col rowGVe18733fC'!JC82Hitem182I8bOCC8bOKC1 col row12PMarilyn 8fPHN2A0o 8fPHN2A012PJones8fPHN2A012I8fPHN2A012N8fPHN2A012N8fPHN2A012KThomas8fPIN2A012K8bOKN0E11cmSmith8fPHN2A012M8fPHN2A012KJane8fPHN2A012OWilliams8fPHN2A012K8fPHN2A012LBoys:8fPHN2A012OJohn8fPHN2A012OTaylor8fPHN2A012KRichard8fPHN2A012OSmith8fPHN2A012M8fPHN2A012KForeign students:   8fPHN2A012PIngrid8fPHN2A0o8fPHN2A012PMuys8fPHN2A012N8fPHN2A012KRutger8fPHN2A012ODekkers8fPHN2A012M8fPHN2A012K8fPHN2A012HMen:8fPHN2A012OWilliam8fPHN2A012OBrown8fPHN2A012N8fPHN2A012KDouglas8fPHN2A012OJones
+If you are reading this on the screen you can see the problem with 
+the 8fPIN2A0<8bO2AN0E1move to previous tab stop version in the example above.
+Boys should appear below Girls and does in the 8fPHN2A09
+output but does not on the screen.
+
+
+
+
+
+

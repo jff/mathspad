@@ -1,0 +1,18 @@
+
+TOPSRCDIR = @top_srcdir@
+TOPOBJ    = .
+SRCDIR    = @srcdir@
+VPATH     = @srcdir@
+
+SOURCE = buffer.c button.c checkbox.c default.c edit.c \
+	events.c fileselc.c find.c fonts.c getstring.c \
+	menu.c message.c notadef.c notation.c output.c \
+	popup.c remark.c scrollbar.c sources.c symbol.c 
+
+LIBRARIES = libwindows.la
+
+@MAKE_RULES@
+all:  libwindows.la
+
+libwindows.la: $(LTOBJECTS)
+	$(LINK) -o libwindows.la -rpath $(libdir) $(LTOBJECTS) $(XLIB)

@@ -1,0 +1,21 @@
+Include "libint.so"
+Include "libstring.so"
+Include "librubbish.so"
+
+Var Rubbish f,g;
+
+Function test()
+{
+   Var Int i;
+   Var String s;
+   g:=5;
+   g:="g";
+   f:=g;
+   f:=f+g;
+   f:="f";
+   i:=f;
+   PrintRubbish(f);
+   PrintRubbish(g);
+   PrintInt("int",i);
+}
+test();

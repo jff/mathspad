@@ -1,0 +1,161 @@
+[1mM^\athpad Document
+[0m^28fDN0E0fPKN2A0ISe1d4f11P   +2PcSectionHeading2PcLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f1aC'!2BCA2Hsectioning type2IbN  2Hheading2IbOAHCJbN{bO}IKC{heading}GVe1d4f20A'!2BCA2Hsectioning type2IbN  2Hheading2IbOAKCJbN[bL]{bO}IPC[toc]{heading}GVe1d4f27D'!2BCA2Hsectioning type2IbN  2Hheading2IbOAICJbN*{bO}I1CC[no no.]{heading}GVe1d4f2aE'!2BCA2Hsectioning type2IbN  2Hheading2IbOA1ACJbN{bO}\label{bM}IPC{heading}labelGVe1d4f2eB'!3ICA2Hsectioning type2IbN  4cE[2Htoc-entry2IbL]P 2Hheading2IbO 4cE(bM)PA1DCJbN[bL]{bO}\label{bM}I1EC[toc]{heading}labelGVe1d4f12M'!2BCA2Hsectioning type2IbN  2Hheading2IbOA1BCJbN*{bO}\label{bM}I1HC[no no.]{heading}labelGVe1d4f12H'!2BCA2Hsectioning type2IbN  2Hheading2IbOAKCJbN[bL]{bO}I1EChide-[toc]{heading}GVe1d4f12I'!2CCA2Hsectioning type2IbN  2Hheading2IbO AICJbN*{bO}I1IChide -[no no.]{heading}GVe1d4f12J'!2BCA2Hsectioning type2IbN  2Hheading2IbOA1ACJbN{bO}\label{bM}I1EChide-{heading}labelGVe1d4f12K'!2BCA2Hsectioning type2IbN  2Hheading2IbOA1DCJbN[bL]{bO}\label{bM}I1JChide-[toc]{heading}labelGVe1d4f12L'!2BCA2Hsectioning type2IbN  2Hheading2IbOA1BCbNJ*{bO}\label{bM}I1MChide-[no no.]{heading}label(bMHN@E3"bOON0E1\Preface^bNIN0E2fPHN2A0ISe1d4f86L   '21AcSectioningTypes2PcLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f86M#!JC4bL3fKPart5fKPHCJ\partGVe1d4f86N#!MC4bM3fKChapter5fKPKCJ\chapterGVe1d4f86O'!MC4bN3fKSection5fKPKCJ\sectionMC4bO3fKSection5fK4cAGVe1d4f86P#!PC4bO3fKSubSection5fKPNCJ\subsectionGVe1d4f87A#!1AC3fKSubSubSection5fK1ACJ\subsubsectionGVe1d4f87B#!MC3fKParagraph5fKMCJ\paragraphGVe1d4f87C#!PC3fKSubParagraph5fKPCJ\subparagraph/\
+Once upon a time, in the days before computers became widely used, authors of books
+and articles would produce a typescript of their work; before going to the printing office
+where the typescript was set in lead, a ``copy-editor'' would mark the typescript with
+all sorts of hieroglyphics.  The hieroglyphics acted as a secret code between the editor
+and the printer (a human being, by the way) and served to tell the printer such things
+as when to use particular fonts (for example bold characters) and where to position text
+on the page.  Mathematical texts were regarded as ``difficult copy'' and incurred a
+financial penalty. 
+
+Copy-editors still do exist, although for mathematical texts at least their function is
+rapidly being usurped by the authors themselves.  The hieroglyphics used by the
+copy-editors are also being replaced by the  so-called ``mark-up'' languages like ^fPHN2A0ISe1cfa44M   %2GcLaTeX1CcLatex2e#LaTeXHelpGVe1cfa44N#!1FCL4cA1JA1L 1M1NPT1K1L1K1L1ME1N1M1NXKCJ\LaTeX{}GVe1cfa44O#!MCT1K1L1K1L1ME1N1M1NXICJ\TeX{}GVe1cfa45A#!1HCL4cA1JA1L 1M1NPT1K1L1K1L1ME1N1M1NX226F4ACJ{\mathsurround=0pt\LaTeX $2_L{\textstyle 26F}$\hspace{-0.4mm}}{}GVe1cfa45B#!1BCB4cAIBPT1K1L1K1L1ME1N1M1NX1FCJJ\textsc{Bib}\TeX{}GVe1e4779B#!MC3fMMakeIndex5fMOC3fMMakeIndex5fM{}5\
+and ^fPHN2A06\, sgml and html^fPIN2A0ISe1cf70aF   "2JcFootnote1FcLatex2e#FootnoteHelpGVe1cf70aG'!1AC3fMFootnote:5fM 27LbO27NOCJ\footnote{bO}1DCFootnote(Editable)GVe1cf70aH#!JC3fK1Jª1L 1M1N5fK1ACJ\footnote{ObO}1O7bO8MN0E1\The abbreviations, ``sgml'' and ``html'' stand for standard generalized
+markup language and hyper-text markup
+language, respectively.^\.  Moreover, the printer of today is a computer program
+that automatically interprets the commands of the mark-up language.     
+
+The advantage of the old system was a clear delineation of professional responsibilities. 
+The author was responsible for the content, the copy-editor for a professional
+appearance.  Computerised systems tend to confuse the two tasks.  Authors are now
+responsible for both appearance and content and, if one is not careful, paying attention
+to the former can have a detrimental effect on the latter.  Authors no longer pay a
+financial penalty for difficult mathematical copy; they pay the penalty instead in their
+own time and energy.
+
+The advantage of computerised systems, on the other hand, is improved quality; above
+all, the elimination of typographical errors introduced by the printer in the process of
+typesetting is a godsend for authors of papers containing substantial amounts of
+mathematics.   This one advantage is so significant that very few  authors would wish
+to return to the old system.
+
+Nowadays, a battle is raging between the  ``WYSIWYG'' (``What You See Is What You
+Get'') and the  ``logical design'' systems.   WYSIWYG systems are dismissed as ``what
+you see is ALL you get''  by their opponents,  to which the retort is that logical design
+systems may be  ``wonderful'' but they are also  ``awful'' and their users are
+``masochists'' ^fPIN2A0ISe1d4818J   $2PcRef(other doc)1LcLatex2e#Ref(other doc)HelpGVe1d4818K'!1HC3fI[2Hdocument key(s)2IbO]5fIKCJ\cite{bO}PCCite[document]GVe1d4818L'!1PC3fI[2Hdocument key2IbO,2Hcomment2IbN]5fINCJ\cite[bN]{bO}1ICCite[document, comment]GVe1d4818M'!2AC3fMNoCite5fM3fI[2Hdocument key(s)2IbO]5fIANCJ\nocite{bO}I2HCDocument not cited-but in bibliographyGVe1d4818N'!2JC3fMPut all references into bibliography.5fMAOCJJ\nocite{*}I2CCPut all entries into bibliography<bOMN0E1\PCMom^\.   The essence of the dispute is that WYSIWYG systems tend
+to be easier to use (and to learn to use) but they are less flexible, leading to a lower
+quality finished product, and they can encourage authors to waste time on appearance
+to the  detriment of  the content.
+
+^fPHN2A0ISafa0e17G   !0GVafa0e17F#!MCJ3fIMath2fCpad5fILCJ\mplogo{}=\  combines the advantages of WYSIWYG and logical design systems in a way
+that harks back to the old-fashioned manual system.    It is first and foremost a logical
+design system ---logical elements within a  ^fPHN2A0=\ document are defined by
+``templates'' and manipulated by a structure editor.  Unlike conventional logical design
+systems, however, it is  a ``quasi''-WYSIWYG system in the sense that the readability of
+mathematics  displayed on screen is as near to the readability of mathematics in a printed
+book as current technology will permit. Moreover, ^fPHN2A0=\ is not a
+``what-you-see-is-ALL-you-get'' system.  Nor is it a system that is exclusively for 
+mathematicians --- even if the documents you write contain no mathematics whatsoever,
+its unique template system can lead to a dramatic improvement in your productivity.
+
+The essence of ^fPHN2A0=\ is that a document is a structure on which two ``views''  are
+defined.  One ``view'' is what is displayed on screen; as mentioned earlier, in this view, the
+mathematics is as near as possible to the form desired by the user as current technology
+permits.  Otherwise the view resembles the galley proofs used in the good old-fashioned
+manual type setting systems: the document is not split into pages, equations are not
+numbered but named, the position of figures and tables is not fixed, and so on. The second
+view is a sequence of commands written in a mark-up language like ^fPHN2A06\.  This second
+view, generated automatically when a command to ``output'' the document is given, is used
+to create the final document. The first view is what concerns the author, the second view is
+what concerns the copy-editor. 
+
+An author using ^fPHN2A0=\ will begin by writing his/her article, using conventional
+mathematical notation, concentrating on the content and ignoring all issues of layout, page
+breaks, centering etc.  Subsequently, ``copy-editing'' instructions can be added to the
+document instructing the  ``printer'' (now software rather than a human being) how to
+produce the finished document.  For draft versions of an article or book the instructions can
+easily be added by the author himself but for the final version (particularly in the case of a
+book) it may be necessary and will often be desirable to call on the services of a professional
+copy editor (now titled a ``^fPHN2A06\pert'', perhaps?).
+
+A ^fPHN2A0=\ document ready for processing  will thus resemble an old-fashioned
+copy-edited text on its way to the printing department.  Strewn among the author's text
+there will be a number of ``commands'' instructing the printer how to set the text --- the
+style of headings and page numbering to be used, where page breaks are desired etc. 
+Unlike raw mark-up code, however, these commands do not dominate the text; since they
+tend to be congregated in certain places, for example in the so-called preamble, the
+author's text remains eminently readable.  (Using  raw ^fPHN2A06\, for example, the situation
+is quite different since the code needed to typeset mathematics tends to swamp everything
+else.)
+
+The ^fPHN2A0=\ system represents a radical departure from existing design philosophies 
+making it difficult to describe to newcomers.  The best way to find out what it offers is to just
+try it and see.  Installment of the system (given the right platform) is just a single command
+and then you are away^fPIN2A07bOfNN0E1\The system can be downloaded from the URL given on
+the copyright page; the README file you find there gives full details of the software you
+need to install the system.  The system is also available from a number of different 
+archiving services.^\.  So, why not  go out and give it a whirl!?
+
+^fPHN2A0ISe1833f2A   !0GVe1833f2E#!3BC                                       *   *   *3IC \bigskipAA\begin{center} *~~*~~*\end{center}A\bigskipA>\
+
+Development of the ^fPHN2A0=\ system was initiated in 1987 by Roland Backhouse with
+support from the University of Groningen in the Netherlands and, later,  the NWO (the
+Dutch organisation for scientific research).  In intensive discussions  with Paul Chisholm^fPON2A0ISe1ce08fJ   "2GcEntry1EcLatex2eB#MakeIndex GVe1ce08fK'!11ICJ3fKIndex Entry5fKA3fMprimary sort key:5fMCbOA3fMsub sort key:5fMCbNA3fMsubsub sort key5fMCbMA3fMvisual key if different from sort key:5fMCCbLA3fMif start of range of pages set holder to 5fM ( CbKA3fMfont type for page nr. if non-standard5fMCbJA3fMif end of range of pages set holder to 5fM ) CbIA3fKEnd of Index Entry5fKA2ECJ\mpindexnew{bO}{bN}{bM}{bL}{bK}{bJ}{bI}{}1CCenter index entryGVe1ce08fL'!CCJ2ECJ\mpindexnew{bO}{bN}{bM}{bL}{bK}{bJ}{bI}{}1EChide index commands?bIHN0E7bJHN0E6bKHN0E5bLHN0E4bMHN0E3bNHN0E2bO1FN0E1\Chisholm, Paul^\
+a design was formulated of a system for on-screen algebraic  calculations.  This prototype
+system, implemented by Paul with  technical support from Harm Paas, first
+became available for use in 1990.   The principal design element was a flexible system for
+on-the-fly definition of  mathematical notations (the ``stencils'' of the current system). 
+
+During 1990 much was learnt from experimenting with Paul's prototype implementation. 
+``Guinea pigs'' at that time who provided much useful feedback were Grant Malcolm and Ed
+Voermans.  During a period of six months several alterations were made to the ergonomics of
+the system as a result of this feedback. In the summer of 1990 Roland Backhouse moved to
+Eindhoven University  of Technology and Paul  Chisholm left  the university  world for a post in
+industry  in Australia.  The system had settled into a stable state and it was decided to freeze the
+development for a while until full  benefit had been gained from its active use.   Ed Voermans
+was responsible for  correcting the few bugs that emerged after Paul's departure.  Being a
+prototype,  the system had at that time no name.  A paper written by Paul Chisholm outlining 
+the system was presented in Paul's absence by Roland Backhouse at the 3rd International
+Workshop on Software Engineering and its Applications, Toulouse, France, 3--7 December
+1990.
+
+Work on ^fPHN2A0=\ itself  began in March 1992.  Richard Verhoeven and Olaf
+Weber^fPON2A0?bIHN0E7bJHN0E6bKHN0E5bLHN0E4bMHN0E3bNHN0E2bO1CN0E1\Weber, Olaf^\ took on the task of a complete reimplementation as  their  final year  project  (in
+Dutch ``afstudeerproject'').  Priorities were to increase the (on-screen) readability of
+documents by the use of proportional spacing, the integration of  plain text with
+mathematical calculations, and a better, more flexible design of  stencils.  The
+transformation system that formed a major part of the existing  prototype was
+scrapped because, although the prototype system ^fPIN2A0ISe196d18D   +2KcTextStyle1HcLatex2eA#TextStyleHelpGVe196d18N'!FCJ3fJbO5fJKCJ\emph{bO}1CC3fMEmphasized5fM textGVe196d18E'!DCJbOMCJ\textup{bO}OCUpright shapeGVe196d18F'!FCJ3fMbO5fMMCJ\textit{bO}PC3fMItalic5fM shapeGVe196d18G'!FCJ3fJbO5fJMCJ\textsl{bO}1AC3fJSlanted5fJ shapeGVe196d18H'!DCJbOMCJ\textsc{bO}1FCS4cBMALL4bP4bNC4cBAPS 4bNshapeGVe196d18I'!DCJbOMCJ\textmd{bO}OCMedium seriesGVe196d18J'!FCJ3fObO5fOMCJ\textbf{bO}OC3fOBold5fO seriesGVe196d18K'!DCJbOMCJ\textrm{bO}NCRoman familyGVe196d18L'!FCJ3fIbO5fIMCJ\textsf{bO}1EC3fISans Serif5fI familyGVe196d18M'!FCJ3fHbO5fHMCJ\texttt{bO}1EC3fHTypewriter5fH familyGVe196d18O'!FCJ3fKbO5fK1GCJ\textbf{J\textit{bO}}1NC3fKBold5fK series 3fKItalic5fK shapeKbOKN0E1\had^\ been  intensively used on several
+projects, this element ^fPIN2A0KbOON0E1\had not^\  ---  possibly due to bad  design but more likely due to
+the inherent instability of the mathematical  frameworks being investigated by those
+using the system.
+
+Richard and Olaf graduated in December 1992 and were then employed for a period of
+three months to refine their implementation.  After this period Olaf left and has since
+joined a similar project at the CWI in Amsterdam.  Richard Verhoeven is currently
+employed at Eindhoven University of Technology and is responsible for the further
+development of ^fPHN2A0=\.   Ed Voermans suggested the name. The  ^fPHN2A0=\ logo
+was designed by Q Design from an original idea by Kevin  Backhouse; the design was
+subsequently implemented  in ^fPHN2A0ISe0507b5I   !1JcMetafontGVe0507b6D#!LC3fHMETAFONT5fHNCJ\METAFONT{}L\  by Kevin. 
+
+During 1993, ^fPHN2A0=\ was used intensively by members of the Mathematics of Program
+Construction group at Eindhoven University of Technology  and, once again, the feedback
+obtained was extremely valuable in improving the system's design. Version 0.31 of the system
+was made available via ftp in December, 1993.
+
+Further use of the system after this initial release led to a major revision in the  way files are 
+stored, and to the inclusion of extensive help facilities.  These revisions were designed principally
+to accommodate co-authorship at a distance. 
+
+We continue to welcome criticism and suggestions on the design.    
+
+We are extremely grateful to all those who have been willing to act as guinea  pigs during periods
+when ^fPHN2A0=\ was both unstable and sometimes  unreliable --- Eerke Boiten, Henk
+Doornbos, Maarten Fokkinga, Netty van Gasteren, Rik van Geldrop, Paul Hoogendijk, Ed
+Knapen,  Ed Voermans, Harold Weffers and Jaap van der Woude.   Hilary Backhouse and
+Maarten Fokkinga provided us with many detailed comments on, criticisms of, and corrections
+to, the first draft of this manual.  Lambert Meertens has also offered sage and much appreciated
+advice from the very  earliest days of the project.
+
+Our biggest thanks go to Hilary Backhouse for her many contributions  which include preparing
+the index and appendix,  numerous suggestions for  improving our
+English, and for carrying out the task of incorporating a great many alterations to the text.  Of
+course, the responsibility for any errors in the text is entirely ours.
+
+  Roland Backhouse                     \hfill Eindhoven\\
+Richard Verhoeven                   \hfill December, 1995.
+
+^\

@@ -1,0 +1,67 @@
+
+TOPSRCDIR = @top_srcdir@
+TOPOBJ    = .
+SRCDIR    = @srcdir@
+VPATH     = @srcdir@
+
+CMSYFONT = cmsy10.bdf cmsy12.bdf cmsy15.bdf cmsy17.bdf cmsy19.bdf cmsy21.bdf \
+		cmsy25.bdf
+MATHSYMFONT = mathsy10.bdf mathsy12.bdf mathsy14.bdf mathsy18.bdf \
+		mathsy24.bdf
+MSAMFONT = msam10.bdf msam12.bdf msam15.bdf msam17.bdf msam19.bdf msam21.bdf \
+		msam25.bdf
+MSBMFONT = msbm10.bdf msbm12.bdf msbm15.bdf msbm17.bdf msbm19.bdf msbm21.bdf \
+		msbm25.bdf
+
+BDFFONT = $(CMSYFONT) $(MATHSYMFONT) $(MSAMFONT) $(MSBMFONT)
+
+BDFZFONT = $(BDFFONT:.bdf=.bdf.Z)
+
+PCFFONT = $(BDFFONT:.bdf=.pcf)
+
+PCFZFONT = $(BDFFONT:.bdf=.pcf.Z)
+
+FBFONT = $(BDFFONT:.bdf=.fb)
+
+XNEWSFONT = $(FBFONT) mathsymbol.ff cmsy10.ff msam10.ff \
+	msbm10.ff Families.list Synonyms.list
+
+PSFONT = PSres.upr
+
+DATAFILES = @PCFFONT@ fonts.dir $(TYPE1FONT) @XNEWSFONT@
+
+datasubdir = /fonts
+
+
+@MAKE_RULES@
+
+BDFTOPCF = @BDFTOPCF@
+CONVERTFONT = @CONVERTFONT@
+MKFONTDIR = @MKFONTDIR@
+BLDFAMILY = @BLDFAMILY@
+COMPRESS = @COMPRESS@
+MAKEPSRES = @MAKEPSRES@
+
+.SUFFIXES: .bdf .pcf .fb .pcf.Z .bdf.Z
+
+
+.bdf.bdf.Z:
+	$(COMPRESS) $<
+
+.bdf.pcf.Z:
+	$(BDFTOPCF) $< | $(COMPRESS) > $@
+.bdf.pcf:
+	$(BDFTOPCF) $< > $@
+.bdf.fb:
+	$(CONVERTFONT) -b -o `basename $< .bdf` $<
+
+all: $(DATAFILES)
+
+fonts.dir: @PCFFONT@
+	$(MKFONTDIR)
+
+Families.list Synonyms.list mathsymbol.ff cmsy10.ff msam10.ff msbm10.ff: $(FBFONT)
+	$(BLDFAMILY)
+
+PSres.upr: $(TYPE1FONT)
+	$(MAKEPSRES) -o - $$PWD 2>/dev/null | sed "s#/$$PWD#/$(datadir)$(datasubdir)#g" > PSres.upr

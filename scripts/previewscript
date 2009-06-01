@@ -1,0 +1,9 @@
+#!/bin/sh
+cd `dirname $OUTPUTFILE`
+TEXINPUTS=`echo ".:$TEXINPUTS:${mathpad}latex:" | sed 's#::#:#g'`
+XDVIFONTS=`echo ".:$XDVIFONTS:${mathpad}latex:/tmp:" | sed 's#::#:#g'`
+TEXFONTS=`echo ".:$TEXFONTS:${mathpad}latex:/tmp:" | sed 's#::#:#g'`
+TEXPKS=`echo ".:$TEXPKS:${mathpad}latex:/tmp:" | sed 's#::#:#g'`
+MFINPUTS=`echo ".:$MFINPUTS:${mathpad}latex:/tmp:" | sed 's#::#:#g'`
+export TEXINPUTS XDVIFONTS TEXFONTS TEXPKS MFINPUTS
+xdvi `basename $OUTPUTFILE .tex`  2>&1 > /dev/null

@@ -1,0 +1,122 @@
+%
+%
+% MISCELLANEOUS MACROS FOR SPEC STENCIL
+%
+\newcommand{\dstar}{\star}
+\newcommand{\bt}{
+\begin{tabbing}
+\hspace*{\mathindent}\=\kill
+}
+%\def\mpfillbreak{\hfil\break}
+%\def\mpvskip[#1]{\ignorespaces}
+%\def\mpvspace[#1]{\vspace{#1}\mpfillbreak\ignorespaces}
+%\def\mpvs{%
+%\ifx\mnllet[%
+%   \ifvmode%
+%      \let\mnllet=\mpvskip%
+%   \else%
+%      \let\mnllet=\mpvspace%
+%   \fi%
+%\else%
+%   \ifvmode%
+%      \let\mnllet=\empty%
+%   \else%
+%      \let\mnllet=\mpfillbreak%
+%   \fi%
+%\fi%
+%\mnllet}
+%\newcommand{\mnl}{\futurelet\mnllet\mpvs}
+\newcommand{\mraisebox}[2]{\mbox{\mathsurround=0pt\raisebox{#1}{#2}}}
+\newcommand{\bigsqcap}{\mraisebox{0pt}{\large $\sqcap$}}
+\newcommand{\idrelator}{I\!\!I}
+\newcommand{\simulates}{\stackrel{>}{\sim}}
+\newcommand{\ismodelof}{\stackrel{<}{\sim}}
+\newcommand{\et}{\end{tabbing}}
+\newcommand{\split}{\mraisebox{.3ex}{{$\scriptscriptstyle \bigtriangleup$}}}
+\newcommand{\cosplit}{\mraisebox{.3ex}{{$\scriptscriptstyle \blacktriangle$}}}
+\newcommand{\cojunc}{\mraisebox{.3ex}{{$\scriptscriptstyle \blacktriangledown$}}}
+\newcommand{\junc}{\mraisebox{.3ex}{{$\scriptscriptstyle \bigtriangledown$}}}
+\newcommand{\inl}{{\hookrightarrow}}
+\newcommand{\inr}{{\hookleftarrow}}
+\newcommand{\lsim}{{\mraisebox{-.25ex}{{\Large ${\sim}$}}}}
+\newcommand{\natsim}{\stackrel{.}{\sim}}
+\newcommand{\leftrel}{{\mraisebox{.3ex}{{$\scriptscriptstyle <$}}\hspace*{-6.5pt}\sim}}
+\newcommand{\rightrel}{{\sim\hspace*{-6.5pt}\mraisebox{.3ex}{{$\scriptscriptstyle >$}}}}
+\newcommand{\transform}{\mraisebox{.3ex}{$\scriptscriptstyle <$}\hspace*{-6.5pt}\sim\hspace*{-6.5pt}\mraisebox{.3ex}{$\scriptscriptstyle >$}}
+\newcommand{\natrightrel}{\stackrel{.}{\rightrel}}
+\newcommand{\natleftarrow}{\stackrel{.}{\leftarrow}}
+\newcommand{\natleftright}{\stackrel{.}{\transform}}
+\newcommand{\natleftrel}{\stackrel{.}{\leftrel}}
+\newcommand{\revbar}{\overline{\rev}}
+
+\newcommand{\revobar}{\revo\!\!\rule{1mm}{0.5mm}\,}
+\newcommand{\overbar}{/\!\!\!\rule{1mm}{0.5mm}\,}
+\newcommand{\revo}{\backslash}
+\newcommand{\scup}{\mraisebox{0.5mm}{$\scriptscriptstyle\cup$}}
+\newcommand{\blob}{\mraisebox{0.5mm}{$\scriptstyle\varpi$}}
+\newcommand{\eqhat}{\;\:\;\:{\widehat{=}}\;\:\;\:}
+\newcommand{\append}{\mathbin{+\!\!\!+}}
+\newcommand{\comp}{\mraisebox{.2ex}{$\scriptstyle\circ$}}
+\newcommand{\fncomp}{\mraisebox{0.5mm}{$\scriptstyle\bullet$}}
+\newcommand{\medfncompose}{\mraisebox{0.5mm}{$\:{\scriptstyle\bullet}\:$}}
+\newcommand{\dubarrow}{\mbox{\mathsurround=0pt$\rightarrow\!\!\!\!\!\rightarrow$}}
+\newcommand{\dublarrow}{\mbox{\mathsurround=0pt$\leftarrow\!\!\!\!\!\leftarrow$}}
+\newcommand{\Real}{{\rm I\!R}}
+\newcommand{\Nat}{{\rm I\! N}}
+\newcommand{\plus}{+}
+
+\ifx\Theorem\undefined \newtheorem{Theorem}[equation]{Theorem} \fi
+\ifx\Definition\undefined \newtheorem{Definition}[equation]{Definition} \fi
+\ifx\Lemma\undefined \newtheorem{Lemma}[equation]{Lemma} \fi
+\ifx\Axiom\undefined \newtheorem{Axiom}[equation]{Axiom} \fi
+\ifx\Remark\undefined \newtheorem{Remark}[equation]{Remark} \fi
+\ifx\Corollary\undefined \newtheorem{Corollary}[equation]{Corollary} \fi
+\ifx\Exercise\undefined \newtheorem{Exercise}[equation]{Exercise} \fi
+\ifx\Example\undefined \newtheorem{Example}[equation]{Example} \fi
+\ifx\defi\undefined \newtheorem{defi}[equation]{} \fi
+
+\newcommand{\platbottom}{\bot\hspace*{-4pt}\bot}
+\newcommand{\plattop}{\top\hspace*{-4pt}\top}
+\newcommand{\ldomsym}{\mraisebox{0.6mm}{$\scriptscriptstyle{<}$}}
+\newcommand{\rdomsym}{\mraisebox{0.6mm}{$\scriptscriptstyle{>}$}}
+\newcommand{\Ldom}[1]{#1\ldomsym}
+\newcommand{\Rdom}[1]{#1\rdomsym}
+\newcommand{\leqdomsym}{\mraisebox{0.6mm}{$\scriptscriptstyle{\ll}$}}
+\newcommand{\reqdomsym}{\mraisebox{0.6mm}{$\scriptscriptstyle{\gg}$}}
+\newcommand{\Leqdom}[1]{#1\leqdomsym}
+\newcommand{\Reqdom}[1]{#1\reqdomsym}
+\newcommand{\rev}{\scup}
+
+\newcommand{\defeq}{\mraisebox{.4ex}{$\scriptstyle\underline{\bigtriangleup}$}}
+\newcommand{\ctilde}{\mraisebox{-.6ex}{${\;\tilde{}\;}$}}
+\newcommand{\cross}{\mbox{\mathsurround=0pt\large $\times$}}
+\newcommand{\conc}{{+}\!\!\!{+}}
+\newcommand{\cbar}{\mbox{--}}
+\newcommand{\thinbox}{[\hspace{-1pt}]}
+\newcommand{\Bool}{{\rm I\!B}}
+\newcommand{\Int}{{\rm Z\hspace{-4pt}Z}}
+\newcommand{\1}{1\!\!1}
+\newcommand{\paropen}{(\!|}
+\newcommand{\parclose}{|\!)}
+\newcommand{\dopen}{[\![}
+\newcommand{\dclose}{]\!]}
+\newcommand{\homl}{\mbox{(\hspace*{-2.2pt}[}}
+\newcommand{\homr}{\mbox{]\hspace*{-2.2pt})}}
+\newcommand{\lparbrack}{\mathopen{( \mkern -4mu [}}
+\newcommand{\rparbrack}{\mathclose{] \mkern -4mu )}}
+\newcommand{\sqopen}{|\hspace{-1pt}[}
+\newcommand{\sqclose}{]\hspace{-1pt}|}
+\newcommand{\lang}{\mraisebox{.5ex}{\scriptsize${<}$}}
+\newcommand{\rang}{\mraisebox{.5ex}{\scriptsize${>}$}}
+\newcommand{\fst}{\mraisebox{.2ex}{\scriptsize${\ll}$}}
+\newcommand{\snd}{\mraisebox{.2ex}{\scriptsize${\gg}$}}
+
+\newlength{\jojo}
+\newcommand{\Overlay}[2]{\mathsurround=0pt\settowidth{\jojo}{\mbox{$#1$}}
+\makebox[\jojo]{\makebox[0cm]{$#1$}\makebox[0cm]{$#2$}}}
+\def\lbrackpar{\mathopen{{{\Overlay{\lfloor}{\lceil}}\mkern-5mu{(}}}}%   % [(
+\def\rbrackpar{\mathclose{{{)}\mkern-5mu{\Overlay{\rfloor}{\rceil}}}}}
+\newcommand{\Cata}[2]{{\lparbrack {#1} ;~ {#2} \rparbrack}}
+\newcommand{\cata}[1]{{\lparbrack {#1} \rparbrack}} 
+\newcommand{\Ana}[2]{{\lbrackpar {#1} ;~ {#2} \rbrackpar}} 
+\newcommand{\ana}[1]{{\lbrackpar {#1} \rbrackpar}}

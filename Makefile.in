@@ -1,0 +1,22 @@
+
+TOPSRCDIR = @top_srcdir@
+TOPOBJ    = .
+SRCDIR    = @srcdir@
+VPATH     = @srcdir@
+@SET_MAKE@
+
+SUBDIRS = src mpk fonts scripts maps latex help stencils include
+
+all: build
+
+build:
+	for dir in $(SUBDIRS); do (cd $$dir; $(MAKE) -k); done
+
+install:
+	for dir in $(SUBDIRS); do (cd $$dir; $(MAKE) -k install); done
+
+clean:
+	for dir in $(SUBDIRS); do (cd $$dir; $(MAKE) clean); done
+
+depend:
+	for dir in $(SUBDIRS); do (cd $$dir; $(MAKE) depend); done

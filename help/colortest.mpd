@@ -1,0 +1,25 @@
+[4mMathpad Document
+[0m5GN0E08fPHN2A0ISe1cdfa3E   *2OCDocumentClass1KCLatex2e#DocumentClassHelpGVe1cdfa3F'!1NCbfMArticledfM [82HClassOptions82I8bO]
+4MC80J\documentclass[8bO]{article}%80I\usepackage{MathSpad,makeidx,ifthen,latexsym}
+LCArticle[8bO]GVe1cdfa3G'!LCbfMArticledfM
+4JC80J\documentclass{article}%80I\usepackage{MathSpad,makeidx,ifthen,latexsym}80IICArticleGVe1cdfa3H'!1MCbfMReportdfM [82HClassOptions82I8bO]
+4LC80J\documentclass[8bO]{report}%80I\usepackage{MathSpad,makeidx,ifthen,latexsym}80IKCReport[8bO]GVe1cdfa3I'!KCbfMReportdfM
+4IC80J\documentclass{report}%80I\usepackage{MathSpad,makeidx,ifthen,latexsym}80IHCReportGVe1cdfa3J'!1KCbfMBookdfM [82HClassOptions82I8bO]
+4CC80J\documentclass[8bO]{book}%80I\usepackage{MathSpad,makeidx,latexsym}80IICBook[8bO]GVe1cdfa3K'!ICbfMBookdfM
+3NC80J\documentclass{book}%80I\usepackage{MathSpad,makeidx,ifthen}80IFCBookGVe1cdfa3L'!1LCbfMSlidesdfM[82HClassOptions82I8bO]
+4LC80J\documentclass[8bO]{slides}%80I\usepackage{MathSpad,makeidx,ifthen,latexsym}80IKCSlides[8bO]GVe1cdfa3M'!KCbfMSlidesdfM
+4IC80J\documentclass{slides}%80I\usepackage{MathSpad,makeidx,ifthen,latexsym}80IHCSlidesGVe1cdfa3N'!1MCbfMLetterdfM [82HClassOptions82I8bO]
+4LC80J\documentclass[8bO]{letter}%80I\usepackage{MathSpad,makeidx,ifthen,latexsym}80IKCLetter[8bO]GVe1cdfa3O'!KCbfMLetterdfM
+4IC80J\documentclass{letter}%80I\usepackage{MathSpad,makeidx,ifthen,latexsym}80IHCLetter(8fPIN2A0ISe1cdfcfG   "2JCPackages1FCLatex2e#PackagesHelpGVe1cdfcfH#!1NCbfMPackagedfM {82HPackageNames82I8bO}
+1BC80J\usepackage{8bO}80IGVe1cdfcfI#!2LCbfMPackagedfM ccA[82HOptions82I8bN]80P{82HPackageNames82I8bO}
+1EC80J\usepackage[8bN]{8bO}80I+8bOIN0E18fPHN2A0ISe1ba1d8F   )2NCPackageNames1FCLatex2e#PackagenamesGVe1bf971H!!HCa4wideGVe1ba1d8P!!GCallttGVe1ba1dbN!!HCamstexGVe1ba1dcC!!GCbabelGVe1ba1dcJ!!GCcolorGVe1ba1dcO!!JCgraphicsGVe1ba1ddE!!JCgraphpapGVe1ba1deH!!HCpict2eGVe1ba1deP!!ICshowidx08fPIN2A0+8bOPN0E1X11color8fPHN2A0ISe1cf5c2A   "2PCBegin/End(doc)1LCLatex2e#Begin/End(doc)HelpGVe1cf5c2B'!1CCbfKBegin documentdfK
+1DC80J\begin{document}80IGCBeginGVe1cf5c2C'!1ACbfKEnd documentdfK
+1BC80J\end{document}80IECEnd6This is a test with a colored itemize in LaTeX.  Let see what happens.
+8fPIN2A0IS9ee176cP   $21OCItemize                      3BCLatex2eB#Description, Enumerate and Itemize HelpGV9ee176dA'!1EC81P      80B
+82Hitems82I8bO82A
+2DC80J\begin{itemize}80I8bO 80I\end{itemize}80IICItemizeGV9ee176dB'!1FC 221J 80C80E82Htext82I82Jred82K8bO82L80F
+1AC80J\item 82Jred82K8bO82L80IJCRed ItemGV9ee176dC'!1GC 221J 80C80E82Htext82I82Jblue82K8bO82L80F
+1CC80J\item 82Jblue82K8bO82L 80IKCBlue ItemGV9ee176dD'!1HC 221J 80C80E82Htext82I82Jgreen82K8bO82L80F
+1DC80J\item 82Jgreen82K8bO82L 80ILCGreen Item:8bOKN0E18fPIN2A098bO1IN0E1This item is red.8fPIN2A088bO1JN0E1This item is blue.8fPIN2A078bO1KN0E1This item is green.
+
+8fPHN2A05

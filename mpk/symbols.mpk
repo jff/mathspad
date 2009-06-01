@@ -1,0 +1,117 @@
+
+symbol_new_page("Latin Extended1", 16, 16);
+symbol_range("Latin Extended1", 0x100, 0x1ff);
+
+symbol_new_page("Latin Extended2", 16, 16);
+symbol_range("Latin Extended2", 0x200, 0x2ff);
+
+symbol_new_page("Latin Extended3", 16, 16);
+symbol_range("Latin Extended3", 0x1e00, 0x1eff);
+
+symbol_new_page("Greek", 16, 12);
+symbol_range("Greek", 0x370, 0x3F3);
+
+symbol_new_page("Greek Extended", 16, 16);
+symbol_range("Greek Extended", 0x1f00, 0x1fff);
+
+symbol_new_page("Cyrillic", 16, 16);
+symbol_range("Cyrillic", 0x400, 0x4F9);
+
+symbol_new_page("Hebrew", 16, 9);
+symbol_range("Hebrew", 0x590, 0x5ff);
+
+symbol_new_page("Arabic", 16, 16);
+symbol_range("Arabic", 0x600, 0x6ff);
+
+symbol_new_page("Arabic Forms 1", 16, 16);
+symbol_range("Arabic Forms 1", 0xfb50, 0xfc4f);
+symbol_new_page("Arabic Forms 2", 16, 16);
+symbol_range("Arabic Forms 2", 0xfc50, 0xfd4f);
+symbol_new_page("Arabic Forms 3", 16, 16);
+symbol_range("Arabic Forms 3", 0xfd50, 0xfe4f);
+symbol_new_page("Arabic Forms 4", 16, 16);
+symbol_range("Arabic Forms 4", 0xfe50, 0xfeff);
+
+
+symbol_new_page("Arrows", 8,12);
+symbol_range("Arrows", 0x20D4, 0x20D7);
+symbol_skip("Arrows", 4);
+symbol_range("Arrows", 0x2190, 0x21EA);
+
+symbol_new_page("Symbol Misc", 16, 9);
+symbol_range("Symbol Misc", 0x2100, 0x218f);
+
+symbol_new_page("Math", 16, 16);
+symbol_range("Math", 0x2200, 0x22FF);
+
+symbol_new_page("Math 2", 16,16);
+symbol_range("Math 2", 0x2300, 0x23ff);
+
+symbol_new_page("Symbol 2", 16, 16);
+symbol_range("Symbol 2", 0x2400, 0x24ff);
+
+symbol_new_page("Boxes", 16, 16);
+symbol_range("Boxes", 0x2500, 0x25FF);
+
+symbol_new_page("Symbols", 8, 16);
+symbol_range("Symbols", 0x2600, 0x267F);
+
+symbol_new_page("Dingbats", 12, 16);
+symbol_range("Dingbats", 0x2700, 0x27BF);
+
+symbol_new_page("Private", 16, 16);
+symbol_range("Private", 0xe000, 0xe0ff);
+
+symbol_new_page("Private 2", 16, 16);
+symbol_range("Private 2", 0xe100, 0xe1ff);
+
+symbol_new_page("User Page", 16, 16);
+
+Menu PageMenu {
+	Options Pin;
+	Title "Symbol Page";
+Default	"User"		: symbol_page("User Page");
+	"Latin 1"	: symbol_page("Latin1");
+	"Latin Extended1" : symbol_page("Latin Extended1");
+	"Latin Extended2" : symbol_page("Latin Extended2");
+	"Latin Extended3" : symbol_page("Latin Extended3");
+	"Greek"		: symbol_page("Greek");
+	"Greek Extended": symbol_page("Greek Extended");
+	"Cyrillic"	: symbol_page("Cyrillic");
+	"Hebrew"	: symbol_page("Hebrew");
+	"Arabic"	: symbol_page("Arabic");
+	"Arabic Forms 1": symbol_page("Arabic Forms 1");
+	"Arabic Forms 2": symbol_page("Arabic Forms 2");
+	"Arabic Forms 3": symbol_page("Arabic Forms 3");
+	"Arabic Forms 4": symbol_page("Arabic Forms 4");
+	"Arrows"	: symbol_page("Arrows");
+	"Math"		: symbol_page("Math");
+	"Math 2"	: symbol_page("Math 2");
+	"Symbol Misc"	: symbol_page("Symbol Misc");
+	"Symbol 2"	: symbol_page("Symbol 2");
+	"Symbols"	: symbol_page("Symbols");
+	"Boxes"		: symbol_page("Boxes");
+	"Dingbats"	: symbol_page("Dingbats");
+	"Private"	: symbol_page("Private");
+}
+
+Keyboard Symbols {
+	`A`	: symbol_page("Arrows");
+	`G`	: symbol_page("Greek");
+	`a`	: symbol_page("Arrows");
+	`g`	: symbol_page("Greek");
+	`Down`	: symbol_down(1);
+	`Up`	: symbol_up(1);
+	`Left`	: symbol_left(1);
+	`Right`	: symbol_right(1);
+	`Return`: symbol_click();
+}
+
+Keyboard UserPageDef {
+	`MASH-S` : symbol_add_selected("User Page");
+}
+
+Keyboard Global {
+	`M-s`	: use_map_temporary("Symbols", @0, @0);
+	`CM-s`  : use_map_temporary("UserPageDef", @0, @0);
+}

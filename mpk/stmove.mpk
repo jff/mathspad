@@ -1,0 +1,11 @@
+
+(def-key: "Global":[C-left]:    move-stencil-left(1));
+(def-key: "Global":[C-right]:   move-stencil-right(1));
+
+(def-key: "Define":[C-left]:	D-move-stencil-left(1));
+(def-key: "Define":[C-right]:	D-move-stencil-right(1));
+(def-key: "Define":[C-down]:	D-move-version-down(1));
+(def-key: "Define":[C-up]:	D-move-version-up(1));
+(def-key: "Define":[C-home]:	D-move-version-first(1));
+(def-key: "Define":[C-end]:	D-move-version-last(1));
+

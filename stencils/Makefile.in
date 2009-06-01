@@ -1,0 +1,20 @@
+
+TOPSRCDIR = @top_srcdir@
+TOPOBJ    = .
+SRCDIR    = @srcdir@
+VPATH     = @srcdir@
+
+
+DATAFILES = GCL.mps Gries-Schneider.mps html.mps latex.mps latex2eV1.mps \
+		latex2eV2.mps man.mps manual.mps maple.mps maths.mps \
+		newspec.mps overview.mps oz.mps pascal.mps spec.mps \
+		colortest.mps mpk-menu.mps
+
+datasubdir = /stencils
+
+
+@MAKE_RULES@
+
+
+all: 
+

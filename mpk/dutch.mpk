@@ -1,0 +1,79 @@
+Translation  Dutch {
+
+    "Prev"	: "Vorige";
+    "Keys"	: "Toetsenbord definities";
+    "  Output"	: "  Uitvoer";
+    "Size"	: "Grootte";
+    "Directory"	: "Map";
+    "  Line space"	: "  Lijn afstand";
+    "Structure"	: "Structuur";
+    "Update"	: "Pas Aan";
+    "Include"	: "Voeg In";
+    "Remove"	: "Verwijder";
+    "Load stencil:"	: "Laad sjabloon:";
+    "Load"	: "Laad";
+    "Filename"	: "Bestandsnaam";
+    "Load document:"	: "Laad dokument";
+    "  Symbols"	: "  Symbolen";
+    "Done"	: "Sluit";
+    "Find"	: "Zoek";
+    "Name"	: "Naam";
+    "  Documents"	: "  Dokumenten";
+    "Place"	: "Positie";
+    "Next"	: "Volgende";
+    "Fonts"	: "Lettertypen";
+    "Mask"	: "Filter";
+    " Rescan "	: " Herzoek ";
+    "New"	: "Nieuw";
+    "Save Time"	: "Opberg periode";
+    "Help file"	: "Help Bestand";
+    " Stencil"	: " Sjabloon";
+    "Kind"	: "Soort";
+    "Quit"	: "Stop";
+    " Cancel "	: " Afbreken ";
+    "Directories"	: "Mappen";
+    "Left margin"	: "Linker kantlijn";
+    "  Popups"	: "  Menuutjes";
+    "  Elastic space"	: "  Micro spatiering";
+    "Space"	: "Spatie";
+    "Rename"	: "Hernoem";
+    "  Stencils"	: "  Sjabloon";
+    "Selection"	: "Bestandsnaam";
+    "Selection"	: "Selectie";
+    "Window"	: "Venster";
+    "Set"	: "Pas Toe";
+    "Prec."	: "Binding";
+    "Save"	: "Berg Op";
+    "Save"	: "Berg Op";
+    "MathSpad 0.60"	: "WiskundeBlok 0.60";
+    "Default"	: "Voorkeur";
+    "Stack"	: "Stapel";
+    "Misc."	: "Van Alles";
+    "Version"	: "Versie";
+    "Kill"	: "Ruim Op";
+    "Screen"	: "Scherm";
+    "Define %s"	: "Definieer %s";
+    "  Tab size"	: "  Tab grootte";
+    "Files"	: "Bestanden";
+    "noname"	: "noname\0(TODO)";
+    "Define"	: "Definieer";
+    "MathSpad"	: "Wiskunde Blok";
+    "Font"	: "Lettertype";
+    "Double"	: "Dubbel";
+    "MathSfile : "	: "Wiskunde Document : ";
+    "EditOp"	: "Pas Aan";
+    "MathSpad Default"	: "Wiskunde Blok Voorkeuren";
+    "stencil"	: "sjabloon";
+    "None
+Prefix
+Postfix
+Infix
+Left
+Right"	: "None
+Prefix
+Postfix
+Infix
+Left
+Right\0(TODO)";
+    "Output"	: "Uitvoer";
+}

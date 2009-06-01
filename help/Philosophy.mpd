@@ -1,0 +1,224 @@
+[4mMathpad Document
+[0m323NN0E08fPKN2A0ISe1d4f11P   +2PCSectionHeading2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f1aC'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+HC80J8bN{8bO}80IKC{heading}GVe1d4f20A'!3CC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80IPC[toc]{heading}GVe1d4f27D'!2MC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1CC[no no.]{heading}GVe1d4f2aE'!2NC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1AC80J8bN{8bO}\label{8bM}80IPC{heading}labelGVe1d4f2eB'!3LC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1EC[toc]{heading}labelGVe1d4f12M'!3FC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1BC80J8bN*{8bO}\label{8bM}80I1HC[no no.]{heading}labelGVe1d4f12H'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80I1EChide-[toc]{heading}GVe1d4f12I'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1IChide -[no no.]{heading}GVe1d4f12J'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1AC80J8bN{8bO}\label{8bM}80I1EChide-{heading}labelGVe1d4f12K'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1JChide-[toc]{heading}labelGVe1d4f12L'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1BC8bN80J*{8bO}\label{8bM}80I1MChide-[no no.]{heading}label'8bM1GN0E3file:Philosophy8bO1HN0E1The 8fPHN2A0ISafa0e17G   !0GVafa0e17F#!MC80JbfIMath222LpaddfILC80J\mplogo{}+ Philosophy8bNIN0E28fPHN2A0ISe1d4f86L   '21ACSectioningTypes2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f86M#!JCcbLbfKPartdfK80PHC80J\partGVe1d4f86N#!MCcbMbfKChapterdfK80PKC80J\chapterGVe1d4f86O'!MCcbNbfKSectiondfK80PKC80J\sectionMCcbObfKSectiondfKccAGVe1d4f86P#!PCcbObfKSubSectiondfK80PNC80J\subsectionGVe1d4f87A#!1ACbfKSubSubSectiondfK1AC80J\subsubsectionGVe1d4f87B#!MCbfKParagraphdfKMC80J\paragraphGVe1d4f87C#!PCbfKSubParagraphdfKPC80J\subparagraph1
+OK.  Let's say it up front.  This is the chapter that you 8fPIN2A0ISe196d18D   +2KCTextStyle1HCLatex2eA#TextStyleHelpGVe196d18N'!FC80JbfJ8bOdfJKC80J\emph{8bO}1CCbfMEmphasizeddfM textGVe196d18E'!DC80J8bOMC80J\textup{8bO}OCUpright shapeGVe196d18F'!FC80JbfM8bOdfMMC80J\textit{8bO}PCbfMItalicdfM shapeGVe196d18G'!FC80JbfJ8bOdfJMC80J\textsl{8bO}1ACbfJSlanteddfJ shapeGVe196d18H'!DC80J8bOMC80J\textsc{8bO}1FCSccBMALLcbPcbNCccBAPS cbNshapeGVe196d18I'!DC80J8bOMC80J\textmd{8bO}OCMedium seriesGVe196d18J'!FC80JbfO8bOdfOMC80J\textbf{8bO}OCbfOBolddfO seriesGVe196d18K'!DC80J8bOMC80J\textrm{8bO}NCRoman familyGVe196d18L'!FC80JbfI8bOdfIMC80J\textsf{8bO}1ECbfISans SerifdfI familyGVe196d18M'!FC80JbfH8bOdfHMC80J\texttt{8bO}1ECbfHTypewriterdfH familyGVe196d18O'!FC80JbfK8bOdfK1GC80J\textbf{80J\textit{8bO}}1NCbfKBolddfK series bfKItalicdfK shape=8bO1AN0E1certainly don't 8fPIN2A0=8bOLN0E1have to read if
+you don't want to.  It won't help you to use 8fPHN2A0+ more effectively; nor is it likely
+to change your view on the suitability of 8fPHN2A0+ to your particular circumstances. 
+The chapter is purely and simply a chance for us to expound our views on some
+current trends in system design.  Having created the 8fPHN2A0+ system we feel we
+have a right to comment!
+8fPKN2A0*8bMHN@E3"8bO1LN0E1Needs and Priorities8bNIN0E28fPHN2A00
+Engineering design is about creating artefacts that fulfil a  need to the best of the ability
+of current technology.   Good design involves insightful decisions on what is important,
+and what should be given priority. 
+
+The 8fPIN2A0=8bOLN0E1need that 8fPHN2A0+ attempts to fulfil is the ability to write mathematical
+documents, of publication quality, ergonomically.  8fPHN2A0+ builds on the 8fPHN2A0ISe1cfa44M   %2GCLaTeX1CCLatex2e#LaTeXHelpGVe1cfa44N#!1FCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NXKC80J\LaTeX{}GVe1cfa44O#!MCT81K81L81K81L81ME81N81M81NXIC80J\TeX{}GVe1cfa45A#!1HCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NX23bF4AC80J{\mathsurround=0pt\LaTeX $2_80L{\textstyle 3bF}$\hspace{-0.4mm}}{}GVe1cfa45B#!1BCBccAIB80PT81K81L81K81L81ME81N81M81NX1FC80J80J\textsc{Bib}\TeX{}GVe1e4779B#!MCbfMMakeIndexdfMOCbfMMakeIndexdfM{}A and 
+8fPHN2A0B systems because these systems fulfil part of that need: they enable one to
+8fPIN2A0=8bOON0E1produce publication-quality documents.  In fact, in this respect they are superb.  So far
+as we are aware, the (typographical) quality of documents produced using these systems is
+unsurpassed at this point in time.   But let's be forthright.  8fPHN2A0A and 8fPHN2A0B are based on
+teletype technology and are a pain to use.   In our view, 8fPIN2A0=8bOON0E1writing mathematics with 8fPHN2A0A
+or 8fPHN2A0B is like editing a program by splicing a paper tape (the way you had to do it
+some thirty years ago).  In the words of Leonhard and Simon 8fPIN2A0ISe1d4818J   $2PCRef(other doc)1LCLatex2e#Ref(other doc)HelpGVe1d4818K'!1HCbfI[82Hdocument key(s)82I8bO]dfIKC80J\cite{8bO}PCCite[document]GVe1d4818L'!1PCbfI[82Hdocument key82I8bO,82Hcomment82I8bN]dfINC80J\cite[8bN]{8bO}1ICCite[document, comment]GVe1d4818M'!2ACbfMNoCitedfMbfI[82Hdocument key(s)82I8bO]dfI
+NC80J\nocite{8bO}80I2HCDocument not cited-but in bibliographyGVe1d4818N'!2JCbfMPut all references into bibliography.dfM
+OC80J80J\nocite{*}80I2CCPut all entries into bibliographyF8bOMN0E1PCMom 8fPHN2A0A and
+8fPHN2A0B are  both ``wonderful'' and ``awful'' and their users are ``masochists''.  Thirty
+years from now noone will be writing mathematics using 8fPHN2A0B or indeed any
+ascii-based markup language.  Let's hope however that  that situation arrives a bit
+sooner than after thirty years.
+
+Why do scientists feel the need to write publication-quality documents?  After all, in
+bygone days, getting a document to publication standard was the task of a professional
+copy-editor.  The scientist's responsibility was getting the content right.
+
+One answer to this question is the desire of all scientists to communicate the results of
+their effort in the best possible light.  Such a desire we can all appreciate, but this is not
+the right answer.  The overwhelming consideration for the scientist is the desire to
+eliminate the possibility of 8fPIN2A0=8bO1IN0E1introducing error8fPIN2A0ISe1cf70aF   "2JCFootnote1FCLatex2e#FootnoteHelpGVe1cf70aG'!1ACbfMFootnote:dfM {8bO}OC80J\footnote{8bO}1DCFootnote(Editable)GVe1cf70aH#!JCbfK81Jf81L 81M81NdfK1AC80J\footnote{80O8bO}81OH8bO30AN0E1Avoiding the introduction of error as the number one priority can lead scientists to do
+rather strange things.  In the seventies, for example, it was quite common for
+computing scientists to produce their books on a computer and deliver
+``camera-ready'' copy rather than put their trust in a professional printer.   The
+results were awful.  It was obvious which books had been produced by computer and
+which not, and the former were a real pain to read no matter how good the content! 
+(See the frank admission by the author of one such book ---David Gries--- in
+8fPJN2A0F8bN1GN0E2see the preface8bOMN0E1GS93a.)  In those days both the reader and the writer were expected to be
+``masochists''; at the time that development of 8fPHN2A0+ began it was only the writer.
+Our goal was to relieve the writer's misery too..  Accordingly, avoiding the introduction of
+error has been the driving force behind all design decisions in the development of 
+8fPHN2A0+.
+
+8fPKN2A0*8bMHN@E3"8bO2JN0E1Avoiding the Introduction of Error8bNIN0E28fPHN2A00
+
+Avoiding the 8fPIN2A0=8bO1DN0E1introduction of error is a much more modest aim than the 8fPIN2A0=8bO1CN0E1elimination of
+error.  We believe, however, that the former is a realistic aim for a software tool whereas
+the latter is not. Recognition of the  difference between these two goals leads to a
+fundamental difference in one's approach to tool building.
+
+8fPHN2A0+ was originally developed to support the work of a research group
+active in the area of the mathematics of (computer) program construction.  The nature
+of the group's work was (and is) such that their articles frequently involve substantial
+algebraic calculations in advanced areas of mathematics.  The primary tools used by the
+group to  carry out their work were (and still are) paper and pencil.
+
+Performing algebraic calculations at a computer terminal and doing them by  hand
+with paper and pencil are quite different sorts of activities.  In designing 8fPHN2A0+
+we started out from the viewpoint that the latter (using paper and pencil) is much
+more reliable than the former (using a computer).  This is quite contrary to prevailing
+claims made about formal verification systems and the  like.  One must recognise,
+however, that,  for us as human beings,  paper and  pencil is so much 8fPIN2A0:8bOON0E1handier;  the
+computer, in comparison, is a very clumsy instrument, and the use of a clumsy or
+badly-designed tool will inevitably  introduce errors of its own kind.  
+
+The traditional argument for the use of a computer for algebraic calculations,  that
+computers are able to faithfully execute formal manipulation rules, is one that we find
+difficult to justify in the context of our own research.  The  problem is that it is
+frequently hard to explain to a dumb machine how a rule  should be applied in a
+particular situation because there are ---from the  trained scientist's point of view---
+so many trivial intermediate steps that also have to be explained.  The icon that is used
+for 8fPHN2A0+ illustrates this point. Given functions 8fPIN0A0f,  8fPIN0A0g, 8fPJN2A0ISe1ec428P   &22MCScripts                                    1FCLatex2eB#ScriptsHelpGVe1ec429A'"PC8fOccA81K 81L81M82Hsub82I8fN81N80PGC8fO_{8fN}IC8fO ccAsubcbOGVe1ec429B'"1BC8fOccA81K82Hsuper82I8fN81L 81M81N80PGC8fO^{8fN}KC8fO ccAsupercbOGVe1ec429C'"1JC8fOccA81K82Hsuper82I8fN81G81L 81M82Hsub82I8fM81G81N80PKC8fO^{8fN}_{8fM}JC8fO ccAbothcbOGVe1ec429D'"PCccA81K 81L81M82Hsub82I8fN81N80P8fOIC{}_{8fN}8fOICccAsub cbO8fOGVe1ec429E'"1BCccA81K82Hsuper82I8fN81L 81M81N80P8fOIC{}^{8fN}8fOKCccAsupercbO 8fOGVe1ec429F'"1JCccA81K82Hsuper82I8fN81G81L 81M82Hsub82I8fM81G81N80P8fOMC{}^{8fN}_{8fM}8fOJCccAbothcbO 8fON8fOIN0A13bI8fNIN0A21  and 8fPJN2A0N8fOIN0A13bI8fNIN0A22  such that 8fPJN2A0N8fOIN0A13bI8fNIN0A21  and 8fPJN2A0N8fOIN0A13bI8fNIN0A22
+have  inverses  8fPKN2A0L8fOIN0A13bI8fNJN0A28ePHN2B0ISafa0e1aL! 4!0GVafa0e1aK!"CC-O8fPIN0A018fMIN0A31  and 8fPKN2A0L8fOIN0A13bI8fNJN0A28ePHN2B0O8fPIN0A018fMIN0A32, respectively, we have the (straightforward) identity,
+
+89PIN2G0ISff2495bF   &0GVff2495bA'"EC 8fO EC~8fO~EC~8fO~GVff2495bB%"DC8fO8bNDC8fO8bOGVff2495bC'"FC8fO  ,FC8fO~~,DC8fO,GVff2495bD'"IC   8fO   GC~~8fO~~GC~~8fO~~GVff2495bE#"FC8fO  .FC8fO~~.GVffd7e2eF!"CC8bNQ8fOKN0A18fPKN0A08fPKN0A08fPJN2A0N8fOIN0A13bI8fNIN0A218ePHN2B0ISafa0e23J#!,+0GVafa0e22O#"CC221IGC\compGVafa0e22P#"IC80G80F
+221I80C80E80HMC80G80F
+\comp80C80E80HGVafa0e23A!"CC221JGVafa0e23B!"CC·GVafa0e23C!"CC;GVafa0e23D!"CC*GVafa0e23E#"CC°IC\fncompGVafa0e23F!"CC,GVafa0e23G#"CC221IGC\compGVafa0e23H#"IC80G80F
+221I80C80E80HMC80G80F
+\comp80C80E80HGVafa0e23I#"CC221JGC\cdot`8fPIN0A0f8ePHN2B0ISff2494fI#"%+0GVff2494fC!"CC=GVff2494fD%"IC80G80F
+=80C80E80HKC= (split)GVff2494fE!"CC226AGVff2494fF!"DC:=GVff2494fG!"CC224FGVff2494fH#"CC225JHC\eqhatGVffd7b1dO!"EC::=GVffd7c3dE#"CC224NMC\symventuriGVffd7c3dN#"CC219NJC\venturiGVb84e8f7C#"CC21bMLC\tuberightGVfffca6bK!"DC=:k8fPKN0A08fPIN0A0g8ePHN2B0`8fPJN2A0N8fOIN0A13bI8fNIN0A228ePHN6B0CISafa0e23O#!"$0GVafa0e23K!"CC226BGVafa0e23L!"IC80G80F
+226B80C80E80HGVafa0e23M!"CC225JGVafa0e23N!"CC21dEo8fPKN0A08fPKN0A08fPIN0A0f8ePHN2B0`8fPKN2A0L8fOIN0A13bI8fNJN0A28ePHN2B0O8fPIN0A018fMIN0A328ePHN2B0k8fPKN0A08fPKN2A0L8fOIN0A13bI8fNJN0A28ePHN2B0O8fPIN0A018fMIN0A318ePHN2B0`8fPIN0A0g
+
+(Here ``8fPHN2A0`'' denotes composition of functions.  The 8fPHN2A0+ icon is slightly less 
+general, since the subscripts on 8fPJN2A0N8fOIN0A13bI8fNIN0A21  and 8fPJN2A0N8fOIN0A13bI8fNIN0A22 are omitted.)  Two examples of this  identity
+are provided by the logarithm and exponential functions. The functions  are inverses of
+each other, and, as is well known,  8fPIN2A0ISe1cfae7F   #2NCLayout-c,l,r1JCLatex2e#Layout-c,l,rHelpGVe1cfae7G'!GC
+82B8bO82C
+2BC80J80I\begin{center}80I8bO80I\end{center}80IHCCenterGVe1cfae7H'!GC
+82B8bO82C
+2HC80J80I\begin{flushleft}80I8bO80I\end{flushleft}80IKCFlushleftGVe1cfae7I'!GC
+82B8bO82C
+2JC80J80I\begin{flushright}80I8bO80I\end{flushright}80ILCFlushrightr8bOIN0E18fPIN2A0S8fOJN2A1T8bN1CN0E28fPHN2A0ISfe55814G   $1HCSpacesGVfe57c5cH'!DC  DC80J~CC1GVfe55816N'!DC  EC80J~~CC2GVfe55814N'!GC     HC80J~~~~~CC5GVfe55820H'!LC          MC80J~~~~~~~~~~DC10swhereas8fPHN2A0s 8fPKN0A08fPJN0A08ePHN2B0O8fPIN2A0ISafa0e26N   "1ECexpGVafa0e26L#"KCbfI80KexpdfI(8fO)JCbfIexpdfI(8fO)GVafa0e26M#"JCbfI80KlndfI(8fO)ICbfIlndfI(8fO)w8fOIN0A1x8ePHN2B0k8fPIN2A0w8fOJN2A1ISe13cd3fG   #2KCFractions1HCLatex2eB#FractionsHelpGVe26e4f2H'"IC81K8fO81L81H81M8fN81NMC\frac{8fO}{8fN}1NCenvironment determines styleGVe13cd3fH'"IC81K8fO81L81H81M8fN81N1LC{\displaystyle\frac{8fO}{8fN}}NCDisplayStyleGVe1eb2b4O'"KCccA81K8fO81L81H81M8fN81N80P1IC{\textstyle\frac{8fO}{8fN}}MCInlineStylez8fOIN0A118fNIN0A2x8fOKN0A18fPIN2A0x8fOJN0A18ePHN2B0O8fPIN0A0x8ePHN2B0k8fPJN2A0z8fOIN0A118fNIN2A2x8fOIN0A1x
+and8fPIN2A0r8bOIN0E18fPIN2A0Q8fOJN2A1T8bN1CN0E28fPHN2A0twhereas 8fPHN2A0t8fPKN0A08fPKN0A08fPIN2A0w8fOIN0A1x8ePHN2B0ISafa0e27A# )"1ECaddGVafa0e26O!"CC+GVafa0e26P!"CC-}8fPIN2A0w8fOIN0A1y8ePHN2B0k8fPIN2A0w8fOKN0A18fPIN0A0x8ePHN2B0ISafa0e27D# *"1ECmulGVafa0e27B!"CC·GVafa0e27C!"CC÷7P8fPIN0A0y8fOKN0A18fPIN2A0x8fOKN0A18fPIN0A0x8ePHN2B0}8fPIN0A0y8ePHN2B0k8fPKN0A08fPIN2A0x8fOIN0A1x8ePHN2B07P8fPIN2A0x8fOIN0A1y
+In order to see the correspondence between the general property and the two specific
+instances one must recognise that the general property has been  expressed in terms of
+functions alone, whilst the instances are in terms of  functions applied to their
+arguments.  One must also recognise that plus and  times are both 8fPIN2A0=8bONN0E1binary functions
+and that this must be taken into account in an  explanation that the identity  8fPIN2A0r8bOIN0E18fPKN0A08fPKN0A08fPIN2A0x8fOKN0A18fPIN0A0x8ePHN2B0}8fPIN0A0y8ePHN2B0k8fPKN0A08fPIN2A0x8fOIN0A1x8ePHN2B07P8fPIN2A0x8fOIN0A1y8ePHN6B0Co8fPKN0A08fPKN0A08fPIN2A0w8fOIN0A1x8ePHN2B0}8fPIN2A0w8fOIN0A1y8ePHN2B0k8fPIN2A0w8fOKN0A18fPIN0A0x8ePHN2B07P8fPIN0A0y
+is indeed an instance of the general property.  This can be difficult to explain  to a fellow
+human being but it is nothing compared to the overhead that is  typically required in
+order to command a computer program to apply the  general rule.  
+
+The working scientist (or engineer) has a need to be able to get on with  productive  work
+and requires a tool that will allow him to communicate the  justification for his
+calculation steps at the level of formality of his own choosing.  The working scientist is
+very conscious of the possibility of error and will choose his tools carefully in order to
+avoid the danger of its introduction; the responsibility for 8fPIN2A0=8bO1CN0E1eliminating error, however, 
+remains his and is not delegated either to a machine or to a colleague. It is such scientists
+that 8fPHN2A0+ aims to cater for. 
+
+8fPKN2A0*8bMHN@E3"8bO1GN0E1Four Priorities8bNIN0E28fPHN2A00 
+Having identified the goals of the 8fPHN2A0+ system, we now turn to the priorities we set
+in order to achieve those goals.
+
+The first priority  was 8fPIN2A0=8bO1CN0E1readability.     Mathematical notation has been designed over
+centuries to be eminently  readable, so a first requirement of the 8fPHN2A0+ system was
+that one should be able to work directly with mathematical notation (and not some
+approximation to mathematical notation). 
+
+Of course, we can all train ourselves to read the unreadable.  Blind people  learn to read
+braille and  are able to cope admirably well.  Those who have been programming for a
+quarter of a century or more will remember the time when it was necessary to be able 
+to read paper tape in order to amend or correct a program.  It is a skill that is soon
+learnt and, after some practice, it is possible to convince oneself that it can be done
+without thinking.   To do so is however pure self-deception.  Indeed, it is quite  probably
+the case that the use of paper tape as input medium contributed far more in those days
+to the unreliability of computer software than did the lack of structured programming 
+techniques.
+
+Monospaced text, particularly when used for mathematical work,  is also unreadable,
+although it has been around for so long that many ardent computer users do not seem
+to realise the training that has to be undergone to learn how to read it.  To illustrate the
+point consider the expression 8fPIN2A048bOON0E1a+b.c+d as written here in typewriter font.  The 
+justification for the  mathematical convention that multiplication is denoted by the
+smallest symbol (a dot) and has the highest precedence is totally negated by the white
+space around the symbol  created by the use of a monospaced font.  The eye naturally
+groups the expression into the two subexpressions  8fPIN2A048bOKN0E1a+b and 8fPIN2A048bOKN0E1c+d, and the intended
+structure of the expression is completely disguised.  In general, the use of a monospaced
+font  completely frustrates attempts to impart structure to the reader.   Matters are
+made quite intolerable when this is combined with the limitations of the ascii character
+set (as happens in programming languages).  It is indeed our contention that the
+continuing  use of monospaced ascii as primary input medium to computer programs
+is the most significant single source of programming error.   The belief that one can do
+creative mathematics in ascii is  as ridiculous as the belief that one can do creative
+mathematics in paper tape format.  
+
+Our second priority was 8fPIN2A0=8bO1CN0E1flexibility.    8fPHN2A0+ was designed to support the work of
+a  research group engaged in the exploration of novel mathematical theories and so
+flexibility was a must.  But flexibility is also vital to all scientists.  Even if one is ---for
+example--- designing an algorithm for some well-defined, specialist task it is likely
+that one needs to appeal to a whole host of existing mathematical theories.  (It is often
+the case that it is only  when one submits one's design to a completely formal proof that
+one becomes truly aware of  just how many.)   The use of a system designed to support
+only a subset of available  mathematical knowledge will be more effort than it is worth.
+
+Flexibility means that the responsibility for error lies fairly and squarely on the
+shoulders of the user.   All formal proof assistants of which we are aware attempt to
+relieve the user  of some of this responsibility by restricting the available possibilities. 
+One often sees claims like: ``the system guarantees that only type-correct statements
+can be entered''.   Our view is that this is a totally misguided policy.   The discipline of
+thoroughness must remain an integral part of the scientific ethic and not be imposed by
+a machine. We have to throw away the idea of ``expert systems'' intended to replace
+the experts and get back to ``systems for experts'', i.e. systems designed to assist experts
+in a particular field in  doing their work efficiently and effectively.  
+
+The third priority in the design of 8fPHN2A0+ was to support the 8fPIN2A0=8bOON0E1writing of scientific
+articles rather than the production of a finished product.  The papers that we ourselves
+write tend to undergo many revisions, often extending over years rather than months.
+The drafts we write need to be highly readable but often contain inadequate proofs ---
+inadequate because they are too complicated, not at the right level of abstraction, 
+incomplete, and sometimes downright wrong.    When the finished product is finally 
+ready it is usually the case that we feel a sense of shame at our own stupidity during the
+course of its production.  The finished product is intended to show how the ideas should
+be  formulated, and how the theorems should be proved, but it is rarely the case that the
+ finished product represents how its results were first established.  The time required
+for  the production of  the finished product is also relatively short compared to the time
+required to reach a  state in which a finished product is conceivable.  
+
+Verification systems seems to assume that their users are as inhuman as the system
+itself: always systematic, always tidy and well organised, always precise and always
+correct.  (Or, if this is not the case, at least willing to be disciplined by the machine into
+such a mode of working.) They are intended to provide the final seal of approval on
+work that is already well developed and well organised.  They do have a purpose but, in
+our view, a purpose that has been  given an unduly high priority.  A machine-supplied
+seal of approval has had no priority in  the development of 8fPHN2A0+. 
+
+The final priority in the design of 8fPHN2A0+  was that mathematics and text should be
+completely integrated.   Mathematics is not about mathematical calculations. It is
+about the nature of the calculations: what the mathematics is about, why one should be
+interested in a particular calculation or theorem, and what one can learn  from it.
+Doing mathematics is a literary exercise: a mathematical article is an essay, and a 
+mathematics book is a novel complete with a plot and main characters.  (We include in
+this writing computer  programs which we also regard as a mathematical exercise.)  
+We cannot envisage doing mathematics  without being able to freely intersperse prose
+with mathematical calculations.   Computerised math systems rarely cater for this
+viewpoint.  It is often physically impossible to include explanatory text and where it is
+possible it is often the case that the inclusion of  text is severely restricted.
+
+8fPKN2A0*8bMHN@E3"8bO1FN0E1Software Tools8bNIN0E28fPHN2A00
+
+One final bit of philosophy:  tools are things like hammers and chisels, implements to
+assist the craftsman. Software tools may be more complicated to produce; 
+nevertheless, their nature is just the same.  They are there to assist.  They are not there to
+impose a particular style of working.   We have our own views on the scientific method,
+as will be evident from these pages.  You may or may not agree with those views.  But, if
+we have done our job right, it shouldn't matter one way or the other.   8fPHN2A0+ is
+intended to assist, the way you use it is up to you.

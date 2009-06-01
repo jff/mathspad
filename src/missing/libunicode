@@ -1,0 +1,35 @@
+
+
+Undefined symbols from unicode/.libs/libunicode.so.0.0.0:
+
+    .div
+    .rem
+    .umul
+    XLoadQueryFont
+    __ctype
+    __iob
+    close_file
+    destroy_pathinfo
+    fgets
+    file_size
+    fprintf
+    fread
+    fwrite
+    getenv
+    make_pathinfo
+    memcmp
+    memcpy
+    memset
+    myfree
+    mymalloc
+    myrealloc
+    open_file
+    printf
+    setlocale
+    sprintf
+    strchr
+    strcmp
+    strcpy
+    strlen
+    strncmp
+    toupper

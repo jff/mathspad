@@ -1,0 +1,1331 @@
+[4mMathpad Document
+[0mb41LN0E0 8fPIN2A0ISfe1c3a6C   "1FClinkGVfe1c3a6J'!DC80J BC1ACLink (editable)GVfe1c3b0O'!DC80J BCOCLink (hidden)!8bO1JN0E1latex2estencilHelp
+
+8fPKN2A0ISe1d5d89K   &2OCTitle        1CCLatex2e#TitleHelpGVe1d5d89L'!2DC81P80C80EcbNbfO82HTitle82I8bOdfO80P80F
+
+80C80EcbO82HAuthor82I8bN80P80F82A
+2FC80J\title{8bO}%80I\author{8bN}%80I\maketitle 80IPCTitle & AuthorGVe1d5d89M'!3BC81P80C80EcbNbfO82HTitle82I8bOdfO80P80F
+
+80C80EcbO82HAuthor82I8bN80P80F
+
+80C80EcbO82HDate82I8bM80P80F82A
+2PC80J\title{8bO}%80I\author{8bN}%80I\date{8bM}%80I\maketitle 80I1FCTitle, Author & DateGVe1d5d89N'!CC8bONC\thanks{8bO}\ HCThanksGVe1d5d89O'!ECandGC\and 1GCand (between authors)GVe1d5d89P'!1ACbfOTitle PagedfO
+8bO
+2GC80J\begin{titlepage}80I8bO80I\end{titlepage}80I1BCTitle Page (DIY)GVe1d5d8aA'!PCbfMtoday's datedfMJC\today{}NCToday's Date&8bMNN0E38fPHN2A0ISe1ec757J   ,2NCMonth       1DCLatex2eB#MonthHelpGVe1ec757K!!ICJanuaryGVe1ec757L!!JCFebruaryGVe1ec757M!!GCMarchGVe1ec757N!!GCAprilGVe1ec757O!!ECMayGVe1ec757P!!FCJuneGVe1ec758A!!FCJulyGVe1ec758B!!HCAugustGVe1ec758C!!KCSeptemberGVe1ec758D!!ICOctoberGVe1ec758E!!JCNovemberGVe1ec758F!!JCDecember2 19968bN1HN0E2Hilary Backhouse8bO3AN0E1On-line help file for the latex2e stencil
+
+
+©  1996 Hilary Backhouse\\ All rights reserved.  No part of this publication may be
+reproduced, in any form, or by any means without prior permission in writing from
+the copyright holder.   Permission is  however granted to make and distribute
+verbatim copies of the 8fPHN2A0ISafa0e17G   !0GVafa0e17F#!MC80JbfIMath222LpaddfILC80J\mplogo{}4 document and stencil files used to create this
+publication.  Permission is also granted to modify the 8fPHN2A04 document and stencil
+files for individual use but not to distribute such modifications without the express 
+written permission of the copyright holder.  The 8fPHN2A04 files may  not be processed
+by any other system than the 8fPHN2A04 system and may not be converted to any other
+format, electronic or otherwise, without the express  written permission of the
+copyright holder. 
+
+ 8fPJN2A0ISe1d4f11P   +2PCSectionHeading2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f1aC'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+HC80J8bN{8bO}80IKC{heading}GVe1d4f20A'!3CC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80IPC[toc]{heading}GVe1d4f27D'!2MC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1CC[no no.]{heading}GVe1d4f2aE'!2NC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1AC80J8bN{8bO}\label{8bM}80IPC{heading}labelGVe1d4f2eB'!3LC82Hsectioning type82I8bN[82Htoc-entry82I8bL]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1EC[toc]{heading}labelGVe1d4f12M'!3FC82Hsectioning type82I8bN[no no.]bfO{dfO82Hheading82I8bObfO}dfO{label 8bM}
+1BC80J8bN*{8bO}\label{8bM}80I1HC[no no.]{heading}labelGVe1d4f12H'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+KC80J8bN[8bL]{8bO}80I1EChide-[toc]{heading}GVe1d4f12I'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+IC80J8bN*{8bO}80I1IChide -[no no.]{heading}GVe1d4f12J'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1AC80J8bN{8bO}\label{8bM}80I1EChide-{heading}labelGVe1d4f12K'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1DC80J8bN[8bL]{8bO}\label{8bM}80I1JChide-[toc]{heading}labelGVe1d4f12L'!2EC82Hsectioning type82I8bNbfO{dfO82Hheading82I8bObfO}dfO
+1BC8bN80J*{8bO}\label{8bM}80I1MChide-[no no.]{heading}label?8bO1DN0E1Introduction8bNIN0E28fPHN2A0ISe1d4f86L   '21ACSectioningTypes2PCLatex2e#SectionHeading and SectioningTypesHelpGVe1d4f86M#!JCcbLbfKPartdfK80PHC80J\partGVe1d4f86N#!MCcbMbfKChapterdfK80PKC80J\chapterGVe1d4f86O'!MCcbNbfKSectiondfK80PKC80J\sectionMCcbObfKSectiondfKccAGVe1d4f86P#!PCcbObfKSubSectiondfK80PNC80J\subsectionGVe1d4f87A#!1ACbfKSubSubSectiondfK1AC80J\subsubsectionGVe1d4f87B#!MCbfKParagraphdfKMC80J\paragraphGVe1d4f87C#!PCbfKSubParagraphdfKPC80J\subparagraphE  
+
+This document describes how to use the 8fPIN2A0ISe196d18D   +2KCTextStyle1HCLatex2eA#TextStyleHelpGVe196d18N'!FC80JbfJ8bOdfJKC80J\emph{8bO}1CCbfMEmphasizeddfM textGVe196d18E'!DC80J8bOMC80J\textup{8bO}OCUpright shapeGVe196d18F'!FC80JbfM8bOdfMMC80J\textit{8bO}PCbfMItalicdfM shapeGVe196d18G'!FC80JbfJ8bOdfJMC80J\textsl{8bO}1ACbfJSlanteddfJ shapeGVe196d18H'!DC80J8bOMC80J\textsc{8bO}1FCSccBMALLcbPcbNCccBAPS cbNshapeGVe196d18I'!DC80J8bOMC80J\textmd{8bO}OCMedium seriesGVe196d18J'!FC80JbfO8bOdfOMC80J\textbf{8bO}OCbfOBolddfO seriesGVe196d18K'!DC80J8bOMC80J\textrm{8bO}NCRoman familyGVe196d18L'!FC80JbfI8bOdfIMC80J\textsf{8bO}1ECbfISans SerifdfI familyGVe196d18M'!FC80JbfH8bOdfHMC80J\texttt{8bO}1ECbfHTypewriterdfH familyGVe196d18O'!FC80JbfK8bOdfK1GC80J\textbf{80J\textit{8bO}}1NCbfKBolddfK series bfKItalicdfK shapeK8bOON0E1latex2e stencil provided with the 8fPHN2A04
+distribution. The purpose of this  stencil is to assist the user create files for processing
+with 8fPHN2A0ISe1cfa44M   %2GCLaTeX1CCLatex2e#LaTeXHelpGVe1cfa44N#!1FCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NXKC80J\LaTeX{}GVe1cfa44O#!MCT81K81L81K81L81ME81N81M81NXIC80J\TeX{}GVe1cfa45A#!1HCLccA81JA81L 81M81N80PT81K81L81K81L81ME81N81M81NX23bF4AC80J{\mathsurround=0pt\LaTeX $2_80L{\textstyle 3bF}$\hspace{-0.4mm}}{}GVe1cfa45B#!1BCBccAIB80PT81K81L81K81L81ME81N81M81NX1FC80J80J\textsc{Bib}\TeX{}GVe1e4779B#!MCbfMMakeIndexdfMOCbfMMakeIndexdfM{}T. It is not necessary to know 8fPHN2A0T well in order to use most of the
+templates in this stencil --- the basic information provided in the  chapter titled
+``Advice for Newcomers to 8fPHN2A0V'' in the 8fPHN2A04 manual suffices. However in
+order to  create templates  and to use the more complicated  templates we recommend
+that you consult the 8fPHN2A0V   manual (Leslie Lamport. 8fPIN2A0O8bO4ON0E18fPHN2A0V---A Document
+Preparation System.---User's Guide and Reference Manual. 2nd ed.
+Addison-Wesley, Reading. 1994). ``The 8fPHN2A0V Companion" by Goossens, Mittelbach
+and Samarin, Addison-Wesley Publishing Co., 1994 is also very useful.
+
+The stencil has been prepared by Hilary Backhouse  who has incorporated some, 
+mainly the mathematical and tabbing templates,  from the old latex stencil written by
+Richard Verhoeven.  The help documents for this stencil were written by Hilary.  For
+those reading it from  a hard copy version the chapters correspond to the headings of a
+group of templates and the section headings are names of templates.
+
+This document is  a 8fPHN2A04 document and  can be read from the 8fPHN2A04 system by
+clicking on help  in the menu under the ``dummy'' template called 8fPIN2A0I8bO1GN0E1latex2e stencil at
+the top of the stencil. 
+
+ 8fPIN2A0K8bOPN0E1Warning: This stencil is incomplete.  Some templates only provide  versions for  a
+selection of the options available for the corresponding 8fPHN2A0T command, while
+some 8fPHN2A0T commands have as yet no corresponding template. Occasionally the
+user may prefer to create a template version specifically to meet the requirements of
+the document in question rather than to use those given. If you need a missing option,
+you can either add a new version to the template or enter the 8fPHN2A0T code directly
+into the document. 
+
+Because the 8fPIN2A0K8bOON0E1latex2e stencil is so large it can be difficult to find the particular
+template that you require. For this reason the stencil has been divided into groups of
+templates such that, where possible, the templates in each group have a common
+theme. A dummy template at the start of each group generates a bold heading for the
+group within the stencil. The groups are as follows:
+8fPIN2A0ISe1dbb24P   "21OCItemize                      3BCLatex2eB#Description, Enumerate and Itemize HelpGVe1dbb25A'!2HC81PbfMItemdfM80BbfMizedfM
+82Hitems82I8bO82A bfMEnd ItemizedfM
+2DC80J\begin{itemize}80I8bO 80I\end{itemize}80IICItemizeGVe1dbb25B'!1DC   221J 80C80E{82Htext82I8bO}80F
+LC80J\item 8bO 80IFCItemX8bO1JN0E18fPIN2A0W8bO4AN0E1Preliminaries---items normally appearing in the preamble.8fPIN2A0W8bO4CN0E1Document---particular document classes and the  8fPIN2A0I8bO1FN0E1Begin/End(Doc) template.8fPIN2A0W8bO7CN0E1Miscellaneous---templates corresponding to 8fPHN2A0V commands which can
+not  be placed in any of the other groups. 8fPIN2A0W8bO5IN0E1Boxes---``boxes'' are items which are treated as a single indivisible unit  by
+8fPHN2A0V.8fPIN2A0W8bOPN0E1Counters8fPIN2A0W8bO2LN0E1Definitions---user-defined commands.8fPIN2A0W8bO5MN0E1Floats---generate items which can ``float'' from one position to another in the
+text.8fPIN2A0W8bOMN0E1Fonts8fPIN2A0W8bOMN0E1Lists8fPIN2A0W8bO1CN0E1Mathematics8fPIN2A0W8bO5GN0E1Misc templates---templates for general use not associated with any 8fPHN2A0V 
+commands.8fPIN2A0W8bOPN0E1Pictures8fPIN2A0W8bOON0E1Spacing8fPIN2A0W8bO1KN0E1Tabular and Tabbing8fPIN2A0W8bO3GN0E1BIBTEX---templates for creating a bibliography.8fPIN2A0W8bO1AN0E1MakeIndex8fPIN2A0W8bO1HN0E1Graphics package8fPIN2A0W8bO1AN0E18fPHN2A0ISe058e20L   "1HCifthenGVe058e21D#!HCifthenJCif\/thenGVe058e23H#!LCifthenelseNCif\/thenelseZ packageThe help for each group of templates is stored together in a document (8fPIN2A0H8bOKN0E1mpd) file. If you
+click on the 8fPIN2A0I8bOLN0E1Help menu item in the dummy heading template then the help file is
+opened at the start of the help for that group of templates. Sometimes you will find at
+this point information relevant  to all the templates in the group.
+
+ 8fPIN2A0!8bO1IN0E1PreliminariesHelp8fPJN2A0?8bO1EN0E1Preliminaries8bNIN0E28fPHN2A0E 
+
+8fPIN2A0!8bO1IN0E1DocumentClassHelp8fPJN2A0?8bO1EN0E1DocumentClass8bNIN0E28fPHN2A0D
+ Each document to be processed by 8fPHN2A0T  must be assigned a document class.
+Those available are 8fPIN2A0Q8bOON0E1article, 8fPIN2A0Q8bONN0E1report, 8fPIN2A0Q8bOLN0E1book, 8fPIN2A0Q8bONN0E1slides  and 8fPIN2A0Q8bONN0E1letter. Default values of
+various style parameters are set according to which class type is chosen. Some of these
+may be changed either by altering the value of one or more of the variables listed in
+template 8fPIN2A0I8bO1BN0E1Parameters or by choosing a version of this template with a text place holder
+ and inserting into it the  appropriate options (from template 8fPIN2A0I8bO1DN0E1ClassOptions). 
+
+The 8fPIN2A0I8bO1EN0E1DocumentClass template  should usually be inserted as the first command of  the
+preamble. There are two versions for each of the standard class types --- one with
+and one without a place holder for options. If a version with a place holder is selected
+and more than one option entered into it, then the options must be separated from each
+other by commas.
+
+Many users use the same preamble for most of their documents. If this applies to you
+then you should consider adding a version which automatically generates the
+preamble that you want to use.
+
+A brief description of each class follows. The default options from template
+8fPIN2A0I8bO1DN0E1ClassOptions for each class is also given. <
+
+8fPIN2A0ISe1dbb1aO   "2MCDescription3BCLatex2eB#Description, Enumerate and Itemize HelpGVe1dbb1aP'!2PC81PbfMDescripdfM80BbfMtiondfM
+82Hitems82I8bO82A bfMEnd descriptiondfM
+2LC80J\begin{description}80I8bO 80I\end{description}80IMCDescriptionGVe1dbb1bA'!1JCbfO82Hlabel82I8bNdfO  80E{82Htext82I8bO}80F
+NC80J\item[8bN]8bO 80IFCItem\8bOMN0E18fPJN2A0[8bO18AN0E1This class is usually chosen for a short document. The class options
+8fPIN2A0I8bO1AN0E1OpenRight and  8fPIN2A0I8bOON0E1OpenAny may not be used with this class type. As an article
+may not have chapters, version 8fPIN2A0I8bOON0E1chapter should not be chosen from template
+8fPIN2A0I8bO1GN0E1SectioningTypes. The default options are 8fPIN2A0I8bOLN0E110pt, 8fPIN2A0I8bOON0E1OneSide and  8fPIN2A0I8bO1CN0E1NoTitlePage.
+The default page style is plain. That is, the head is empty and the foot has only a
+page number which is by default set in Arabic numerals.8bNON0E2Article8fPJN2A0[8bO8EN0E1This is usually a longer document than an article. The default options are
+8fPIN2A0I8bOLN0E110pt, 8fPIN2A0I8bOON0E1OneSide, 8fPIN2A0I8bO1AN0E1TitlePage and 8fPIN2A0I8bOON0E1OpenAny and the default page style is
+plain.8bNNN0E2Report8fPJN2A0[8bO32AN0E1A book is considered to consist of 8fPIN2A0Q8bO1DN0E1front matter, 8fPIN2A0Q8bO1CN0E1main matter and 8fPIN2A0Q8bO1CN0E1back matter.
+The front matter may include such things as a copyright page, a foreword, a
+table of contents and so forth.  The back matter may include a bibliography and
+index. The main matter is the  actual contents of the book. By default  the pages
+of the front matter  are numbered with Roman numerals   and the main and
+back matter with Arabic numerals.   The word ``Chapter''  is omitted from
+chapter headings in the front and back matter.  To indicate to 8fPHN2A0T 
+where each of these three parts  start, insert 8fPIN2A0I8bO1CN0E1FrontMatter, 8fPIN2A0I8bO1BN0E1MainMatter and
+8fPIN2A0I8bO1BN0E1BackMatter with  template 8fPIN2A0I8bO1EN0E1Book-DocClass at the appropriate places. If they
+are omitted everything is assumed to be main matter. The 8fPIN2A0I8bOPN0E1Abstract template  
+may not be used with this class type. The default options are 8fPIN2A0I8bOLN0E110pt, 8fPIN2A0I8bOON0E1TwoSide,
+8fPIN2A0I8bO1AN0E1TitlePage and 8fPIN2A0I8bO1AN0E1OpenRight. Again the default page style is plain.8bNLN0E2Book8fPJN2A0[8bO1aHN0E1This document class is used for making slides.  Different fonts  are available
+for this class. They  are larger than for the other classes and are specially
+designed for reading from a distance. The default options are 8fPIN2A0I8bOON0E1Oneside and
+8fPIN2A0I8bO1AN0E1OneColumn. Use template 8fPIN2A0I8bO1GN0E1Slides-DocClass  with this class.
+
+Certain templates and options are not  recognised by this document class. 
+These include  templates 8fPIN2A0I8bO1FN0E1SectionHeading, 8fPIN2A0I8bO1AN0E1PageBreak, 8fPIN2A0I8bONN0E1Figure and 8fPIN2A0I8bOMN0E1Table
+and options 8fPIN2A0I8bOLN0E110pt, 8fPIN2A0I8bOLN0E111pt, 8fPIN2A0I8bOLN0E112pt, 8fPIN2A0I8bO1AN0E1TwoColumn, 8fPIN2A0I8bOON0E1TwoSide, 8fPIN2A0I8bO1AN0E1OpenRight,
+8fPIN2A0I8bOON0E1OpenAny,  and 8fPIN2A0I8bO1DN0E1OpenBibStyle.8bNNN0E2Slides8fPJN2A0[8bOeMN0E1The template 8fPIN2A0I8bONN0E1Letter is available for use with this class. The default options
+are 8fPIN2A0I8bOLN0E110pt, 8fPIN2A0I8bOON0E1Oneside and 8fPIN2A0I8bO1AN0E1OneColumn.  Certain templates and options are not 
+recognised by this document class.  These include  templates 8fPIN2A0I8bO1FN0E1SectionHeading,
+8fPIN2A0I8bONN0E1Figure and 8fPIN2A0I8bOMN0E1Table and options 8fPIN2A0I8bOON0E1TwoSide, 8fPIN2A0I8bO1AN0E1OpenRight, 8fPIN2A0I8bOON0E1OpenAny,  and
+8fPIN2A0I8bO1DN0E1OpenBibStyle.8bNNN0E2Letter
+Options other those held in template  8fPIN2A0I8bO1DN0E1ClassOptions may be inserted into the place
+holder of versions of this template which have a place holder. However each option
+entered must be a valid option for either the document class or for one of the packages
+requested otherwise an error will be reported.
+
+Every option inserted into the place holder of a document class command is  also passed
+to any package requested that accepts it as a valid option.
+
+8fPJN2A0?8bOPN0E1Examples8bNIN0E28fPHN2A0B   8fPIN2A0O8bOON0E1Article[8fPIN2A0O8bO1FN0E112pt,TwoColumn]8fPHN2A0ISe1cfe05L   +2KCLineBreak1GCLatex2e#LineBreakHelpGVe1cfe05M'!NCbfMLineBreakdfM
+NC\linebreak 80ILCLine breakGVe1cfe05N'!1NCbfMLineBreakdfM[82H0,1,2,3 or 482I8bO]OC\linebreak[8bO]1MCLine break [ 0,1,2,3 or 4 ]GVe1cfe05O'!OCbfMNoLineBreakdfMNC\nolinebreakOCNo line breakGVe1cfe05P'!1PCbfMNoLineBreakdfM[82H0,1,2,3 or 482I8bO]1AC\nolinebreak[8bO]1OCNo line break [ 0,1,2,3 or 4]GVe1cfe06A'!LCbfMNewLinedfM
+LC\newline 80IJCNew lineGVe1cfe06B#!EC\\
+KC\\\empty80IGVe1cfe06C'!1AC\\[82Hlength82I8bO]
+
+HC\\[8bO]80ILC\\[length]GVe1d08b3I#!FC\\*
+LC\\*\empty80IGVe1d08b5E'!1BC\\*[82Hlength82I8bO]
+
+IC\\*[8bO]80IMC\\*[length]GVe1cfe06D'!GC   
+
+HC\\[8bO]80I1CC\\[length] (hide)GVe1cfe06E'!DC 
+KC\\\empty80IKC\\ (hide)]8fPIN2A0O8bONN0E1Report
+
+8fPIN2A0!8bO1HN0E1ClassOptionsHelp8fPJN2A0?8bO1DN0E1ClassOptions8bNIN0E28fPHN2A0D
+   Each version of this template is an option for determining the style and layout of a
+document and is used in combination with template 8fPIN2A0I8bO1EN0E1DocumentClass.
+
+First enter a version of template 8fPIN2A0I8bO1EN0E1DocumentClass into the document. This specifies the
+document class. There are versions for each class type with and without a text place
+holder. If a version with a text place holder is selected then you can use template
+8fPIN2A0I8bO1DN0E1ClassOptions to enter one or more of the standard options into it. Separate multiple
+options with commas. The options available are listed below. Following some of the
+options, in  brackets, are the  document classes, if any, in which they may 8fPIN2A0Q8bOKN0E1not be used.
+
+8fPIN2A0\8bO1PN0E18fPJN2A0[8bO7BN0E1The size of normal type in the finished document is  ten-point. This is the
+default setting. (Not with 8fPIN2A0O8bONN0E1slides.)8bNLN0E210pt8fPJN2A0[8bO4NN0E1The size of normal type in the final output is 11 point. (Not with 8fPIN2A0O8bONN0E1slides.)8bNLN0E211pt8fPJN2A0[8bO4NN0E1The size of normal type in the final output is 12 point. (Not with 8fPIN2A0O8bONN0E1slides.)8bNLN0E212pt8fPJN2A0[8bO3DN0E1A page will consist of two columns of text. 8bN1BN0E2TwoColumn,8fPJN2A0[8bO4ON0E1A page will consist of one column of text. This is the default setting.8bN1AN0E2OneColumn8fPJN2A0[8bOaEN0E1Left and right-hand pages of output are made with the left pages
+numbered with odd numbers.   This is the default with the book document class.
+(Not with 8fPIN2A0O8bONN0E1slides.)8bNON0E2TwoSide8fPJN2A0[8bO6DN0E1All pages have the same format. This is the default for all except the book
+document class. 8bNON0E2OneSide8fPJN2A0[8bO6AN0E1The default of placing equation numbers on the right can be overwritten
+with this option.8bNMN0E2leqno8fPJN2A0[8bO11DN0E1When this option is selected displayed formulae are aligned at the left-hand
+side  of the page instead of being centred. The distance at which they are
+aligned from the left margin is stored in the variable 8fPIN2A0O8bO1BN0E1mathindent.  A value
+can be assigned to this variable with template 8fPIN2A0I8bO1HN0E1Parameters-OpsOn.8bNMN0E2fleqn8fPJN2A0[8bOdLN0E1If the 8fPIN2A0I8bO1AN0E1TitlePage option is selected then a title entered with the 8fPIN2A0I8bOMN0E1Title
+template and an abstract entered with the 8fPIN2A0I8bOPN0E1Abstract template will be set on
+separate pages. This is the default for all except the article class. (Not with 
+8fPIN2A0O8bONN0E1letter.)8bN1AN0E2TitlePage8fPJN2A0[8bO7JN0E1The title and abstract will not be set on separate pages. This is the
+default for the article class. (Not with 8fPIN2A0O8bONN0E1letter.)8bN1CN0E2NoTitlePage8fPJN2A0[8bO4KN0E1The output will be formatted to fit A4 size pages, 8fPHN2A0ISe1ec753N   %2OCAbbreviations1LCLatex2eB#AbbreviationsHelpGVe1ec753O#!GCe.g. IC80Je.g.\ GVe1ec753P!!ICbfMetc. dfMGVe1ec754A#!GCi.e. IC80Ji.e.\ GVe1ec754B#!GCE.g. IC80JE.g.\ GVe1ec754C#!GCI.e. IC80JI.e.\ j 210mm × 297mm.8bNJN0E2A48fPJN2A0[8bO4KN0E1The output will be formatted to fit A5 size pages, 8fPHN2A0j 148mm × 210mm.8bNJN0E2A58fPJN2A0[8bO4KN0E1The output will be formatted to fit B5 size pages, 8fPHN2A0j 176mm × 250mm.8bNJN0E2B58fPJN2A0[8bO4DN0E1The output will be formatted to fit a page of 8.5in  × 11in.8bNNN0E2Letter8fPJN2A0[8bO4DN0E1The output will be formatted to fit a page of 8.5in  × 14in.8bNMN0E2Legal8fPJN2A0[8bO4GN0E1The output will be formatted to fit a page of 7.25in  × 10.5in.8bN1AN0E2Executive8fPJN2A0[8bObMN0E1If the height and breadth of the page specified for the output are 8fPIN2A0O8bOIN0E1hcm
+ and 8fPIN2A0O8bOIN0E1bcm respectively, then the output will be formatted to fit  onto  a page
+with height 8fPIN2A0O8bOIN0E1bcm and breadth 8fPIN2A0O8bOIN0E1hcm.8bN1AN0E2Landscape8fPJN2A0[8bO11IN0E1If for some reason 8fPHN2A0V outputs a line which is so full that the text
+extends into the right margin, then an 8fPIN2A0H8bOPN0E1Overfull 8fPIN2A0ISe1d5e5bI   &2JCVerbatim1FCLatex2e#VerbatimHelpGVe1d5e5bJ'!ECbfH8bOdfHKC80J\verb+8bO+1JCShort-No `+' in contentsGVe1d5e5bK'!ECbfH8bOdfHKC80J\verb?8bO?1JCShort-No `?' in contentsGVe1d5e5bM'!ECbfH8bOdfHLC80J\verb*+8bO+2ICShort-No `+' in contents, spaces as ccB229EcbNGVe1d5e8dO'!ECbfH8bOdfHLC80J\verb*?8bO?2ICShort-No `?' in contents, spaces as ccB229EcbNGVe1d5e5bL'!GC
+bfH8bOdfH
+2EC80J\begin{verbatim}80I8bO80I\end{verbatim}80I1ICLong-more than one lineGVe1d5f98F'!GC
+bfH8bOdfH
+2GC80J\begin{verbatim*}80I8bO80I\end{verbatim*}80I2HCLong-more than one line, spaces as ccB229EcbNr8bOIN0E1\8fPIN2A0H8bOLN0E1hbox warning message
+is sent to the terminal and also to the 8fPIN2A0H8bOKN0E1log file. If the 8fPIN2A0I8bO1CN0E1DraftOption has been
+selected, then in addition the end of each such line is marked with a black box.8bN1CN0E2DraftOutput8fPJN2A0[8bOaKN0E1Unlike the 8fPIN2A0I8bO1CN0E1DraftOutput option any line of the output which causes
+an 8fPIN2A0H8bOPN0E1Overfull 8fPIN2A0r8bOIN0E1\8fPIN2A0H8bOLN0E1hbox warning message to be sent to the terminal  is 8fPIN2A0Q8bOKN0E1not
+marked by a black box. This is the default option.8bN1CN0E2FinalOutput8fPJN2A0[8bO7HN0E1All chapters begin on a right-hand page. This is the default for the
+book document class. (Not with 8fPIN2A0O8bOON0E1article, 8fPIN2A0O8bONN0E1letter and 8fPIN2A0O8bONN0E1slides.)8bN1AN0E2OpenRight8fPJN2A0[8bO8BN0E1Chapters may begin on  right or left-hand pages. This is the default for
+the report document class. (Not with 8fPIN2A0O8bOON0E1article, 8fPIN2A0O8bONN0E1letter and 8fPIN2A0O8bONN0E1slides.)8bNON0E2OpenAny8fPJN2A0[8bO5MN0E1The  entries in the bibliography are set  in a less compact way.  (Not
+with 8fPIN2A0O8bONN0E1letter and 8fPIN2A0O8bONN0E1slides.)8bN1DN0E2OpenBibStyle8fPJN2A0[8bO3GN0E1This is an option of the slides document class.8bNMN0E2Clock
+ 8fPJN2A0?8bOPN0E1Examples8bNIN0E28fPHN2A0B
+ 8fPIN2A0O8bOON0E1Article[8fPIN2A0O8bOLN0E112pt]8fPHN2A0]8fPIN2A0O8bONN0E1Report[8fPIN2A0O8bO1DN0E111pt,TwoSide]
+
+8fPIN2A0!8bO1DN0E1Packagenames8fPJN2A0?8bO1DN0E1PackageNames8bNIN0E28fPHN2A0D
+ Each version of this template contains the name of a (commonly available) package
+which can be loaded into 8fPHN2A0V to provide extra features.  The instruction to  load a
+package or packages must be entered into the 8fPIN2A0O8bOPN0E1preamble of the document. Template
+8fPIN2A0I8bOPN0E1Packages can be used for this purpose. 
+
+Note that there are no versions for the  8fPIN2A0Q8bOPN0E1MathSpad,  8fPIN2A0Q8bOON0E1makeidx, 8fPIN2A0Q8bOPN0E1latexsym and 8fPIN2A0Q8bONN0E1ifthen
+packages as these are  loaded by the 8fPIN2A0I8bO1EN0E1DocumentClass template.
+
+
+
+8fPIN2A0!8bO1DN0E1PackagesHelp8fPJN2A0?8bOPN0E1Packages8bNIN0E28fPHN2A0D
+ This template is used to load one or more  packages into 8fPHN2A0V.  8fPIN2A0O8bO3AN0E1It may only be
+inserted into the preamble of the document. There are two versions of the template the
+second of which can be used to specify  any options required.  
+
+The first version has only one place holder into which the name or names of  packages 
+are entered. If more than one package is specified then the names must be separated
+by commas. 
+
+ The second version has an extra text place holder into which  options can be entered.
+Multiple options must be  separated by commas. It is not necessary to enter any options
+which already appear as an option to the document class command as these will
+automatically be passed to the package. The second place holder is  used to hold the
+name or names of the packages required. If more than one package is specified then
+any option inserted into the first place holder must be a valid option for each package
+in the second place holder. 
+
+The names of packages may be entered directly from the keyboard or  by choosing the
+appropriate version of  the 8fPIN2A0I8bO1DN0E1PackageNames template.  
+
+Note that commands to load the 8fPIN2A0Q8bOPN0E1MathSpad,  8fPIN2A0Q8bOON0E1makeidx,  8fPIN2A0Q8bOPN0E1latexsym and 8fPIN2A0Q8bONN0E1ifthen packages
+are not needed as these are  loaded by the 8fPIN2A0I8bO1EN0E1DocumentClass template. 
+
+8fPJN2A0?8bOPN0E1Examples8bNIN0E28fPHN2A0B
+ 8fPIN2A0O8bOON0E1Package8fPHN2A0ISe1d5142P   *2NCSpecialChars1JCLatex2e#SpecialCharsHelpGVe1d5143A#!CC#GC80J\#{}GVe1d5143B#!CC$GC80J\${}GVe1d5143C#!CC%GC80J\%{}GVe1d5143D#!CC&GC80J\&{}GVe1d5143E#"CC~HC{\sim}GVe1d5143F#!CC_GC80J\_{}GVe1d5143G#!DC80J^GC80J\^{}GVe1d5143H#"CC\NC{\backslash}GVe1d5143I#!CC{EC80J\{GVe1d5143J#!CC}EC80J\}t8fPIN2A0O8bOON0E1showidx8fPHN2A0s8fPHN2A0]8fPIN2A0O8bOON0E1Package8fPHN2A0t8fPIN2A0O8bOMN0E1alltt8fPHN2A0s8fPHN2A0]8fPIN2A0O8bOON0E1Package[8fPIN2A0O8bOMN0E1dutch]8fPHN2A0t8fPIN2A0O8bOMN0E1babel8fPHN2A0s
+
+The first two examples could be entered instead as:8fPHN2A0]8fPIN2A0O8bOON0E1Package8fPHN2A0t8fPIN2A0O8bO1EN0E1showidx,alltt8fPHN2A0s
+
+8fPIN2A0!8bO1DN0E1PreambleHelp8fPJN2A0?8bOPN0E1Preamble8bNIN0E28fPHN2A0D
+   The versions of this template are commands which may only be entered into the
+preamble of the 8fPHN2A0V document.
+8fPIN2A0\8bOKN0E18fPJN2A0[8bOePN0E1If this is included in the preamble then
+8fPHN2A0V will only write output to  the 8fPIN2A0H8bOKN0E1dvi and 8fPIN2A0H8bOKN0E1log files. Existing 8fPIN2A0H8bOKN0E1aux, 8fPIN2A0H8bOKN0E1toc,
+8fPIN2A0H8bOKN0E1idx, 8fPIN2A0H8bOKN0E1glo, 8fPIN2A0H8bOKN0E1lof and 8fPIN2A0H8bOKN0E1lot files are left unchanged.  Should a run of 8fPHN2A0V
+be aborted for any reason  then only the 8fPIN2A0H8bOKN0E1dvi and 8fPIN2A0H8bOKN0E1log files are effected. 8bN2HN0E2No Auxiliary Files to be Written8fPJN2A0[8bOfAN0E1If this statement is entered into the preamble,  then 8fPHN2A0V will
+write to the terminal and also to the 8fPIN2A0H8bOKN0E1log file which additional files it has read
+while processing the document. This is useful if the document is to be sent to
+another user.8bN1GN0E2List Files Read8fPJN2A0[8bO37CN0E1This command allows the user to instruct 8fPHN2A0V to
+process just a part of a document. 
+
+ Into  the place holder of this command type the names of all of the files called
+with an 8fPIN2A0I8bO1HN0E1Include File 8fPHN2A0t8fPIN2A0K8bOIN0E1T8fPHN2A0s command which you wish to process. If the list
+contains more than one  file, separate file names with commas. If the
+document is now processed by 8fPHN2A0V then all files called with an 8fPIN2A0I8bO1HN0E1Include File
+8fPHN2A0t8fPIN2A0K8bOIN0E1T8fPHN2A0s command which do not appear in the 8fPIN2A0I8bO1ON0E1Include Only File(s)8fPHN2A0t8fPIN2A0K8bOIN0E1T8fPHN2A0s
+command will not be  processed. Only those files  whose  names  appear in the 
+list will be processed and they are processed as if nothing has  been omitted. 
+Thus if a complete chapter is omitted the numbers of succeeding chapters do
+not alter. 8fPHN2A0V  does not read the omitted files but assumes that no changes
+have been made to them since the last time they were  processed.
+
+Note that an 8fPIN2A0I8bO1HN0E1Include File 8fPHN2A0t8fPIN2A0K8bOIN0E1T8fPHN2A0s  command may not appear in the preamble or
+in a file that is itself called by an  8fPIN2A0I8bO1HN0E1Include File 8fPHN2A0t8fPIN2A0K8bOIN0E1T8fPHN2A0s command. 8bN1ON0E2Include Only File(s)8fPHN2A0tT8fPHN2A0s
+ 8fPJN2A0?8bOON0E1Example8bNIN0E28fPHN2A0B
+ 8fPIN2A0O8bOLN0E1Book8fPHN2A0]8fPIN2A0O8bO1LN0E1Include Only File(s)8fPHN2A0t8fPIN2A0H8bOMN0E1FileB8fPHN2A0s8fPHN2A0]8fPIN2A0G8bO1FN0E1Begin document8fPHN2A0]8fPIN2A0O8bO1DN0E1Include File8fPHN2A0t8fPIN2A0H8bOMN0E1FileA8fPHN2A0s8fPHN2A0]8fPIN2A0O8bO1DN0E1Include File8fPHN2A0t8fPIN2A0H8bOMN0E1FileB8fPHN2A0s8fPHN2A0]8fPIN2A0G8bO1DN0E1End document
+
+In the above example only 8fPIN2A0H8bOMN0E1FileB will be processed by 8fPHN2A0V.
+
+8fPIN2A0!8bO1EN0E1PageStyleHelp8fPJN2A0?8bO1AN0E1PageStyle8bNIN0E28fPHN2A0D
+ Each page consists of a header, the body of the page and the foot. Certain
+characteristics of a page are determined by the document class and the class  options
+which have either been chosen or are by default in force. For example, whether the
+text is set in one or two columns on a page. With the 8fPIN2A0I8bO1AN0E1PageStyle  template the style of
+the header and foot can be altered. The first four versions called 8fPIN2A0I8bOMN0E1Plain, 8fPIN2A0I8bOMN0E1Empty,
+8fPIN2A0I8bOPN0E1Headings and 8fPIN2A0I8bO1BN0E1MyHeadings are used to set the normal style for the current and
+subsequent pages.  It is possible to specify a different page style for particular pages.  
+This is done by inserting a version with 8fPIN2A0I8bOPN0E1ThisPage in its name into the text of the page
+in question.
+
+
+8fPIN2A0\8bOLN0E18fPJN2A0[8bO7NN0E1This is the default  setting. The header of the page is empty  and the page
+number is centred at the foot of the page.8bNMN0E2Plain8fPJN2A0[8bO4NN0E1With this  version both the head and foot of the page are left blank. 8bNMN0E2Empty8fPJN2A0[8bO9LN0E1If this version is selected then the foot is empty and the head contains
+information determined by the document class together with the page
+number.8bNPN0E2Headings8fPJN2A0[8bObPN0E1The user can specify the contents of the head and foot with this
+version. It is for experienced 8fPHN2A0V users and is not described here. Consult
+the  8fPHN2A0T manual if you wish to use this option.8bN1BN0E2MyHeadings
+Note that although the first four versions set the style for the whole document they are
+not always applied to every page. For example, if the 8fPIN2A0I8bOPN0E1Headings version is chosen for a
+book then  the first page of  each  chapter is set as if the 8fPIN2A0I8bOMN0E1Plain version had been chosen.
+This is because the chapter making command itself contains page setting instructions.
+
+When using one of the 8fPIN2A0I8bOPN0E1ThisPage versions you should position the appropriate version
+within the text of the page whose page style you wish to specify. If the command 
+appears to have no effect, try repositioning it nearer the   bottom of the page after any
+commands (such as a chapter command) which can also change the page style.
+
+   
+
+8fPIN2A0!8bO1GN0E1StylePageNoHelp8fPJN2A0?8bO1CN0E1PageNoStyle8bNIN0E28fPHN2A0D
+ The style in which  the number of the page is printed in the output can be set with this
+template. The possibilities available are  given in the table.
+
+8fPIN2A0ISe1cfae7F   #2NCLayout-c,l,r1JCLatex2e#Layout-c,l,rHelpGVe1cfae7G'!GC
+82B8bO82C
+2BC80J80I\begin{center}80I8bO80I\end{center}80IHCCenterGVe1cfae7H'!GC
+82B8bO82C
+2HC80J80I\begin{flushleft}80I8bO80I\end{flushleft}80IKCFlushleftGVe1cfae7I'!GC
+82B8bO82C
+2JC80J80I\begin{flushright}80I8bO80I\end{flushright}80ILCFlushright7P8bOIN0E18fPLN2A0ISe1fd9e6J   &21DCTabular-Enter     1FCLatex2eB#TabularHelpGVe1fd9e6K'!7DCbfMTabular  ( alignment code: dfM82H|x|  where x=l, c or r for the col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col 82I8bO80B1faP81M 81H 81N
+8bH81J81L80C 82D80C 82D 81M 81H 81N82A
+4AC80J\begin{tabular}{8bI}\hline 80I8bO \\ \hline 80I8bH\hline 80I\end{tabular}80IHC1 col.GVe1fd9e6L'!8ECbfMTabular  ( alignment code: dfM82H|x|x| where x=l, c or r for each col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C 82D 81M 81H 81N82A
+4EC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN \\ \hline 80I8bH\hline 80I\end{tabular}80IHC2 col.GVe1fd9e6M'!9GCbfMTabular  ( alignment code: dfM82H|x|x|x| where x=l, c or r for each col.82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C 82D 81M 81H 81N82A
+4HC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN & 8bM\\ \hline 80I8bH\hline 80I\end{tabular}80IHC3 col.GVe1fd9e6N'!8MCbfMTabular  ( alignment code: dfM82He.g.|l|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+4MC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL\\ \hline 80I8bH\hline 80I\end{tabular}80IHC4 col.GVe1fd9e6O'!9OCbfMTabular  ( alignment code: dfM82He.g.|l|c|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B82D 82Hhead col82I8bK80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+5AC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL & 8bK\\ \hline 80I8bH\hline 80I\end{tabular}80IHC5 col.GVe1fd9e6P'!bACbfMTabular  ( alignment code: dfM82He.g.|l|c|c|c|c|r|82I8bI)
+81P80B81J 81H 81L1faP82Hhead col82I8bO80B82D 82Hhead col82I8bN80B82D 82Hhead col82I8bM80B82D 82Hhead col82I8bL80B82D 82Hhead col82I8bK80B82D 82Hhead col82I8bJ80B1faP81M 81H 81N
+8bH81J81L80C 82D80C82D80C82D80C82D80C82D80C82D80C 82D 81M 81H 81N82A
+5EC80J\begin{tabular}{8bI}\hline 80I8bO & 8bN &  8bM & 8bL & 8bK & 8bJ\\ \hline 80I8bH\hline 80I\end{tabular}80IHC6 col.8E8bHMN0E88fPJN2A0ISe1fd9e7H   &2MCTabular-Row1FCLatex2eB#TabularHelpGVe1fd9e7I'!KC80C 82D 8bO80C 82D
+HC80J8bO\\ 80IKCRow 1-colGVe1fd9e7J'!PC80C 82D 8bO80C82D 8bN80C 82D 
+MC80J8bO & 8bN \\ 80IKCRow 2-colGVe1fd9e7K'!1DC80C 82D 8bO80C82D 8bN80C82D 8bM80C 82D 
+1AC80J8bO & 8bN & 8bM \\ 80IKCRow 3-colGVe1fd9e7L'!1HC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C 82D 
+1DC80J8bO & 8bN & 8bM & 8bL\\ 80IKCRow 4-colGVe1fd9e7M'!1LC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C82D 8bK80C 82D 
+1JC80J8bO & 8bN & 8bM & 8bL  &  8bK\\ 80IKCRow 5-colGVe1fd9e7N'!2AC80C 82D 8bO80C82D 8bN80C82D 8bM80C82D 8bL80C82D 8bK80C82D  8bJ80C 82D 
+1PC80J8bO & 8bN & 8bM & 8bL  &  8bK  &  8bJ\\ 80IKCRow 6-col8K8bN1GN0E2Arabic numerals8bOPN0E1arabic-78fPJN2A08K8bN1PN0E2lowercase Roman numerals8bO1AN0E1roman-vii8fPJN2A08K8bN1PN0E2uppercase Roman numerals8bO1AN0E1ROMAN-VII8fPJN2A08K8bN1IN0E2lowercase letters8bONN0E1alph-g8fPJN2A08K8bN1IN0E2uppercase letters8bONN0E1ALPH-G8bN3HN0E2          description                           8bO2HN0E1   version                      8bIMN0E7|l|l|
+8fPIN2A0!8bO1FN0E1ParametersHelp8fPJN2A0?8bO1BN0E1Parameters8bNIN0E28fPHN2A0D
+ Several constraints on the layout of a page of output, such as the width and height of
+text on a page,  are determined by the style parameters.  Many of these are stored as
+versions of template 8fPIN2A0I8bO1BN0E1Parameters. (Those relating to floats are stored in template
+8fPIN2A0I8bO1GN0E1FloatParameters.) The default values assigned to them can be altered by the user as
+follows.  First insert into the document  a version of  template 8fPIN2A0I8bO1HN0E1Parameters-OpsOn
+and insert into the principal  place holder the name of the required parameter from
+template 8fPIN2A0I8bO1BN0E1Parameters. Finally insert the new value or the change to the value
+required in the other place holder.  
+
+ A length parameter may be a rubber length, that is, it  is allowed to vary slightly.
+8fPHN2A0V length parameters which are rubber usually have 8fPIN2A0Q8bOLN0E1skip in their names. A
+change to a rubber length should  leave it as a stretchable length. Remember also when
+dealing with lengths to specify the units. This may be 8fPIN2A0I8bOJN0E1cm, 8fPIN2A0I8bOJN0E1mm, 8fPIN2A0I8bOJN0E1in, 8fPIN2A0I8bOJN0E1em,  8fPIN2A0I8bOJN0E1ex, 8fPIN2A0I8bOJN0E1pc or
+8fPIN2A0I8bOJN0E1pt.
+
+Most of the parameters are either  lengths or counters. A counter has an integer value.
+8fPIN2A0I8bO1GN0E1Baselinestretch, however, is a multiplying factor and can be a decimal number. New
+values must be assigned to such parameters  with the 8fPIN2A0I8bO1CN0E1ChangeValue command. 
+
+The parameters included in the template are: 
+8fPIN2A0\8bO2JN0E18fPJN2A0[8bO4EN0E1The width of the indentation at the beginning of a paragraph.8bN1AN0E2parindent8fPJN2A0[8bOdPN0E1When the 8fPIN2A0I8bOMN0E1fleqn class option is selected displayed formulae are 
+aligned at the left-hand side  of the page instead of being centred. The distance
+at which they are aligned from the left margin is stored in this variable.8bN1BN0E2mathindent8fPJN2A0[8bO7LN0E1When the 8fPIN2A0I8bO1DN0E1OpenBibStyle class option is selected, the indented lines in
+the reference start at a distance 8fPIN2A0I8bO1AN0E1bibindent from the left margin.8bN1AN0E2bibindent8fPJN2A0[8bO2JN0E1The width of the text on the page.8bN1AN0E2textwidth8fPJN2A0[8bO2KN0E1The height of the text on the page.8bN1BN0E2textheight8fPJN2A0[8bO4NN0E1The extra vertical space before a  paragraph. This is a rubber length.8bNON0E2parskip8fPJN2A0[8bO8IN0E1The minimum separation between the baseline of one line to the
+baseline of the next line in a paragraph. This is a rubber length.8bN1DN0E2baselineskip8fPJN2A0[8bO9KN0E1The height of an invisible vertical line  placed at the start of every
+footnote  so that there is vertical space between it and the preceding text.8bN1CN0E2footnotesep8fPJN2A0[8bO22DN0E1Every sectioning type is assigned a level number whereby the
+lower the value the more important it is.  The value in the counter 
+8fPIN2A0I8bO1CN0E1secnumdepth is the level number of the least significant sectioning type which
+will be numbered in the output.  The level numbers of the various sectioning
+types are as follows:
+
+In the report and book classes, parts are level 8fPJN0A0-1 and chapters are level 0. In the
+article class,  parts are level 0.  (Chapters are not allowed in the article class.) 
+In all the classes, sections are level 1, subsections level 2 and so on.8bN1CN0E2secnumdepth8fPJN2A0[8bObLN0E1The value in the counter  8fPIN2A0I8bOPN0E1tocdepth is the level number of the least
+significant sectioning type which will be entered into the table of contents. See
+8fPIN2A0I8bO1CN0E1secnumdepth for an explanation of level number.8bNPN0E2tocdepth8fPJN2A0[8bO1NN0E1The width of the page.8bN1AN0E2pagewidth8fPJN2A0[8bO1ON0E1The height of the page.8bN1BN0E2pageheight8fPJN2A0[8bO3LN0E1The distance from the header to the top of the page.8bN1AN0E2topmargin8fPJN2A0[8bO2AN0E1The height of the header.8bN1BN0E2headheight8fPJN2A0[8bO4AN0E1The distance between the header and the body of the page.8bNON0E2headsep8fPJN2A0[8bOaBN0E1The extra space added to the left of the body of the text on all
+pages if the class option 8fPIN2A0I8bOON0E1OneSide is in force and on odd numbered pages for
+the 8fPIN2A0I8bOON0E1TwoSide class option.8bN1EN0E2oddsidemargin8fPJN2A0[8bO8AN0E1The extra space added to the right of the body of the text   on even
+numbered pages  when the class option 8fPIN2A0I8bOON0E1TwoSide is in force.8bN1FN0E2evensidemargin8fPJN2A0[8bOaFN0E1This is the width of a line in the current environment. In a normal
+paragraph this will be 8fPIN2A0I8bO1AN0E1textwidth but in other places, such as in a list, it may be
+something else.8bN1AN0E2linewidth8fPJN2A0[8bO5CN0E1The width of the space between the two columns of text in the
+8fPIN2A0I8bO1AN0E1TwoColumn page style.8bN1AN0E2columnsep8fPJN2A0[8bO8ON0E1The width of a vertical line between the two columns of text in the
+8fPIN2A0I8bO1AN0E1TwoColumn page style. The default  length is zero, 8fPHN2A0j the line is invisible.8bN1EN0E2columnseprule8fPJN2A0[8bO9IN0E1The distance from the baseline of the last line of the  body of the page to the
+base line of the last line of  the foot. This is a rubber length.8bNPN0E2footskip8fPJN2A0[8bO4FN0E1The minimum vertical space allowed between two marginal
+notes.8bN1EN0E2marginparpush8fPJN2A0[8bO4PN0E1The horizontal distance between the body of the page to a marginal
+note.8bN1DN0E2marginparsep8fPJN2A0[8bO2EN0E1The width of a marginal note.8bN1FN0E2marginparwidth8fPJN2A0[8bO8IN0E1The extra vertical space above a long displayed formulae
+except when the 8fPIN2A0I8bOMN0E1fleqn class option has been selected. It is a rubber length.8bN1HN0E2abovedisplayskip8fPJN2A0[8bO8IN0E1The extra vertical space below a long displayed formulae
+except when the 8fPIN2A0I8bOMN0E1fleqn class option has been selected. It is a rubber length.8bN1HN0E2belowdisplayskip8fPJN2A0[8bO8GN0E1The extra vertical space above and below a displayed formulae when the
+8fPIN2A0I8bOMN0E1fleqn class option has been selected. It is a rubber length.8bNNN0E2topsep8fPJN2A0[8bO8JN0E1The extra vertical space above a short displayed
+formulae except when the 8fPIN2A0I8bOMN0E1fleqn class option has been selected. It is a rubber
+length.8bN1MN0E2abovedisplayshortskip8fPJN2A0[8bO8JN0E1The extra vertical space below a short displayed
+formulae except when the 8fPIN2A0I8bOMN0E1fleqn class option has been selected. It is a rubber
+length.8bN1MN0E2belowdisplayshortskip8fPJN2A0[8bO30HN0E1The distance between the baselines of consecutive lines is
+determined by 8fPIN2A0I8bO1DN0E1baselineskip. This is reset at each change of font size  to its
+default value multiplied by the value of  8fPIN2A0I8bO1GN0E1baselinestretch. The default value of
+the latter is 1.  A new value  can be assigned to it with the 8fPIN2A0I8bO1DN0E1Change value
+command and  the new interline spacing will come into effect after the next
+change of font size command. Unfortunately you can not insert this command
+into your document with the 8fPIN2A0I8bOPN0E1TextSize template from group 8fPIN2A0K8bOMN0E1Fonts. Instead,
+use the  pure 8fPHN2A0V command for the font size you require even if you are
+already using that size of font. That is, enter one of 8fPIN2A0r8bOIN0E1\8fPIN2A0H8bOLN0E1tiny, 8fPIN2A0r8bOIN0E1\8fPIN2A0H8bO1BN0E1scriptsize, 
+8fPIN2A0r8bOIN0E1\8fPIN2A0H8bO1DN0E1footnotesize, 8fPIN2A0r8bOIN0E1\8fPIN2A0H8bOMN0E1small, 8fPIN2A0r8bOIN0E1\8fPIN2A0H8bO1BN0E1normalsize, 8fPIN2A0r8bOIN0E1\8fPIN2A0H8bOMN0E1large, 8fPIN2A0r8bOIN0E1\8fPIN2A0H8bOMN0E1Large,
+8fPIN2A0r8bOIN0E1\8fPIN2A0H8bOMN0E1LARGE,  8fPIN2A0r8bOIN0E1\8fPIN2A0H8bOLN0E1huge or 8fPIN2A0r8bOIN0E1\8fPIN2A0H8bOLN0E1Huge followed by a space. The interline spacing
+used for the whole of a  paragraph of text is that in force at the end of the
+paragraph.8bN1GN0E2baselinestretch8fPJN2A0[8bObGN0E1All positions and lengths in a picture are given in terms
+of the picture unit length. By default this is 1 point. Its value can be changed
+with either the 8fPIN2A0I8bO1AN0E1SetLength or the 8fPIN2A0I8bO1CN0E1AddToLength commands.8bN1ON0E2unitlength in a picture8fPJN2A0[8bO7JN0E1The length of vertical space inserted into a document by
+version 8fPIN2A0I8bO1CN0E1Small space of template 8fPIN2A0I8bOPN0E1Vertical (group 8fPIN2A0K8bOON0E1Spacing). It is a rubber
+length.8bN1GN0E2smallskipamount8fPJN2A0[8bO7JN0E1The length of vertical space inserted into a document by version
+8fPIN2A0I8bO1DN0E1Medium space of template 8fPIN2A0I8bOPN0E1Vertical (group 8fPIN2A0K8bOON0E1Spacing). It is a rubber
+length.8bN1EN0E2medskipamount8fPJN2A0[8bO7JN0E1The length of vertical space inserted into a document by version
+8fPIN2A0I8bO1AN0E1Big space of template 8fPIN2A0I8bOPN0E1Vertical (group 8fPIN2A0K8bOON0E1Spacing). It is a rubber length.8bN1EN0E2bigskipamount
+ 8fPJN2A0?8bOPN0E1Examples8bNIN0E28fPHN2A0B
+  8fPIN2A0O8bO1AN0E1To length 8fPHN2A0t8fPIN2A0H8bO1BN0E1mathindent8fPHN2A0s8fPIN2A0O8bOKN0E1add8fPHN2A0t8fPIN2A0H8bOLN0E1-3mm8fPHN2A0s8fPHN2A0](This decreases the length of 8fPIN2A0O8bO1BN0E1mathindent by 3mm.)
+
+8fPIN2A0O8bO1CN0E1Set counter8fPHN2A0t8fPIN2A0H8bO1CN0E1secnumdepth8fPHN2A0s 8fPIN2A0O8bOJN0E1to 8fPHN2A0t28fPHN2A0s8fPHN2A0](All sectioning types from parts down to and including subsections are numbered.)
+
+8fPIN2A0O8bO1DN0E1Change value 8fPHN2A0t8fPIN2A0H8bO1GN0E1baselinestretch8fPHN2A0s 8fPIN2A0O8bOJN0E1to 8fPHN2A0t8fPIN2A0H8bOKN0E11.28fPHN2A0s8fPIN2A0r8bOIN0E1\8fPIN2A0H8bO1CN0E1normalsize 
+
+8fPIN2A0!8bO1LN0E1Parameters-OpsOnHelp8fPJN2A0?8bO1IN0E1Parameters-OpsOn 8bNIN0E28fPHN2A0D
+ This template can be used to alter the value of a length parameter, a counter or the
+value of a variable. The name of the length parameter, counter or variable is entered
+into the  place holder labelled ``name''. (If a system parameter is to be changed enter
+the appropriate version from template 8fPIN2A0I8bO1BN0E1Parameters.) Enter into the other place holder
+either the new value or the change in value required depending on the command
+chosen. Don't forget to enter the units with a length.  This may be  8fPIN2A0I8bOJN0E1cm, 8fPIN2A0I8bOJN0E1mm, 8fPIN2A0I8bOJN0E1in, 8fPIN2A0I8bOJN0E1em,
+8fPIN2A0I8bOJN0E1ex, 8fPIN2A0I8bOJN0E1pc or 8fPIN2A0I8bOJN0E1pt. A length parameter may be a rigid or a rubber length. The latter is one
+that  is allowed to vary slightly in value. 8fPHN2A0V length parameters which are rubber
+usually have 8fPIN2A0Q8bOLN0E1skip in their names. A change to a rubber length should  leave it as a
+stretchable length. The variation in a value  assigned to a rubber length  is indicated
+with 8fPIN2A0O8bOLN0E1plus and 8fPIN2A0O8bOMN0E1minus as shown in one of the examples.
+
+The 8fPIN2A0I8bO1CN0E1Set counter and 8fPIN2A0I8bO1FN0E1Add to counter commands are used to assign integer values.  If
+the variable can take a real value then the 8fPIN2A0I8bO1DN0E1Change value command must be used.
+The style parameter 8fPIN2A0O8bO1GN0E1baselinestretch is an example of such a variable.
+
+As well as the 8fPIN2A0I8bO1BN0E1Set length and 8fPIN2A0I8bO1EN0E1Add to length versions for assigning a value to a length
+parameter there are also versions, 8fPIN2A0I8bO1KN0E1Set length to width, 8fPIN2A0I8bO1LN0E1Set length to height and 8fPIN2A0I8bO1KN0E1Set
+length to depth. The  first of these, 8fPIN2A0I8bO1KN0E1Set length to width, will set the value of the
+parameter whose name is entered into the first place holder equal to the width
+necessary to typeset the contents of the second place holder. For example if the text in
+the second place holder would occupy 2 cm of space when processed by 8fPHN2A0V then
+the command would be assigned a value of 2 cm.
+
+The 8fPIN2A0I8bO1LN0E1Set length to height and 8fPIN2A0I8bO1KN0E1Set length to depth are similar. In the first case the
+command is set to the height the text in the second place holder reaches above the
+baseline. In the second case it is given the distance that the text descends below the base
+line.
+
+8fPJN2A0?8bOPN0E1Examples8bNIN0E28fPHN2A0B
+ 8fPIN2A0O8bO1AN0E1To length 8fPHN2A0t8fPIN2A0H8bO1BN0E1mathindent8fPHN2A0s8fPIN2A0O8bOKN0E1add8fPHN2A0t8fPIN2A0H8bOLN0E1-3mm8fPHN2A0s8fPHN2A0](This decreases the length of 8fPIN2A0O8bO1BN0E1mathindent by 3mm.)
+
+8fPIN2A0O8bO1CN0E1Set counter8fPHN2A0t8fPIN2A0H8bO1CN0E1secnumdepth8fPHN2A0s 8fPIN2A0O8bOJN0E1to 8fPHN2A0t28fPHN2A0s8fPHN2A0](All sectioning types from parts down to and including subsections are numbered.)
+
+ 8fPIN2A0O8bO1BN0E1Set length 8fPHN2A0t8fPIN2A0H8bOON0E1xlength8fPHN2A0s 8fPIN2A0O8bOJN0E1to 8fPHN2A0t8fPIN2A0H8bO1NN0E12cm plus 1mm minus 2mm8fPHN2A0s8fPHN2A0](8fPIN2A0H8bOON0E1xlength is a rubber length.)
+
+8fPIN2A0!8bO1EN0E1InputFileHelp8fPJN2A0?8bO1AN0E1InputFile8bNIN0E28fPHN2A0D
+ The 8fPIN2A0I8bO1FN0E1Input File 8fPHN2A0t8fPIN2A0K8bOIN0E1T8fPHN2A0s  or 8fPIN2A0I8bO1HN0E1Include File 8fPHN2A0t8fPIN2A0K8bOIN0E1T8fPHN2A0s  commands  can be used to insert  the
+contents  of file 8fPIN2A0K8bOIN0E1T into a document.
+
+There are important differences between these two commands. An 8fPIN2A0I8bO1FN0E1Input File 8fPHN2A0t8fPIN2A0K8bOIN0E1T8fPHN2A0s  
+command may appear in the preamble  and can also be placed within a file which is
+itself called by either an 8fPIN2A0I8bO1FN0E1Input File 8fPHN2A0t8fPIN2A0K8bOIN0E1T8fPHN2A0s  or 8fPIN2A0I8bO1HN0E1Include File 8fPHN2A0t8fPIN2A0K8bOIN0E1T8fPHN2A0s  command. An 8fPIN2A0I8bO1HN0E1Include
+File 8fPHN2A0t8fPIN2A0K8bOIN0E1T8fPHN2A0s  command, however, may neither be placed in the preamble nor within a file
+which is called by an 8fPIN2A0I8bO1HN0E1Include File 8fPHN2A0t8fPIN2A0K8bOIN0E1T8fPHN2A0s  command. More importantly the  text from a
+file 8fPIN2A0K8bOIN0E1T called with an 8fPIN2A0I8bO1HN0E1Include File 8fPHN2A0t8fPIN2A0K8bOIN0E1T8fPHN2A0s  command always begins on a new page and 
+the text following that in  file 8fPIN2A0K8bOIN0E1T will also start on a new page.  If these texts should both
+ begin on a new page, such as if  file 8fPIN2A0K8bOIN0E1T contains a complete chapter, then this isn't a
+problem but otherwise it could be.
+
+The advantage of using an 8fPIN2A0I8bO1HN0E1Include File 8fPHN2A0t8fPIN2A0K8bOIN0E1T8fPHN2A0s  command is if you wish to run  8fPHN2A0V
+on just a part of the document. This might be the case if a change has only been made
+to one  section for example.  To do so insert into the preamble the 8fPIN2A0I8bO1JN0E1Include Only Files
+command (which is a version of the 8fPIN2A0I8bOPN0E1Preamble template). Into  the place holder of this
+command type the names of all of the files called with an 8fPIN2A0I8bO1HN0E1Include File 8fPHN2A0t8fPIN2A0K8bOIN0E1T8fPHN2A0s command
+which you wish to process.  If the document is now processed by 8fPHN2A0V then all files
+called with an 8fPIN2A0I8bO1HN0E1Include File 8fPHN2A0t8fPIN2A0K8bOIN0E1T8fPHN2A0s command which do not appear in the 8fPIN2A0I8bO1JN0E1Include Only
+Files command will not be processed. 
+
+8fPIN2A0!8bO1DN0E1DocumentHelp8fPJN2A0?8bOPN0E1Document8bNIN0E28fPHN2A0E
+ 8fPIN2A0!8bO1JN0E1Begin/End(doc)Help8fPJN2A0?8bO1FN0E1Begin/End(doc)8bNIN0E28fPHN2A0D
+ The start and finish of the document proper must be marked by 8fPIN2A0I8bOMN0E1Begin and  8fPIN2A0I8bOKN0E1End
+commands respectively. 
+Insert the 8fPIN2A0I8bOMN0E1Begin command immediately after the preamble and insert the
+8fPIN2A0I8bOKN0E1End command at the end of the document. 
+
+8fPIN2A0!8bO1IN0E1Book-DocClassHelp8fPJN2A0?8bO1EN0E1Book-DocClass8bNIN0E28fPHN2A0D
+   A book is considered to consist of 8fPIN2A0Q8bO1DN0E1front matter, 8fPIN2A0Q8bO1CN0E1main matter and 8fPIN2A0Q8bO1CN0E1back matter. The
+front matter may include such things as a foreword, a table of contents and so forth. 
+The back matter may include a bibliography or an index. The main matter is the 
+actual contents of the book. It is usual to number the pages of the front matter with
+Roman numerals and the main and back matter with Arabic numerals.  It is also
+usual to omit the word ``Chapter'' in chapter headings in the front and back matter.
+To indicate to 8fPHN2A0V where each of these three parts  start, insert  commands
+8fPIN2A0I8bO1CN0E1FrontMatter, 8fPIN2A0I8bO1BN0E1MainMatter and 8fPIN2A0I8bO1BN0E1BackMatter at the appropriate places. If they are
+omitted everything is assumed to be main matter.
+
+8fPIN2A0!8bO1KN0E1Letter-DocClassHelp8fPJN2A0?8bO1GN0E1Letter-DocClass8bNIN0E28fPHN2A0D
+ This template is for use with the letter document class.  
+
+The first two versions of this template are for the sender's name and address. If these
+are the same for each letter then they can be inserted into the preamble. Otherwise
+insert them before the start of each letter. Into the place holder of each template insert 
+the appropriate text. If more than one line of text is to be  inserted then separate lines
+with either the symbols 8fPHN2A0u8fPHN2A0u entered directly from the keyboard or versions 8fPIN2A0I8bOON0E1newline or
+8fPHN2A0ISfea6afcJ   #1DC\\GVfea6afdD#!DC221G221G1HC{\mathsurround=0pt221G221G80K}GVfea6b5aN#!FC221GccB229E80PLC221G\verb*+ +GVfea6b6aE#!GC221G221GbfI8bOdfI1KC{\mathsurround=0pt221G221G80KbfI8bOdfI}8O from template 8fPIN2A0I8bO1AN0E1LineBreak.
+
+Next insert one of the two 8fPIN2A0I8bONN0E1Letter templates into the body of the document. The first
+will date the letter with the current date, the other contains a place holder with which
+to specify the date. If a different date is to be used for all the letters it is easier to insert
+version 8fPIN2A0I8bO1KN0E1Change today's date into the preamble  and use version 8fPIN2A0I8bO1KN0E1Letter-today's date
+for all your letters.
+
+The two 8fPIN2A0I8bONN0E1Letter templates  include place holders for the recipient's name and  address,
+the opening greeting, the letter itself, the closing words and a final one into which can
+be inserted one or more of versions 8fPIN2A0I8bO1GN0E1cc, encl and PS. If you don't need to enter any of
+templates 8fPIN2A0I8bO1GN0E1cc, encl and PS into your letter enter instead a space into the final place
+holder. As before multiple lines in the recipient's name and address must be separated
+from each other by either the symbols 8fPHN2A0u8fPHN2A0u entered directly from the keyboard or
+versions 8fPIN2A0I8bOON0E1newline or 8fPHN2A08O from template 8fPIN2A0I8bO1AN0E1LineBreak.
+
+The versions available are:
+8fPIN2A0\8bO1BN0E18fPJN2A0[8bO3CN0E1This statement can be put in the preamble. 8bN1HN0E2Sender's address8fPJN2A0[8bO3CN0E1This statement can be put in the preamble. 8bN1AN0E2Signature8fPJN2A0[8bOdKN0E1Use this template for a standard letter with the current date.
+Insert the opening greeting such as ``Dear Sir,'' into the 8fPIN2A0I8bOON0E1opening place holder
+and the closing words into 8fPIN2A0I8bOON0E1closing.  (Don't forget to include the punctuation.)
+8bN1KN0E2Letter-today's date8fPJN2A0[8bO6FN0E1As for template 8fPIN2A0I8bO1KN0E1Letter-today's date but there is an
+additional place holder in which to insert a different date.8bN1ON0E2Letter-not today's date8fPJN2A0[8bO6KN0E1Insert into the place holder the names of the people who are going to receive a
+copy of the letter.8bNJN0E2cc8fPJN2A0[8bO5FN0E1Insert into the place holder a list of the enclosures accompanying the letter.8bNLN0E2encl8fPJN2A0[8bOaGN0E1Insert into the place holder any text which is to follow the closing words. 
+Unlike its corresponding 8fPHN2A0V command it is not necessary to insert the
+P.S8fPHN2A0ISe1d0f04H   021CCPunctuation+Space1OCLatex2e#Punctuation+spaceHelpGVe1d0f04I'!DC. FC80J.\ 1NC.ccB 229E cbN  -not at end sentenceGVe1d0f04J'!DC? FC80J?\ 1MC?ccB 229EcbN  -not at end sentenceGVe1d0f04K'!DC! FC80J!\ 1NC!ccB 229E cbN  -not at end sentenceGVe1d0f04L'!DC: FC80J:\ 1NC:ccB 229E cbN  -not at end sentenceGVe1d0f04M'!DC. HC80J80J\@. 2PCbfIXdfI.ccB 229E cbN  -at end sentence (bfIXbfP=cap letter)dfPdfIGVe1d0f04N'!DC? GC80J\@? 1LCbfIXdfI?ccB 229EcbN  -at end sentenceGVe1d0f04O'!DC! GC80J\@! 1MCbfIXdfI!ccB 229E cbN  -at end sentenceGVe1d0f04P'!DC: GC80J\@: 1MCbfIXdfI:ccB 229E cbN  -at end sentenceGVe1d0f05A'!DC. EC80J. 2CC.ccB 229E cbN  -at end sentence(default)GVe1d0f05B'!DC? EC80J? 2CC.ccB 229E cbN  -at end sentence(default)GVe1d0f05C'!DC! EC80J! 2CC!ccB 229E cbN  -at end sentence(default)GVe1d0f05D'!DC: EC80J: 2CC:ccB 229E cbN  -at end sentence(default)GVe1d0f05E'!DC. FC80J80J. 2JCbfIXdfI.ccB 229E cbN  -not at end sentence(default)GVe1d0f05F'!DC? EC80J? 2ICbfIXdfI?ccB 229EcbN  -not at end sentence(default)GVe1d0f05G'!DC! EC80J! 2JCbfIXdfI!ccB 229E cbN  -not at end sentence(default)GVe1d0f05H'!DC: EC80J: 2JCbfIXdfI:ccB 229E cbN  -not at end sentence(default)9Ooneself. 8bNLN0E2P.S.8fPJN2A0[8bO1fGN0E1If mailing labels are required this command must be entered into the
+8fPIN2A0O8bOPN0E1preamble of the document.  8fPIN2A0K8bOON0E1Warning: There would appear to be a bug in the
+implementation of 8fPHN2A0T used by the author of this help file.  The bug
+manifests itself after processing a file with the makelabels option included.  On
+the second and subsequent occasions that a file is processed a missing 
+8fPIN2A0r8bOIN0E1\8fPIN2A0H8bO1GN0E1begin8fPHN2A0tdocument8fPHN2A0s is signalled while reading in the 8fPIN2A0H8bOKN0E1aux file.  The bug can
+even cause a system crash!  Use the makelabels option with care and at your
+own risk! 8bN1BN0E2makelabels8fPJN2A0[8bOcAN0E1Use this version in order to enter the name and
+address  for a mailing label when no letter is to be written. To produce any
+labels, version 8fPIN2A0I8bO1BN0E1makelabels must have been inserted into the preamble.8bN2CN0E2Mailing label but no letter8fPJN2A0[8bO6KN0E1Use this version if a date other than the current date is
+required and insert it into the preamble.8bN1KN0E2Change today's date
+ 8fPJN2A0?8bOON0E1Example8bNIN0E28fPHN2A0B
+  8fPIN2A0O8bONN0E1Letter[8fPIN2A0O8bO1EN0E111pt,A5 Paper]8fPHN2A0]8fPIN2A0O8bO1JN0E1Sender's address  8fPHN2A0]8fPIN2A0H8bO1HN0E18fPHN2A0t13,Grange Road,8fPHN2A0u8fPHN2A0u 8fPIN2A0H8bOPN0E1Helmond8fPHN2A0s8fPHN2A0]8fPIN2A0O8bO1AN0E1Signature8fPHN2A0]8fPIN2A0H8bO2DN0E18fPHN2A0tJ.Smith,8fPHN2A0u8fPHN2A0u Finance Officer8fPHN2A0s8fPHN2A0]8fPIN2A0O8bO1BN0E1makelabels8fPHN2A0]8fPIN2A0K8bOMN0E1Begin8fPHN2A0]8fPIN2A0O8bO1HN0E1Recipient's name8fPIN2A0H8bO2GN0E18fPHN2A0tR.Jones,8fPHN2A0u8fPHN2A0u Managing Director,8fPHN2A0s8fPHN2A0]8fPIN2A0O8bO1KN0E1Recipient's address8fPHN2A0]8fPIN2A0H8bO2FN0E18fPHN2A0t16, London Road,8fPHN2A0u8fPHN2A0u Eindhoven8fPHN2A0s8fPHN2A0]8fPIN2A0K8bO1LN0E1Begin text of letter8fPHN2A0]8fPIN2A0H8bO1EN0E1Hello Robert,8fPIN2A0^8bOKN0E13mm8fPIN2A0K8bOIN0E1[8fPIN2A0O8bO1FN0E1Body of letter8fPIN2A0K8bOIN0E1]8fPIN2A0^8bOKN0E13mm8fPIN2A0H8bOON0E1Goodbye8fPHN2A0]8fPIN2A0H8bO2FN0E1P.S. Give my regards to Ellen.8fPHN2A0]8fPIN2A0K8bO1JN0E1End text of letter
+
+ 
+
+8fPIN2A0!8bO1KN0E1Slides-DocClassHelp8fPJN2A0?8bO1GN0E1Slides-DocClass8bNIN0E28fPHN2A0D
+ This template is intended for use with the slides document class.
+
+ 8fPIN2A0\8bOON0E18fPJN2A0[8bO3LN0E1Insert the text for the slide into the place holder.8bNMN0E2Slide8fPJN2A0[8bO1aIN0E1Insert the text for the overlay into the place holder. To align the text on the
+overlay up  with that on the slide insert the text from the slide onto  the overlay
+as well but colored white to make it invisible.  The command for inserting text
+in color can be found in template 8fPIN2A0I8bOMN0E1Color. Overlays are numbered as follows:
+the first overlay to slide 8fPIN2A0O8bOIN0E1s is numbered 8fPIN2A0O8bOIN0E1s-a, the second overlay to slide 8fPIN2A0O8bOIN0E1s is
+numbered 8fPIN2A0O8bOIN0E1s-b and so on.8bNON0E2Overlay8fPJN2A0[8bO11KN0E1Insert the text for the note into the place holder. A note is inserted in the
+document immediately after the slide to which it pertains. Notes are
+numbered as follows: the first note referring to slide 8fPIN2A0O8bOIN0E1s is numbered 8fPIN2A0O8bOIN0E1s-1, the
+second note to  slide 8fPIN2A0O8bOIN0E1s is numbered 8fPIN2A0O8bOIN0E1s-2 and so on.8bNLN0E2Note8fPJN2A0[8bO27AN0E1This command is used if you wish to print only a selection of the
+slides. It must be  inserted into the 8fPIN2A0O8bOPN0E1preamble of the document. Enter into the
+place holder the numbers of the slides required in  ascending order. Each
+number in a list of numbers should be separated from the following number by
+a comma. It is always possible to specify a range of slide numbers. For example,
+1-5 would indicate that slides 1 to 5 inclusive should be printed. If any of the
+slides in the list has overlays then these will also be printed. The number of a 
+non-existent slide in the list does not cause an error, however an empty list
+does. 8bN1IN0E2Print only slides8fPJN2A0[8bO1dGN0E1This is similar to the 8fPIN2A0I8bO1IN0E1Print only slides version except it is for
+notes and not slides. Insert into the place holder the number(s) of the slides to
+which the note(s) pertain. For example, if you only wish to print the notes
+referring to slide 5 then insert into the place holder the number 5. Several
+numbers or ranges of numbers separated by commas can be entered into the
+place holder just as for version 8fPIN2A0I8bO1IN0E1Print only slides. E.g., 8fPIN2A0O8bO2BN0E1Print only notes to
+slides 8fPHN2A0t1, 13-158fPHN2A0s would print the notes for slides 1, 13, 14 and 15.8bN1HN0E2Print only notes8fPJN2A0[8bO18ON0E1This version can only be used if the class option 8fPIN2A0I8bOMN0E1Clock has been
+inserted into the 8fPIN2A0I8bO1EN0E1DocumentClass command. Enter the version into the
+document  immediately before or after a slide and enter the time allowed for
+the slide in   seconds into the place holder. The total elapsed time is printed at
+the bottom of the slide's accompanying note. This  command may not be
+inserted into a slide, a note or an overlay.8bN1GN0E2Time for  slide8fPJN2A0[8bO11JN0E1This version can only be used if the class option 8fPIN2A0I8bOMN0E1Clock has been
+inserted into the 8fPIN2A0I8bO1EN0E1DocumentClass command.  The total elapsed time can be
+reset with this command. Enter the new total time in seconds into the place
+holder.  This command may not be inserted into a slide, a note or an overlay.8bN1HN0E2Reset total time
+ 8fPIN2A0!8bO1IN0E1MiscellaneousHelp8fPJN2A0?8bO1EN0E1Miscellaneous8bNIN0E28fPHN2A0E
+ 8fPIN2A0!8bO1DN0E1AbstractHelp8fPJN2A0?8bOPN0E1Abstract8bNIN0E28fPHN2A0D
+ An abstract can be entered with this template except in a  book document class where
+it  will cause an error.  
+
+An abstract in an article document class will appear where it is positioned in the text 
+unless the 8fPIN2A0I8bO1AN0E1TitlePage option is inserted into the list of class options in which case it will
+appear on a page by itself.
+
+The 8fPIN2A0I8bO1AN0E1TitlePage option is the default for classes other than article.   The 8fPIN2A0I8bO1CN0E1NoTitlePage
+option should be chosen in the case of such classes if it is not desired to place the
+abstract on a separate page.
+
+8fPIN2A0!8bO1BN0E1AccentHelp8fPJN2A0?8bONN0E1Accent8bNIN0E28fPHN2A0D
+ This template can be used to enter accented characters. Click on the required version
+and then enter the appropriate character from the keyboard into the place holder. 
+Alternatively, set the target to  the character and then click on the required  version.
+There are also versions for a dotless i and a dotless j for use with the other versions of
+this template. Unfortunately, the dotless i and j have the same appearance on the
+screen regardless of the font chosen. The printed output should be okay.  
+
+8fPIN2A0!8bO1DN0E1AppendixHelp8fPJN2A0?8bOPN0E1Appendix8bNIN0E28fPHN2A0D
+ This template should be inserted into the document if there are any appendices. Insert
+it just before the start of the first appendix. This template does not itself produce any
+output but alters the output produced by the sectioning commands so that the
+appendices are numbered differently. Thus each appendix should begin with an
+appropriate sectioning command. In an article document class a section heading is
+labelled with a capital letter and in the report and book classes a chapter is labelled
+with a capital letter preceded by ``Appendix''.
+
+8fPJN2A0?8bOON0E1Example8bNIN0E28fPHN2A0B
+ 8fPIN2A0O8bOON0E1Article8fPHN2A0]8fPIN2A0G8bO1FN0E1Begin document8fPHN2A0]8fPHN2A0ISe1eb2a4M   %2NCDots        1CCLatex2eB#DotsHelpGVe1eb2a4N'"IC81K81L81M...81NHC\ldotsNClow ellipsisGVe1eb2a4O'"IC81K81L...81M81NHC\cdots1BCcentred ellipsisGVe1eb2a4P'"IC81K.81L.81M.81NHC\vdots1CCvertical ellipsisGVe1eb2a5A'"OC81K.  81L . 81M  .81NHC\ddots1CCdiagonal ellipsisGVe1eb2a5B'"GC81K81L.81M81NGC\cdotMCcentred dot¡ 8fPHN2A0]8fPIN2A0ISe196d0dO   *2JCTextSize1GCLatex2eA#TextSizeHelpGVe196d0dP%!FC80JccD8bO80PFCtinyGVe196d0eA%!FC80Jc4C8bO80PLCscriptsizeGVe196d0eB%!FC80Jc4B8bO80PNCfootnotesizeGVe196d0eC%!FC80Jc4A8bO80PGCsmallGVe196d0eD%!FC80Jc3P8bO80PLCnormalsizeGVe196d0eE%!FC80Jc3O8bO80PGClargeGVe196d0eF%!FC80Jc3N8bO80PGCLargeGVe196d0eG%!FC80Jc3M8bO80PGCLARGEGVe196d0eH%!FC80Jc3L8bO80PFChugeGVe196d0eI%!FC80Jc3K8bO80PFCHuge§8bOIN0E18fPIN2A0K8bO1BN0E1Appendices8fPHN2A0]8fPIN2A0§8bOIN0E18fPIN2A0G8bOON0E1Section8fPHN2A0tAbbreviations8fPHN2A0s8fPHN2A0]8fPHN2A0¡ 8fPHN2A0]8fPIN2A0G8bO1DN0E1End document
+
+Would generate
+
+8fPIN2A0§8bOIN0E18fPIN2A0K8bO1GN0E1A8fPHN2A0ISe1f47d6C   -22ECHorizontal                         1ICLatex2eB#HorizSpaceHelpGVe1f47d6D'!1FCbfMHSpacedfM {82Hlength82I8bO}LC\hspace{8bO}OCspace{length}GVe1f47d6E'!1HCbfMHspace*dfM {82Hlength82I8bO} MC\hspace*{8bO}2GCspace{length}* also at start/end lineGVe1f47d6F'!ICbfMHFilldfMHC\hfill1ECfill out with spaceGVe1f490cL'!JCbfMHFill*dfM1AC\hspace*{\fill}1FCfill out with space*GVe1f47d6G'!CC DC\,LCthin spaceGVe1f47d6H'!CC EC80J\ 1EC1 inter-word space*GVe1f47d6I'!DC  GC80J\ \ 1GC2  inter-word spaces*GVe1f47d6J'!GC     MC80J\ \ \ \ \ 1GC5  inter-word spaces*GVe1f47d6K'!LC          1GC80J\ \ \ \ \ \ \ \ \ \ 1GC10 inter-word spaces*GVe1f47d6L'!FC    LC\hspace{8bO}1DChide-space{length}GVe1f47d6M'!FC    MC\hspace*{8bO}1EChide-space{length}*GVe1f47d6N'!FC    HC\hfill1FChide-fill with spaceGVe1f4910N'!FC    1AC\hspace*{\fill}1KChide-fill out with space*³Abbreviations
+
+8fPIN2A0!8bO1MN0E1Bibliography(DIY)Help8fPJN2A0?8bO1IN0E1Bibliography(DIY)8bNIN0E28fPHN2A0D
+ Use this template  if you are planning to produce the list of references yourself. If you
+are going to use 8fPHN2A0S to do it then use templates 8fPIN2A0I8bO3BN0E1Bibliography, BibStyle, DataBase,
+DocTypes and 8fPIN2A0I8bO1AN0E1OptFields from the 8fPIN2A0K8bONN0E1BIBTEX group of templates. 
+
+Insert  version 8fPIN2A0I8bO1GN0E1TheBibliography of  template 8fPIN2A0I8bO1IN0E1Bibliography(DIY) at the position in your
+document where you want the list of references to appear. The list is labelled
+``References'' in an article and ``Bibliography'' in a report or book. Enter into the place
+holder called 8fPIN2A0I8bO1DN0E1widest label the longest label of a reference that will appear in the list. 
+
+ To insert a bibliographical item, move the cursor to the other  place holder and click on
+the second or third versions of the template. The difference between the two is how the 
+reference is labelled. With  version 8fPIN2A0I8bOON0E1BibItem  an item is labelled with a 202C on the screen
+and an integer in the output.  With  version  8fPIN2A0I8bO1FN0E1BibItem[label], the user enters the label
+into the leftmost place holder  and this appears both on the screen and in the final
+output. The text of the reference is typed into the place holder labelled ``reference''
+with both versions. The remaining place holder is for the key to the reference. (This is
+entered into the place holder of the 8fPIN2A0I8bOLN0E1Cite version from template 8fPIN2A0I8bO1FN0E1Ref(other doc) when
+referring the reader to this reference at places in the document.)  If another
+bibliography item is to be entered move the cursor is to a position just before or after a
+bibliographical item and repeat the process.  
+
+8fPJN2A0?8bOPN0E1Examples8bNIN0E28fPHN2A0B
+  8fPIN2A0§8bOIN0E18fPIN2A0K8bO1BN0E1References  {8fPIN2A0O8bO1DN0E1widest label Trees100}8fPHN2A0][Trees1] 8fPIN2A0K8bOIN0E18fPHN2A0tSJ95a8fPIN2A0K8bOKN0E18fPHN2A0s [ J. Smith and R. Jones, 8fPIN2A0O8bO1EN0E1British Trees, A. Publishing Co., 19958fPIN2A0K8bOIN0E1]8fPHN2A0][Trees2] 8fPIN2A0K8bOIN0E18fPHN2A0tSJ95b8fPIN2A0K8bOKN0E18fPHN2A0s [ J. Smith, R. Jones et al, 8fPIN2A0O8bO1FN0E1European Trees, A. Publishing Co.,
+19958fPIN2A0K8bOIN0E1]
+
+  8fPIN2A0!8bO1AN0E1ColorHelp  8fPJN2A0?8bOMN0E1Color8bNIN0E28fPHN2A0D
+ 8fPIN2A0K8bO6IN0E1Warning: The color package doesn't work on my installation so this
+template  has not been tested. This template only works if the 8fPIN2A0I8bOMN0E1color package is
+available and has been requested in the 8fPIN2A0O8bOPN0E1preamble. A description of the corresponding
+8fPHN2A0T commands can be found on pages 224--225 of the 8fPHN2A0T  manual. The
+colors black, white, red, green, blue, yellow, cyan and magenta are already defined by
+the color package. All other colors must be defined by the user. The versions available
+are:
+
+ 8fPIN2A0\8bOPN0E18fPJN2A0[8bO6PN0E1The text in the right most place holder is to be printed in the color
+entered in  the left place holder.8bN1BN0E2Color text8fPJN2A0[8bO6IN0E1Enter into the place holder the color in which the  text following the
+command is  to be printed.8bNMN0E2Color8fPJN2A0[8bO12JN0E1Enter into the leftmost of the two place holders the background color
+of a  box   (which includes a boarder of width 8fPIN2A0I8bOON0E1fboxsep)  into which the text
+entered in the other place holder is to be  printed. Parameter 8fPIN2A0O8bOON0E1fboxsep is stored
+as a version  of template 8fPIN2A0I8bO1EN0E1BoxParameters and its value can be changed with
+template 8fPIN2A0I8bO1HN0E1Parameters-OpsOn. 8bN1CN0E2Colored box8fPJN2A0[8bO10NN0E1This is the same as version 8fPIN2A0I8bO1BN0E1ColoredBox except that the box
+is also  boarded by a line of width 8fPIN2A0I8bOPN0E1fboxrule in the color which is specified by the 
+place holder labelled ``ColorFrame''.  Parameter 8fPIN2A0O8bOPN0E1fboxrule is stored as a
+version  of template 8fPIN2A0I8bO1EN0E1BoxParameters and its value can be changed with
+template 8fPIN2A0I8bO1HN0E1Parameters-OpsOn.8bN1JN0E2Framed colored box8fPJN2A0[8bO5KN0E1Enter into the place holder the background color
+required for  the pages of output.8bN1MN0E2Color background page8fPJN2A0[8bOcBN0E1Enter into the first place holder the name of the color to be
+defined.  The second parameter must be a number between 0 and 1 which
+specifies the lightness of grey required.  Black is 0.8bN1IN0E2Def8fPHN2A09O color 8fPHN2A0tgrey8fPHN2A0s8fPJN2A0[8bOfCN0E1Enter into the first place holder the name of the
+color to  be defined. The color itself is specified in terms of the colors red, green
+and blue. As for the 8fPIN2A0I8bO1HN0E1Def8fPHN2A09Ocolor 8fPHN2A0tgrey8fPHN2A0s  template enter a number between 0 and
+1 for each of the three basic colors.8bN2EN0E2Def8fPHN2A09O color 8fPHN2A0tred, green, blue8fPHN2A0s8fPJN2A0[8bO8GN0E1This is the same as version 
+8fPIN2A0I8bO2DN0E1Def8fPHN2A09Ocolor 8fPHN2A0tred, green, blue8fPHN2A0s except the new color is defined in terms of four
+colors, namely cyan, magenta, yellow and black.8bN3AN0E2Def8fPHN2A09O color 8fPHN2A0tcyan, magenta, yellow, black8fPHN2A0s
+ 8fPIN2A0!8bO1HN0E1ContentsListHelp8fPJN2A0?8bO1DN0E1ContentsList8bNIN0E28fPHN2A0D
+ This template can be used to generate a table of contents, list of figures and a list of
+tables. Insert versions 8fPIN2A0I8bO1GN0E1TableOfContents, 8fPIN2A0I8bO1EN0E1ListOfFigures and 8fPIN2A0I8bO1DN0E1ListOfTables at the
+position in the document where the lists are required. 
+
+Remember that more than one run of 8fPHN2A0T  is necessary to generate these lists. 
+During the first run, the entries for the lists are written to  files with extensions 8fPIN2A0H8bOKN0E1toc,
+8fPIN2A0H8bOKN0E1lof and 8fPIN2A0H8bOKN0E1lot respectively. These are then read in during  the following run and the
+lists generated.
+
+For each type of list there are three versions with which to enter information, namely,
+8fPIN2A0I8bO1HN0E1AddLine8fPHN2A0ISe1cf69dI   !2NCEllipsis    1FCLatex2e#EllipsisHelpGVe1cf69dJ#!CC202GIC\ldots »with no.,  8fPIN2A0I8bOPN0E1AddLine8fPHN2A0» and 8fPIN2A0I8bONN0E1AddTo8fPHN2A0» . The first two of these are used to
+enter a line of text to the list while the third is usually  used to enter formatting
+commands but can also be used for entering text. 
+
+The number to be inserted with the 8fPIN2A0I8bO1HN0E1AddLine8fPHN2A0»with no8fPHN2A09Oversion is not the page number
+(this is automatically generated) but the number of the figure or table,  or  the number
+of a section unit such as a chapter.  (Thus if an entry for the table of contents referring
+to chapter 2  is not to be entered automatically  but is to be entered instead using this
+version, then the number would be two.) The version for the  list of figures and that for
+the list of tables have one other place holder into which the line of text is entered.  The
+table of contents' version has, in addition to a place holder for the text,  one in which the
+type of the section heading must be entered. (In our example this would be chapter.)
+Either enter this directly from the keyboard or use template 8fPIN2A0I8bO1MN0E1ContentsList-SecTypes 
+(8fPIN2A0O8bOKN0E1not template 8fPIN2A0I8bO1GN0E1SectioningTypes).
+
+The 8fPIN2A0I8bOPN0E1AddLine8fPHN2A0» versions are used in the same way as the 8fPIN2A0I8bO1HN0E1AddLine8fPHN2A0»with no8fPHN2A09Oversions
+except there are no place holders in which to enter the numbers of figures, tables  or
+section units.
+
+The three  versions, 8fPIN2A0I8bOPN0E1AddToTOC, 8fPIN2A0I8bOPN0E1AddToLOF and 8fPIN2A0I8bOPN0E1AddToLOT,  can  be used  to  enter
+formatting commands to the 8fPIN2A0H8bOKN0E1toc, 8fPIN2A0H8bOKN0E1lof and 8fPIN2A0H8bOKN0E1lot files. No page numbers are
+generated with these versions.
+
+Some 8fPHN2A0V commands may not be inserted directly into the text parameter of the
+versions described above but must be protected. To do this either insert 8fPIN2A0r8bOIN0E1\8fPIN2A0H8bOON0E1protect or
+template 8fPIN2A0I8bOON0E1Protect before the command in question. Failure do so may cause the error
+message  8fPIN2A0H8bO2LN0E1! TEX capacity exceeded, sorry [...] to occur.
+
+The final version 8fPIN2A0I8bO1DN0E1Enter number can be used with 8fPIN2A0I8bOPN0E1AddLine8fPHN2A0» versions in which  the
+line should start with a number such as a table number. The version uses the  8fPHN2A0V
+8fPIN2A0r8bOIN0E1\8fPIN2A0H8bO1BN0E1numberline command to do this. It is not necessary  to protect this command  with
+template 8fPIN2A0I8bOON0E1Protect as this is included within  the definition of the  version itself.
+Normally it is not necessary to use  this version--- just use an  8fPIN2A0I8bO1HN0E1AddLine8fPHN2A0»with
+no8fPHN2A09Oversion instead.
+
+8fPJN2A0?8bOPN0E1Examples8bNIN0E28fPHN2A0B
+To enter a line into the table of contents for the section 2 of chapter 3 of a document 
+whose heading is ``British Trees'' we could use  version 8fPIN2A0I8bO1JN0E1AddLineTOCwith no8fPHN2A09Oto do
+this. Into the ``sec-type'' place holder we would enter ``section'', into the ``sec. no.''
+place holder we would enter ``3.2'' and into the ``text'' place holder ``British Trees''.
+
+8fPIN2A0O8bO1GN0E1Add line to TOC - 8fPHN2A0tSection8fPHN2A0s8fPHN2A0t3.28fPHN2A0s8fPHN2A0´8fPHN2A0´8fPHN2A0tBritish Trees8fPHN2A0s
+
+Alternatively we could have used version 8fPIN2A0I8bO1BN0E1AddLineTOC to do it. Again we would insert
+``section'' into the ``sec-type'' place holder. This time however we must enter the
+number and the heading British Trees into the ``text'' place holder. Use version 8fPIN2A0I8bO1DN0E1Enter
+number to enter the number. (It is not necessary to protect the  command as this is
+done within the  version definition.)
+
+8fPIN2A0O8bO1GN0E1Add line to TOC - 8fPHN2A0tSection8fPHN2A0s8fPHN2A0´8fPHN2A0´8fPHN2A0t8fPHN2A0t3.28fPHN2A0s British Trees8fPHN2A0s
+
+The index in the 8fPHN2A04 manual was produced with the aid of 8fPHN2A0R. To enter
+an entry for this into the table of contents we first entered version 8fPIN2A0I8bO1GN0E1ClearDoublePage
+from template 8fPIN2A0I8bO1AN0E1PageBreak in order to advance to the page where the index was to
+begin. We then entered a line into the table of contents with version 8fPIN2A0I8bO1BN0E1AddLineTOC,
+entering ``chapter'' into the ``sec type'' place holder and ``Index'' into the ``text'' place
+holder. These instructions were followed immediately by the command to insert the
+index at  the current position.
+
+8fPIN2A0O8bO1GN0E1ClearDoublePage8fPHN2A0]8fPIN2A0O8bO1GN0E1Add line to TOC - 8fPHN2A0tChapter8fPHN2A0s8fPHN2A0´8fPHN2A0´8fPHN2A0tIndex8fPHN2A0s8fPHN2A0]8fPIN2A0O8bO1IN0E1Insert index here
+
+If you know an easier way of doing this please let me know.
+
+Finally to insert 2em of extra vertical space between two entries in the table of contents 
+we could use  version 8fPIN2A0I8bOPN0E1AddToTOC as follows:
+
+8fPIN2A0O8bO1KN0E1Add to contents TOC - 8fPHN2A0t8fPIN2A0O8bOON0E1protect VSpace 8fPHN2A0t2 em8fPHN2A0s8fPHN2A0s
+
+Note that we must protect the  space command.
+
+8fPIN2A0!8bO2AN0E1ContentsList-SecTypesHelp8fPJN2A0?8bO1MN0E1ContentsList-SecTypes8bNIN0E28fPHN2A0D
+ This template is used to enter the type of sectioning command into versions of template
+8fPIN2A0I8bO1DN0E1ContentsList which are used to enter a line into the table of contents.
+
+8fPIN2A0!8bO1DN0E1EllipsisHelp8fPJN2A0?8bOPN0E1Ellipsis8bNIN0E28fPHN2A0D
+ An ellipsis is a sequence of three dots used to indicate omitted text.  Enter the template
+at the appropriate point in the text.  Note that this template should not be used in
+mathematical formulae.
+
+8fPIN2A0!8bO1CN0E1FillGapHelp8fPJN2A0?8bOON0E1FillGap8bNIN0E28fPHN2A0D
+ The three versions of this template can be used to fill out a line of output with either
+dots, white space or a continuous line. Unfortunately it is not possible to simulate this 
+on the screen. Instead a fixed length is filled with either dots, space  or a line and
+followed by a ``219N'' symbol. 
+
+8fPIN2A0!8bO1DN0E1FootnoteHelp8fPJN2A0?8bOPN0E1Footnote8bNIN0E28fPHN2A0D
+ This template has two versions. The first is used to enter or amend the footnote. The
+second can be used to hide its contents to improve the readability of the screen version.
+Its presence is then only indicated by a bold italic superscript 8fPIN2A0G8bOIN0E1f. The output generated
+by the two versions is identical.
+
+8fPIN2A0!8bO1IN0E1FrenchSpacingHelp8fPJN2A0?8bO1EN0E1FrenchSpacing8bNIN0E28fPHN2A0D
+ Usually 8fPHN2A0V inserts extra space after punctuation, for example, after a period
+marking the end of a sentence. If version 8fPIN2A0I8bO1FN0E1French spacing is inserted into the
+document  then, from then on, no extra space will be added after punctuation. To
+revert to the usual spacing insert version 8fPIN2A0I8bO1JN0E1Not French spacing at the appropriate
+place in the document. 
+
+8fPIN2A0!8bO1EN0E1HyphenateHelp8fPJN2A0?8bO1AN0E1Hyphenate8bNIN0E28fPHN2A0D
+ Usually 8fPHN2A0V breaks text into lines so that it is aligned at both the left and right
+margins. This occasionally results in a word being split between two lines. Part of the
+word and a hyphen are placed at the end of one line and the rest of the word at the
+start of the following line. 8fPHN2A0V has been given rules on how to hyphenate a word
+and usually does it correctly. If it does make a mistake this can be rectified with 
+template 8fPIN2A0I8bO1AN0E1Hyphenate.
+
+There are two possibilities. Either a global hyphenation instruction can be inserted into
+the preamble or a specific instruction can be given for each occurrence of each
+offending word.
+8fPIN2A0\8bOJN0E18fPJN2A0[8bO22BN0E1This command should be placed in the preamble. Insert the 
+word into the place holder with hyphens at each place at which it may be
+hyphenated. More than one word can be inserted into the place holder. In that
+case leave a space between words. Alternatively insert more than one instance
+of this version of the template into the preamble. Note that the hyphenation
+instruction will only be used to hyphenate that particular word.  It will not be
+used as a guide to the hyphenation of similar words.
+
+E.g.,8fPHN2A0µ8fPIN2A0O8bO1AN0E1Hyphenate in-ac-cu-ra-cy   in-ac-cu-rate8bN1FN0E2global command8fPJN2A0[8bO14JN0E1This command is used to tell 8fPHN2A0V where it may hyphenate a specific
+word in the text. Insert into the word at the place or places at which it may be
+hyphenated an instance of this version of the template. A centred dot will
+appear at each place on the screen. (These do not appear in the final output.)
+
+E.g.,   in22cFac22cFcu22cFrate8bNPN0E2specific
+8fPIN2A0!8bO1BN0E1IndentHelp8fPJN2A0?8bONN0E1Indent8bNIN0E28fPHN2A0D
+ The first version of this template, 8fPIN2A0I8bONN0E1Indent can be inserted at the start of a paragraph
+where for some reason  no indentation has been   placed   but at which it is  required.
+Similarly version 8fPIN2A0I8bOPN0E1NoIndent is placed at the start of a paragraph where no paragraph
+indentation is  required but indentation does appear in the output.
+
+8fPIN2A0!8bO1AN0E1LaTeXHelp8fPJN2A0?8bOMN0E1LaTeX8bNIN0E28fPHN2A0D
+ This template is used to enter the various names of elements of the 8fPHN2A0V system
+--- 8fPHN2A0V, 8fPHN2A0U, 8fPHN2A0T, 8fPHN2A0S and 8fPHN2A0R.
+
+8fPIN2A0!8bO1HN0E1Layout-c,l,rHelp8fPJN2A0?8bO1EN0E1Layout-c,l,r 8bNIN0E28fPHN2A0D
+ This template can be used to position text either centrally, flushleft or flushright on the
+page depending on which of the three versions is selected. Use version 8fPHN2A08O of  template
+8fPIN2A0I8bO1AN0E1LineBreak to indicate  to 8fPHN2A0V where it should split the text into lines.  8fPIN2A0Q8bO5KN0E1The text on
+the screen does not correspond to the layout of the text in the output. There is no difference
+between the three versions on the screen. Each appears as a displayed piece of text.
+
+8fPIN2A0!8bO1EN0E1LengthOpsHelp8fPJN2A0?8bO1AN0E1LengthOps8bNIN0E28fPHN2A0D
+ 8fPHN2A0V makes use of several length variables,  when producing the output. For
+example one variable contains the desired width of text on the page. Several others
+appear as versions in template 8fPIN2A0I8bO1BN0E1Parameters. The user may define his or her own
+length variables with version 8fPIN2A0I8bO1BN0E1New Length of this template. Insert into the place holder
+a name for the new variable. This must begin with a backslash (8fPHN2A0u) and naturally  may
+not be the name of an existing variable. If you accidently give it the name of an existing
+variable 8fPHN2A0V will output an error message.
+
+A value can be assigned to a length variable with the 8fPIN2A0I8bO1BN0E1Set Length version. Insert into
+the first place holder the name of the length variable and into the second its value. If
+this is an absolute length don't forget the units. These may be 8fPIN2A0I8bOJN0E1cm, 8fPIN2A0I8bOJN0E1mm, 8fPIN2A0I8bOJN0E1in, 8fPIN2A0I8bOJN0E1em, 8fPIN2A0I8bOJN0E1ex,
+8fPIN2A0I8bOJN0E1pc or 8fPIN2A0I8bOJN0E1pt.
+
+The third version 8fPIN2A0I8bO1EN0E1Add to length enables the user to add a value to its existing value. As
+before insert into the first place holder the name of the length variable. The change in
+value is entered into the second place holder.
+
+The 8fPIN2A0I8bO1KN0E1Set length to width will set the value of the variable whose name is entered into
+the first place holder equal to the width necessary to typeset the contents of the second
+place holder. For example if the text in the second place holder would occupy 2 cm of
+space when processed by 8fPHN2A0V then the variable would be assigned a value of 2 cm.
+
+The 8fPIN2A0I8bO1LN0E1Set length to height and 8fPIN2A0I8bO1KN0E1Set length to depth are similar. In the first case the
+variable is set to the height the text in the second place holder reaches above the
+baseline. In the second case, the distance that the text descends below the base line is
+given.
+
+8fPJN2A0?8bOON0E1Example8bNIN0E28fPHN2A0B
+8fPIN2A0O8bO1BN0E1New Length 8fPIN2A0r8bOIN0E1\8fPIN2A0H8bOPN0E1MyLength8fPHN2A0]8fPIN2A0O8bO1BN0E1Set Length 8fPIN2A0r8bOIN0E1\8fPIN2A0H8bOPN0E1MyLength 8fPIN2A0O8bOJN0E1to 8fPIN2A0H8bOKN0E15cm
+
+8fPIN2A0!8bO1EN0E1LineBreakHelp8fPJN2A0?8bO1AN0E1LineBreak8bNIN0E28fPHN2A0D
+ The user can insert  version 8fPIN2A0I8bO1BN0E1Line break from this template   into the text  forcing 
+8fPHN2A0V to break the text at the points at which it is placed. Another version of 
+template 8fPIN2A0I8bO1AN0E1LineBreak has a place holder with can take  the value  0, 1, 2, 3 or 4. The
+value   given indicates how strongly you wish the text to be broken at the point in
+question. 8fPIN2A0I8bO1EN0E1Line break[4] forces a break whereas 8fPIN2A0I8bO1EN0E1Line break[0] indicates no particular
+wish for a break. The only difference that  the presence 8fPIN2A0I8bO1EN0E1Line break[0] makes is that a
+break can be made at the point even if it is not allowed in normal circumstances, for
+example in an already hyphenated word. 
+
+The commands 8fPIN2A0I8bO1EN0E1No line break and 8fPIN2A0I8bO1HN0E1No line break[8fPIN2A0K8bOIN0E1T] are similar.  Versions
+8fPIN2A0I8bO1EN0E1No line break and 8fPIN2A0I8bO1HN0E1No line break[4] prohibit a line break at the places at which they
+are placed and 8fPIN2A0I8bO1HN0E1No line break[0] is the same as 8fPIN2A0I8bO1EN0E1Line break[0].
+
+Line breaks can also be made with the commands 8fPHN2A08O and 8fPIN2A0I8bOON0E1NewLine. These two
+commands, unlike the 8fPIN2A0I8bO1BN0E1Line break and 8fPIN2A0I8bO1EN0E1Line break[8fPIN2A0K8bOIN0E1T], do not force the line to be
+padded out with space so that it ends flush at the right-hand margin. Version 
+8fPIN2A08M8bOPN0E1[length] has a place holder for a length. This will cause vertical space of that length
+to be inserted in the output after the line break.
+
+Versions 8fPIN2A08M8bOIN0E1* and 8fPIN2A08M8bOON0E1*length are similar to versions 8fPHN2A08O and 8fPIN2A08M8bOPN0E1[length] except a page
+break may not be made at this point.
+
+The final two versions,  8fPIN2A08M8bONN0E1(hide) and 8fPIN2A08M8bO1FN0E1[length](hide) produce the same output as
+versions  8fPHN2A08O and 8fPIN2A08M8bOPN0E1[length]. They produce, however, only white space on the screen.
+These are for intended to be used only when the appearance of  the screen version is
+important. For example when writing an on-line help file.
+
+[The 8fPHN2A0V generated by some of these versions includes a call to 8fPIN2A0r8bOIN0E1\8fPIN2A0H8bOMN0E1empty. This
+command does nothing but prevents an error occurring should the text following the
+template begin with an opening square bracket ( [ ).  The simple solution of entering
+matching curly brackets ( 8fPHN2A0t8fPHN2A0s ) causes  problems in a tabbing environment.]
+
+8fPIN2A0!8bO1HN0E1MarginalNoteHelp 8fPJN2A0?8bO1DN0E1MarginalNote8bNIN0E28fPHN2A0D
+ This template can be used to place a note in the margin of the document. There are 4
+versions available. Use an ``enter'' version in order to enter the text of the note and
+then if desired change the version to the corresponding ``hide'' one in order to improve
+the appearance of the document on the screen.
+
+With two-sided printing a marginal note is placed by default in the right-hand
+margin on odd numbered pages and in the left margin on even numbered pages. For
+one-sided printing a marginal note is placed in the right-hand margin. If you wish to
+override these defaults and use the other margin then insert version 
+8fPIN2A0I8bO1HN0E1notdefaultmargin into your document. To revert to the default convention again insert
+version 8fPIN2A0I8bO1EN0E1defaultmargin into your document.
+
+With two-column printing the nearest page margin is always used. (You can not
+override this default.)
+
+If you wish the marginal note to be different depending on whether it's placed in a left
+or right margin then use a version with  ``8fPIN2A0I8bO2NN0E1different for left or right hand pages'' in its
+name. Note that the text is positioned flush left in the margin. Thus if you wish the note
+to be close to the text on a left hand page you should enter space at the start of the place
+holder labelled ``note  if LHS page''. This can be done with version 8fPIN2A0I8bO1LN0E1fill out with space* 
+of template 8fPIN2A0I8bO1BN0E1Horizontal (group 8fPIN2A0K8bOON0E1Spacing) as shown in the example.  
+
+ 8fPJN2A0?8bOON0E1Example8bNIN0E28fPHN2A0B
+8fPIN2A0O8bO1EN0E1marginal note 8fPIN2A0K8bOIN0E18fPHN2A0t8fPIN2A0O8bONN0E1HFill* 8fPIN2A0I8bO1IN0E1note if left page8fPIN2A0K8bOKN0E18fPHN2A0s 8fPHN2A0t8fPIN2A0I8bO1JN0E1note if right page8fPIN2A0K8bOIN0E18fPHN2A0s
+
+
+8fPIN2A0!8bO1GN0E1Page-BottomHelp8fPJN2A0?8bO1DN0E1Page-Bottom 8bNIN0E28fPHN2A0D
+
+8fPIN2A0\8bOJN0E18fPJN2A0[8bO1aEN0E1If this version is inserted into the document 8fPHN2A0V will
+make the height of text on each page the same.  To do this it may spread out the
+text on the page by, for example, inserting extra vertical space between
+paragraphs or around equations. 
+
+This is the default when the 8fPIN2A0I8bOON0E1TwoSide class option has either (i) been selected 
+or (ii) is the default for the document (8fPHN2A0j a book) and the 8fPIN2A0I8bOON0E1OneSide class 
+option has  not been selected.8bN1MN0E2Flush Bottom to Pages8fPJN2A0[8bO11ON0E1When filling pages 8fPHN2A0V will not force the height of
+text on each page to be exactly the same. 
+
+This is the default when the 8fPIN2A0I8bOON0E1OneSide class option has  either (i) been selected
+or (ii) is the default for the document (8fPHN2A0j an article or report) and the
+8fPIN2A0I8bOON0E1TwoSide class option has  not been selected.8bN1NN0E2Ragged Bottom to Pages
+
+8fPIN2A0!8bO1EN0E1PageBreakHelp8fPJN2A0?8bO1AN0E1PageBreak8bNIN0E28fPHN2A0D
+ Sometimes 8fPHN2A0V can not find a good place at which to split the text into pages. This
+usually results in an insufficiently full page and an 8fPIN2A0H8bO1AN0E1Underfull 8fPIN2A0r8bOIN0E1\8fPIN2A0H8bOLN0E1vbox warning
+message  being output.   You can insert the command  8fPIN2A0I8bO1CN0E1NoPageBreak  to (try) to
+prohibit a page break or 8fPIN2A0I8bO1AN0E1PageBreak to cause a page break.  There are also versions of
+these two commands with a place holder. This  can take  the value  0, 1, 2, 3 or 4. The
+value   given indicates how strongly you  wish the page to (or not to) be broken at the
+point in question.  8fPIN2A0I8bO1DN0E1PageBreak[4] is the same as 8fPIN2A0I8bO1AN0E1PageBreak and forces a break
+whereas  8fPIN2A0I8bO1DN0E1PageBreak[0] indicates no particular wish for a break. 
+
+If the 8fPIN2A0I8bO1AN0E1PageBreak or 8fPIN2A0I8bO1CN0E1NoPageBreak are positioned between two paragraphs then they
+apply to that point. Otherwise they apply to the end of the  line in the 8fPHN2A0V output in
+which they are placed.
+
+You can also increase the height of text allowed on a page in order to put more text
+than is normal on the page. To do this, insert the  command 8fPIN2A0I8bOON0E1Enlarge  above the point
+where 8fPHN2A0V starts a new page. Set the place holder to a suitable length and then
+insert command 8fPIN2A0I8bOON0E1NewPage at the point where you want a page break. The version
+8fPIN2A0I8bO1JN0E1Enlarge 8fPHN2A0y Compress is similar excepts it also tries reduce the  amount of vertical
+space on the page (8fPHN2A0l around equations) wherever possible. 
+
+You can also cause a page break by inserting the command 8fPIN2A0I8bOON0E1NewPage at the desired
+place. Unlike the 8fPIN2A0I8bO1AN0E1PageBreak command the 8fPIN2A0I8bOON0E1NewPage command will not cause the 
+text on the page to be spaced out to reach the bottom of the page.
+
+The 8fPIN2A0I8bO1AN0E1ClearPage version is similar to version 8fPIN2A0I8bOON0E1NewPage but in addition to starting a
+new page it will cause any figures or tables which have not been output to be output
+immediately on one or more pages containing no text.
+
+The 8fPIN2A0I8bO1GN0E1ClearDoublePage version is similar to the 8fPIN2A0I8bO1AN0E1ClearPage version. If the 8fPIN2A0I8bOON0E1TwoSide
+class option is either a default of the document class or has been selected, then this
+version will also ensure that the next page of text is a right hand page by, if necessary, 
+outputting a blank page.
+
+The final two versions 8fPIN2A0I8bO1BN0E1One column and 8fPIN2A0I8bO1BN0E1Two column will execute a 8fPIN2A0I8bO1AN0E1ClearPage
+command and then proceed typesetting with one or two columns of text per page
+respectively.
+
+If the 8fPIN2A0I8bO1AN0E1TwoColumn class option has been selected the 8fPIN2A0I8bO1AN0E1PageBreak and 8fPIN2A0I8bOON0E1NewPage 
+commands will start a new column not a new page.
+
+Inserting more than one 8fPIN2A0I8bOON0E1NewPage or 8fPIN2A0I8bO1AN0E1ClearPage version at the same place in the
+document will not produce blank pages. The extra commands will be ignored.
+
+8fPJN2A088bOON0E1Summary8bNIN0E28fPHN2A0C
+8fPIN2A0\8bO1CN0E18fPJN2A0[8bOeNN0E18fPHN2A0V will start a new page immediately if this command is placed
+between paragraphs. Otherwise it will start a new page after the current line
+(in  the output) is completed. The text will be stretched to reach the bottom of
+the page.8bN1BN0E2Page break8fPJN2A0[8bO6LN0E1As for  version 8fPIN2A0I8bO1BN0E1Page break but the user can indicate
+how  strongly  he or she wishes a page break to be made.8bN2DN0E2Page break 8fPHN2A0ISe06464cD   "0GVe06464cJ#!CC[EC{[}GVe06464dC#!CC]EC{]}½0, 1, 2, 3 or 48fPHN2A0¼8fPJN2A0[8bO6DN0E1The user can use this to try to prevent 8fPHN2A0V making a page
+break at this point. (May not work.)8bN1EN0E2No page break8fPJN2A0[8bO5MN0E1The user can indicate how strongly he or she does
+not wish a page break at this point8bN2GN0E2No page break 8fPHN2A0½0, 1, 2, 3 or 48fPHN2A0¼8fPJN2A0[8bO7LN0E1The user instructs 8fPHN2A0V to enlarge the page by an amount in order to
+improve the splitting of the document into pages. 8bNON0E2Enlarge8fPJN2A0[8bOaNN0E1The user instructs 8fPHN2A0V to economise on vertical space
+where possible and to enlarge the page by an amount in order to improve the
+splitting of the document into pages. 8bN1JN0E2Enlarge 8fPHN2A0y Compress8fPJN2A0[8bO6ON0E1A new page will be started immediately. The text will not be stretched to
+reach the bottom of the page.8bNPN0E2New page8fPJN2A0[8bO6PN0E1As 8fPIN2A0I8bOON0E1NewPage but any figures or tables still to be output will be output
+onto separate pages containing no text.8bN1BN0E2Clear page8fPJN2A0[8bO8NN0E1As 8fPIN2A0I8bO1BN0E1Clear page but if two sided printing is in effect then a
+blank page will be output if necessary so that the next page is a right-hand
+page. 8bN1IN0E2Clear double page8fPJN2A0[8bO5DN0E1As 8fPIN2A0I8bO1BN0E1Clear page but the typesetting will proceed with one column of 
+text to the page. 8bN1BN0E2One column8fPJN2A0[8bO5DN0E1As 8fPIN2A0I8bO1BN0E1Clear page but the typesetting will proceed with two columns of
+text to the page. 8bN1BN0E2Two column
+
+
+
+
+ 8fPIN2A0!8bO1KN0E1Page-RaggedEdgeHelp8fPJN2A0?8bO1GN0E1Page-RaggedEdge8bNIN0E28fPHN2A0D
+
+8fPIN2A0\8bOKN0E18fPJN2A0[8bO11ON0E1When filling pages 8fPHN2A0V will not force the height of text on
+each page to be exactly the same. 
+
+This is the default when the 8fPIN2A0I8bOON0E1OneSide class option has  either (i) been selected
+or (ii) is the default for the document (8fPHN2A0j an article or report) and the
+8fPIN2A0I8bOON0E1TwoSide class option has  not been selected.8bN1EN0E2Ragged bottom8fPJN2A0[8bO13GN0E1If this version is inserted into the document  8fPHN2A0V will not fill
+out the text on each line where necessary with space in order that the text
+reaches both the left and right margins. Instead it  only ensures that the text
+ends flush at the right margin. Thus the text will be ``ragged'' at the left
+margin.8bN1HN0E2Ragged left edge8fPJN2A0[8bO6HN0E1This is similar to 8fPIN2A0I8bO1HN0E1Ragged left edge except the text is flush at
+the left margin and ragged at the right margin.8bN1IN0E2Ragged right edge
+ 8fPIN2A0!8bO1BN0E1PoetryHelp8fPJN2A0?8bONN0E1Poetry8bNIN0E28fPHN2A0D
+ This template can be used to display a poem (or something similar). Insert the first
+version (8fPIN2A0I8bOLN0E1Poem) into the document and enter the text into its place holder.  Either
+leave a blank line between verses or insert at the end of the last line of each verse
+(except the last verse) version 8fPIN2A0I8bO1DN0E1end of verse. Mark the ends of the other lines of each
+verse by one of the 8fPIN2A0I8bOPN0E1new line versions. The second of these prohibits a page break at
+that line break.
+
+8fPIN2A0!8bO1CN0E1ProtectHelp8fPJN2A0?8bOON0E1Protect8bNIN0E28fPHN2A0D
+  8fPHN2A0V commands are either robust or fragile. In certain circumstances ---see the 
+8fPHN2A0V manual for more information---  a fragile command must be ``protected''.
+Insert this version immediately before fragile commands when necessary.
+
+8fPIN2A0!8bO1MN0E1Punctuation+spaceHelp8fPJN2A0?8bO1IN0E1Punctuation+Space8bNIN0E28fPHN2A0D
+  8fPHN2A0V inserts extra space at the end of each sentence. As each  period may not be
+marking the end of a sentence it decides on the purpose of the period according to the
+following rules. (The ``8fPIN2A0ISe196cf2N   $2JCMathSize1GCLatex2eA#MathSizeHelpGVe196cf2O'"ECcbN8fO80P1BC\displaystyle{8fO}1BCdisplaystyle cbN221BccBGVe196cf2P'"CC8fOOC\textstyle{8fO}MCtextstyle 221BGVe196cf3A'"ECccA8fO80P1AC\scriptstyle{8fO}1BCscript style ccAncbOGVe196cf3B'"ECccB8fO80P1GC\scriptscriptstyle{8fO}1HCscriptscript style ccBncbN¿8fOIN0A1229E'' symbol indicates a space.)
+8fPIN2A0\8bOJN0E18fPJN2A0[8bO5KN0E1A period followed by a space and not preceded by a capital letter is marking the
+8fPIN2A0O8bO1IN0E1end of a sentence.8bNKN0E2a.8fPIN2A0¿8fOIN0A1229E8fPJN2A0[8bO6GN0E1A period followed by a space and preceded by a capital letter is marking an
+abbreviation and 8fPIN2A0O8bO2AN0E1not the end of a sentence.8bNKN0E2A.8fPIN2A0¿8fOIN0A1229E
+Character sequences which do not satisfy these rules are indicated as follows:
+8fPIN2A0\8bOJN0E18fPJN2A0[8bO6BN0E18fPIN2A0O8bO1NN0E1Not at end of sentence. Either insert ``8fPIN2A0r8bOIN0E1\'' before the space or insert the period
+and the space with version 8fPIN2A0I8bO1ON0E1.8fPIN2A0¿8fOIN0A1229E -not at end sentence.8bNKN0E2a.8fPIN2A0¿8fOIN0A1229E8fPJN2A0[8bO6DN0E18fPIN2A0O8bO1JN0E1At end of sentence. Either insert ``8fPIN2A0r8bOIN0E1\@'' before the period or insert the period
+and the space with version 8fPIN2A0I8bO1LN0E1X.8fPIN2A0¿8fOIN0A1229E -at end sentence.8bNKN0E2A.8fPIN2A0¿8fOIN0A1229E
+The same problem occurs with a space after a question mark (``?''), after an
+exclamation mark (``!'') and after a colon (``:''). Thus there are  versions available for
+each of these characters too.
+
+8fPIN2A0!8bO1FN0E1QuotationsHelp8fPJN2A0?8bO1BN0E1Quotations8bNIN0E28fPHN2A0D
+ There are two versions of this template.  Use the first for quotations extending over
+more than one paragraph.  Otherwise use the second.  8fPHN2A0V will display quoted
+material.  That is, the text begins on a new line and the left and right margins are
+indented relative to the main text.
+
+8fPIN2A0!8bO1JN0E1Ref(other doc)Help8fPJN2A0?8bO1FN0E1Ref(other doc)8bNIN0E28fPHN2A0D
+ To cite another publication in the text of your document select  8fPIN2A0I8bO1FN0E1Cite[document]  from
+this template  and insert  the search key of the required reference into the  place
+holder.   (The search key given to each  reference in the database must be unique.)   If
+several documents are to  be cited separate the search keys for the documents with
+commas. 
+
+A comment  can be added  to a  citation with  version 8fPIN2A0I8bO1ON0E1Cite[document, comment].
+
+If you do not wish to cite a publication within your text but do wish  a reference to it to
+appear in your bibliography select version  8fPIN2A0I8bO2JN0E1Item Not Cited-but in bibliography and
+insert its search key into the place holder.
+
+The final version of this template, 8fPIN2A0I8bO2IN0E1Put all entries into bibliography, will insert all
+references in the bibliography databases called, into the bibliography of your document.
+ 8fPJN2A0?8bOPN0E1Examples8bNIN0E28fPHN2A0B
+ 8fPIN2A0I8bO1GN0E1[RCB94a,RCB95c]8fPHN2A0]8fPIN2A0I8bO1KN0E1[RCB94a,pages 94-6]8fPHN2A0]8fPIN2A0I8bO1MN0E1NoCite[RCB93a,RCB93b]
+
+8fPIN2A0!8bO1KN0E1Ref(within doc)Help8fPJN2A0?8bO1GN0E1Ref(within doc)8bNIN0E28fPHN2A0D
+ Some of the versions of some templates include a place holder for a label. These enable
+the user to refer to a particular item without knowing how it will be numbered in the
+8fPHN2A0V output. An example of such a template is template 8fPIN2A0I8bO1FN0E1SectionHeading which
+includes versions with and without a place holder for a label. Suppose that a chapter
+heading was inserted into a document with a version with a place holder for a label
+and suppose that the label entered was  ``8fPIN2A0I8bO1AN0E1The input''. Then to refer to this chapter at
+other places in the document  select either version 8fPIN2A0I8bOMN0E1(Ref) or 8fPIN2A0I8bOKN0E1Ref and insert 8fPIN2A0I8bO1AN0E1The input
+into its place holder. Note that these versions only print the number of the sectioning
+unit and any text such as chapter must be inserted  by the user. 
+
+ A particular place in the book can be referenced by inserting a label  with the 8fPIN2A0I8bOMN0E1Label 
+version at the required point. If it has been placed in a numbered environment, such as
+an equation, then the number of that environment will by output by a  8fPIN2A0I8bOMN0E1(Ref) or 8fPIN2A0I8bOKN0E1Ref
+command. Otherwise it is the number of the sectioning unit it is in. As many templates
+have a version with a place holder for a label you are more likely to use version 8fPIN2A0I8bOMN0E1Label
+in combination with versions 8fPIN2A0I8bO1AN0E1(PageRef)  or 8fPIN2A0I8bOON0E1PageRef. They  output the number of the
+page in which  version 8fPIN2A0I8bOMN0E1Label has been inserted.  Note that these two versions do 8fPIN2A0O8bOKN0E1not
+output the words ``page'' or ``pages''.
+
+8fPJN2A0?8bOON0E1Example8bNIN0E28fPHN2A0B
+If (8fPIN2A0O8bOMN0E1Label 8fPIN2A0I8bOMN0E1Input) was inserted into the document at a position which is  on page two of
+the output, then page8fPHN2A0x8fPIN2A0I8bOMN0E1Input would output ``page 2''. The  8fPHN2A0x symbol (input from the
+keyboard and not from template 8fPIN2A0I8bO1DN0E1SpecialChars) prevents the 2  being placed on a
+different line from ``page'' in the output.
+
+8fPIN2A0 8bO1GN0E1ScriptsTextHelp8fPJN2A0?8bO1CN0E1ScriptsText8bNIN0E28fPHN2A0D
+This template can be used to append a sub and/or superscript of text to a piece of text. It
+is a modified version of the 8fPIN2A0I8bOON0E1Scripts template (group 8fPIN2A0K8bO1CN0E1Mathematics). The 8fPHN2A0V
+mathematical command for scripts is used but the  sub and/or superscript are entered
+into text place holders which have been placed in 8fPHN2A0V boxes. Thus they appear in
+the output in the same font as that used for the surrounding text instead of
+mathematical italics. If you wish a different font then use template 8fPIN2A0I8bO1AN0E1TextStyle on the
+script place holders in the usual way. Unlike the 8fPIN2A0I8bOON0E1Scripts template there is no place
+holder for the text that is to be scripted.
+
+ 8fPIN2A0 8bO2NN0E1SectionHeading and SectioningTypesHelp8fPJN2A0?8bO2JN0E1SectionHeading and SectioningTypes8bNIN0E28fPHN2A0D
+ These two templates can be used to insert a sectioning command into a document.
+
+First enter a version of template 8fPIN2A0I8bO1FN0E1SectionHeading at the required position in the
+document. There are eleven versions from which to choose. Use one of the first six (not
+a ``hide'' version) to enter the sectioning heading. Each of these six versions has a place
+holder for the type of sectioning command and a place holder for the text of the
+heading.  The principal place holder is the text of the heading.  (Thus if the target is set
+to some non-empty text when  the 8fPIN2A0I8bO1FN0E1SectionHeading template is selected the
+``heading'' place holder will be filled by the target text.)  Insert the type of sectioning
+command by clicking on a version from template 8fPIN2A0I8bO1GN0E1SectioningTypes.  
+
+Every sectioning type is assigned a level number whereby the lower the value the more
+important it is.  The heading of a sectioning command is entered into a table of contents
+provided the level number of the sectioning command is less than or equal to the value
+of parameter 8fPIN2A0O8bOPN0E1tocdepth. (See also the help for template 8fPIN2A0I8bO1BN0E1Parameters.  ``8fPIN2A0O8bOKN0E1toc'' is an
+abbreviation for ``table of contents''.) The heading  may also be used in the running
+head at the top of the page. If the heading is not suitable for these purposes   choose a
+version  of 8fPIN2A0I8bO1FN0E1SectionHeading with 8fPIN2A0I8bOMN0E1[toc] in its name and insert the required entry for
+the  table of contents and possibly the running head into the place holder provided.  For
+example, if your section heading is very long then enter an abbreviated form of the
+heading into the ``toc'' place holder. 
+
+If the level number of the sectioning command is less than or equal to the value of 
+variable 8fPIN2A0I8bO1CN0E1secnumdepth it will be automatically numbered unless a version of 
+8fPIN2A0I8bO1FN0E1SectionHeading with 8fPIN2A0I8bOPN0E1[no no.] is chosen. In this case not only will the section not be
+numbered but no entry for it will be written into a table of contents. If you don't wish it
+to be numbered but do wish it to be entered into the table of contents chose a version
+with 8fPIN2A0I8bOPN0E1[no no.] and then use a version from template 8fPIN2A0I8bO1EN0E1Contents-List to enter the entry
+into the table of contents.
+
+In order to be able to refer to the section choose a version with 8fPIN2A0I8bOMN0E1label in its name and
+insert a label into the place holder.  The section can be referenced by entering either
+version 8fPIN2A0I8bOKN0E1ref or 8fPIN2A0I8bOMN0E1(ref) from template 8fPIN2A0I8bO1GN0E1Ref(within doc) into the document with the  label 
+inserted into its place holder.
+
+The other five versions of this template are ``hide'' versions for five of the first six
+versions. The screen version of each of the five ``hide'' versions is the same as that of
+the first  version. That is, only the sectioning type and the heading are shown.  These
+five versions are used to improve the appearance of the document on the screen. The
+8fPHN2A0V output is  unchanged.
+
+8fPJN2A0?8bOON0E1Example8bNIN0E28fPHN2A0B
+ 8fPIN2A0§8bOIN0E18fPIN2A0G8bOON0E1Section[no no.]8fPIN2A0K8bOIN0E18fPHN2A0tBritish Trees8fPIN2A0K8bOIN0E18fPHN2A0s8fPHN2A0tlabel BT958fPHN2A0s
+
+8fPIN2A0!8bO2CN0E1SloppyLineBreaksAllowedHelp8fPJN2A0?8bO1ON0E1SloppyLineBreaksAllowed8bNIN0E28fPHN2A0D
+  The easiest way to overcome line break problems is to instruct 8fPHN2A0U to be ``sloppy''
+about where they occur.  To specify the scope of ``sloppy'' line breaks just set the target
+to the text that is to be set in a ``sloppy'' fashion and click on the template.
+
+8fPIN2A0!8bO1HN0E1SpecialCharsHelp8fPJN2A0?8bO1DN0E1SpecialChars8bNIN0E28fPHN2A0D
+  The ten characters
+8fPIN2A0ISfe9c0daL   !1NCdisplay textGVfe9c0daO#!GC
+82B8bO82C
+EC82B8bO82CÂ8bO1KN0E18fPHN2A0z8fPHN2A0´8fPHN2A0y8fPHN2A0´8fPHN2A0x8fPHN2A0´8fPHN2A0|8fPHN2A0´8fPHN2A0{8fPHN2A0´8fPHN2A0u8fPHN2A0´8fPHN2A0t8fPHN2A0´8fPHN2A0s8fPHN2A0´8fPHN2A0w8fPHN2A0´8fPHN2A0v
+are special characters in 8fPHN2A0V and so cannot normally be entered directly from the
+keyboard. They must be entered instead with template 8fPIN2A0I8bO1DN0E1SpecialChars. They will 
+probably all cause problems if they are  inadvertently inserted via the keyboard but
+some warrant a special mention.
+
+8fPIN2A0ISd555ce5O   (1JCManTableGVd555ce5J'!1EC
+81PbfH          dfH80B
+8bO82A
+2JC80J\begin{mantable}{20mm}80I8bO80I\end{mantable}1ACManTable (20mm)GVd555ce5K'!1CC
+81PbfH        dfH80B
+8bO82A
+2JC80J\begin{mantable}{15mm}80I8bO80I\end{mantable}1ACManTable (15mm)GVd555ce5L'!PC
+81PbfH    dfH80B 
+8bO82A
+2IC80J\begin{mantable}{8mm}80I8bO80I\end{mantable}PCManTable (8mm)GVd555ce5M'!JCbfO8bOdfO80C80E8bN80F
+NC80J\item[8bO] 8bN80I1BCItem (same line)GVd555ce5N'!KCbfO8bOdfO
+80C80E8bN80F
+NC80J\item[8bO] 8bN80I1BCItem (next line)GVfdb41f4K'!1GC
+81PbfH            dfH80B
+8bO82A
+2JC80J\begin{mantable}{25mm}80I8bO80I\end{mantable}1ACManTable (25mm)GVfc4a6c3E'!1JC
+81PbfH               dfH80B
+8bO82A
+2JC80J\begin{mantable}{30mm}80I8bO80I\end{mantable}1ACManTable (30mm)GVe113ff5L'!1MC
+81PbfH                  dfH80B
+8bO82A
+2JC80J\begin{mantable}{35mm}80I8bO80I\end{mantable}1ACManTable (35mm)Ê8bOKN0E18fPJN2A0Ç8bN10DN0E2This is used for adding comments. 8fPHN2A0V will ignore the 8fPHN2A0z and all the
+following characters up to and including the character marking the
+end of the line (in the 8fPIN2A0H8bOKN0E1tex file). 8fPHN2A0V will also ignore ordinary space
+at the start of the following line (in the 8fPIN2A0H8bOKN0E1tex file). 8bOIN0E18fPHN2A0z8fPJN2A0Ç8bN10AN0E2All 8fPHN2A0V commands begin with this character. Thus if the 8fPHN2A0u is
+followed by a sequence of characters that is not a defined 8fPHN2A0V
+command an error will be reported, but if it is followed by characters
+that do form a command then that command will be executed!8bOIN0E18fPHN2A0u8fPJN2A0Ç8bNbKN0E2This changes the mode either out of or into math mode depending on
+whether 8fPHN2A0V is or isn't currently in math mode. An unexpected
+change of font to italic type may be caused by this.8bOIN0E18fPHN2A0{
+
+8fPIN2A0!8bO1HN0E1SpecialCharsHelp8fPJN2A0?8bO1FN0E1SquareBrackets8bNIN0E28fPHN2A0D
+Some 8fPHN2A0V commands can take an optional argument. Such arguments are
+delimited by square brackets ( [  and  ] ). Occasionally a square bracket occurring in
+the document is mistaken for the opening or closing square bracket around an optional
+argument.  In such circumstances replace the brackets entered from the keyboard
+by versions of this template.
+
+An example of this problem occurred when I entered  8fPIN2A0I8bO1PN0E1PageBreak[ 0,1,2,3 or 4] into the
+``label'' place holder of the 8fPIN2A0I8bOLN0E1Item version of  template 8fPIN2A0I8bO1CN0E1Description when I was listing the
+versions of the  8fPIN2A0I8bO1AN0E1PageBreak template in its associated help file. The contents of the ``label''
+place holder of the 8fPIN2A0I8bOLN0E1Item version of  template 8fPIN2A0I8bO1CN0E1Description are  entered into the optional
+argument  of the 8fPHN2A0V command 8fPIN2A0r8bOIN0E1\8fPIN2A0H8bOLN0E1item.  Thus the  ] after the 4 was taken to be  the
+closing ]  of the optional argument and the printed output was incorrect. 
+
+
+8fPIN2A0!8bO2HN0E1Strut(InvisibleVerticalLine)Help8fPJN2A0?8bO2DN0E1Strut(InvisibleVerticalLine)8bNIN0E28fPHN2A0D
+ The four versions of this template output a vertical line with no width. Thus it can not
+be seen in the output. It can be used, for example, to increase the vertical space around
+some text or expression, or the space between two lines of output. 
+
+The strut can start at the base line (version 1) or start at a  height 8fPIN2A0I8bOJN0E1Y8fPIN2A0«8bOIN0E10 above it
+(version~3).  If 8fPIN2A0I8bOJN0E1Y8fPIN2A0«8bOIN0E10 has a negative value then the strut  begins at a distance |8fPIN2A0I8bOJN0E1Y8fPIN2A0«8bOIN0E10| 
+below the base line.
+
+8fPIN2A0!8bO1AN0E1TitleHelp8fPJN2A0?8bOMN0E1Title8bNIN0E28fPHN2A0D
+ This template can be used to  enter the title page of the document.
+
+The user can either design the layout of the information completely himself or allow
+8fPHN2A0V to do the majority of the work for him.  For the latter, choose either version
+8fPIN2A0I8bO1FN0E1Title 8fPHN2A0y Author or 8fPIN2A0I8bO1LN0E1Title, Author 8fPHN2A0y Date. If the first of these is selected, then the date is
+automatically set to the current date.   When  the name of more than one author must
+be inserted into the place  holder labelled ``author'' then these should be separated by
+version 8fPIN2A0I8bOKN0E1and.  If a footnote is to be added this can be entered into either the  place
+holders labelled ``title'' or ``author'' with the 8fPIN2A0I8bONN0E1thanks version. Multiple lines entered
+into a place holder  are separated from each other  by a newline character. That is,
+enter either 8fPHN2A0u8fPHN2A0u directly from the keyboard  or insert 8fPIN2A0I8bOON0E1newline or 8fPHN2A08O from template
+8fPIN2A0I8bO1AN0E1LineBreak. 
+
+If the user wishes to design the title page himself then version 8fPIN2A0I8bO1FN0E1TitlePage(DIY) should
+be selected. Enter into the place holder all the necessary information and formatting
+commands.
+
+The title information will be placed on a separate page if  either (i) the document class
+option 8fPIN2A0I8bO1AN0E1TitlePage  has been chosen or (ii) it is the default option for the document class
+of the document and 8fPIN2A0I8bO1CN0E1NoTitlePage has not  been chosen. 8fPIN2A0I8bO1AN0E1TitlePage is the default for
+the book and report document classes.
+
+
+8fPIN2A0\8bONN0E18fPJN2A0[8bO7FN0E1Enter the title, the author(s) and date into the appropriate
+place holders. The basic layout is designed by 8fPHN2A0V.8bN1LN0E2Title, Author 8fPHN2A0y Date8fPJN2A0[8bOcBN0E1Enter the title and the author(s) into the place holders. The
+current date will be entered automatically into the title of the  document in the
+output. The basic layout is designed by 8fPHN2A0V.8bN1FN0E2Title 8fPHN2A0y Author8fPJN2A0[8bO6HN0E1This can be used to add a footnote to the title page but should only be used in
+versions 8fPIN2A0I8bO1FN0E1Title 8fPHN2A0y Author or 8fPIN2A0I8bO1LN0E1Title, Author 8fPHN2A0y Date.8bNNN0E2Thanks8fPJN2A0[8bO8FN0E1This should be inserted between the names of authors
+when there is more than one author. To be used only with versions 8fPIN2A0I8bO1FN0E1Title 8fPHN2A0y
+Author or 8fPIN2A0I8bO1LN0E1Title, Author 8fPHN2A0y Date.8bN1MN0E2and (between authors)8fPJN2A0[8bO6GN0E1The user must enter not only the information but also
+instructions on how it should be set out.8bN1HN0E2Title Page (DIY)8fPJN2A0[8bO4LN0E1This can be used to generate the current date when using template
+8fPIN2A0I8bO1FN0E1TitlePage(DIY).8bN1DN0E2Today's Date
+
+
+ 8fPJN2A0?8bOON0E1Example8bNIN0E28fPHN2A0B
+ 8fPIN2A0¤8bOIN0E18fPHN2A04 \\ 8fPIN2A0§8bOIN0E18fPIN2A0K8bO2FN0E1Ergonomic Document Preparation8fPIN2A0^8bOKN0E14mm Roland Backhouse and Richard Verhoeven8fPIN2A0^8bOKN0E14mm February, 1996
+
+8fPIN2A0!8bO1AN0E1TodayHelp8fPJN2A0?8bOMN0E1Today8bNIN0E28fPHN2A0D
+ ``Today's date'' will appear on the screen at the point where this template is inserted
+into the document and the actual date will appear in the output.
+
+8fPIN2A0!8bO1HN0E1TypeInAndOutHelp8fPJN2A0?8bO1BN0E1TypeIn/Out8bNIN0E28fPHN2A0D
+ This template  can be used to cause 8fPHN2A0V to send messages to the terminal and 8fPIN2A0H8bOKN0E1log
+file while it is processing the document. Use the  ``8fPIN2A0I8bO1HN0E1Output 8fPHN2A0» (enter)'' version to  enter
+the text of the message. If you wish only the text of the message to appear on the screen
+change the version to ``8fPIN2A0I8bO1GN0E1Output 8fPHN2A0» (hide)''.
+
+The ``8fPIN2A0I8bO1AN0E1Request 8fPHN2A0»'' versions are used to enter text into the document at the time of 
+processing the document with 8fPHN2A0V. The text can be entered directly into the text at
+the position where the request is made or the text can be stored in a command. In the
+latter case the text will then appear in the document wherever the command has been
+used subsequently in the document. 
+
+8fPIN2A0\8bOMN0E18fPJN2A0[8bO5LN0E1Enter into the place holder the text
+which is to be sent to the terminal and 8fPIN2A0H8bOKN0E1log file.8bN2JN0E2Output message to terminal (enter)8fPJN2A0[8bO6JN0E1This is similar to version   8fPIN2A0I8bO2JN0E1Output message
+to terminal (enter) but only the message appears in the screen version of the
+document.8bN2IN0E2Output message to terminal (hide)8fPJN2A0[8bO1bBN0E1Enter into the place holder the message
+to be sent to the terminal which requests the user to enter a line of text at the
+keyboard.  When the document is processed by 8fPHN2A0V this message will be
+sent to the terminal and and the 8fPIN2A0H8bOKN0E1log file. 8fPHN2A0V will then pause until the
+reply has been entered from the keyboard. The reply  is terminated by pressing
+the 8fPIN2A0H8bOMN0E1enter  key. The reply will be processed as if had been typed directly into
+the document.8bN2KN0E2Request input from keyboard (enter)8fPJN2A0[8bO7EN0E1This version has the same effect as 
+version  ``8fPIN2A0I8bO2KN0E1Request input from keyboard (enter)'' but in this case only the
+message appears  on the screen.8bN2JN0E2Request input from keyboard (hide)8fPJN2A0[8bO2fBN0E1This version has
+two place holders. Enter into the one labelled ``message'' the request to be sent
+to the terminal which asks the user to enter a line of text at the keyboard. (The
+reply is terminated by pressing the 8fPIN2A0H8bOMN0E1enter  key.) Enter into the other place
+holder the name of a command. If the name entered is the name of an existing
+command then its definition is replaced by the text entered from the keyboard.
+Otherwise a new command with this name  is created whose definition is set to
+the text of the reply.  Wherever the command is to be used subsequently, select
+a version  of template 8fPIN2A0I8bO1BN0E1UseCommand and insert the name of the command into
+its place holder.  The text entered from the keyboard will appear at each of
+these places in the printed document.8bN3KN0E2Request def8fPHN2A09Oof a command to be input from keyboard.
+ 8fPIN2A0!8bO1KN0E1UnbreakableTextHelp8fPJN2A0?8bO1GN0E1UnbreakableText8bNIN0E28fPHN2A0D
+  This template is used to prevent 8fPHN2A0V starting a new line in the middle of
+something which should not be split. Insert the item which mustn't be split into the
+place holder. 
+
+For example, suppose a two word name is split by a line break between the two words.
+Replacing this space with the 8fPHN2A0x symbol may have the desired effect but it may cause
+one of the two words to be hyphenated and a line break inserted after the hyphen.  A
+solution is two insert the two words into the place holder of this template.  
+
+8fPIN2A0!8bO1IN0E1UnderlineTextHelp8fPJN2A0?8bO1EN0E1UnderlineText8bNIN0E28fPHN2A0D 
+
+ This template is used to 8fPIN2A0ISe1d5e40A   !2OCUnderlineText1KCLatex2e#UnderlineTextHelpGVe1d5e40B#!HC81J81L8bO81M81H81NPC80J\underline{8bO}Ë8bO1AN0E1underline text.  Set the target to the text to be underlined and
+click on the entry in the stencil.  Do not use this template for underlining
+mathematical formulae.  A template for this purpose is provided in the section of the
+stencil labelled 8fPIN2A0K8bO1CN0E1Mathematics.
+
+8fPIN2A0!8bO1DN0E1VerbatimHelp8fPJN2A0?8bOPN0E1Verbatim8bNIN0E28fPHN2A0D
+  This template generates either the 8fPHN2A0V commands 8fPIN2A0r8bOMN0E1\verb and 8fPIN2A0r8bONN0E1\verb* or  the
+verbatim and verbatim*  environments in the 8fPHN2A0V code output by 8fPHN2A04.
+8fPHN2A0V will output the contents of the argument of  8fPIN2A0r8bOMN0E1\verb commands and the
+contents of verbatim environments in a typewriter font  exactly as they have been
+entered. Thus the 10 special 8fPHN2A0V characters require no special treatment here and
+can be entered directly from the keyboard. 
+
+ The four versions of this template with names starting with ``8fPIN2A0I8bOMN0E1Short'' generate the
+8fPIN2A0r8bOMN0E1\verb command and only  texts not including a new line may be entered into their
+place holders.  The 8fPIN2A0r8bOMN0E1\verb command uses a character to delimit its argument and
+thus this character may not appear in the argument itself. Versions have been made
+which use the ``+'' and ``?'' characters as delimiters. If both of these characters appear
+in your text make another version of this template using a different character. (This
+may 8fPIN2A0Q8bOKN0E1not be a letter, a space or a *.)
+
+The ``Long'' version generates the verbatim environment and the same line breaks
+will occur in the output as appear on the screen.
+
+These versions must be used with care since the output corresponds exactly to the
+contents of the argument or environment in the 8fPIN2A0H8bOKN0E1tex file and not to that in the place
+holder in the 8fPIN2A0H8bOKN0E1mpd file. For example, suppose a symbol has been entered into the place
+holder from the symbol table.  Then the 8fPHN2A0V command corresponding to the
+symbol will appear in the output and not the symbol itself.
+
+Finally there are versions which output 8fPIN2A0¿8fOIN0A1229E for each space.
+
+Note that 8fPIN2A0r8bOMN0E1\verb and 8fPIN2A0r8bONN0E1\verb* commands may not appear in the argument of
+another 8fPHN2A0V command.

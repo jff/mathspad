@@ -1,0 +1,132 @@
+#!/bin/sh
+ecc="echo"
+ecs="\c"
+if [ "`(echo 'test\c';echo 'test') | wc | awk '{print $1}'`" != "1" ]
+then
+  ecc="echo -n"
+  ecs=""
+fi
+if [ "$path" = "" ]
+then
+  path="`echo $PATH | sed -e 's/:/ /g'`"
+fi
+whicharg="rubbish1232"
+for dir in $path
+do
+  if [ -x $dir/mail ]
+  then
+    whicharg="$dir/mail"
+    break
+  fi
+done
+echo "## Version: 0.80" > LogFile
+echo "## Uname: `uname -a`" >> LogFile
+grep '^s%@' config.status >> LogFile
+if [ -f .errors ]
+then
+  cat make.log >> LogFile
+  errtype="`cat .errors`"
+fi
+nrbytes="`wc -c < LogFile`"
+if [ "$nrbytes" -gt "7000" ]
+then
+  echo "## Version: 0.80" > LogFile
+  echo "## Uname: `uname -a`" >> LogFile
+  grep '^s%@' config.status >> LogFile
+  cat make.log | head -200 >> LogFile
+  nrbytes="`wc -c < LogFile`"
+fi
+brk="n"
+trap brk="y" 1 2 3 9 15
+if [ -x "$whicharg" ]
+then
+  cat <<ENDOFMESSAGE
+  Thank you for your interest in MathSpad.  We, the authors, would
+  be very grateful for an email message to help us keep track of the
+  level of interest in the system, the systems it compiles on and any
+  installation problems.  In order to send the message, please respond
+  to the question below.  Note that we do not make use of any personal
+  information in our installation statistics.  
+
+ENDOFMESSAGE
+  if [ -f .errors ]
+  then
+    cat <<ENDOFMESSAGE
+  In this situation there were some $errtype.  If you send the message
+  with these $errtype, we can try to solve the problem before the next
+  release and send you the solution should you wish.
+
+ENDOFMESSAGE
+  fi
+  brk="n"
+  extrames="Stop"
+  while [ "$brk" = "n" ] ; do
+    cat <<ENDOFMESSAGE
+  What would you like to do?
+
+  (1)  View the message first.
+  (2)  Remove any Warnings/Errors.
+  (3)  Add Warnings/Errors.
+  (4)  Edit the message before sending.
+  (5)  Send the message ($nrbytes bytes).
+  (6)  $extrames (without sending a message).
+
+ENDOFMESSAGE
+    $ecc "Your answer (5) ? "$ecs
+    read answer
+    if [ "$brk" = "y" ]; then answer="6"; brk="n"; fi
+    case "$answer" in
+    1) ${PAGER-more} LogFile ;;
+    2) echo "## Version: 0.80" > LogFile
+       echo "## Uname: `uname -a`" >> LogFile
+       grep '^s%@' config.status >> LogFile;
+       if [ -f .errors ]
+       then
+         echo "##"`cat .errors`" removed" >> LogFile;
+       fi
+       nrbytes="`wc -c < LogFile`" ;;
+    3) echo "## Version: 0.80" > LogFile
+       echo "## Uname: `uname -a`" >> LogFile
+       grep '^s%@' config.status >> LogFile;
+       cat make.log >> LogFile; nrbytes="`wc -c < LogFile`" ;;
+    4) ${EDITOR-vi} LogFile; nrbytes="`wc -c < LogFile`" ;;
+    6) if [ "$extrames" = "Stop" ]
+       then
+         cat <<ENDOFEXTRAMESSAGE
+
+  Please reconsider your decision.  It would help us greatly if the message is
+  sent.   After all, the program is freely available and it costs you nothing
+  to send the message.  Moreover, future funding of the project is dependent 
+  on our being able to convince others of the level of interest in the system.
+  For that we need verifiable statistics.  
+  If you don't want to send a message now, it would be helpful if you could
+  send the message on a later occasion, possibly with a short explanation 
+  stating why you were interested and what improvements or changes you would 
+  like to see.
+
+ENDOFEXTRAMESSAGE
+         extrames="Really stop"
+       else
+         brk="y"
+       fi
+       ;;
+    
+    5 | "" )
+       cat LogFile | mail mathpad@win.tue.nl
+       echo "Thank you for allowing me to send a message."
+       trap 1 2 3 9 15
+       exit
+       ;;
+    *) echo "Strange answer. Try again." ;;
+    esac
+  done
+  echo "No message sent."
+else
+  cat << ENDOFMESSAGE
+  It seems that you don't have a 'mail' program, so I can't send
+  a message. If you use another method to send messages, we would
+  be very grateful if you would send (a part of) the file 'LogFile'
+  to mathpad@win.tue.nl.
+ENDOFMESSAGE
+fi
+trap 1 2 3 9 15
