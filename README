@@ -3,25 +3,9 @@ This is the README file for MathSpad 0.80 .
 Installation
 ------------
 
-To install MathSpad, you can run the Install script. It will look
-for a C and C++ compiler, compile the system, check if errors occurred
-and install it. Afterwards (with your consent) an email message is sent to 
-Eindhoven in order to keep track of the level of interested, the systems
-it compiles on and any installation problems.
+To install MathSpad, you can use the usual sequence:
 
-To install the program execute the command:
-
-	./Install
-
-It will install the system in the /usr/local directory if you have the
-permission to do that. Otherwise the system will be installed in the
-current directory. You can specify the full path as an argument if
-you want to use a different location.
-
-If you don't want the message to be sent or you are more familiar
-with the GNU configure scripts, you can use the usual sequence:
-
-	./configure
+	./configure --prefix=DEST_DIR
 	make all
 	make install
 
