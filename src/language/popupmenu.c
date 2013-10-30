@@ -107,9 +107,12 @@ static int popup_line_diff(Uchar *s, Uchar *t)
 {
   if (!s || !t) return 1; 
   while (*s || *t) {
-    if (IsOpCode(*s)) s++;
-    else if (IsOpCode(*t)) t++;
-    else if (*s == *t) {
+    // JFF: If I comment the following, the crash behaviour disappears.
+    // TODO: understand why the check for OpCode is needed here!
+    //if (IsOpCode(*s)) s++;
+    //else if (IsOpCode(*t)) t++;
+    //else if (*s == *t) {
+    if (*s == *t) {
       s++;
       t++;
     } else return 1;
@@ -134,6 +137,7 @@ void popup_add_line(PopupMenu *menu, Uchar *line, Sequence *func)
   if (!menu) { fprintf(stderr,"No menu."); return; }
   pl = popup_find_line(menu, line);
   if (pl) {
+    printf("pl: %p\n",pl);
     if (pl->linetype==PULineFunc) free_sequence(pl->line.func);
     free(pl->string);
   } else {
